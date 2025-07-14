@@ -2,8 +2,8 @@ import streamlit as st
 import json
 import os
 
-st.set_page_config(page_title="⚽ FutStats", layout="wide")
-st.title("⚽ FutStats")
+st.set_page_config(page_title="⚽ Futboard", layout="wide")
+st.title("⚽ Futboard")
 
 # Load Liga MX teams
 with open("data/liga_mx_teams.json", encoding="utf-8") as f:
