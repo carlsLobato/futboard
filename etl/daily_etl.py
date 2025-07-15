@@ -1,54 +1,63 @@
-# etl/daily_etl.py
-import os
+import requests
 import json
+import os
+import re
 
-teams = [
-    {"name": "América", "slug": "america"},
-    {"name": "Atlas", "slug": "atlas"},
-    {"name": "Atlético San Luis", "slug": "atletico_san_luis"},
-    {"name": "Cruz Azul", "slug": "cruz_azul"},
-    {"name": "FC Juárez", "slug": "juarez"},
-    {"name": "Guadalajara", "slug": "guadalajara"},
-    {"name": "León", "slug": "leon"},
-    {"name": "Mazatlán", "slug": "mazatlan"},
-    {"name": "Monterrey", "slug": "monterrey"},
-    {"name": "Necaxa", "slug": "necaxa"},
-    {"name": "Pachuca", "slug": "pachuca"},
-    {"name": "Puebla", "slug": "puebla"},
-    {"name": "Pumas UNAM", "slug": "pumas_unam"},
-    {"name": "Querétaro", "slug": "queretaro"},
-    {"name": "Santos Laguna", "slug": "santos_laguna"},
-    {"name": "Tigres UANL", "slug": "tigres_uanl"},
-    {"name": "Toluca", "slug": "toluca"},
-    {"name": "Tijuana", "slug": "tijuana"}
-]
+API_KEY = "123"  # Replace with your actual API key if needed
+LEAGUE_TEAMS_URL = f"https://www.thesportsdb.com/api/v1/json/{API_KEY}/search_all_teams.php?l=Mexican_Primera_League"
 
-os.makedirs("../data/teams/liga_mx", exist_ok=True)
+DATA_DIR = "data/teams/liga_mx"
+os.makedirs(DATA_DIR, exist_ok=True)
 
-summary = []
-for team in teams:
-    slug = team["slug"]
-    icon = f"assets/icons/{slug}.png"
-    summary.append({
-        "name": team["name"],
-        "slug": slug,
-        "icon": icon
-    })
 
-    detail = {
-        "name": team["name"],
-        "slug": slug,
-        "icon": icon,
-        "description": f"{team['name']} is a Liga MX team.",
-        "schedules": [],
-        "players": [],
-        "stats": {}
-    }
+def slugify(name):
+    return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
-    with open(f"../data/teams/liga_mx/{slug}_detail.json", "w", encoding="utf-8") as f:
-        json.dump(detail, f, indent=2, ensure_ascii=False)
 
-with open("../data/liga_mx_teams.json", "w", encoding="utf-8") as f:
-    json.dump(summary, f, indent=2, ensure_ascii=False)
+def fetch_liga_mx_teams():
+    print("🔄 Fetching Liga MX teams...")
+    response = requests.get(LEAGUE_TEAMS_URL)
 
-print("✅ ETL complete: teams and detail files written.")
+    if response.status_code != 200:
+        print(f"❌ Error fetching league data: {response.status_code}")
+        return
+
+    data = response.json()
+    teams = data.get("teams", [])
+    if not teams:
+        print("⚠️ No teams found for Liga MX.")
+        return
+
+    teams_json = []
+
+    for team in teams:
+        team_name = team.get("strTeam")
+        if not team_name:
+            continue
+
+        slug = slugify(team_name)
+        icon_path = f"assets/icons/{slug}.png"  # Assumes PNGs with slugified names
+
+        # Add summary
+        summary = {
+            "id": team.get("idTeam"),
+            "name": team_name,
+            "slug": slug,
+            "icon": icon_path
+        }
+        teams_json.append(summary)
+
+        # Save full team data
+        detail_path = os.path.join(DATA_DIR, f"{slug}_detail.json")
+        with open(detail_path, "w", encoding="utf-8") as f:
+            json.dump(team, f, indent=2, ensure_ascii=False)
+
+    # Save all team summaries
+    with open("data/liga_mx_teams.json", "w", encoding="utf-8") as f:
+        json.dump(teams_json, f, indent=2, ensure_ascii=False)
+
+    print(f"✅ {len(teams_json)} Liga MX teams saved.")
+
+
+if __name__ == "__main__":
+    fetch_liga_mx_teams()

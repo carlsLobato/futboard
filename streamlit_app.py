@@ -1,9 +1,30 @@
 import streamlit as st
 import json
 import os
+import base64
 
 st.set_page_config(page_title="⚽ Futboard", layout="wide")
 st.title("⚽ Futboard")
+
+# Inject custom CSS for background
+def set_background(image_file):
+    with open(image_file, "rb") as img_file:
+        encoded_string = base64.b64encode(img_file.read()).decode()
+    st.markdown(
+        f"""
+        <style>
+        .stApp {{
+            background-image: url("data:image/png;base64,{encoded_string}");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+set_background("assets/bg.png")  # ✅ adjust the path if needed
 
 # Load Liga MX teams
 with open("data/liga_mx_teams.json", encoding="utf-8") as f:
