@@ -154,6 +154,10 @@ if "selected_team" in st.session_state:
                 hist_df,
                 x='date',
                 y=['goals_for', 'goals_against'],
+                color_discrete_map={
+                    "goals_for": "blue",
+                    "goals_against": "red"
+                },
                 labels={
                     'value': 'Goles',
                     'variable': 'Tipo',
