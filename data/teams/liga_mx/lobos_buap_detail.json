@@ -1,8 +1,5 @@
 {
   "name": "Lobos BUAP",
-  "stats": {
-    "games_played": 68
-  },
   "last_match": {
     "vs": "Toluca",
     "date": "2019-05-05",
@@ -10,5 +7,45 @@
     "home": false,
     "score": "4 - 0",
     "result": "L"
-  }
+  },
+  "record": {
+    "total": {
+      "games_played": 68,
+      "wins": 20,
+      "draws": 11,
+      "losses": 37,
+      "goals_for": 82,
+      "goals_against": 123,
+      "goal_difference": -41,
+      "win_rate": 29.41
+    },
+    "home": {
+      "games_played": 34,
+      "wins": 12,
+      "draws": 6,
+      "losses": 16,
+      "goals_for": 47,
+      "goals_against": 50,
+      "goal_difference": -3,
+      "win_rate": 35.29
+    },
+    "away": {
+      "games_played": 34,
+      "wins": 8,
+      "draws": 5,
+      "losses": 21,
+      "goals_for": 35,
+      "goals_against": 73,
+      "goal_difference": -38,
+      "win_rate": 23.53
+    }
+  },
+  "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+  ],
+  "match_history": []
 }

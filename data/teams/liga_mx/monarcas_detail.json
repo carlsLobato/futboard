@@ -1,8 +1,5 @@
 {
   "name": "Monarcas",
-  "stats": {
-    "games_played": 286
-  },
   "last_match": {
     "vs": "Queretaro",
     "date": "2020-03-13",
@@ -10,5 +7,45 @@
     "home": true,
     "score": "4 - 0",
     "result": "W"
-  }
+  },
+  "record": {
+    "total": {
+      "games_played": 286,
+      "wins": 100,
+      "draws": 78,
+      "losses": 108,
+      "goals_for": 391,
+      "goals_against": 415,
+      "goal_difference": -24,
+      "win_rate": 34.97
+    },
+    "home": {
+      "games_played": 143,
+      "wins": 56,
+      "draws": 38,
+      "losses": 49,
+      "goals_for": 213,
+      "goals_against": 186,
+      "goal_difference": 27,
+      "win_rate": 39.16
+    },
+    "away": {
+      "games_played": 143,
+      "wins": 44,
+      "draws": 40,
+      "losses": 59,
+      "goals_for": 178,
+      "goals_against": 229,
+      "goal_difference": -51,
+      "win_rate": 30.77
+    }
+  },
+  "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "W"
+  ],
+  "match_history": []
 }

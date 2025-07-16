@@ -1,8 +1,5 @@
 {
   "name": "Dorados de Sinaloa",
-  "stats": {
-    "games_played": 34
-  },
   "last_match": {
     "vs": "Club Leon",
     "date": "2016-05-07",
@@ -10,5 +7,45 @@
     "home": true,
     "score": "0 - 1",
     "result": "L"
-  }
+  },
+  "record": {
+    "total": {
+      "games_played": 34,
+      "wins": 7,
+      "draws": 8,
+      "losses": 19,
+      "goals_for": 31,
+      "goals_against": 61,
+      "goal_difference": -30,
+      "win_rate": 20.59
+    },
+    "home": {
+      "games_played": 17,
+      "wins": 6,
+      "draws": 4,
+      "losses": 7,
+      "goals_for": 18,
+      "goals_against": 20,
+      "goal_difference": -2,
+      "win_rate": 35.29
+    },
+    "away": {
+      "games_played": 17,
+      "wins": 1,
+      "draws": 4,
+      "losses": 12,
+      "goals_for": 13,
+      "goals_against": 41,
+      "goal_difference": -28,
+      "win_rate": 5.88
+    }
+  },
+  "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+  ],
+  "match_history": []
 }

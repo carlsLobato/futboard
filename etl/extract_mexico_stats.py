@@ -10,6 +10,37 @@ TEAM_INFO_PATH = '../data/liga_mx_teams.json'
 OUTPUT_DIR = '../data/teams/liga_mx'
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+#Calcular estadísticas
+def compute_stats(matches, team_name):
+    wins, draws, losses = 0, 0, 0
+    goals_for, goals_against = 0, 0
+    for _, row in matches.iterrows():
+        home = row['Home'] == team_name
+        gf = row['HG'] if home else row['AG']
+        ga = row['AG'] if home else row['HG']
+
+        goals_for += gf
+        goals_against += ga
+
+        if gf > ga:
+            wins += 1
+        elif gf == ga:
+            draws += 1
+        else:
+            losses += 1
+
+    total_games = len(matches)
+    return {
+        "games_played": total_games,
+        "wins": wins,
+        "draws": draws,
+        "losses": losses,
+        "goals_for": goals_for,
+        "goals_against": goals_against,
+        "goal_difference": goals_for - goals_against,
+        "win_rate": round((wins / total_games) * 100, 2) if total_games > 0 else 0
+    }
+
 # Slugify básico
 def slugify(name):
     return name.lower().replace('á', 'a').replace('é', 'e').replace('í', 'i')\
@@ -104,16 +135,58 @@ for team in teams:
     else:
         last_match_data = None
 
-    # Estadísticas
-    stats = {
-        "games_played": len(past_matches)
+    # Subsets por condición de local/visitante
+    home_matches = past_matches[past_matches['Home'] == team]
+    away_matches = past_matches[past_matches['Away'] == team]
+
+    # Record general, local y visitante
+    record = {
+        "total": compute_stats(past_matches, team),
+        "home": compute_stats(home_matches, team),
+        "away": compute_stats(away_matches, team)
     }
+
+    # Últimos 5 resultados
+    form = []
+    for _, row in past_matches.tail(5).iterrows():
+        home = row['Home'] == team
+        gf = row['HG'] if home else row['AG']
+        ga = row['AG'] if home else row['HG']
+        if gf > ga:
+            form.append("W")
+        elif gf == ga:
+            form.append("D")
+        else:
+            form.append("L")
+
+    # Agregar historial de últimos 12 meses
+    cutoff_date = pd.Timestamp.now(tz='America/Mexico_City') - pd.Timedelta(days=365)
+    last_year_matches = past_matches[past_matches['Datetime'] >= cutoff_date]
+
+    match_history = []
+    for _, row in last_year_matches.iterrows():
+        is_home = row['Home'] == team
+        goals_for = row['HG'] if is_home else row['AG']
+        goals_against = row['AG'] if is_home else row['HG']
+        result = (
+            'W' if goals_for > goals_against else
+            'L' if goals_for < goals_against else
+            'T'
+        )
+        match_history.append({
+            "date": row['Datetime'].strftime('%Y-%m-%d'),
+            "goals_for": goals_for,
+            "goals_against": goals_against,
+            "result": result
+        })
 
     # Objeto final
     team_data = {
         "name": team_name,
-        "stats": stats,
-        "last_match": last_match_data
+        "last_match": last_match_data,
+        "record": record,
+        "form": form,
+        "match_history": match_history
     }
 
     output_path = os.path.join(OUTPUT_DIR, f"{team_slug}_detail.json")

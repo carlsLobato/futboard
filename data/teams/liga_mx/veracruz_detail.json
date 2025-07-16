@@ -1,8 +1,5 @@
 {
   "name": "Veracruz",
-  "stats": {
-    "games_played": 226
-  },
   "last_match": {
     "vs": "Guadalajara Chivas",
     "date": "2019-11-23",
@@ -10,5 +7,45 @@
     "home": false,
     "score": "3 - 1",
     "result": "L"
-  }
+  },
+  "record": {
+    "total": {
+      "games_played": 226,
+      "wins": 50,
+      "draws": 61,
+      "losses": 115,
+      "goals_for": 212,
+      "goals_against": 378,
+      "goal_difference": -166,
+      "win_rate": 22.12
+    },
+    "home": {
+      "games_played": 113,
+      "wins": 34,
+      "draws": 31,
+      "losses": 48,
+      "goals_for": 126,
+      "goals_against": 160,
+      "goal_difference": -34,
+      "win_rate": 30.09
+    },
+    "away": {
+      "games_played": 113,
+      "wins": 16,
+      "draws": 30,
+      "losses": 67,
+      "goals_for": 86,
+      "goals_against": 218,
+      "goal_difference": -132,
+      "win_rate": 14.16
+    }
+  },
+  "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "L"
+  ],
+  "match_history": []
 }

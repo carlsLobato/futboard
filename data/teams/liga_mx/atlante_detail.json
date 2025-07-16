@@ -1,8 +1,5 @@
 {
   "name": "Atlante",
-  "stats": {
-    "games_played": 68
-  },
   "last_match": {
     "vs": "Chiapas",
     "date": "2014-04-26",
@@ -10,5 +7,45 @@
     "home": false,
     "score": "5 - 2",
     "result": "L"
-  }
+  },
+  "record": {
+    "total": {
+      "games_played": 68,
+      "wins": 17,
+      "draws": 12,
+      "losses": 39,
+      "goals_for": 78,
+      "goals_against": 130,
+      "goal_difference": -52,
+      "win_rate": 25.0
+    },
+    "home": {
+      "games_played": 34,
+      "wins": 10,
+      "draws": 10,
+      "losses": 14,
+      "goals_for": 48,
+      "goals_against": 57,
+      "goal_difference": -9,
+      "win_rate": 29.41
+    },
+    "away": {
+      "games_played": 34,
+      "wins": 7,
+      "draws": 2,
+      "losses": 25,
+      "goals_for": 30,
+      "goals_against": 73,
+      "goal_difference": -43,
+      "win_rate": 20.59
+    }
+  },
+  "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+  ],
+  "match_history": []
 }

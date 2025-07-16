@@ -1,8 +1,5 @@
 {
   "name": "América",
-  "stats": {
-    "games_played": 544
-  },
   "last_match": {
     "vs": "Juarez",
     "date": "2025-07-11",
@@ -10,5 +7,322 @@
     "home": false,
     "score": "1 - 1",
     "result": "T"
-  }
+  },
+  "record": {
+    "total": {
+      "games_played": 544,
+      "wins": 273,
+      "draws": 147,
+      "losses": 124,
+      "goals_for": 887,
+      "goals_against": 569,
+      "goal_difference": 318,
+      "win_rate": 50.18
+    },
+    "home": {
+      "games_played": 271,
+      "wins": 157,
+      "draws": 61,
+      "losses": 53,
+      "goals_for": 479,
+      "goals_against": 254,
+      "goal_difference": 225,
+      "win_rate": 57.93
+    },
+    "away": {
+      "games_played": 273,
+      "wins": 116,
+      "draws": 86,
+      "losses": 71,
+      "goals_for": 408,
+      "goals_against": 315,
+      "goal_difference": 93,
+      "win_rate": 42.49
+    }
+  },
+  "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "D"
+  ],
+  "match_history": [
+    {
+      "date": "2024-07-17",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
+    },
+    {
+      "date": "2024-07-20",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-08-24",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
+    },
+    {
+      "date": "2024-08-31",
+      "goals_for": 1,
+      "goals_against": 4,
+      "result": "L"
+    },
+    {
+      "date": "2024-09-14",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-09-17",
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-09-21",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
+    },
+    {
+      "date": "2024-09-29",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
+    },
+    {
+      "date": "2024-10-05",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
+    },
+    {
+      "date": "2024-10-19",
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-10-23",
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "T"
+    },
+    {
+      "date": "2024-10-27",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-01",
+      "goals_for": 5,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-06",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-09",
+      "goals_for": 0,
+      "goals_against": 4,
+      "result": "L"
+    },
+    {
+      "date": "2024-11-21",
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "T"
+    },
+    {
+      "date": "2024-11-27",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-30",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-05",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
+    },
+    {
+      "date": "2024-12-08",
+      "goals_for": 4,
+      "goals_against": 3,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-12",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-15",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
+    },
+    {
+      "date": "2025-01-10",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-16",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
+    },
+    {
+      "date": "2025-01-25",
+      "goals_for": 4,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-28",
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-01",
+      "goals_for": 4,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-07",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-14",
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L"
+    },
+    {
+      "date": "2025-02-19",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
+    },
+    {
+      "date": "2025-02-22",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-01",
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-08",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
+    },
+    {
+      "date": "2025-03-15",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-29",
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-04-05",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
+    },
+    {
+      "date": "2025-04-12",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
+    },
+    {
+      "date": "2025-04-16",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
+    },
+    {
+      "date": "2025-04-19",
+      "goals_for": 5,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-05-07",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
+    },
+    {
+      "date": "2025-05-10",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-05-15",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
+    },
+    {
+      "date": "2025-05-18",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-05-22",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
+    },
+    {
+      "date": "2025-05-25",
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L"
+    },
+    {
+      "date": "2025-07-11",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
+    }
+  ]
 }

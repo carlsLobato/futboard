@@ -1,8 +1,5 @@
 {
   "name": "Chiapas",
-  "stats": {
-    "games_played": 174
-  },
   "last_match": {
     "vs": "Atlas",
     "date": "2017-05-06",
@@ -10,5 +7,45 @@
     "home": false,
     "score": "0 - 1",
     "result": "W"
-  }
+  },
+  "record": {
+    "total": {
+      "games_played": 174,
+      "wins": 52,
+      "draws": 50,
+      "losses": 72,
+      "goals_for": 215,
+      "goals_against": 277,
+      "goal_difference": -62,
+      "win_rate": 29.89
+    },
+    "home": {
+      "games_played": 87,
+      "wins": 37,
+      "draws": 26,
+      "losses": 24,
+      "goals_for": 126,
+      "goals_against": 117,
+      "goal_difference": 9,
+      "win_rate": 42.53
+    },
+    "away": {
+      "games_played": 87,
+      "wins": 15,
+      "draws": 24,
+      "losses": 48,
+      "goals_for": 89,
+      "goals_against": 160,
+      "goal_difference": -71,
+      "win_rate": 17.24
+    }
+  },
+  "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "W"
+  ],
+  "match_history": []
 }

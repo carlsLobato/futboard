@@ -1,8 +1,5 @@
 {
   "name": "Monterrey",
-  "stats": {
-    "games_played": 508
-  },
   "last_match": {
     "vs": "Pachuca",
     "date": "2025-07-13",
@@ -10,5 +7,304 @@
     "home": false,
     "score": "3 - 0",
     "result": "L"
-  }
+  },
+  "record": {
+    "total": {
+      "games_played": 508,
+      "wins": 227,
+      "draws": 133,
+      "losses": 148,
+      "goals_for": 780,
+      "goals_against": 593,
+      "goal_difference": 187,
+      "win_rate": 44.69
+    },
+    "home": {
+      "games_played": 255,
+      "wins": 140,
+      "draws": 72,
+      "losses": 43,
+      "goals_for": 451,
+      "goals_against": 249,
+      "goal_difference": 202,
+      "win_rate": 54.9
+    },
+    "away": {
+      "games_played": 253,
+      "wins": 87,
+      "draws": 61,
+      "losses": 105,
+      "goals_for": 329,
+      "goals_against": 344,
+      "goal_difference": -15,
+      "win_rate": 34.39
+    }
+  },
+  "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "L"
+  ],
+  "match_history": [
+    {
+      "date": "2024-07-17",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-07-20",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-08-16",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-08-23",
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "T"
+    },
+    {
+      "date": "2024-08-31",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
+    },
+    {
+      "date": "2024-09-14",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-09-18",
+      "goals_for": 3,
+      "goals_against": 2,
+      "result": "W"
+    },
+    {
+      "date": "2024-09-21",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
+    },
+    {
+      "date": "2024-09-28",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
+    },
+    {
+      "date": "2024-10-05",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
+    },
+    {
+      "date": "2024-10-19",
+      "goals_for": 4,
+      "goals_against": 2,
+      "result": "W"
+    },
+    {
+      "date": "2024-10-23",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
+    },
+    {
+      "date": "2024-10-27",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
+    },
+    {
+      "date": "2024-11-02",
+      "goals_for": 4,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-10",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-28",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-01",
+      "goals_for": 5,
+      "goals_against": 3,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-04",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
+    },
+    {
+      "date": "2024-12-07",
+      "goals_for": 5,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-12",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
+    },
+    {
+      "date": "2024-12-15",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
+    },
+    {
+      "date": "2025-01-12",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
+    },
+    {
+      "date": "2025-01-18",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
+    },
+    {
+      "date": "2025-01-25",
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L"
+    },
+    {
+      "date": "2025-01-29",
+      "goals_for": 3,
+      "goals_against": 3,
+      "result": "T"
+    },
+    {
+      "date": "2025-02-01",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-08",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
+    },
+    {
+      "date": "2025-02-16",
+      "goals_for": 4,
+      "goals_against": 2,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-22",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-25",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
+    },
+    {
+      "date": "2025-03-02",
+      "goals_for": 4,
+      "goals_against": 2,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-08",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
+    },
+    {
+      "date": "2025-03-16",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-29",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
+    },
+    {
+      "date": "2025-04-05",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-04-12",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
+    },
+    {
+      "date": "2025-04-16",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-04-20",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-04-27",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
+    },
+    {
+      "date": "2025-05-04",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-05-07",
+      "goals_for": 3,
+      "goals_against": 2,
+      "result": "W"
+    },
+    {
+      "date": "2025-05-10",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
+    },
+    {
+      "date": "2025-07-13",
+      "goals_for": 0,
+      "goals_against": 3,
+      "result": "L"
+    }
+  ]
 }
