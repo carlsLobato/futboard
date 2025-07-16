@@ -1,0 +1,14 @@
+{
+  "name": "Mazatlán",
+  "stats": {
+    "games_played": 173
+  },
+  "last_match": {
+    "vs": "Cruz Azul",
+    "date": "2025-07-12",
+    "time": "22:05",
+    "home": false,
+    "score": "0 - 0",
+    "result": "T"
+  }
+}

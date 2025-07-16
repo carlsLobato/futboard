@@ -1,0 +1,14 @@
+{
+  "name": "Cruz Azul",
+  "stats": {
+    "games_played": 491
+  },
+  "last_match": {
+    "vs": "Mazatlan FC",
+    "date": "2025-07-12",
+    "time": "22:05",
+    "home": true,
+    "score": "0 - 0",
+    "result": "T"
+  }
+}

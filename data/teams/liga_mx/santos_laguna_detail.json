@@ -1,0 +1,14 @@
+{
+  "name": "Santos Laguna",
+  "stats": {
+    "games_played": 487
+  },
+  "last_match": {
+    "vs": "UNAM Pumas",
+    "date": "2025-07-12",
+    "time": "20:00",
+    "home": true,
+    "score": "3 - 0",
+    "result": "W"
+  }
+}

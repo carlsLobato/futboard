@@ -1,0 +1,14 @@
+{
+  "name": "Monarcas",
+  "stats": {
+    "games_played": 286
+  },
+  "last_match": {
+    "vs": "Queretaro",
+    "date": "2020-03-13",
+    "time": "21:00",
+    "home": true,
+    "score": "4 - 0",
+    "result": "W"
+  }
+}

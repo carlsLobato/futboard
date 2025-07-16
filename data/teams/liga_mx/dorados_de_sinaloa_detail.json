@@ -1,0 +1,14 @@
+{
+  "name": "Dorados de Sinaloa",
+  "stats": {
+    "games_played": 34
+  },
+  "last_match": {
+    "vs": "Club Leon",
+    "date": "2016-05-07",
+    "time": "22:00",
+    "home": true,
+    "score": "0 - 1",
+    "result": "L"
+  }
+}

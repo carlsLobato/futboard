@@ -1,0 +1,14 @@
+{
+  "name": "Atlante",
+  "stats": {
+    "games_played": 68
+  },
+  "last_match": {
+    "vs": "Chiapas",
+    "date": "2014-04-26",
+    "time": "22:00",
+    "home": false,
+    "score": "5 - 2",
+    "result": "L"
+  }
+}

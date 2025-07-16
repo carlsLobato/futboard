@@ -1,0 +1,14 @@
+{
+  "name": "Guadalajara",
+  "stats": {
+    "games_played": 476
+  },
+  "last_match": {
+    "vs": "Atlas",
+    "date": "2025-04-19",
+    "time": "22:15",
+    "home": false,
+    "score": "1 - 1",
+    "result": "T"
+  }
+}

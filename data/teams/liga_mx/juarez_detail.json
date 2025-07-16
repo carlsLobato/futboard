@@ -1,0 +1,14 @@
+{
+  "name": "Juarez",
+  "stats": {
+    "games_played": 201
+  },
+  "last_match": {
+    "vs": "Club America",
+    "date": "2025-07-11",
+    "time": "22:00",
+    "home": true,
+    "score": "1 - 1",
+    "result": "T"
+  }
+}

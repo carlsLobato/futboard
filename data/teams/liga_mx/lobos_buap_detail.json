@@ -1,0 +1,14 @@
+{
+  "name": "Lobos BUAP",
+  "stats": {
+    "games_played": 68
+  },
+  "last_match": {
+    "vs": "Toluca",
+    "date": "2019-05-05",
+    "time": "13:00",
+    "home": false,
+    "score": "4 - 0",
+    "result": "L"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Chiapas",
+  "stats": {
+    "games_played": 174
+  },
+  "last_match": {
+    "vs": "Atlas",
+    "date": "2017-05-06",
+    "time": "22:00",
+    "home": false,
+    "score": "0 - 1",
+    "result": "W"
+  }
+}

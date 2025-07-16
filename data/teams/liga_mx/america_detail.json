@@ -1,0 +1,14 @@
+{
+  "name": "América",
+  "stats": {
+    "games_played": 544
+  },
+  "last_match": {
+    "vs": "Juarez",
+    "date": "2025-07-11",
+    "time": "22:00",
+    "home": false,
+    "score": "1 - 1",
+    "result": "T"
+  }
+}

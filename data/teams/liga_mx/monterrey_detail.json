@@ -1,0 +1,14 @@
+{
+  "name": "Monterrey",
+  "stats": {
+    "games_played": 508
+  },
+  "last_match": {
+    "vs": "Pachuca",
+    "date": "2025-07-13",
+    "time": "18:00",
+    "home": false,
+    "score": "3 - 0",
+    "result": "L"
+  }
+}

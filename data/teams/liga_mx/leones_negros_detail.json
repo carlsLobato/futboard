@@ -1,0 +1,14 @@
+{
+  "name": "Leones Negros",
+  "stats": {
+    "games_played": 34
+  },
+  "last_match": {
+    "vs": "Cruz Azul",
+    "date": "2015-05-09",
+    "time": "21:30",
+    "home": false,
+    "score": "0 - 2",
+    "result": "W"
+  }
+}

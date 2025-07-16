@@ -1,0 +1,14 @@
+{
+  "name": "Tijuana",
+  "stats": {
+    "games_played": 461
+  },
+  "last_match": {
+    "vs": "Queretaro",
+    "date": "2025-07-11",
+    "time": "22:05",
+    "home": true,
+    "score": "1 - 0",
+    "result": "W"
+  }
+}

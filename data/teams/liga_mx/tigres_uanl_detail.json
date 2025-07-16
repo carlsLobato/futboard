@@ -1,0 +1,14 @@
+{
+  "name": "Tigres UANL",
+  "stats": {
+    "games_played": 522
+  },
+  "last_match": {
+    "vs": "Toluca",
+    "date": "2025-05-17",
+    "time": "20:00",
+    "home": false,
+    "score": "3 - 0",
+    "result": "L"
+  }
+}

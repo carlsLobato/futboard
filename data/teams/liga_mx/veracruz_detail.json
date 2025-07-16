@@ -1,0 +1,14 @@
+{
+  "name": "Veracruz",
+  "stats": {
+    "games_played": 226
+  },
+  "last_match": {
+    "vs": "Guadalajara Chivas",
+    "date": "2019-11-23",
+    "time": "21:00",
+    "home": false,
+    "score": "3 - 1",
+    "result": "L"
+  }
+}
