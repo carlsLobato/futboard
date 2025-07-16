@@ -90,9 +90,9 @@ if "selected_team" in st.session_state:
 
             # Mostrar resultado con emoji
             result_emoji = {
-                'W': '🟢 Victoria',
-                'T': '⚪️ Empate',
-                'L': '🔴 Derrota'
+                'W': '🥳🎉 Victoria',
+                'T': '😒🤝🏼🥴 Empate',
+                'L': '😭😡 Derrota'
             }.get(last.get("result"), "❓ Resultado desconocido")
 
             st.markdown(f"- Marcador: {last['score']} {result_emoji}")
@@ -100,7 +100,7 @@ if "selected_team" in st.session_state:
         form = detail.get("form", [])
         if form:
             st.subheader("📈 Últimos 5 partidos")
-            emoji_map = {"W": "🟩", "D": "🟨", "L": "🟥"}
+            emoji_map = {"W": "🟩", "D": "⬜", "L": "🟥"}
             form_display = " ".join([emoji_map.get(r, r) for r in form])
             st.markdown(f"{form_display}  \n`{' '.join(form)}`")
 
@@ -111,7 +111,7 @@ if "selected_team" in st.session_state:
         st.subheader("📊 Estadísticas Generales (desde Apertura 2012)")
         st.markdown(f"- Partidos jugados: **{total.get('games_played', 0)}**")
         st.markdown(f"- Victorias: 🟩 **{total.get('wins', 0)}**")
-        st.markdown(f"- Empates: 🟨 **{total.get('draws', 0)}**")
+        st.markdown(f"- Empates: ⬜ **{total.get('draws', 0)}**")
         st.markdown(f"- Derrotas: 🟥 **{total.get('losses', 0)}**")
         # Datos base
         labels = ['Victorias', 'Empates', 'Derrotas']
@@ -129,7 +129,7 @@ if "selected_team" in st.session_state:
             color=labels,
             color_discrete_map={
                 'Victorias': 'green',
-                'Empates': 'gold',
+                'Empates': 'gray',
                 'Derrotas': 'red'
             },
             hole=0.3  # Donut style (opcional)
@@ -213,7 +213,7 @@ if "selected_team" in st.session_state:
             color="Tipo",
             barmode="group",
             title="⚽ Goles a Favor y en Contra",
-            color_discrete_map={"GF": "blue", "GA": "orange"}
+            color_discrete_map={"GF": "blue", "GA": "red"}
         )
         st.plotly_chart(fig_goals, use_container_width=True)
 
@@ -225,7 +225,7 @@ if "selected_team" in st.session_state:
             title="✅ Porcentaje de Victorias",
             text="%W",
             labels={"%W": "Porcentaje de Victorias"},
-            color_discrete_sequence=["green", "blue"]
+            color_discrete_sequence=["gold", "silver"]
         )
         fig_winrate.update_traces(texttemplate='%{text:.1f}%', textposition='outside')
         fig_winrate.update_layout(yaxis=dict(range=[0, 100]))
