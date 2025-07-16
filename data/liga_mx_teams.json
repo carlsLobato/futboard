@@ -1,0 +1,92 @@
+[
+  {
+    "name": "América",
+    "slug": "america",
+    "icon": "assets/icons/america.png"
+  },
+  {
+    "name": "Atlas",
+    "slug": "atlas",
+    "icon": "assets/icons/atlas.png"
+  },
+  {
+    "name": "Atlético San Luis",
+    "slug": "atletico_san_luis",
+    "icon": "assets/icons/atletico_san_luis.png"
+  },
+  {
+    "name": "Cruz Azul",
+    "slug": "cruz_azul",
+    "icon": "assets/icons/cruz_azul.png"
+  },
+  {
+    "name": "FC Juárez",
+    "slug": "juarez",
+    "icon": "assets/icons/juarez.png"
+  },
+  {
+    "name": "Guadalajara",
+    "slug": "guadalajara",
+    "icon": "assets/icons/guadalajara.png"
+  },
+  {
+    "name": "León",
+    "slug": "leon",
+    "icon": "assets/icons/leon.png"
+  },
+  {
+    "name": "Mazatlán",
+    "slug": "mazatlan",
+    "icon": "assets/icons/mazatlan.png"
+  },
+  {
+    "name": "Monterrey",
+    "slug": "monterrey",
+    "icon": "assets/icons/monterrey.png"
+  },
+  {
+    "name": "Necaxa",
+    "slug": "necaxa",
+    "icon": "assets/icons/necaxa.png"
+  },
+  {
+    "name": "Pachuca",
+    "slug": "pachuca",
+    "icon": "assets/icons/pachuca.png"
+  },
+  {
+    "name": "Puebla",
+    "slug": "puebla",
+    "icon": "assets/icons/puebla.png"
+  },
+  {
+    "name": "Pumas UNAM",
+    "slug": "pumas_unam",
+    "icon": "assets/icons/pumas_unam.png"
+  },
+  {
+    "name": "Querétaro",
+    "slug": "queretaro",
+    "icon": "assets/icons/queretaro.png"
+  },
+  {
+    "name": "Santos Laguna",
+    "slug": "santos_laguna",
+    "icon": "assets/icons/santos_laguna.png"
+  },
+  {
+    "name": "Tigres UANL",
+    "slug": "tigres_uanl",
+    "icon": "assets/icons/tigres_uanl.png"
+  },
+  {
+    "name": "Toluca",
+    "slug": "toluca",
+    "icon": "assets/icons/toluca.png"
+  },
+  {
+    "name": "Tijuana",
+    "slug": "tijuana",
+    "icon": "assets/icons/tijuana.png"
+  }
+]
