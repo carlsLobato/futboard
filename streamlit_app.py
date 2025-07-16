@@ -58,16 +58,16 @@ filtered_teams = [
     if search_query.lower() in team["name"].lower()
 ]
 
-st.subheader("Liga MX Teams")
+with st.expander("Liga MX", icon="🛡️"):
 
 # Display filtered teams in rows of 6
-for i in range(0, len(filtered_teams), 6):
-    cols = st.columns(6)
-    for j, team in enumerate(filtered_teams[i:i+6]):
-        with cols[j]:
-            st.image(team["icon"], width=60)
-            if st.button(team["name"], key=team["slug"]):
-                st.session_state.selected_team = team["slug"]
+    for i in range(0, len(filtered_teams), 6):
+        cols = st.columns(6)
+        for j, team in enumerate(filtered_teams[i:i+6]):
+            with cols[j]:
+                st.image(team["icon"], width=60)
+                if st.button(team["name"], key=team["slug"]):
+                    st.session_state.selected_team = team["slug"]
 
 # Show team details
 if "selected_team" in st.session_state:
