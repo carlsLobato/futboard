@@ -4,6 +4,7 @@ import os
 import base64
 import pandas as pd
 import plotly.express as px
+from streamlit import column_config
 
 st.set_page_config(page_title="⚽ Futboard", layout="wide")
 st.title("⚽ Futboard")
@@ -81,6 +82,13 @@ if "selected_team" in st.session_state:
         st.header(detail["name"])
 
         # Último partido
+        form = detail.get("form", [])
+        if form:
+            st.subheader("📈 Últimos 5 partidos")
+            emoji_map = {"W": "🟩", "D": "⬜", "L": "🟥"}
+            form_display = " ".join([emoji_map.get(r, r) for r in form])
+            st.markdown(f"{form_display}  \n`{' '.join(form)}`")
+
         last = detail.get("last_match")
         if last:
             st.subheader("⏪ Último partido")
@@ -97,12 +105,55 @@ if "selected_team" in st.session_state:
 
             st.markdown(f"- Marcador: {last['score']} {result_emoji}")
 
-        form = detail.get("form", [])
-        if form:
-            st.subheader("📈 Últimos 5 partidos")
-            emoji_map = {"W": "🟩", "D": "⬜", "L": "🟥"}
-            form_display = " ".join([emoji_map.get(r, r) for r in form])
-            st.markdown(f"{form_display}  \n`{' '.join(form)}`")
+        #Apuestas
+        st.subheader("🎯 Cuotas y predicción del mercado")
+        betting = detail.get("last_match_betting")
+        if betting:
+            prob_home = betting['prob_home']
+            prob_draw = betting['prob_draw']
+            prob_away = betting['prob_away']
+
+            st.markdown("**Probabilidades implícitas del mercado (Pinnacle):**")
+            st.markdown(f"- 🏠 Local: **{prob_home:.1f}%**")
+            st.markdown(f"- 🤝 Empate: **{prob_draw:.1f}%**")
+            st.markdown(f"- 🚗 Visitante: **{prob_away:.1f}%**")
+
+            st.markdown("**Comparativa de cuotas**")
+            bet_df = {
+                "Ganador": ["Local", "Empate", "Visitante"],
+                "Máximas": [betting['max_home'], betting['max_draw'], betting['max_away']],
+                "Promedio": [betting['avg_home'], betting['avg_draw'], betting['avg_away']],
+                "Betfair": [betting['bfe_home'], betting['bfe_draw'], betting['bfe_away']]
+            }
+            st.dataframe(
+                bet_df,
+                hide_index=True,
+                column_config={
+                    "Máximas": st.column_config.ProgressColumn(
+                        "Cuotas máximas",
+                        help="Las cuotas máximas ofrecidas por alguna casa de apuestas",
+                        format="%f",
+                        min_value=0,
+                        max_value=10,
+                    ),
+                    "Promedio": st.column_config.ProgressColumn(
+                        "Cuotas promedio",
+                        help="Las cuotas promedio ofrecidas por las casas de apuestas",
+                        format="%f",
+                        min_value=0,
+                        max_value=10,
+                    ),
+                    "Betfair": st.column_config.ProgressColumn(
+                        "Cuotas Betfair",
+                        help="Las cuotas ofrecidas por Betfair",
+                        format="%f",
+                        min_value=0,
+                        max_value=10,
+                    ),
+                },
+            )
+        else:
+            st.markdown("⚠️ No se encontraron datos de cuotas para este partido.")
 
         #Historial
         record = detail.get("record", {})

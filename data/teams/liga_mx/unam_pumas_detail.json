@@ -270,5 +270,19 @@
       "goals_against": 3,
       "result": "L"
     }
-  ]
+  ],
+  "last_match_betting": {
+    "prob_home": 33.833489388264674,
+    "prob_draw": 29.233770287141077,
+    "prob_away": 36.932740324594256,
+    "max_home": 2.88,
+    "max_draw": 3.4,
+    "max_away": 2.63,
+    "avg_home": 2.68,
+    "avg_draw": 3.23,
+    "avg_away": 2.49,
+    "bfe_home": 2.92,
+    "bfe_draw": 3.45,
+    "bfe_away": 2.62
+  }
 }

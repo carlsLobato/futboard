@@ -63,7 +63,8 @@ df = pd.read_csv(CSV_PATH)
 df.columns = [col.strip() for col in df.columns]
 
 # Columnas relevantes
-columns_needed = ['Home', 'Away', 'Date', 'Time', 'HG', 'AG', 'Res']
+columns_needed = ['Home', 'Away', 'Date', 'Time', 'HG', 'AG', 'Res', 'PSCH', 'PSCD', 'PSCA',
+                  'MaxCH', 'MaxCD', 'MaxCA', 'AvgCH', 'AvgCD', 'AvgCA', 'BFECH', 'BFECD', 'BFECA']
 df = df[columns_needed]
 df = df.dropna(subset=['Home', 'Away'])
 
@@ -135,6 +136,36 @@ for team in teams:
     else:
         last_match_data = None
 
+    if last_match is not None:
+        try:
+            PSCH = float(last_match['PSCH'])
+            PSCD = float(last_match['PSCD'])
+            PSCA = float(last_match['PSCA'])
+
+            prob_home = 100 / PSCH
+            prob_draw = 100 / PSCD
+            prob_away = 100 / PSCA
+            total = prob_home + prob_draw + prob_away
+
+            last_match_betting = {
+                "prob_home": prob_home / total * 100,
+                "prob_draw": prob_draw / total * 100,
+                "prob_away": prob_away / total * 100,
+                "max_home": float(last_match['MaxCH']),
+                "max_draw": float(last_match['MaxCD']),
+                "max_away": float(last_match['MaxCA']),
+                "avg_home": float(last_match['AvgCH']),
+                "avg_draw": float(last_match['AvgCD']),
+                "avg_away": float(last_match['AvgCA']),
+                "bfe_home": float(last_match['BFECH']),
+                "bfe_draw": float(last_match['BFECD']),
+                "bfe_away": float(last_match['BFECA']),
+            }
+        except:
+            last_match_betting = None
+    else:
+        last_match_betting = None
+
     # Subsets por condición de local/visitante
     home_matches = past_matches[past_matches['Home'] == team]
     away_matches = past_matches[past_matches['Away'] == team]
@@ -186,7 +217,8 @@ for team in teams:
         "last_match": last_match_data,
         "record": record,
         "form": form,
-        "match_history": match_history
+        "match_history": match_history,
+        "last_match_betting": last_match_betting
     }
 
     output_path = os.path.join(OUTPUT_DIR, f"{team_slug}_detail.json")

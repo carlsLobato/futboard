@@ -47,5 +47,19 @@
     "L",
     "L"
   ],
-  "match_history": []
+  "match_history": [],
+  "last_match_betting": {
+    "prob_home": 24.49233237762054,
+    "prob_draw": 25.518189231133437,
+    "prob_away": 49.98947839124602,
+    "max_home": 4.33,
+    "max_draw": 3.9,
+    "max_away": 2.05,
+    "avg_home": 3.69,
+    "avg_draw": 3.52,
+    "avg_away": 1.92,
+    "bfe_home": NaN,
+    "bfe_draw": NaN,
+    "bfe_away": NaN
+  }
 }
