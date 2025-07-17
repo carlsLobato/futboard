@@ -118,7 +118,7 @@ if "selected_team" in st.session_state:
             st.markdown(f"- 🤝 Empate: **{prob_draw:.1f}%**")
             st.markdown(f"- 🚗 Visitante: **{prob_away:.1f}%**")
 
-            st.markdown("**Comparativa de cuotas**")
+            st.markdown("**Comparativa de momios**")
             bet_df = {
                 "Ganador": ["Local", "Empate", "Visitante"],
                 "Máximas": [betting['max_home'], betting['max_draw'], betting['max_away']],
@@ -130,7 +130,7 @@ if "selected_team" in st.session_state:
                 hide_index=True,
                 column_config={
                     "Máximas": st.column_config.ProgressColumn(
-                        "Cuotas máximas",
+                        "Cuotas máximos",
                         help="Las cuotas máximas ofrecidas por alguna casa de apuestas",
                         format="%f",
                         min_value=0,
