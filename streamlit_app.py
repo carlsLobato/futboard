@@ -6,8 +6,8 @@ import pandas as pd
 import plotly.express as px
 from streamlit import column_config
 
-st.set_page_config(page_title="⚽ Futboard", layout="wide")
-st.title("⚽ Futboard")
+st.set_page_config(page_title="⚽ FutBoard", layout="wide")
+st.title("⚽ FutBoard")
 st.markdown(
     """
     <style>
@@ -51,7 +51,7 @@ with open("data/liga_mx_teams.json", encoding="utf-8") as f:
     teams = json.load(f)
 
 # Search bar
-search_query = st.text_input("Search for a team", "")
+search_query = st.text_input("Busca tu equipo", "")
 
 # Filter teams by search query
 filtered_teams = [
@@ -106,7 +106,7 @@ if "selected_team" in st.session_state:
             st.markdown(f"- Marcador: {last['score']} {result_emoji}")
 
         #Apuestas
-        st.subheader("🎯 Cuotas y predicción del mercado")
+        st.subheader("🎯 Mercado de apuestas")
         betting = detail.get("last_match_betting")
         if betting:
             prob_home = betting['prob_home']
@@ -130,25 +130,25 @@ if "selected_team" in st.session_state:
                 hide_index=True,
                 column_config={
                     "Máximas": st.column_config.ProgressColumn(
-                        "Cuotas máximos",
+                        "Cuotas máximas",
                         help="Las cuotas máximas ofrecidas por alguna casa de apuestas",
                         format="%f",
                         min_value=0,
-                        max_value=10,
+                        max_value=15,
                     ),
                     "Promedio": st.column_config.ProgressColumn(
                         "Cuotas promedio",
                         help="Las cuotas promedio ofrecidas por las casas de apuestas",
                         format="%f",
                         min_value=0,
-                        max_value=10,
+                        max_value=15,
                     ),
                     "Betfair": st.column_config.ProgressColumn(
                         "Cuotas Betfair",
                         help="Las cuotas ofrecidas por Betfair",
                         format="%f",
                         min_value=0,
-                        max_value=10,
+                        max_value=15,
                     ),
                 },
             )
