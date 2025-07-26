@@ -26,10 +26,11 @@ jobs:
       - name: Run extract_mexico_stats.py
         run: python etl/extract_mexico_stats.py
 
-      - name: Commit and push changes if needed
+      - name: Push changes
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "⚙️ Update stats from extract_mexico_stats.py"
-          git push
+          git commit -m "⚙️ Update stats from extract_mexico_stats.py" || echo "Nothing to commit"
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/carlsLobato/futboard.git HEAD:main
+
