@@ -1,33 +1,33 @@
 {
   "name": "Necaxa",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2025-07-12",
+    "vs": "Queretaro",
+    "date": "2025-07-18",
     "time": "20:00",
-    "home": false,
+    "home": true,
     "score": "3 - 1",
-    "result": "L"
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 318,
-      "wins": 101,
+      "games_played": 319,
+      "wins": 102,
       "draws": 92,
       "losses": 125,
-      "goals_for": 404,
-      "goals_against": 436,
-      "goal_difference": -32,
-      "win_rate": 31.76
+      "goals_for": 407,
+      "goals_against": 437,
+      "goal_difference": -30,
+      "win_rate": 31.97
     },
     "home": {
-      "games_played": 157,
-      "wins": 56,
+      "games_played": 158,
+      "wins": 57,
       "draws": 51,
       "losses": 50,
-      "goals_for": 212,
-      "goals_against": 199,
-      "goal_difference": 13,
-      "win_rate": 35.67
+      "goals_for": 215,
+      "goals_against": 200,
+      "goal_difference": 15,
+      "win_rate": 36.08
     },
     "away": {
       "games_played": 161,
@@ -41,25 +41,13 @@
     }
   },
   "form": [
-    "D",
     "W",
     "D",
     "D",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
-    {
-      "date": "2024-07-17",
-      "goals_for": 0,
-      "goals_against": 1,
-      "result": "L"
-    },
-    {
-      "date": "2024-07-21",
-      "goals_for": 1,
-      "goals_against": 1,
-      "result": "T"
-    },
     {
       "date": "2024-08-24",
       "goals_for": 3,
@@ -257,20 +245,26 @@
       "goals_for": 1,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2025-07-18",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 62.47925899477011,
-    "prob_draw": 21.24018959204105,
-    "prob_away": 16.280551413188828,
-    "max_home": 1.55,
-    "max_draw": 4.53,
-    "max_away": 6.0,
-    "avg_home": 1.51,
-    "avg_draw": 4.21,
-    "avg_away": 5.39,
-    "bfe_home": 1.57,
-    "bfe_draw": 4.7,
-    "bfe_away": 6.4
+    "prob_home": 54.00220782103877,
+    "prob_draw": 24.65917142848454,
+    "prob_away": 21.33862075047669,
+    "max_home": 1.79,
+    "max_draw": 3.92,
+    "max_away": 4.8,
+    "avg_home": 1.71,
+    "avg_draw": 3.71,
+    "avg_away": 4.34,
+    "bfe_home": 1.82,
+    "bfe_draw": 3.95,
+    "bfe_away": 4.9
   }
 }

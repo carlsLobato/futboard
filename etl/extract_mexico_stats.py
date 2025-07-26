@@ -1,10 +1,10 @@
 import pandas as pd
 import os
 import json
-from datetime import datetime
-import pytz
+import requests
 
 # Rutas
+CSV_URL = 'https://www.football-data.co.uk/new/MEX.csv'
 CSV_PATH = '../data/MEX.csv'
 TEAM_INFO_PATH = '../data/liga_mx_teams.json'
 OUTPUT_DIR = '../data/teams/liga_mx'
@@ -59,6 +59,14 @@ slug_to_official = {
 }
 
 # Cargar CSV
+# Descargar el archivo
+response = requests.get(CSV_URL)
+if response.status_code == 200:
+    with open(CSV_PATH, 'wb') as f:
+        f.write(response.content)
+    print("📥 CSV actualizado correctamente desde football-data.co.uk")
+else:
+    raise Exception(f"❌ Error al descargar el CSV. Código de estado: {response.status_code}")
 df = pd.read_csv(CSV_PATH)
 df.columns = [col.strip() for col in df.columns]
 

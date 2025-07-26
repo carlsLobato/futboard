@@ -1,23 +1,23 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Monterrey",
-    "date": "2025-07-13",
-    "time": "18:00",
-    "home": true,
-    "score": "3 - 0",
+    "vs": "UNAM Pumas",
+    "date": "2025-07-20",
+    "time": "13:00",
+    "home": false,
+    "score": "2 - 3",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 487,
-      "wins": 195,
+      "games_played": 488,
+      "wins": 196,
       "draws": 132,
       "losses": 160,
-      "goals_for": 712,
-      "goals_against": 619,
-      "goal_difference": 93,
-      "win_rate": 40.04
+      "goals_for": 715,
+      "goals_against": 621,
+      "goal_difference": 94,
+      "win_rate": 40.16
     },
     "home": {
       "games_played": 245,
@@ -30,36 +30,24 @@
       "win_rate": 49.8
     },
     "away": {
-      "games_played": 242,
-      "wins": 73,
+      "games_played": 243,
+      "wins": 74,
       "draws": 64,
       "losses": 105,
-      "goals_for": 311,
-      "goals_against": 365,
-      "goal_difference": -54,
-      "win_rate": 30.17
+      "goals_for": 314,
+      "goals_against": 367,
+      "goal_difference": -53,
+      "win_rate": 30.45
     }
   },
   "form": [
-    "L",
     "W",
     "D",
     "L",
+    "W",
     "W"
   ],
   "match_history": [
-    {
-      "date": "2024-07-16",
-      "goals_for": 2,
-      "goals_against": 0,
-      "result": "W"
-    },
-    {
-      "date": "2024-07-21",
-      "goals_for": 0,
-      "goals_against": 2,
-      "result": "L"
-    },
     {
       "date": "2024-08-23",
       "goals_for": 0,
@@ -263,20 +251,26 @@
       "goals_for": 3,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-07-20",
+      "goals_for": 3,
+      "goals_against": 2,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 47.18853130238884,
-    "prob_draw": 25.865371435801364,
-    "prob_away": 26.946097261809786,
-    "max_home": 2.1,
-    "max_draw": 3.74,
-    "max_away": 3.75,
-    "avg_home": 2.02,
-    "avg_draw": 3.41,
-    "avg_away": 3.39,
-    "bfe_home": 2.16,
-    "bfe_draw": 3.65,
-    "bfe_away": 3.6
+    "prob_home": 30.646545120269646,
+    "prob_draw": 29.169603186762682,
+    "prob_away": 40.18385169296767,
+    "max_home": 3.16,
+    "max_draw": 3.4,
+    "max_away": 2.41,
+    "avg_home": 2.94,
+    "avg_draw": 3.24,
+    "avg_away": 2.29,
+    "bfe_home": 3.2,
+    "bfe_draw": 3.35,
+    "bfe_away": 2.52
   }
 }
