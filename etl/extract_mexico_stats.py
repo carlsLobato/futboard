@@ -2,12 +2,15 @@ import pandas as pd
 import os
 import json
 import requests
+from pathlib import Path
 
 # Rutas
+ROOT_DIR = Path(__file__).resolve().parents[1]  # Points to the repo root
+DATA_DIR = ROOT_DIR / "data"
 CSV_URL = 'https://www.football-data.co.uk/new/MEX.csv'
-CSV_PATH = '../data/MEX.csv'
-TEAM_INFO_PATH = '../data/liga_mx_teams.json'
-OUTPUT_DIR = '../data/teams/liga_mx'
+CSV_PATH = DATA_DIR / "MEX.csv"
+TEAM_INFO_PATH = DATA_DIR / "liga_mx_teams.json"
+OUTPUT_DIR = DATA_DIR / "teams/liga_mx"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 #Calcular estadísticas
