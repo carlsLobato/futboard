@@ -1,33 +1,33 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2025-07-20",
-    "time": "13:00",
-    "home": false,
-    "score": "2 - 3",
+    "vs": "Mazatlan FC",
+    "date": "2025-07-26",
+    "time": "18:00",
+    "home": true,
+    "score": "1 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 488,
-      "wins": 196,
+      "games_played": 489,
+      "wins": 197,
       "draws": 132,
       "losses": 160,
-      "goals_for": 715,
+      "goals_for": 716,
       "goals_against": 621,
-      "goal_difference": 94,
-      "win_rate": 40.16
+      "goal_difference": 95,
+      "win_rate": 40.29
     },
     "home": {
-      "games_played": 245,
-      "wins": 122,
+      "games_played": 246,
+      "wins": 123,
       "draws": 68,
       "losses": 55,
-      "goals_for": 401,
+      "goals_for": 402,
       "goals_against": 254,
-      "goal_difference": 147,
-      "win_rate": 49.8
+      "goal_difference": 148,
+      "win_rate": 50.0
     },
     "away": {
       "games_played": 243,
@@ -41,9 +41,9 @@
     }
   },
   "form": [
-    "W",
     "D",
     "L",
+    "W",
     "W",
     "W"
   ],
@@ -257,20 +257,26 @@
       "goals_for": 3,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2025-07-26",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 30.646545120269646,
-    "prob_draw": 29.169603186762682,
-    "prob_away": 40.18385169296767,
-    "max_home": 3.16,
-    "max_draw": 3.4,
-    "max_away": 2.41,
-    "avg_home": 2.94,
-    "avg_draw": 3.24,
-    "avg_away": 2.29,
-    "bfe_home": 3.2,
-    "bfe_draw": 3.35,
-    "bfe_away": 2.52
+    "prob_home": 68.96919233971691,
+    "prob_draw": 19.467110741049126,
+    "prob_away": 11.563696919233973,
+    "max_home": 1.43,
+    "max_draw": 4.96,
+    "max_away": 9.0,
+    "avg_home": 1.37,
+    "avg_draw": 4.58,
+    "avg_away": 7.54,
+    "bfe_home": 1.42,
+    "bfe_draw": 5.1,
+    "bfe_away": 9.6
   }
 }

@@ -1,33 +1,33 @@
 {
   "name": "Puebla",
   "last_match": {
-    "vs": "Mazatlan FC",
-    "date": "2025-07-18",
-    "time": "22:05",
-    "home": false,
-    "score": "2 - 1",
-    "result": "L"
+    "vs": "Santos Laguna",
+    "date": "2025-07-25",
+    "time": "20:00",
+    "home": true,
+    "score": "1 - 0",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 459,
-      "wins": 128,
+      "games_played": 460,
+      "wins": 129,
       "draws": 132,
       "losses": 199,
-      "goals_for": 531,
+      "goals_for": 532,
       "goals_against": 668,
-      "goal_difference": -137,
-      "win_rate": 27.89
+      "goal_difference": -136,
+      "win_rate": 28.04
     },
     "home": {
-      "games_played": 230,
-      "wins": 74,
+      "games_played": 231,
+      "wins": 75,
       "draws": 72,
       "losses": 84,
-      "goals_for": 298,
+      "goals_for": 299,
       "goals_against": 310,
-      "goal_difference": -12,
-      "win_rate": 32.17
+      "goal_difference": -11,
+      "win_rate": 32.47
     },
     "away": {
       "games_played": 229,
@@ -45,7 +45,7 @@
     "L",
     "L",
     "L",
-    "L"
+    "W"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2025-07-25",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 40.86538461538462,
-    "prob_draw": 30.649038461538463,
-    "prob_away": 28.485576923076927,
-    "max_home": 2.37,
-    "max_draw": 3.3,
-    "max_away": 3.45,
-    "avg_home": 2.21,
-    "avg_draw": 3.1,
-    "avg_away": 3.2,
-    "bfe_home": 2.24,
-    "bfe_draw": 3.2,
-    "bfe_away": 3.8
+    "prob_home": 48.320234908023146,
+    "prob_draw": 25.908973141031176,
+    "prob_away": 25.770791950945682,
+    "max_home": 2.0,
+    "max_draw": 3.73,
+    "max_away": 3.8,
+    "avg_home": 1.92,
+    "avg_draw": 3.51,
+    "avg_away": 3.59,
+    "bfe_home": 2.02,
+    "bfe_draw": 3.8,
+    "bfe_away": 4.0
   }
 }
