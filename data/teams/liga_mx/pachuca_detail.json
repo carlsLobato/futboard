@@ -1,23 +1,23 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Mazatlan FC",
-    "date": "2025-07-26",
-    "time": "18:00",
-    "home": true,
-    "score": "1 - 0",
+    "vs": "Atlas",
+    "date": "2025-08-09",
+    "time": "22:05",
+    "home": false,
+    "score": "0 - 3",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 489,
-      "wins": 197,
+      "games_played": 490,
+      "wins": 198,
       "draws": 132,
       "losses": 160,
-      "goals_for": 716,
+      "goals_for": 719,
       "goals_against": 621,
-      "goal_difference": 95,
-      "win_rate": 40.29
+      "goal_difference": 98,
+      "win_rate": 40.41
     },
     "home": {
       "games_played": 246,
@@ -30,19 +30,19 @@
       "win_rate": 50.0
     },
     "away": {
-      "games_played": 243,
-      "wins": 74,
+      "games_played": 244,
+      "wins": 75,
       "draws": 64,
       "losses": 105,
-      "goals_for": 314,
+      "goals_for": 317,
       "goals_against": 367,
-      "goal_difference": -53,
-      "win_rate": 30.45
+      "goal_difference": -50,
+      "win_rate": 30.74
     }
   },
   "form": [
-    "D",
     "L",
+    "W",
     "W",
     "W",
     "W"
@@ -263,20 +263,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-08-09",
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 68.96919233971691,
-    "prob_draw": 19.467110741049126,
-    "prob_away": 11.563696919233973,
-    "max_home": 1.43,
-    "max_draw": 4.96,
-    "max_away": 9.0,
-    "avg_home": 1.37,
-    "avg_draw": 4.58,
-    "avg_away": 7.54,
-    "bfe_home": 1.42,
-    "bfe_draw": 5.1,
-    "bfe_away": 9.6
+    "prob_home": 23.171187474183206,
+    "prob_draw": 25.97415370089891,
+    "prob_away": 50.85465882491788,
+    "max_home": 3.6,
+    "max_draw": 3.6,
+    "max_away": 2.05,
+    "avg_home": 3.41,
+    "avg_draw": 3.49,
+    "avg_away": 1.99,
+    "bfe_home": 3.75,
+    "bfe_draw": 3.65,
+    "bfe_away": 2.16
   }
 }

@@ -1,33 +1,33 @@
 {
   "name": "Tigres UANL",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2025-07-26",
-    "time": "20:00",
-    "home": false,
-    "score": "3 - 4",
+    "vs": "Puebla",
+    "date": "2025-08-08",
+    "time": "22:00",
+    "home": true,
+    "score": "7 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 524,
-      "wins": 239,
+      "games_played": 525,
+      "wins": 240,
       "draws": 160,
       "losses": 125,
-      "goals_for": 768,
+      "goals_for": 775,
       "goals_against": 513,
-      "goal_difference": 255,
-      "win_rate": 45.61
+      "goal_difference": 262,
+      "win_rate": 45.71
     },
     "home": {
-      "games_played": 263,
-      "wins": 141,
+      "games_played": 264,
+      "wins": 142,
       "draws": 80,
       "losses": 42,
-      "goals_for": 452,
+      "goals_for": 459,
       "goals_against": 238,
-      "goal_difference": 214,
-      "win_rate": 53.61
+      "goal_difference": 221,
+      "win_rate": 53.79
     },
     "away": {
       "games_played": 261,
@@ -42,8 +42,8 @@
   },
   "form": [
     "D",
-    "D",
     "L",
+    "W",
     "W",
     "W"
   ],
@@ -275,20 +275,26 @@
       "goals_for": 4,
       "goals_against": 3,
       "result": "W"
+    },
+    {
+      "date": "2025-08-08",
+      "goals_for": 7,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 55.11866602701802,
-    "prob_draw": 26.54440006966874,
-    "prob_away": 18.336933903313234,
-    "max_home": 1.88,
-    "max_draw": 3.65,
-    "max_away": 5.11,
-    "avg_home": 1.79,
-    "avg_draw": 3.53,
-    "avg_away": 4.14,
-    "bfe_home": 1.94,
-    "bfe_draw": 3.7,
-    "bfe_away": 4.5
+    "prob_home": 68.44972835165738,
+    "prob_draw": 19.737038236367464,
+    "prob_away": 11.813233411975142,
+    "max_home": 1.46,
+    "max_draw": 5.25,
+    "max_away": 8.5,
+    "avg_home": 1.41,
+    "avg_draw": 4.65,
+    "avg_away": 6.45,
+    "bfe_home": 1.46,
+    "bfe_draw": 5.0,
+    "bfe_away": 7.8
   }
 }

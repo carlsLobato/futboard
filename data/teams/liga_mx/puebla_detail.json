@@ -1,23 +1,23 @@
 {
   "name": "Puebla",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2025-07-25",
-    "time": "20:00",
-    "home": true,
-    "score": "1 - 0",
-    "result": "W"
+    "vs": "Tigres UANL",
+    "date": "2025-08-08",
+    "time": "22:00",
+    "home": false,
+    "score": "7 - 0",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 460,
+      "games_played": 461,
       "wins": 129,
       "draws": 132,
-      "losses": 199,
+      "losses": 200,
       "goals_for": 532,
-      "goals_against": 668,
-      "goal_difference": -136,
-      "win_rate": 28.04
+      "goals_against": 675,
+      "goal_difference": -143,
+      "win_rate": 27.98
     },
     "home": {
       "games_played": 231,
@@ -30,22 +30,22 @@
       "win_rate": 32.47
     },
     "away": {
-      "games_played": 229,
+      "games_played": 230,
       "wins": 54,
       "draws": 60,
-      "losses": 115,
+      "losses": 116,
       "goals_for": 233,
-      "goals_against": 358,
-      "goal_difference": -125,
-      "win_rate": 23.58
+      "goals_against": 365,
+      "goal_difference": -132,
+      "win_rate": 23.48
     }
   },
   "form": [
     "L",
     "L",
     "L",
-    "L",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-08-08",
+      "goals_for": 0,
+      "goals_against": 7,
+      "result": "L"
     }
   ],
   "last_match_betting": {
-    "prob_home": 48.320234908023146,
-    "prob_draw": 25.908973141031176,
-    "prob_away": 25.770791950945682,
-    "max_home": 2.0,
-    "max_draw": 3.73,
-    "max_away": 3.8,
-    "avg_home": 1.92,
-    "avg_draw": 3.51,
-    "avg_away": 3.59,
-    "bfe_home": 2.02,
-    "bfe_draw": 3.8,
-    "bfe_away": 4.0
+    "prob_home": 68.44972835165738,
+    "prob_draw": 19.737038236367464,
+    "prob_away": 11.813233411975142,
+    "max_home": 1.46,
+    "max_draw": 5.25,
+    "max_away": 8.5,
+    "avg_home": 1.41,
+    "avg_draw": 4.65,
+    "avg_away": 6.45,
+    "bfe_home": 1.46,
+    "bfe_draw": 5.0,
+    "bfe_away": 7.8
   }
 }
