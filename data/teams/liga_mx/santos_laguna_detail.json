@@ -1,23 +1,23 @@
 {
   "name": "Santos Laguna",
   "last_match": {
-    "vs": "Guadalajara Chivas",
-    "date": "2025-08-10",
-    "time": "21:05",
-    "home": true,
-    "score": "1 - 0",
-    "result": "W"
+    "vs": "Cruz Azul",
+    "date": "2025-08-16",
+    "time": "20:00",
+    "home": false,
+    "score": "3 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 490,
+      "games_played": 491,
       "wins": 178,
       "draws": 137,
-      "losses": 175,
-      "goals_for": 704,
-      "goals_against": 694,
-      "goal_difference": 10,
-      "win_rate": 36.33
+      "losses": 176,
+      "goals_for": 706,
+      "goals_against": 697,
+      "goal_difference": 9,
+      "win_rate": 36.25
     },
     "home": {
       "games_played": 247,
@@ -30,30 +30,24 @@
       "win_rate": 50.61
     },
     "away": {
-      "games_played": 243,
+      "games_played": 244,
       "wins": 53,
       "draws": 75,
-      "losses": 115,
-      "goals_for": 287,
-      "goals_against": 397,
-      "goal_difference": -110,
-      "win_rate": 21.81
+      "losses": 116,
+      "goals_for": 289,
+      "goals_against": 400,
+      "goal_difference": -111,
+      "win_rate": 21.72
     }
   },
   "form": [
-    "L",
     "W",
     "L",
     "L",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
-    {
-      "date": "2024-08-18",
-      "goals_for": 1,
-      "goals_against": 3,
-      "result": "L"
-    },
     {
       "date": "2024-08-24",
       "goals_for": 1,
@@ -251,20 +245,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-08-16",
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
-    "prob_home": 19.60754678959168,
-    "prob_draw": 23.087063486065983,
-    "prob_away": 57.30538972434235,
-    "max_home": 5.0,
-    "max_draw": 4.0,
-    "max_away": 1.71,
-    "avg_home": 4.53,
-    "avg_draw": 3.85,
-    "avg_away": 1.66,
-    "bfe_home": 5.5,
-    "bfe_draw": 4.1,
-    "bfe_away": 1.71
+    "prob_home": 78.00033644838128,
+    "prob_draw": 13.627899691975706,
+    "prob_away": 8.371763859643016,
+    "max_home": 1.22,
+    "max_draw": 7.0,
+    "max_away": 13.0,
+    "avg_home": 1.19,
+    "avg_draw": 6.63,
+    "avg_away": 11.5,
+    "bfe_home": 1.24,
+    "bfe_draw": 7.8,
+    "bfe_away": 14.0
   }
 }

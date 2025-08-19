@@ -1,33 +1,33 @@
 {
   "name": "Toluca",
   "last_match": {
-    "vs": "Juarez",
-    "date": "2025-08-11",
-    "time": "22:00",
-    "home": false,
-    "score": "0 - 2",
-    "result": "W"
+    "vs": "UNAM Pumas",
+    "date": "2025-08-16",
+    "time": "22:10",
+    "home": true,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 500,
+      "games_played": 501,
       "wins": 210,
-      "draws": 137,
+      "draws": 138,
       "losses": 153,
-      "goals_for": 763,
-      "goals_against": 637,
+      "goals_for": 764,
+      "goals_against": 638,
       "goal_difference": 126,
-      "win_rate": 42.0
+      "win_rate": 41.92
     },
     "home": {
-      "games_played": 250,
+      "games_played": 251,
       "wins": 135,
-      "draws": 61,
+      "draws": 62,
       "losses": 54,
-      "goals_for": 460,
-      "goals_against": 277,
+      "goals_for": 461,
+      "goals_against": 278,
       "goal_difference": 183,
-      "win_rate": 54.0
+      "win_rate": 53.78
     },
     "away": {
       "games_played": 250,
@@ -43,9 +43,9 @@
   "form": [
     "W",
     "W",
-    "W",
     "L",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -299,20 +299,26 @@
       "goals_for": 2,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-08-16",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": 25.2626838787151,
-    "prob_draw": 25.870609426598616,
-    "prob_away": 48.866706694686286,
-    "max_home": 3.95,
-    "max_draw": 3.7,
-    "max_away": 2.05,
-    "avg_home": 3.54,
-    "avg_draw": 3.56,
-    "avg_away": 1.93,
-    "bfe_home": 3.9,
-    "bfe_draw": 3.7,
-    "bfe_away": 2.06
+    "prob_home": 55.24649460067788,
+    "prob_draw": 24.982265000306533,
+    "prob_away": 19.7712403990156,
+    "max_home": 1.74,
+    "max_draw": 3.8,
+    "max_away": 5.0,
+    "avg_home": 1.7,
+    "avg_draw": 3.64,
+    "avg_away": 4.51,
+    "bfe_home": 1.77,
+    "bfe_draw": 3.95,
+    "bfe_away": 5.3
   }
 }

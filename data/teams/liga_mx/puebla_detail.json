@@ -1,33 +1,33 @@
 {
   "name": "Puebla",
   "last_match": {
-    "vs": "Tigres UANL",
-    "date": "2025-08-08",
-    "time": "22:00",
-    "home": false,
-    "score": "7 - 0",
+    "vs": "Atl. San Luis",
+    "date": "2025-08-15",
+    "time": "20:00",
+    "home": true,
+    "score": "0 - 2",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 461,
+      "games_played": 462,
       "wins": 129,
       "draws": 132,
-      "losses": 200,
+      "losses": 201,
       "goals_for": 532,
-      "goals_against": 675,
-      "goal_difference": -143,
-      "win_rate": 27.98
+      "goals_against": 677,
+      "goal_difference": -145,
+      "win_rate": 27.92
     },
     "home": {
-      "games_played": 231,
+      "games_played": 232,
       "wins": 75,
       "draws": 72,
-      "losses": 84,
+      "losses": 85,
       "goals_for": 299,
-      "goals_against": 310,
-      "goal_difference": -11,
-      "win_rate": 32.47
+      "goals_against": 312,
+      "goal_difference": -13,
+      "win_rate": 32.33
     },
     "away": {
       "games_played": 230,
@@ -43,8 +43,8 @@
   "form": [
     "L",
     "L",
-    "L",
     "W",
+    "L",
     "L"
   ],
   "match_history": [
@@ -245,20 +245,26 @@
       "goals_for": 0,
       "goals_against": 7,
       "result": "L"
+    },
+    {
+      "date": "2025-08-15",
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
-    "prob_home": 68.44972835165738,
-    "prob_draw": 19.737038236367464,
-    "prob_away": 11.813233411975142,
-    "max_home": 1.46,
-    "max_draw": 5.25,
-    "max_away": 8.5,
-    "avg_home": 1.41,
-    "avg_draw": 4.65,
-    "avg_away": 6.45,
-    "bfe_home": 1.46,
-    "bfe_draw": 5.0,
-    "bfe_away": 7.8
+    "prob_home": 41.3620152844608,
+    "prob_draw": 27.111236909142374,
+    "prob_away": 31.52674780639683,
+    "max_home": 2.45,
+    "max_draw": 3.55,
+    "max_away": 2.96,
+    "avg_home": 2.33,
+    "avg_draw": 3.38,
+    "avg_away": 2.8,
+    "bfe_home": 2.56,
+    "bfe_draw": 3.6,
+    "bfe_away": 2.96
   }
 }

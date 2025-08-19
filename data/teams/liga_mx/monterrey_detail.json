@@ -1,33 +1,33 @@
 {
   "name": "Monterrey",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2025-08-11",
-    "time": "20:00",
-    "home": false,
-    "score": "1 - 3",
+    "vs": "Mazatlan FC",
+    "date": "2025-08-17",
+    "time": "19:00",
+    "home": true,
+    "score": "3 - 2",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 511,
-      "wins": 230,
+      "games_played": 512,
+      "wins": 231,
       "draws": 133,
       "losses": 148,
-      "goals_for": 787,
-      "goals_against": 595,
-      "goal_difference": 192,
-      "win_rate": 45.01
+      "goals_for": 790,
+      "goals_against": 597,
+      "goal_difference": 193,
+      "win_rate": 45.12
     },
     "home": {
-      "games_played": 256,
-      "wins": 141,
+      "games_played": 257,
+      "wins": 142,
       "draws": 72,
       "losses": 43,
-      "goals_for": 454,
-      "goals_against": 250,
-      "goal_difference": 204,
-      "win_rate": 55.08
+      "goals_for": 457,
+      "goals_against": 252,
+      "goal_difference": 205,
+      "win_rate": 55.25
     },
     "away": {
       "games_played": 255,
@@ -42,7 +42,7 @@
   },
   "form": [
     "L",
-    "L",
+    "W",
     "W",
     "W",
     "W"
@@ -305,20 +305,26 @@
       "goals_for": 3,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2025-08-17",
+      "goals_for": 3,
+      "goals_against": 2,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 30.53426623210492,
-    "prob_draw": 26.446345343107264,
-    "prob_away": 43.01938842478782,
-    "max_home": 3.2,
-    "max_draw": 3.6,
-    "max_away": 2.22,
-    "avg_home": 3.08,
-    "avg_draw": 3.46,
-    "avg_away": 2.13,
-    "bfe_home": 3.4,
-    "bfe_draw": 3.7,
-    "bfe_away": 2.26
+    "prob_home": 71.3010799712403,
+    "prob_draw": 17.991861301154096,
+    "prob_away": 10.707058727605604,
+    "max_home": 1.35,
+    "max_draw": 5.33,
+    "max_away": 9.5,
+    "avg_home": 1.33,
+    "avg_draw": 4.9,
+    "avg_away": 8.07,
+    "bfe_home": 1.37,
+    "bfe_draw": 5.6,
+    "bfe_away": 10.5
   }
 }
