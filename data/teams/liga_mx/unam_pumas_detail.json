@@ -1,33 +1,33 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2025-08-16",
-    "time": "22:10",
-    "home": false,
-    "score": "1 - 1",
+    "vs": "Puebla",
+    "date": "2025-08-24",
+    "time": "18:00",
+    "home": true,
+    "score": "0 - 0",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 484,
+      "games_played": 485,
       "wins": 167,
-      "draws": 137,
+      "draws": 138,
       "losses": 180,
       "goals_for": 628,
       "goals_against": 646,
       "goal_difference": -18,
-      "win_rate": 34.5
+      "win_rate": 34.43
     },
     "home": {
-      "games_played": 239,
+      "games_played": 240,
       "wins": 103,
-      "draws": 71,
+      "draws": 72,
       "losses": 65,
       "goals_for": 363,
       "goals_against": 268,
       "goal_difference": 95,
-      "win_rate": 43.1
+      "win_rate": 42.92
     },
     "away": {
       "games_played": 245,
@@ -42,8 +42,8 @@
   },
   "form": [
     "L",
-    "L",
     "W",
+    "D",
     "D",
     "D"
   ],
@@ -275,20 +275,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2025-08-24",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": 55.24649460067788,
-    "prob_draw": 24.982265000306533,
-    "prob_away": 19.7712403990156,
-    "max_home": 1.74,
-    "max_draw": 3.8,
-    "max_away": 5.0,
-    "avg_home": 1.7,
-    "avg_draw": 3.64,
-    "avg_away": 4.51,
-    "bfe_home": 1.77,
-    "bfe_draw": 3.95,
-    "bfe_away": 5.3
+    "prob_home": 58.535164074735036,
+    "prob_draw": 24.638525694722656,
+    "prob_away": 16.8263102305423,
+    "max_home": 1.67,
+    "max_draw": 4.1,
+    "max_away": 5.6,
+    "avg_home": 1.61,
+    "avg_draw": 3.76,
+    "avg_away": 5.18,
+    "bfe_home": 1.69,
+    "bfe_draw": 4.0,
+    "bfe_away": 5.9
   }
 }

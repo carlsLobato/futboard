@@ -1,33 +1,33 @@
 {
   "name": "Cruz Azul",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2025-08-16",
-    "time": "20:00",
+    "vs": "Toluca",
+    "date": "2025-08-23",
+    "time": "22:05",
     "home": true,
-    "score": "3 - 2",
+    "score": "1 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 495,
-      "wins": 216,
+      "games_played": 496,
+      "wins": 217,
       "draws": 139,
       "losses": 140,
-      "goals_for": 688,
+      "goals_for": 689,
       "goals_against": 555,
-      "goal_difference": 133,
-      "win_rate": 43.64
+      "goal_difference": 134,
+      "win_rate": 43.75
     },
     "home": {
-      "games_played": 250,
-      "wins": 129,
+      "games_played": 251,
+      "wins": 130,
       "draws": 60,
       "losses": 61,
-      "goals_for": 380,
+      "goals_for": 381,
       "goals_against": 245,
-      "goal_difference": 135,
-      "win_rate": 51.6
+      "goal_difference": 136,
+      "win_rate": 51.79
     },
     "away": {
       "games_played": 245,
@@ -42,7 +42,7 @@
   },
   "form": [
     "D",
-    "D",
+    "W",
     "W",
     "W",
     "W"
@@ -299,20 +299,26 @@
       "goals_for": 3,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2025-08-23",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 78.00033644838128,
-    "prob_draw": 13.627899691975706,
-    "prob_away": 8.371763859643016,
-    "max_home": 1.22,
-    "max_draw": 7.0,
-    "max_away": 13.0,
-    "avg_home": 1.19,
-    "avg_draw": 6.63,
-    "avg_away": 11.5,
-    "bfe_home": 1.24,
-    "bfe_draw": 7.8,
-    "bfe_away": 14.0
+    "prob_home": 43.74687343671837,
+    "prob_draw": 25.850425212606304,
+    "prob_away": 30.402701350675343,
+    "max_home": 2.16,
+    "max_draw": 3.8,
+    "max_away": 3.35,
+    "avg_home": 2.06,
+    "avg_draw": 3.62,
+    "avg_away": 3.1,
+    "bfe_home": 2.22,
+    "bfe_draw": 3.85,
+    "bfe_away": 3.35
   }
 }

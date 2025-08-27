@@ -1,33 +1,33 @@
 {
   "name": "Monterrey",
   "last_match": {
-    "vs": "Mazatlan FC",
-    "date": "2025-08-17",
-    "time": "19:00",
+    "vs": "Necaxa",
+    "date": "2025-08-23",
+    "time": "20:00",
     "home": true,
-    "score": "3 - 2",
+    "score": "3 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 512,
-      "wins": 231,
+      "games_played": 513,
+      "wins": 232,
       "draws": 133,
       "losses": 148,
-      "goals_for": 790,
+      "goals_for": 793,
       "goals_against": 597,
-      "goal_difference": 193,
-      "win_rate": 45.12
+      "goal_difference": 196,
+      "win_rate": 45.22
     },
     "home": {
-      "games_played": 257,
-      "wins": 142,
+      "games_played": 258,
+      "wins": 143,
       "draws": 72,
       "losses": 43,
-      "goals_for": 457,
+      "goals_for": 460,
       "goals_against": 252,
-      "goal_difference": 205,
-      "win_rate": 55.25
+      "goal_difference": 208,
+      "win_rate": 55.43
     },
     "away": {
       "games_played": 255,
@@ -41,7 +41,7 @@
     }
   },
   "form": [
-    "L",
+    "W",
     "W",
     "W",
     "W",
@@ -305,20 +305,26 @@
       "goals_for": 3,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2025-08-23",
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 71.3010799712403,
-    "prob_draw": 17.991861301154096,
-    "prob_away": 10.707058727605604,
-    "max_home": 1.35,
-    "max_draw": 5.33,
-    "max_away": 9.5,
-    "avg_home": 1.33,
-    "avg_draw": 4.9,
-    "avg_away": 8.07,
-    "bfe_home": 1.37,
-    "bfe_draw": 5.6,
-    "bfe_away": 10.5
+    "prob_home": 61.84273316531218,
+    "prob_draw": 20.83686041855011,
+    "prob_away": 17.320406416137704,
+    "max_home": 1.5,
+    "max_draw": 4.75,
+    "max_away": 6.2,
+    "avg_home": 1.46,
+    "avg_draw": 4.56,
+    "avg_away": 5.56,
+    "bfe_home": 1.53,
+    "bfe_draw": 4.9,
+    "bfe_away": 6.2
   }
 }

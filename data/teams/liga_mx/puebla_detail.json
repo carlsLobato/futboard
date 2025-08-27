@@ -1,23 +1,23 @@
 {
   "name": "Puebla",
   "last_match": {
-    "vs": "Atl. San Luis",
-    "date": "2025-08-15",
-    "time": "20:00",
-    "home": true,
-    "score": "0 - 2",
-    "result": "L"
+    "vs": "UNAM Pumas",
+    "date": "2025-08-24",
+    "time": "18:00",
+    "home": false,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 462,
+      "games_played": 463,
       "wins": 129,
-      "draws": 132,
+      "draws": 133,
       "losses": 201,
       "goals_for": 532,
       "goals_against": 677,
       "goal_difference": -145,
-      "win_rate": 27.92
+      "win_rate": 27.86
     },
     "home": {
       "games_played": 232,
@@ -30,22 +30,22 @@
       "win_rate": 32.33
     },
     "away": {
-      "games_played": 230,
+      "games_played": 231,
       "wins": 54,
-      "draws": 60,
+      "draws": 61,
       "losses": 116,
       "goals_for": 233,
       "goals_against": 365,
       "goal_difference": -132,
-      "win_rate": 23.48
+      "win_rate": 23.38
     }
   },
   "form": [
     "L",
-    "L",
     "W",
     "L",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 0,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2025-08-24",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": 41.3620152844608,
-    "prob_draw": 27.111236909142374,
-    "prob_away": 31.52674780639683,
-    "max_home": 2.45,
-    "max_draw": 3.55,
-    "max_away": 2.96,
-    "avg_home": 2.33,
-    "avg_draw": 3.38,
-    "avg_away": 2.8,
-    "bfe_home": 2.56,
-    "bfe_draw": 3.6,
-    "bfe_away": 2.96
+    "prob_home": 58.535164074735036,
+    "prob_draw": 24.638525694722656,
+    "prob_away": 16.8263102305423,
+    "max_home": 1.67,
+    "max_draw": 4.1,
+    "max_away": 5.6,
+    "avg_home": 1.61,
+    "avg_draw": 3.76,
+    "avg_away": 5.18,
+    "bfe_home": 1.69,
+    "bfe_draw": 4.0,
+    "bfe_away": 5.9
   }
 }
