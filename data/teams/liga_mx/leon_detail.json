@@ -1,33 +1,33 @@
 {
   "name": "León",
   "last_match": {
-    "vs": "Pachuca",
-    "date": "2025-08-23",
+    "vs": "Queretaro",
+    "date": "2025-08-30",
     "time": "18:00",
     "home": true,
-    "score": "1 - 1",
-    "result": "T"
+    "score": "3 - 0",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 499,
-      "wins": 213,
+      "games_played": 500,
+      "wins": 214,
       "draws": 118,
       "losses": 168,
-      "goals_for": 752,
+      "goals_for": 755,
       "goals_against": 645,
-      "goal_difference": 107,
-      "win_rate": 42.69
+      "goal_difference": 110,
+      "win_rate": 42.8
     },
     "home": {
-      "games_played": 251,
-      "wins": 128,
+      "games_played": 252,
+      "wins": 129,
       "draws": 59,
       "losses": 64,
-      "goals_for": 436,
+      "goals_for": 439,
       "goals_against": 285,
-      "goal_difference": 151,
-      "win_rate": 51.0
+      "goal_difference": 154,
+      "win_rate": 51.19
     },
     "away": {
       "games_played": 248,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "L",
     "L",
     "W",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -263,20 +263,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2025-08-30",
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 30.059759902691834,
-    "prob_draw": 28.219366439261726,
-    "prob_away": 41.720873658046436,
-    "max_home": 3.4,
-    "max_draw": 3.6,
-    "max_away": 2.15,
-    "avg_home": 3.17,
-    "avg_draw": 3.46,
-    "avg_away": 2.08,
-    "bfe_home": 3.55,
-    "bfe_draw": 3.6,
-    "bfe_away": 2.22
+    "prob_home": 59.4960855830421,
+    "prob_draw": 23.857341248645596,
+    "prob_away": 16.646573168312297,
+    "max_home": 1.61,
+    "max_draw": 4.1,
+    "max_away": 5.75,
+    "avg_home": 1.56,
+    "avg_draw": 3.9,
+    "avg_away": 5.39,
+    "bfe_home": 1.65,
+    "bfe_draw": 4.2,
+    "bfe_away": 6.0
   }
 }

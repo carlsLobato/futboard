@@ -1,33 +1,33 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2025-08-22",
+    "vs": "Mazatlan FC",
+    "date": "2025-08-29",
     "time": "20:00",
     "home": true,
-    "score": "2 - 1",
+    "score": "1 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 206,
-      "wins": 53,
+      "games_played": 207,
+      "wins": 54,
       "draws": 52,
       "losses": 101,
-      "goals_for": 212,
+      "goals_for": 213,
       "goals_against": 317,
-      "goal_difference": -105,
-      "win_rate": 25.73
+      "goal_difference": -104,
+      "win_rate": 26.09
     },
     "home": {
-      "games_played": 103,
-      "wins": 31,
+      "games_played": 104,
+      "wins": 32,
       "draws": 32,
       "losses": 40,
-      "goals_for": 121,
+      "goals_for": 122,
       "goals_against": 139,
-      "goal_difference": -18,
-      "win_rate": 30.1
+      "goal_difference": -17,
+      "win_rate": 30.77
     },
     "away": {
       "games_played": 103,
@@ -41,9 +41,9 @@
     }
   },
   "form": [
-    "L",
     "D",
     "L",
+    "W",
     "W",
     "W"
   ],
@@ -257,20 +257,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2025-08-29",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 59.09752015186688,
-    "prob_draw": 23.324202868654485,
-    "prob_away": 17.578276979478648,
-    "max_home": 1.65,
-    "max_draw": 4.1,
-    "max_away": 5.33,
-    "avg_home": 1.6,
-    "avg_draw": 3.95,
-    "avg_away": 4.92,
-    "bfe_home": 1.69,
-    "bfe_draw": 4.2,
-    "bfe_away": 5.7
+    "prob_home": 52.20895606511794,
+    "prob_draw": 27.28434144645994,
+    "prob_away": 20.50670248842212,
+    "max_home": 1.66,
+    "max_draw": 3.9,
+    "max_away": 5.66,
+    "avg_home": 1.62,
+    "avg_draw": 3.67,
+    "avg_away": 5.03,
+    "bfe_home": 1.71,
+    "bfe_draw": 3.9,
+    "bfe_away": 5.9
   }
 }

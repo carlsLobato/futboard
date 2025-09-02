@@ -1,33 +1,33 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Puebla",
-    "date": "2025-08-24",
-    "time": "18:00",
+    "vs": "Atlas",
+    "date": "2025-08-31",
+    "time": "17:00",
     "home": true,
-    "score": "0 - 0",
-    "result": "T"
+    "score": "1 - 0",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 485,
-      "wins": 167,
+      "games_played": 486,
+      "wins": 168,
       "draws": 138,
       "losses": 180,
-      "goals_for": 628,
+      "goals_for": 629,
       "goals_against": 646,
-      "goal_difference": -18,
-      "win_rate": 34.43
+      "goal_difference": -17,
+      "win_rate": 34.57
     },
     "home": {
-      "games_played": 240,
-      "wins": 103,
+      "games_played": 241,
+      "wins": 104,
       "draws": 72,
       "losses": 65,
-      "goals_for": 363,
+      "goals_for": 364,
       "goals_against": 268,
-      "goal_difference": 95,
-      "win_rate": 42.92
+      "goal_difference": 96,
+      "win_rate": 43.15
     },
     "away": {
       "games_played": 245,
@@ -41,19 +41,13 @@
     }
   },
   "form": [
-    "L",
     "W",
     "D",
     "D",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
-    {
-      "date": "2024-09-01",
-      "goals_for": 1,
-      "goals_against": 3,
-      "result": "L"
-    },
     {
       "date": "2024-09-13",
       "goals_for": 0,
@@ -281,20 +275,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2025-08-31",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 58.535164074735036,
-    "prob_draw": 24.638525694722656,
-    "prob_away": 16.8263102305423,
-    "max_home": 1.67,
-    "max_draw": 4.1,
-    "max_away": 5.6,
+    "prob_home": 58.08518093526238,
+    "prob_draw": 24.287506386029108,
+    "prob_away": 17.627312678708513,
+    "max_home": 1.65,
+    "max_draw": 4.0,
+    "max_away": 5.5,
     "avg_home": 1.61,
-    "avg_draw": 3.76,
-    "avg_away": 5.18,
-    "bfe_home": 1.69,
+    "avg_draw": 3.81,
+    "avg_away": 5.03,
+    "bfe_home": 1.67,
     "bfe_draw": 4.0,
-    "bfe_away": 5.9
+    "bfe_away": 6.0
   }
 }

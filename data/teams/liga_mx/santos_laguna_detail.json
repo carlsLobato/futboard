@@ -1,33 +1,33 @@
 {
   "name": "Santos Laguna",
   "last_match": {
-    "vs": "Juarez",
-    "date": "2025-08-22",
+    "vs": "Tigres UANL",
+    "date": "2025-08-30",
     "time": "20:00",
-    "home": false,
-    "score": "2 - 1",
+    "home": true,
+    "score": "0 - 1",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 492,
+      "games_played": 493,
       "wins": 178,
       "draws": 137,
-      "losses": 177,
+      "losses": 178,
       "goals_for": 707,
-      "goals_against": 699,
-      "goal_difference": 8,
-      "win_rate": 36.18
+      "goals_against": 700,
+      "goal_difference": 7,
+      "win_rate": 36.11
     },
     "home": {
-      "games_played": 247,
+      "games_played": 248,
       "wins": 125,
       "draws": 62,
-      "losses": 60,
+      "losses": 61,
       "goals_for": 417,
-      "goals_against": 297,
-      "goal_difference": 120,
-      "win_rate": 50.61
+      "goals_against": 298,
+      "goal_difference": 119,
+      "win_rate": 50.4
     },
     "away": {
       "games_played": 245,
@@ -42,18 +42,12 @@
   },
   "form": [
     "L",
-    "L",
     "W",
+    "L",
     "L",
     "L"
   ],
   "match_history": [
-    {
-      "date": "2024-09-01",
-      "goals_for": 3,
-      "goals_against": 2,
-      "result": "W"
-    },
     {
       "date": "2024-09-14",
       "goals_for": 0,
@@ -251,20 +245,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2025-08-30",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
     }
   ],
   "last_match_betting": {
-    "prob_home": 59.09752015186688,
-    "prob_draw": 23.324202868654485,
-    "prob_away": 17.578276979478648,
-    "max_home": 1.65,
-    "max_draw": 4.1,
-    "max_away": 5.33,
-    "avg_home": 1.6,
-    "avg_draw": 3.95,
-    "avg_away": 4.92,
-    "bfe_home": 1.69,
-    "bfe_draw": 4.2,
-    "bfe_away": 5.7
+    "prob_home": 15.20498996309289,
+    "prob_draw": 20.853495953701913,
+    "prob_away": 63.9415140832052,
+    "max_home": 7.0,
+    "max_draw": 4.75,
+    "max_away": 1.47,
+    "avg_home": 6.27,
+    "avg_draw": 4.51,
+    "avg_away": 1.42,
+    "bfe_home": 7.2,
+    "bfe_draw": 4.8,
+    "bfe_away": 1.5
   }
 }

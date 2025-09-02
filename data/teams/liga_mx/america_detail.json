@@ -1,33 +1,33 @@
 {
   "name": "América",
   "last_match": {
-    "vs": "Atlas",
-    "date": "2025-08-24",
-    "time": "20:05",
-    "home": false,
-    "score": "2 - 4",
+    "vs": "Pachuca",
+    "date": "2025-08-30",
+    "time": "22:05",
+    "home": true,
+    "score": "2 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 549,
-      "wins": 277,
+      "games_played": 550,
+      "wins": 278,
       "draws": 148,
       "losses": 124,
-      "goals_for": 899,
+      "goals_for": 901,
       "goals_against": 574,
-      "goal_difference": 325,
-      "win_rate": 50.46
+      "goal_difference": 327,
+      "win_rate": 50.55
     },
     "home": {
-      "games_played": 273,
-      "wins": 159,
+      "games_played": 274,
+      "wins": 160,
       "draws": 61,
       "losses": 53,
-      "goals_for": 483,
+      "goals_for": 485,
       "goals_against": 255,
-      "goal_difference": 228,
-      "win_rate": 58.24
+      "goal_difference": 230,
+      "win_rate": 58.39
     },
     "away": {
       "games_played": 276,
@@ -41,8 +41,8 @@
     }
   },
   "form": [
-    "W",
     "D",
+    "W",
     "W",
     "W",
     "W"
@@ -329,20 +329,26 @@
       "goals_for": 4,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2025-08-30",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 20.29940066222205,
-    "prob_draw": 24.91528505053094,
-    "prob_away": 54.78531428724701,
-    "max_home": 5.25,
-    "max_draw": 4.1,
-    "max_away": 1.67,
-    "avg_home": 4.83,
-    "avg_draw": 3.89,
-    "avg_away": 1.62,
-    "bfe_home": 5.7,
-    "bfe_draw": 4.1,
-    "bfe_away": 1.68
+    "prob_home": 48.340908620653984,
+    "prob_draw": 26.415797060466655,
+    "prob_away": 25.243294318879368,
+    "max_home": 2.05,
+    "max_draw": 3.65,
+    "max_away": 3.9,
+    "avg_home": 1.93,
+    "avg_draw": 3.5,
+    "avg_away": 3.56,
+    "bfe_home": 2.06,
+    "bfe_draw": 3.75,
+    "bfe_away": 3.9
   }
 }
