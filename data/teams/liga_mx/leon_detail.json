@@ -1,23 +1,23 @@
 {
   "name": "León",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2025-08-30",
-    "time": "18:00",
-    "home": true,
-    "score": "3 - 0",
-    "result": "W"
+    "vs": "Tigres UANL",
+    "date": "2025-09-13",
+    "time": "20:00",
+    "home": false,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 500,
+      "games_played": 501,
       "wins": 214,
-      "draws": 118,
+      "draws": 119,
       "losses": 168,
       "goals_for": 755,
       "goals_against": 645,
       "goal_difference": 110,
-      "win_rate": 42.8
+      "win_rate": 42.71
     },
     "home": {
       "games_played": 252,
@@ -30,22 +30,22 @@
       "win_rate": 51.19
     },
     "away": {
-      "games_played": 248,
+      "games_played": 249,
       "wins": 85,
-      "draws": 59,
+      "draws": 60,
       "losses": 104,
       "goals_for": 316,
       "goals_against": 360,
       "goal_difference": -44,
-      "win_rate": 34.27
+      "win_rate": 34.14
     }
   },
   "form": [
     "L",
-    "L",
     "W",
     "D",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -263,20 +263,26 @@
       "goals_for": 3,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-09-13",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": 59.4960855830421,
-    "prob_draw": 23.857341248645596,
-    "prob_away": 16.646573168312297,
-    "max_home": 1.61,
-    "max_draw": 4.1,
-    "max_away": 5.75,
-    "avg_home": 1.56,
-    "avg_draw": 3.9,
-    "avg_away": 5.39,
-    "bfe_home": 1.65,
-    "bfe_draw": 4.2,
-    "bfe_away": 6.0
+    "prob_home": 66.46351613617092,
+    "prob_draw": 19.508521942803203,
+    "prob_away": 14.027961921025883,
+    "max_home": 1.48,
+    "max_draw": 4.75,
+    "max_away": 6.75,
+    "avg_home": 1.44,
+    "avg_draw": 4.55,
+    "avg_away": 5.95,
+    "bfe_home": 1.52,
+    "bfe_draw": 4.9,
+    "bfe_away": 6.6
   }
 }

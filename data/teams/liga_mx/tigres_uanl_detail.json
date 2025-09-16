@@ -1,33 +1,33 @@
 {
   "name": "Tigres UANL",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2025-08-30",
+    "vs": "Club Leon",
+    "date": "2025-09-13",
     "time": "20:00",
-    "home": false,
-    "score": "0 - 1",
-    "result": "W"
+    "home": true,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 528,
+      "games_played": 529,
       "wins": 241,
-      "draws": 161,
+      "draws": 162,
       "losses": 126,
       "goals_for": 779,
       "goals_against": 518,
       "goal_difference": 261,
-      "win_rate": 45.64
+      "win_rate": 45.56
     },
     "home": {
-      "games_played": 265,
+      "games_played": 266,
       "wins": 142,
-      "draws": 80,
+      "draws": 81,
       "losses": 43,
       "goals_for": 460,
       "goals_against": 241,
       "goal_difference": 219,
-      "win_rate": 53.58
+      "win_rate": 53.38
     },
     "away": {
       "games_played": 263,
@@ -42,10 +42,10 @@
   },
   "form": [
     "W",
-    "W",
     "L",
     "D",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -281,20 +281,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-09-13",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": 15.20498996309289,
-    "prob_draw": 20.853495953701913,
-    "prob_away": 63.9415140832052,
-    "max_home": 7.0,
+    "prob_home": 66.46351613617092,
+    "prob_draw": 19.508521942803203,
+    "prob_away": 14.027961921025883,
+    "max_home": 1.48,
     "max_draw": 4.75,
-    "max_away": 1.47,
-    "avg_home": 6.27,
-    "avg_draw": 4.51,
-    "avg_away": 1.42,
-    "bfe_home": 7.2,
-    "bfe_draw": 4.8,
-    "bfe_away": 1.5
+    "max_away": 6.75,
+    "avg_home": 1.44,
+    "avg_draw": 4.55,
+    "avg_away": 5.95,
+    "bfe_home": 1.52,
+    "bfe_draw": 4.9,
+    "bfe_away": 6.6
   }
 }

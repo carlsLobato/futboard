@@ -1,23 +1,23 @@
 {
   "name": "Monterrey",
   "last_match": {
-    "vs": "Puebla",
-    "date": "2025-08-29",
-    "time": "22:05",
+    "vs": "Queretaro",
+    "date": "2025-09-14",
+    "time": "18:00",
     "home": false,
-    "score": "2 - 4",
+    "score": "0 - 1",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 514,
-      "wins": 233,
+      "games_played": 515,
+      "wins": 234,
       "draws": 133,
       "losses": 148,
-      "goals_for": 797,
+      "goals_for": 798,
       "goals_against": 599,
-      "goal_difference": 198,
-      "win_rate": 45.33
+      "goal_difference": 199,
+      "win_rate": 45.44
     },
     "home": {
       "games_played": 258,
@@ -30,14 +30,14 @@
       "win_rate": 55.43
     },
     "away": {
-      "games_played": 256,
-      "wins": 90,
+      "games_played": 257,
+      "wins": 91,
       "draws": 61,
       "losses": 105,
-      "goals_for": 337,
+      "goals_for": 338,
       "goals_against": 347,
-      "goal_difference": -10,
-      "win_rate": 35.16
+      "goal_difference": -9,
+      "win_rate": 35.41
     }
   },
   "form": [
@@ -305,20 +305,26 @@
       "goals_for": 4,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2025-09-14",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 22.485001639692126,
-    "prob_draw": 25.654430062308304,
-    "prob_away": 51.86056829799958,
-    "max_home": 4.1,
-    "max_draw": 3.75,
-    "max_away": 1.93,
-    "avg_home": 3.81,
-    "avg_draw": 3.54,
-    "avg_away": 1.86,
-    "bfe_home": 4.1,
-    "bfe_draw": 3.7,
-    "bfe_away": 2.02
+    "prob_home": 16.061574208539064,
+    "prob_draw": 22.945106012198664,
+    "prob_away": 60.993319779262265,
+    "max_home": 5.5,
+    "max_draw": 4.1,
+    "max_away": 1.65,
+    "avg_home": 4.97,
+    "avg_draw": 3.91,
+    "avg_away": 1.6,
+    "bfe_home": 5.6,
+    "bfe_draw": 4.1,
+    "bfe_away": 1.7
   }
 }

@@ -1,33 +1,33 @@
 {
   "name": "Querétaro",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2025-08-30",
+    "vs": "Monterrey",
+    "date": "2025-09-14",
     "time": "18:00",
-    "home": false,
-    "score": "3 - 0",
+    "home": true,
+    "score": "0 - 1",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 457,
+      "games_played": 458,
       "wins": 129,
       "draws": 120,
-      "losses": 208,
+      "losses": 209,
       "goals_for": 506,
-      "goals_against": 667,
-      "goal_difference": -161,
-      "win_rate": 28.23
+      "goals_against": 668,
+      "goal_difference": -162,
+      "win_rate": 28.17
     },
     "home": {
-      "games_played": 226,
+      "games_played": 227,
       "wins": 81,
       "draws": 60,
-      "losses": 85,
+      "losses": 86,
       "goals_for": 275,
-      "goals_against": 280,
-      "goal_difference": -5,
-      "win_rate": 35.84
+      "goals_against": 281,
+      "goal_difference": -6,
+      "win_rate": 35.68
     },
     "away": {
       "games_played": 231,
@@ -42,9 +42,9 @@
   },
   "form": [
     "L",
-    "L",
     "D",
     "W",
+    "L",
     "L"
   ],
   "match_history": [
@@ -245,20 +245,26 @@
       "goals_for": 0,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2025-09-14",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
     }
   ],
   "last_match_betting": {
-    "prob_home": 59.4960855830421,
-    "prob_draw": 23.857341248645596,
-    "prob_away": 16.646573168312297,
-    "max_home": 1.61,
+    "prob_home": 16.061574208539064,
+    "prob_draw": 22.945106012198664,
+    "prob_away": 60.993319779262265,
+    "max_home": 5.5,
     "max_draw": 4.1,
-    "max_away": 5.75,
-    "avg_home": 1.56,
-    "avg_draw": 3.9,
-    "avg_away": 5.39,
-    "bfe_home": 1.65,
-    "bfe_draw": 4.2,
-    "bfe_away": 6.0
+    "max_away": 1.65,
+    "avg_home": 4.97,
+    "avg_draw": 3.91,
+    "avg_away": 1.6,
+    "bfe_home": 5.6,
+    "bfe_draw": 4.1,
+    "bfe_away": 1.7
   }
 }
