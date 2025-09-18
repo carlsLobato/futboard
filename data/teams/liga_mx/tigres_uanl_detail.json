@@ -1,23 +1,23 @@
 {
   "name": "Tigres UANL",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2025-09-13",
-    "time": "20:00",
-    "home": true,
+    "vs": "Guadalajara Chivas",
+    "date": "2025-09-17",
+    "time": "20:07",
+    "home": false,
     "score": "0 - 0",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 529,
+      "games_played": 530,
       "wins": 241,
-      "draws": 162,
+      "draws": 163,
       "losses": 126,
       "goals_for": 779,
       "goals_against": 518,
       "goal_difference": 261,
-      "win_rate": 45.56
+      "win_rate": 45.47
     },
     "home": {
       "games_played": 266,
@@ -30,30 +30,24 @@
       "win_rate": 53.38
     },
     "away": {
-      "games_played": 263,
+      "games_played": 264,
       "wins": 99,
-      "draws": 81,
+      "draws": 82,
       "losses": 83,
       "goals_for": 319,
       "goals_against": 277,
       "goal_difference": 42,
-      "win_rate": 37.64
+      "win_rate": 37.5
     }
   },
   "form": [
-    "W",
     "L",
     "D",
     "W",
+    "D",
     "D"
   ],
   "match_history": [
-    {
-      "date": "2024-09-17",
-      "goals_for": 0,
-      "goals_against": 1,
-      "result": "L"
-    },
     {
       "date": "2024-09-22",
       "goals_for": 1,
@@ -287,20 +281,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2025-09-17",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": 66.46351613617092,
-    "prob_draw": 19.508521942803203,
-    "prob_away": 14.027961921025883,
-    "max_home": 1.48,
-    "max_draw": 4.75,
-    "max_away": 6.75,
-    "avg_home": 1.44,
-    "avg_draw": 4.55,
-    "avg_away": 5.95,
-    "bfe_home": 1.52,
-    "bfe_draw": 4.9,
-    "bfe_away": 6.6
+    "prob_home": 42.11206443178916,
+    "prob_draw": 27.993568841940768,
+    "prob_away": 29.89436672627008,
+    "max_home": 2.4,
+    "max_draw": 3.6,
+    "max_away": 3.0,
+    "avg_home": 2.3,
+    "avg_draw": 3.33,
+    "avg_away": 2.86,
+    "bfe_home": 2.54,
+    "bfe_draw": 3.4,
+    "bfe_away": 3.05
   }
 }

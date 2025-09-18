@@ -1,33 +1,33 @@
 {
   "name": "Guadalajara",
   "last_match": {
-    "vs": "Club America",
-    "date": "2025-09-13",
-    "time": "22:15",
-    "home": false,
-    "score": "1 - 2",
-    "result": "W"
+    "vs": "Tigres UANL",
+    "date": "2025-09-17",
+    "time": "20:07",
+    "home": true,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 483,
+      "games_played": 484,
       "wins": 163,
-      "draws": 152,
+      "draws": 153,
       "losses": 168,
       "goals_for": 563,
       "goals_against": 571,
       "goal_difference": -8,
-      "win_rate": 33.75
+      "win_rate": 33.68
     },
     "home": {
-      "games_played": 241,
+      "games_played": 242,
       "wins": 92,
-      "draws": 72,
+      "draws": 73,
       "losses": 77,
       "goals_for": 294,
       "goals_against": 269,
       "goal_difference": 25,
-      "win_rate": 38.17
+      "win_rate": 38.02
     },
     "away": {
       "games_played": 242,
@@ -42,10 +42,10 @@
   },
   "form": [
     "L",
-    "L",
     "D",
     "L",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2025-09-17",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": 56.66108586462568,
-    "prob_draw": 24.635254723750293,
-    "prob_away": 18.70365941162401,
-    "max_home": 1.71,
-    "max_draw": 4.2,
-    "max_away": 5.0,
-    "avg_home": 1.67,
-    "avg_draw": 3.79,
-    "avg_away": 4.56,
-    "bfe_home": 1.76,
-    "bfe_draw": 4.0,
-    "bfe_away": 5.2
+    "prob_home": 42.11206443178916,
+    "prob_draw": 27.993568841940768,
+    "prob_away": 29.89436672627008,
+    "max_home": 2.4,
+    "max_draw": 3.6,
+    "max_away": 3.0,
+    "avg_home": 2.3,
+    "avg_draw": 3.33,
+    "avg_away": 2.86,
+    "bfe_home": 2.54,
+    "bfe_draw": 3.4,
+    "bfe_away": 3.05
   }
 }
