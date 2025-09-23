@@ -1,33 +1,33 @@
 {
   "name": "Tijuana",
   "last_match": {
-    "vs": "Atl. San Luis",
-    "date": "2025-09-14",
-    "time": "20:00",
-    "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Club Leon",
+    "date": "2025-09-19",
+    "time": "22:05",
+    "home": true,
+    "score": "5 - 0",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 468,
-      "wins": 157,
+      "games_played": 469,
+      "wins": 158,
       "draws": 125,
       "losses": 186,
-      "goals_for": 577,
+      "goals_for": 582,
       "goals_against": 673,
-      "goal_difference": -96,
-      "win_rate": 33.55
+      "goal_difference": -91,
+      "win_rate": 33.69
     },
     "home": {
-      "games_played": 236,
-      "wins": 109,
+      "games_played": 237,
+      "wins": 110,
       "draws": 68,
       "losses": 59,
-      "goals_for": 357,
+      "goals_for": 362,
       "goals_against": 264,
-      "goal_difference": 93,
-      "win_rate": 46.19
+      "goal_difference": 98,
+      "win_rate": 46.41
     },
     "away": {
       "games_played": 232,
@@ -41,19 +41,13 @@
     }
   },
   "form": [
-    "D",
     "W",
     "D",
     "W",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
-    {
-      "date": "2024-09-22",
-      "goals_for": 0,
-      "goals_against": 1,
-      "result": "L"
-    },
     {
       "date": "2024-09-27",
       "goals_for": 1,
@@ -275,20 +269,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2025-09-19",
+      "goals_for": 5,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 44.9468809588668,
-    "prob_draw": 25.769545083083628,
-    "prob_away": 29.28357395804958,
-    "max_home": 2.15,
-    "max_draw": 3.75,
-    "max_away": 3.25,
-    "avg_home": 2.1,
-    "avg_draw": 3.6,
-    "avg_away": 3.02,
-    "bfe_home": 2.2,
-    "bfe_draw": 3.8,
-    "bfe_away": 3.35
+    "prob_home": 50.36391838682736,
+    "prob_draw": 24.054408781768288,
+    "prob_away": 25.58167283140437,
+    "max_home": 1.91,
+    "max_draw": 4.0,
+    "max_away": 3.8,
+    "avg_home": 1.86,
+    "avg_draw": 3.83,
+    "avg_away": 3.5,
+    "bfe_home": 1.94,
+    "bfe_draw": 4.1,
+    "bfe_away": 4.1
   }
 }

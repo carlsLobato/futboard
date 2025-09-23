@@ -1,33 +1,33 @@
 {
   "name": "Monterrey",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2025-09-14",
-    "time": "18:00",
-    "home": false,
-    "score": "0 - 1",
-    "result": "W"
+    "vs": "Club America",
+    "date": "2025-09-20",
+    "time": "22:05",
+    "home": true,
+    "score": "2 - 2",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 515,
+      "games_played": 516,
       "wins": 234,
-      "draws": 133,
+      "draws": 134,
       "losses": 148,
-      "goals_for": 798,
-      "goals_against": 599,
+      "goals_for": 800,
+      "goals_against": 601,
       "goal_difference": 199,
-      "win_rate": 45.44
+      "win_rate": 45.35
     },
     "home": {
-      "games_played": 258,
+      "games_played": 259,
       "wins": 143,
-      "draws": 72,
+      "draws": 73,
       "losses": 43,
-      "goals_for": 460,
-      "goals_against": 252,
+      "goals_for": 462,
+      "goals_against": 254,
       "goal_difference": 208,
-      "win_rate": 55.43
+      "win_rate": 55.21
     },
     "away": {
       "games_played": 257,
@@ -45,7 +45,7 @@
     "W",
     "W",
     "W",
-    "W"
+    "D"
   ],
   "match_history": [
     {
@@ -299,20 +299,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-09-20",
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": 16.061574208539064,
-    "prob_draw": 22.945106012198664,
-    "prob_away": 60.993319779262265,
-    "max_home": 5.5,
-    "max_draw": 4.1,
-    "max_away": 1.65,
-    "avg_home": 4.97,
-    "avg_draw": 3.91,
-    "avg_away": 1.6,
-    "bfe_home": 5.6,
-    "bfe_draw": 4.1,
-    "bfe_away": 1.7
+    "prob_home": 38.25961579237522,
+    "prob_draw": 27.895339468215933,
+    "prob_away": 33.84504473940885,
+    "max_home": 2.18,
+    "max_draw": 3.6,
+    "max_away": 3.6,
+    "avg_home": 2.06,
+    "avg_draw": 3.49,
+    "avg_away": 3.19,
+    "bfe_home": 2.22,
+    "bfe_draw": 3.7,
+    "bfe_away": 3.45
   }
 }

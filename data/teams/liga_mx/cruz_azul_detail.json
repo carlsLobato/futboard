@@ -1,33 +1,33 @@
 {
   "name": "Cruz Azul",
   "last_match": {
-    "vs": "Pachuca",
-    "date": "2025-09-13",
-    "time": "18:00",
-    "home": false,
-    "score": "0 - 1",
+    "vs": "Juarez",
+    "date": "2025-09-19",
+    "time": "20:00",
+    "home": true,
+    "score": "3 - 2",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 498,
-      "wins": 219,
+      "games_played": 499,
+      "wins": 220,
       "draws": 139,
       "losses": 140,
-      "goals_for": 692,
-      "goals_against": 556,
-      "goal_difference": 136,
-      "win_rate": 43.98
+      "goals_for": 695,
+      "goals_against": 558,
+      "goal_difference": 137,
+      "win_rate": 44.09
     },
     "home": {
-      "games_played": 251,
-      "wins": 130,
+      "games_played": 252,
+      "wins": 131,
       "draws": 60,
       "losses": 61,
-      "goals_for": 381,
-      "goals_against": 245,
-      "goal_difference": 136,
-      "win_rate": 51.79
+      "goals_for": 384,
+      "goals_against": 247,
+      "goal_difference": 137,
+      "win_rate": 51.98
     },
     "away": {
       "games_played": 247,
@@ -293,20 +293,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-09-19",
+      "goals_for": 3,
+      "goals_against": 2,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 33.04750877916996,
-    "prob_draw": 27.43036847676147,
-    "prob_away": 39.52212274406857,
-    "max_home": 2.75,
-    "max_draw": 3.5,
-    "max_away": 2.5,
-    "avg_home": 2.67,
-    "avg_draw": 3.35,
-    "avg_away": 2.42,
-    "bfe_home": 2.94,
-    "bfe_draw": 3.6,
-    "bfe_away": 2.56
+    "prob_home": 61.911315885603855,
+    "prob_draw": 21.801727490190075,
+    "prob_away": 16.286956624206073,
+    "max_home": 1.48,
+    "max_draw": 4.5,
+    "max_away": 7.0,
+    "avg_home": 1.44,
+    "avg_draw": 4.31,
+    "avg_away": 6.41,
+    "bfe_home": 1.51,
+    "bfe_draw": 4.7,
+    "bfe_away": 7.4
   }
 }
