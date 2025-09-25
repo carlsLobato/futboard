@@ -1,33 +1,33 @@
 {
   "name": "Cruz Azul",
   "last_match": {
-    "vs": "Juarez",
-    "date": "2025-09-19",
-    "time": "20:00",
+    "vs": "Queretaro",
+    "date": "2025-09-24",
+    "time": "19:00",
     "home": true,
-    "score": "3 - 2",
-    "result": "W"
+    "score": "2 - 2",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 499,
+      "games_played": 500,
       "wins": 220,
-      "draws": 139,
+      "draws": 140,
       "losses": 140,
-      "goals_for": 695,
-      "goals_against": 558,
+      "goals_for": 697,
+      "goals_against": 560,
       "goal_difference": 137,
-      "win_rate": 44.09
+      "win_rate": 44.0
     },
     "home": {
-      "games_played": 252,
+      "games_played": 253,
       "wins": 131,
-      "draws": 60,
+      "draws": 61,
       "losses": 61,
-      "goals_for": 384,
-      "goals_against": 247,
+      "goals_for": 386,
+      "goals_against": 249,
       "goal_difference": 137,
-      "win_rate": 51.98
+      "win_rate": 51.78
     },
     "away": {
       "games_played": 247,
@@ -45,7 +45,7 @@
     "W",
     "W",
     "W",
-    "W"
+    "D"
   ],
   "match_history": [
     {
@@ -299,20 +299,26 @@
       "goals_for": 3,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2025-09-24",
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": 61.911315885603855,
-    "prob_draw": 21.801727490190075,
-    "prob_away": 16.286956624206073,
-    "max_home": 1.48,
-    "max_draw": 4.5,
-    "max_away": 7.0,
-    "avg_home": 1.44,
-    "avg_draw": 4.31,
-    "avg_away": 6.41,
-    "bfe_home": 1.51,
-    "bfe_draw": 4.7,
-    "bfe_away": 7.4
+    "prob_home": 78.07085402473818,
+    "prob_draw": 14.289754531313687,
+    "prob_away": 7.639391443948128,
+    "max_home": 1.32,
+    "max_draw": 6.0,
+    "max_away": 11.0,
+    "avg_home": 1.27,
+    "avg_draw": 5.44,
+    "avg_away": 9.16,
+    "bfe_home": 1.34,
+    "bfe_draw": 5.9,
+    "bfe_away": 10.0
   }
 }

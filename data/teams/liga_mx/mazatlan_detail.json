@@ -1,23 +1,23 @@
 {
   "name": "Mazatlán",
   "last_match": {
-    "vs": "Atlas",
-    "date": "2025-09-19",
-    "time": "22:00",
-    "home": true,
-    "score": "1 - 1",
+    "vs": "Club Leon",
+    "date": "2025-09-23",
+    "time": "22:05",
+    "home": false,
+    "score": "2 - 2",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 181,
+      "games_played": 182,
       "wins": 43,
-      "draws": 50,
+      "draws": 51,
       "losses": 88,
-      "goals_for": 202,
-      "goals_against": 293,
+      "goals_for": 204,
+      "goals_against": 295,
       "goal_difference": -91,
-      "win_rate": 23.76
+      "win_rate": 23.63
     },
     "home": {
       "games_played": 90,
@@ -30,21 +30,21 @@
       "win_rate": 34.44
     },
     "away": {
-      "games_played": 91,
+      "games_played": 92,
       "wins": 12,
-      "draws": 22,
+      "draws": 23,
       "losses": 57,
-      "goals_for": 83,
-      "goals_against": 165,
+      "goals_for": 85,
+      "goals_against": 167,
       "goal_difference": -82,
-      "win_rate": 13.19
+      "win_rate": 13.04
     }
   },
   "form": [
-    "L",
     "D",
     "L",
     "L",
+    "D",
     "D"
   ],
   "match_history": [
@@ -251,20 +251,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2025-09-23",
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": 42.10830357410797,
-    "prob_draw": 27.436005161600097,
-    "prob_away": 30.45569126429192,
-    "max_home": 2.26,
-    "max_draw": 3.6,
-    "max_away": 3.1,
-    "avg_home": 2.21,
-    "avg_draw": 3.4,
-    "avg_away": 2.95,
-    "bfe_home": 2.42,
-    "bfe_draw": 3.55,
-    "bfe_away": 3.2
+    "prob_home": 54.55883015298693,
+    "prob_draw": 24.447880853363763,
+    "prob_away": 20.99328899364932,
+    "max_home": 1.68,
+    "max_draw": 4.2,
+    "max_away": 5.0,
+    "avg_home": 1.64,
+    "avg_draw": 3.91,
+    "avg_away": 4.63,
+    "bfe_home": 1.72,
+    "bfe_draw": 4.3,
+    "bfe_away": 5.1
   }
 }
