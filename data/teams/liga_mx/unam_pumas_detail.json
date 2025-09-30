@@ -1,23 +1,23 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Juarez",
-    "date": "2025-09-23",
-    "time": "22:00",
+    "vs": "Club America",
+    "date": "2025-09-27",
+    "time": "22:05",
     "home": false,
-    "score": "3 - 1",
+    "score": "4 - 1",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 489,
+      "games_played": 490,
       "wins": 169,
       "draws": 139,
-      "losses": 181,
-      "goals_for": 635,
-      "goals_against": 651,
-      "goal_difference": -16,
-      "win_rate": 34.56
+      "losses": 182,
+      "goals_for": 636,
+      "goals_against": 655,
+      "goal_difference": -19,
+      "win_rate": 34.49
     },
     "home": {
       "games_played": 242,
@@ -30,30 +30,24 @@
       "win_rate": 42.98
     },
     "away": {
-      "games_played": 247,
+      "games_played": 248,
       "wins": 65,
       "draws": 66,
-      "losses": 116,
-      "goals_for": 270,
-      "goals_against": 382,
-      "goal_difference": -112,
-      "win_rate": 26.32
+      "losses": 117,
+      "goals_for": 271,
+      "goals_against": 386,
+      "goal_difference": -115,
+      "win_rate": 26.21
     }
   },
   "form": [
-    "D",
     "W",
     "W",
     "D",
+    "L",
     "L"
   ],
   "match_history": [
-    {
-      "date": "2024-09-29",
-      "goals_for": 1,
-      "goals_against": 0,
-      "result": "W"
-    },
     {
       "date": "2024-10-05",
       "goals_for": 1,
@@ -281,20 +275,26 @@
       "goals_for": 1,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2025-09-27",
+      "goals_for": 1,
+      "goals_against": 4,
+      "result": "L"
     }
   ],
   "last_match_betting": {
-    "prob_home": 33.70047699767415,
-    "prob_draw": 31.000118263886158,
-    "prob_away": 35.299404738439705,
-    "max_home": 3.0,
-    "max_draw": 3.25,
-    "max_away": 2.74,
-    "avg_home": 2.8,
-    "avg_draw": 3.1,
-    "avg_away": 2.48,
-    "bfe_home": 3.1,
-    "bfe_draw": 3.3,
-    "bfe_away": 2.58
+    "prob_home": 54.548654973182295,
+    "prob_draw": 26.024560458903682,
+    "prob_away": 19.42678456791402,
+    "max_home": 1.75,
+    "max_draw": 3.9,
+    "max_away": 5.33,
+    "avg_home": 1.69,
+    "avg_draw": 3.65,
+    "avg_away": 4.6,
+    "bfe_home": 1.81,
+    "bfe_draw": 3.75,
+    "bfe_away": 5.2
   }
 }

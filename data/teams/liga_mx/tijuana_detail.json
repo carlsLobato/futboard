@@ -1,33 +1,33 @@
 {
   "name": "Tijuana",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2025-09-24",
-    "time": "22:00",
-    "home": false,
-    "score": "1 - 0",
-    "result": "L"
+    "vs": "Cruz Azul",
+    "date": "2025-09-28",
+    "time": "22:05",
+    "home": true,
+    "score": "2 - 0",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 470,
-      "wins": 158,
+      "games_played": 471,
+      "wins": 159,
       "draws": 125,
       "losses": 187,
-      "goals_for": 582,
+      "goals_for": 584,
       "goals_against": 674,
-      "goal_difference": -92,
-      "win_rate": 33.62
+      "goal_difference": -90,
+      "win_rate": 33.76
     },
     "home": {
-      "games_played": 237,
-      "wins": 110,
+      "games_played": 238,
+      "wins": 111,
       "draws": 68,
       "losses": 59,
-      "goals_for": 362,
+      "goals_for": 364,
       "goals_against": 264,
-      "goal_difference": 98,
-      "win_rate": 46.41
+      "goal_difference": 100,
+      "win_rate": 46.64
     },
     "away": {
       "games_played": 233,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "W",
     "D",
     "W",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -275,20 +275,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2025-09-28",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 30.300286055169845,
-    "prob_draw": 24.53246510558167,
-    "prob_away": 45.1672488392485,
-    "max_home": 3.3,
+    "prob_home": 30.37395634510188,
+    "prob_draw": 23.849180537635554,
+    "prob_away": 45.77686311726256,
+    "max_home": 3.2,
     "max_draw": 4.0,
     "max_away": 2.1,
-    "avg_home": 3.13,
-    "avg_draw": 3.71,
-    "avg_away": 2.02,
-    "bfe_home": 3.3,
-    "bfe_draw": 4.0,
+    "avg_home": 3.03,
+    "avg_draw": 3.8,
+    "avg_away": 2.03,
+    "bfe_home": 3.2,
+    "bfe_draw": 4.2,
     "bfe_away": 2.16
   }
 }

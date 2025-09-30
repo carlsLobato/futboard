@@ -1,33 +1,33 @@
 {
   "name": "Toluca",
   "last_match": {
-    "vs": "Monterrey",
-    "date": "2025-09-24",
-    "time": "21:00",
+    "vs": "Mazatlan FC",
+    "date": "2025-09-27",
+    "time": "20:00",
     "home": true,
-    "score": "6 - 2",
+    "score": "3 - 1",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 506,
-      "wins": 214,
+      "games_played": 507,
+      "wins": 215,
       "draws": 138,
       "losses": 154,
-      "goals_for": 779,
-      "goals_against": 643,
-      "goal_difference": 136,
-      "win_rate": 42.29
+      "goals_for": 782,
+      "goals_against": 644,
+      "goal_difference": 138,
+      "win_rate": 42.41
     },
     "home": {
-      "games_played": 253,
-      "wins": 137,
+      "games_played": 254,
+      "wins": 138,
       "draws": 62,
       "losses": 54,
-      "goals_for": 470,
-      "goals_against": 281,
-      "goal_difference": 189,
-      "win_rate": 54.15
+      "goals_for": 473,
+      "goals_against": 282,
+      "goal_difference": 191,
+      "win_rate": 54.33
     },
     "away": {
       "games_played": 253,
@@ -41,7 +41,7 @@
     }
   },
   "form": [
-    "L",
+    "W",
     "W",
     "W",
     "W",
@@ -299,20 +299,26 @@
       "goals_for": 6,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2025-09-27",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 58.43583943462141,
-    "prob_draw": 23.233526522198872,
-    "prob_away": 18.33063404317972,
-    "max_home": 1.56,
-    "max_draw": 4.5,
-    "max_away": 5.7,
-    "avg_home": 1.51,
-    "avg_draw": 4.37,
-    "avg_away": 5.09,
-    "bfe_home": 1.59,
-    "bfe_draw": 4.6,
-    "bfe_away": 5.9
+    "prob_home": 78.53598525216037,
+    "prob_draw": 13.161250275774128,
+    "prob_away": 8.302764472065483,
+    "max_home": 1.26,
+    "max_draw": 7.0,
+    "max_away": 11.5,
+    "avg_home": 1.21,
+    "avg_draw": 6.35,
+    "avg_away": 10.17,
+    "bfe_home": 1.27,
+    "bfe_draw": 7.2,
+    "bfe_away": 12.0
   }
 }
