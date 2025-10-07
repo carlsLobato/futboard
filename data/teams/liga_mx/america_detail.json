@@ -1,33 +1,33 @@
 {
   "name": "América",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2025-09-27",
+    "vs": "Santos Laguna",
+    "date": "2025-10-04",
     "time": "22:05",
     "home": true,
-    "score": "4 - 1",
+    "score": "3 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 554,
-      "wins": 280,
+      "games_played": 555,
+      "wins": 281,
       "draws": 149,
       "losses": 125,
-      "goals_for": 909,
+      "goals_for": 912,
       "goals_against": 579,
-      "goal_difference": 330,
-      "win_rate": 50.54
+      "goal_difference": 333,
+      "win_rate": 50.63
     },
     "home": {
-      "games_played": 276,
-      "wins": 161,
+      "games_played": 277,
+      "wins": 162,
       "draws": 61,
       "losses": 54,
-      "goals_for": 490,
+      "goals_for": 493,
       "goals_against": 258,
-      "goal_difference": 232,
-      "win_rate": 58.33
+      "goal_difference": 235,
+      "win_rate": 58.48
     },
     "away": {
       "games_played": 278,
@@ -41,9 +41,9 @@
     }
   },
   "form": [
-    "W",
     "L",
     "D",
+    "W",
     "W",
     "W"
   ],
@@ -329,20 +329,26 @@
       "goals_for": 4,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2025-10-04",
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 54.548654973182295,
-    "prob_draw": 26.024560458903682,
-    "prob_away": 19.42678456791402,
-    "max_home": 1.75,
-    "max_draw": 3.9,
-    "max_away": 5.33,
-    "avg_home": 1.69,
-    "avg_draw": 3.65,
-    "avg_away": 4.6,
-    "bfe_home": 1.81,
-    "bfe_draw": 3.75,
-    "bfe_away": 5.2
+    "prob_home": 80.54686472985408,
+    "prob_draw": 12.25713158932562,
+    "prob_away": 7.196003680820297,
+    "max_home": 1.2,
+    "max_draw": 7.5,
+    "max_away": 15.0,
+    "avg_home": 1.17,
+    "avg_draw": 6.96,
+    "avg_away": 12.63,
+    "bfe_home": 1.21,
+    "bfe_draw": 8.2,
+    "bfe_away": 15.0
   }
 }
