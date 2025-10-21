@@ -1,33 +1,33 @@
 {
   "name": "Guadalajara",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2025-10-05",
-    "time": "20:00",
-    "home": false,
-    "score": "1 - 2",
+    "vs": "Mazatlan FC",
+    "date": "2025-10-18",
+    "time": "20:07",
+    "home": true,
+    "score": "2 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 488,
-      "wins": 166,
+      "games_played": 489,
+      "wins": 167,
       "draws": 153,
       "losses": 169,
-      "goals_for": 570,
+      "goals_for": 572,
       "goals_against": 576,
-      "goal_difference": -6,
-      "win_rate": 34.02
+      "goal_difference": -4,
+      "win_rate": 34.15
     },
     "home": {
-      "games_played": 244,
-      "wins": 93,
+      "games_played": 245,
+      "wins": 94,
       "draws": 73,
       "losses": 78,
-      "goals_for": 297,
+      "goals_for": 299,
       "goals_against": 273,
-      "goal_difference": 24,
-      "win_rate": 38.11
+      "goal_difference": 26,
+      "win_rate": 38.37
     },
     "away": {
       "games_played": 244,
@@ -41,8 +41,8 @@
     }
   },
   "form": [
-    "D",
     "L",
+    "W",
     "W",
     "W",
     "W"
@@ -257,20 +257,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2025-10-18",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 41.56292202412701,
-    "prob_draw": 29.615170738903963,
-    "prob_away": 28.821907236969036,
-    "max_home": 2.5,
-    "max_draw": 3.35,
-    "max_away": 3.05,
-    "avg_home": 2.37,
-    "avg_draw": 3.2,
-    "avg_away": 2.84,
-    "bfe_home": 2.56,
-    "bfe_draw": 3.4,
-    "bfe_away": 3.0
+    "prob_home": 68.90481064483112,
+    "prob_draw": 18.9150460593654,
+    "prob_away": 12.180143295803479,
+    "max_home": 1.35,
+    "max_draw": 5.25,
+    "max_away": 8.5,
+    "avg_home": 1.33,
+    "avg_draw": 4.95,
+    "avg_away": 7.81,
+    "bfe_home": 1.39,
+    "bfe_draw": 5.4,
+    "bfe_away": 9.6
   }
 }
