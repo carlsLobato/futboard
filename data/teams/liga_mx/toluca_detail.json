@@ -1,23 +1,23 @@
 {
   "name": "Toluca",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2025-10-18",
-    "time": "18:00",
-    "home": true,
-    "score": "4 - 0",
-    "result": "W"
+    "vs": "Club Tijuana",
+    "date": "2025-10-22",
+    "time": "22:00",
+    "home": false,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 509,
+      "games_played": 510,
       "wins": 217,
-      "draws": 138,
+      "draws": 139,
       "losses": 154,
       "goals_for": 790,
       "goals_against": 646,
       "goal_difference": 144,
-      "win_rate": 42.63
+      "win_rate": 42.55
     },
     "home": {
       "games_played": 255,
@@ -30,14 +30,14 @@
       "win_rate": 54.51
     },
     "away": {
-      "games_played": 254,
+      "games_played": 255,
       "wins": 78,
-      "draws": 76,
+      "draws": 77,
       "losses": 100,
       "goals_for": 313,
       "goals_against": 364,
       "goal_difference": -51,
-      "win_rate": 30.71
+      "win_rate": 30.59
     }
   },
   "form": [
@@ -45,7 +45,7 @@
     "W",
     "W",
     "W",
-    "W"
+    "D"
   ],
   "match_history": [
     {
@@ -299,20 +299,26 @@
       "goals_for": 4,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-10-22",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": 78.31482879218258,
-    "prob_draw": 13.214950363272854,
-    "prob_away": 8.470220844544569,
-    "max_home": 1.22,
-    "max_draw": 7.0,
-    "max_away": 13.0,
-    "avg_home": 1.19,
-    "avg_draw": 6.68,
-    "avg_away": 11.09,
-    "bfe_home": 1.24,
-    "bfe_draw": 7.8,
-    "bfe_away": 13.0
+    "prob_home": NaN,
+    "prob_draw": NaN,
+    "prob_away": NaN,
+    "max_home": 3.2,
+    "max_draw": 4.0,
+    "max_away": 2.2,
+    "avg_home": 3.0,
+    "avg_draw": 3.74,
+    "avg_away": 2.08,
+    "bfe_home": 3.2,
+    "bfe_draw": 4.0,
+    "bfe_away": 2.2
   }
 }
