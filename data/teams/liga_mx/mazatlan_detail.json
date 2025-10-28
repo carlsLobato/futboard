@@ -1,8 +1,8 @@
 {
   "name": "Mazatlán",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2025-10-21",
+    "vs": "Club America",
+    "date": "2025-10-24",
     "time": "22:00",
     "home": true,
     "score": "2 - 2",
@@ -10,24 +10,24 @@
   },
   "record": {
     "total": {
-      "games_played": 186,
+      "games_played": 187,
       "wins": 44,
-      "draws": 52,
+      "draws": 53,
       "losses": 90,
-      "goals_for": 209,
-      "goals_against": 303,
+      "goals_for": 211,
+      "goals_against": 305,
       "goal_difference": -94,
-      "win_rate": 23.66
+      "win_rate": 23.53
     },
     "home": {
-      "games_played": 92,
+      "games_played": 93,
       "wins": 32,
-      "draws": 29,
+      "draws": 30,
       "losses": 31,
-      "goals_for": 123,
-      "goals_against": 131,
+      "goals_for": 125,
+      "goals_against": 133,
       "goal_difference": -8,
-      "win_rate": 34.78
+      "win_rate": 34.41
     },
     "away": {
       "games_played": 94,
@@ -41,10 +41,10 @@
     }
   },
   "form": [
-    "D",
     "L",
     "W",
     "L",
+    "D",
     "D"
   ],
   "match_history": [
@@ -251,20 +251,26 @@
       "goals_for": 2,
       "goals_against": 2,
       "result": "T"
+    },
+    {
+      "date": "2025-10-24",
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": NaN,
-    "prob_draw": NaN,
-    "prob_away": NaN,
-    "max_home": 2.15,
-    "max_draw": 3.6,
-    "max_away": 3.4,
-    "avg_home": 2.07,
-    "avg_draw": 3.5,
-    "avg_away": 3.16,
-    "bfe_home": 2.26,
-    "bfe_draw": 3.65,
-    "bfe_away": 3.4
+    "prob_home": 14.93168402567385,
+    "prob_draw": 20.567504026687406,
+    "prob_away": 64.50081194763875,
+    "max_home": 5.0,
+    "max_draw": 4.2,
+    "max_away": 1.7,
+    "avg_home": 4.63,
+    "avg_draw": 3.99,
+    "avg_away": 1.63,
+    "bfe_home": 5.3,
+    "bfe_draw": 4.0,
+    "bfe_away": 1.76
   }
 }

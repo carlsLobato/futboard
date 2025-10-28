@@ -1,33 +1,33 @@
 {
   "name": "Atl. San Luis",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2025-10-22",
-    "time": "22:05",
-    "home": false,
-    "score": "0 - 1",
-    "result": "W"
+    "vs": "Necaxa",
+    "date": "2025-10-26",
+    "time": "19:00",
+    "home": true,
+    "score": "3 - 4",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 262,
+      "games_played": 263,
       "wins": 81,
       "draws": 52,
-      "losses": 129,
-      "goals_for": 321,
-      "goals_against": 413,
-      "goal_difference": -92,
-      "win_rate": 30.92
+      "losses": 130,
+      "goals_for": 324,
+      "goals_against": 417,
+      "goal_difference": -93,
+      "win_rate": 30.8
     },
     "home": {
-      "games_played": 129,
+      "games_played": 130,
       "wins": 45,
       "draws": 27,
-      "losses": 57,
-      "goals_for": 165,
-      "goals_against": 189,
-      "goal_difference": -24,
-      "win_rate": 34.88
+      "losses": 58,
+      "goals_for": 168,
+      "goals_against": 193,
+      "goal_difference": -25,
+      "win_rate": 34.62
     },
     "away": {
       "games_played": 133,
@@ -43,17 +43,11 @@
   "form": [
     "L",
     "L",
-    "L",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
-    {
-      "date": "2024-10-27",
-      "goals_for": 4,
-      "goals_against": 2,
-      "result": "W"
-    },
     {
       "date": "2024-11-02",
       "goals_for": 2,
@@ -281,20 +275,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-10-26",
+      "goals_for": 3,
+      "goals_against": 4,
+      "result": "L"
     }
   ],
   "last_match_betting": {
-    "prob_home": NaN,
-    "prob_draw": NaN,
-    "prob_away": NaN,
-    "max_home": 1.91,
+    "prob_home": 37.21200171725684,
+    "prob_draw": 27.374346090855607,
+    "prob_away": 35.41365219188755,
+    "max_home": 2.33,
     "max_draw": 3.7,
-    "max_away": 4.0,
-    "avg_home": 1.85,
-    "avg_draw": 3.54,
-    "avg_away": 3.82,
-    "bfe_home": 1.97,
-    "bfe_draw": 3.7,
-    "bfe_away": 4.4
+    "max_away": 3.2,
+    "avg_home": 2.18,
+    "avg_draw": 3.48,
+    "avg_away": 2.97,
+    "bfe_home": 2.32,
+    "bfe_draw": 3.8,
+    "bfe_away": 3.15
   }
 }

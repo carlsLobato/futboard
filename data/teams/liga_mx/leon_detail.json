@@ -1,33 +1,33 @@
 {
   "name": "León",
   "last_match": {
-    "vs": "Atlas",
-    "date": "2025-10-22",
-    "time": "22:00",
-    "home": false,
-    "score": "2 - 0",
-    "result": "L"
+    "vs": "UNAM Pumas",
+    "date": "2025-10-25",
+    "time": "19:00",
+    "home": true,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 507,
+      "games_played": 508,
       "wins": 214,
-      "draws": 120,
+      "draws": 121,
       "losses": 173,
-      "goals_for": 759,
-      "goals_against": 662,
+      "goals_for": 760,
+      "goals_against": 663,
       "goal_difference": 97,
-      "win_rate": 42.21
+      "win_rate": 42.13
     },
     "home": {
-      "games_played": 254,
+      "games_played": 255,
       "wins": 129,
-      "draws": 60,
+      "draws": 61,
       "losses": 65,
-      "goals_for": 443,
-      "goals_against": 291,
+      "goals_for": 444,
+      "goals_against": 292,
       "goal_difference": 152,
-      "win_rate": 50.79
+      "win_rate": 50.59
     },
     "away": {
       "games_played": 253,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "L",
     "L",
     "L",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -263,20 +263,26 @@
       "goals_for": 0,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2025-10-25",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": NaN,
-    "prob_draw": NaN,
-    "prob_away": NaN,
-    "max_home": 2.57,
-    "max_draw": 3.8,
-    "max_away": 2.72,
-    "avg_home": 2.51,
-    "avg_draw": 3.49,
-    "avg_away": 2.52,
-    "bfe_home": 2.7,
-    "bfe_draw": 3.6,
-    "bfe_away": 2.78
+    "prob_home": 37.95518981543638,
+    "prob_draw": 26.760541133917215,
+    "prob_away": 35.28426905064641,
+    "max_home": 3.5,
+    "max_draw": 3.55,
+    "max_away": 2.15,
+    "avg_home": 3.3,
+    "avg_draw": 3.4,
+    "avg_away": 2.06,
+    "bfe_home": 3.75,
+    "bfe_draw": 3.55,
+    "bfe_away": 2.18
   }
 }
