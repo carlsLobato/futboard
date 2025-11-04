@@ -1,33 +1,33 @@
 {
   "name": "Puebla",
   "last_match": {
-    "vs": "Juarez",
-    "date": "2025-10-24",
-    "time": "20:00",
-    "home": false,
-    "score": "4 - 4",
-    "result": "T"
+    "vs": "Cruz Azul",
+    "date": "2025-10-31",
+    "time": "21:05",
+    "home": true,
+    "score": "0 - 3",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 472,
+      "games_played": 473,
       "wins": 130,
       "draws": 135,
-      "losses": 207,
+      "losses": 208,
       "goals_for": 547,
-      "goals_against": 701,
-      "goal_difference": -154,
-      "win_rate": 27.54
+      "goals_against": 704,
+      "goal_difference": -157,
+      "win_rate": 27.48
     },
     "home": {
-      "games_played": 236,
+      "games_played": 237,
       "wins": 76,
       "draws": 73,
-      "losses": 87,
+      "losses": 88,
       "goals_for": 307,
-      "goals_against": 323,
-      "goal_difference": -16,
-      "win_rate": 32.2
+      "goals_against": 326,
+      "goal_difference": -19,
+      "win_rate": 32.07
     },
     "away": {
       "games_played": 236,
@@ -42,10 +42,10 @@
   },
   "form": [
     "L",
-    "L",
     "W",
     "L",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 4,
       "goals_against": 4,
       "result": "T"
+    },
+    {
+      "date": "2025-10-31",
+      "goals_for": 0,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
-    "prob_home": 56.47922617274431,
-    "prob_draw": 24.58163211663483,
-    "prob_away": 18.93914171062085,
-    "max_home": 1.58,
-    "max_draw": 4.2,
-    "max_away": 6.5,
-    "avg_home": 1.52,
-    "avg_draw": 4.01,
-    "avg_away": 5.66,
-    "bfe_home": 1.61,
-    "bfe_draw": 4.3,
-    "bfe_away": 6.6
+    "prob_home": NaN,
+    "prob_draw": NaN,
+    "prob_away": NaN,
+    "max_home": 5.33,
+    "max_draw": 4.0,
+    "max_away": 1.7,
+    "avg_home": 4.83,
+    "avg_draw": 3.86,
+    "avg_away": 1.62,
+    "bfe_home": 5.9,
+    "bfe_draw": 4.1,
+    "bfe_away": 1.66
   }
 }

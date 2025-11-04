@@ -1,33 +1,33 @@
 {
   "name": "Atlas",
   "last_match": {
-    "vs": "Guadalajara Chivas",
-    "date": "2025-10-25",
-    "time": "19:07",
-    "home": false,
-    "score": "4 - 1",
-    "result": "L"
+    "vs": "Toluca",
+    "date": "2025-11-01",
+    "time": "17:00",
+    "home": true,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 481,
+      "games_played": 482,
       "wins": 144,
-      "draws": 137,
+      "draws": 138,
       "losses": 200,
       "goals_for": 536,
       "goals_against": 656,
       "goal_difference": -120,
-      "win_rate": 29.94
+      "win_rate": 29.88
     },
     "home": {
-      "games_played": 239,
+      "games_played": 240,
       "wins": 81,
-      "draws": 67,
+      "draws": 68,
       "losses": 91,
       "goals_for": 271,
       "goals_against": 290,
       "goal_difference": -19,
-      "win_rate": 33.89
+      "win_rate": 33.75
     },
     "away": {
       "games_played": 242,
@@ -42,10 +42,10 @@
   },
   "form": [
     "W",
-    "W",
     "L",
     "W",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -263,20 +263,26 @@
       "goals_for": 1,
       "goals_against": 4,
       "result": "L"
+    },
+    {
+      "date": "2025-11-01",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
-    "prob_home": 63.83736551423224,
-    "prob_draw": 20.494425371163494,
-    "prob_away": 15.668209114604265,
-    "max_home": 1.52,
+    "prob_home": NaN,
+    "prob_draw": NaN,
+    "prob_away": NaN,
+    "max_home": 5.1,
     "max_draw": 4.5,
-    "max_away": 6.5,
-    "avg_home": 1.48,
-    "avg_draw": 4.15,
-    "avg_away": 5.94,
-    "bfe_home": 1.53,
+    "max_away": 1.62,
+    "avg_home": 4.76,
+    "avg_draw": 4.22,
+    "avg_away": 1.57,
+    "bfe_home": 5.2,
     "bfe_draw": 4.5,
-    "bfe_away": 6.8
+    "bfe_away": 1.67
   }
 }

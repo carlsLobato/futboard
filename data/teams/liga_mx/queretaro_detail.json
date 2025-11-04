@@ -1,33 +1,33 @@
 {
   "name": "Querétaro",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2025-10-26",
+    "vs": "Mazatlan FC",
+    "date": "2025-11-02",
     "time": "17:00",
-    "home": false,
-    "score": "3 - 1",
-    "result": "L"
+    "home": true,
+    "score": "1 - 0",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 465,
-      "wins": 132,
+      "games_played": 466,
+      "wins": 133,
       "draws": 121,
       "losses": 212,
-      "goals_for": 515,
+      "goals_for": 516,
       "goals_against": 680,
-      "goal_difference": -165,
-      "win_rate": 28.39
+      "goal_difference": -164,
+      "win_rate": 28.54
     },
     "home": {
-      "games_played": 230,
-      "wins": 83,
+      "games_played": 231,
+      "wins": 84,
       "draws": 60,
       "losses": 87,
-      "goals_for": 279,
+      "goals_for": 280,
       "goals_against": 284,
-      "goal_difference": -5,
-      "win_rate": 36.09
+      "goal_difference": -4,
+      "win_rate": 36.36
     },
     "away": {
       "games_played": 235,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "W",
     "L",
     "W",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -251,20 +251,26 @@
       "goals_for": 1,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2025-11-02",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
-    "prob_home": 46.2408256711891,
-    "prob_draw": 26.386731546440323,
-    "prob_away": 27.37244278237056,
-    "max_home": 2.25,
-    "max_draw": 3.6,
+    "prob_home": NaN,
+    "prob_draw": NaN,
+    "prob_away": NaN,
+    "max_home": 2.22,
+    "max_draw": 3.5,
     "max_away": 3.25,
-    "avg_home": 2.13,
-    "avg_draw": 3.44,
-    "avg_away": 3.08,
-    "bfe_home": 2.3,
-    "bfe_draw": 3.65,
-    "bfe_away": 3.35
+    "avg_home": 2.16,
+    "avg_draw": 3.31,
+    "avg_away": 3.12,
+    "bfe_home": 2.34,
+    "bfe_draw": 3.5,
+    "bfe_away": 3.4
   }
 }
