@@ -1,33 +1,33 @@
 {
   "name": "Tigres UANL",
   "last_match": {
-    "vs": "Monterrey",
-    "date": "2025-11-01",
-    "time": "19:05",
-    "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Atl. San Luis",
+    "date": "2025-11-08",
+    "time": "17:00",
+    "home": true,
+    "score": "3 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 538,
-      "wins": 246,
+      "games_played": 539,
+      "wins": 247,
       "draws": 166,
       "losses": 126,
-      "goals_for": 795,
-      "goals_against": 525,
-      "goal_difference": 270,
-      "win_rate": 45.72
+      "goals_for": 798,
+      "goals_against": 526,
+      "goal_difference": 272,
+      "win_rate": 45.83
     },
     "home": {
-      "games_played": 270,
-      "wins": 145,
+      "games_played": 271,
+      "wins": 146,
       "draws": 82,
       "losses": 43,
-      "goals_for": 470,
-      "goals_against": 245,
-      "goal_difference": 225,
-      "win_rate": 53.7
+      "goals_for": 473,
+      "goals_against": 246,
+      "goal_difference": 227,
+      "win_rate": 53.87
     },
     "away": {
       "games_played": 268,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
+    "W",
+    "W",
+    "W",
     "D",
-    "W",
-    "W",
-    "W",
-    "D"
+    "W"
   ],
   "match_history": [
     {
@@ -281,20 +281,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2025-11-08",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.65,
-    "max_draw": 3.5,
-    "max_away": 2.71,
-    "avg_home": 2.56,
-    "avg_draw": 3.28,
-    "avg_away": 2.57,
-    "bfe_home": 2.86,
-    "bfe_draw": 3.45,
-    "bfe_away": 2.74
+    "max_home": 1.34,
+    "max_draw": 5.5,
+    "max_away": 9.0,
+    "avg_home": 1.3,
+    "avg_draw": 5.28,
+    "avg_away": 8.25,
+    "bfe_home": 1.36,
+    "bfe_draw": 5.7,
+    "bfe_away": 9.6
   }
 }

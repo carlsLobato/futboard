@@ -1,33 +1,33 @@
 {
   "name": "Cruz Azul",
   "last_match": {
-    "vs": "Puebla",
-    "date": "2025-10-31",
+    "vs": "UNAM Pumas",
+    "date": "2025-11-08",
     "time": "21:05",
-    "home": false,
-    "score": "0 - 3",
-    "result": "W"
+    "home": true,
+    "score": "2 - 3",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 506,
+      "games_played": 507,
       "wins": 223,
       "draws": 142,
-      "losses": 141,
-      "goals_for": 706,
-      "goals_against": 565,
-      "goal_difference": 141,
-      "win_rate": 44.07
+      "losses": 142,
+      "goals_for": 708,
+      "goals_against": 568,
+      "goal_difference": 140,
+      "win_rate": 43.98
     },
     "home": {
-      "games_played": 255,
+      "games_played": 256,
       "wins": 133,
       "draws": 61,
-      "losses": 61,
-      "goals_for": 390,
-      "goals_against": 250,
-      "goal_difference": 140,
-      "win_rate": 52.16
+      "losses": 62,
+      "goals_for": 392,
+      "goals_against": 253,
+      "goal_difference": 139,
+      "win_rate": 51.95
     },
     "away": {
       "games_played": 251,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "W",
     "D",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -293,20 +293,26 @@
       "goals_for": 3,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-11-08",
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.33,
+    "max_home": 1.8,
     "max_draw": 4.0,
-    "max_away": 1.7,
-    "avg_home": 4.83,
-    "avg_draw": 3.86,
-    "avg_away": 1.62,
-    "bfe_home": 5.9,
-    "bfe_draw": 4.1,
-    "bfe_away": 1.66
+    "max_away": 4.5,
+    "avg_home": 1.75,
+    "avg_draw": 3.74,
+    "avg_away": 4.11,
+    "bfe_home": 1.85,
+    "bfe_draw": 4.2,
+    "bfe_away": 4.4
   }
 }

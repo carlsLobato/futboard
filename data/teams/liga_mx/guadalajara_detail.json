@@ -1,33 +1,33 @@
 {
   "name": "Guadalajara",
   "last_match": {
-    "vs": "Pachuca",
-    "date": "2025-11-02",
-    "time": "19:00",
-    "home": false,
-    "score": "0 - 1",
+    "vs": "Monterrey",
+    "date": "2025-11-08",
+    "time": "17:07",
+    "home": true,
+    "score": "4 - 2",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 492,
-      "wins": 169,
+      "games_played": 493,
+      "wins": 170,
       "draws": 153,
       "losses": 170,
-      "goals_for": 577,
-      "goals_against": 578,
-      "goal_difference": -1,
-      "win_rate": 34.35
+      "goals_for": 581,
+      "goals_against": 580,
+      "goal_difference": 1,
+      "win_rate": 34.48
     },
     "home": {
-      "games_played": 246,
-      "wins": 95,
+      "games_played": 247,
+      "wins": 96,
       "draws": 73,
       "losses": 78,
-      "goals_for": 303,
-      "goals_against": 274,
-      "goal_difference": 29,
-      "win_rate": 38.62
+      "goals_for": 307,
+      "goals_against": 276,
+      "goal_difference": 31,
+      "win_rate": 38.87
     },
     "away": {
       "games_played": 246,
@@ -42,8 +42,8 @@
   },
   "form": [
     "W",
-    "W",
     "L",
+    "W",
     "W",
     "W"
   ],
@@ -251,20 +251,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-11-08",
+      "goals_for": 4,
+      "goals_against": 2,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.05,
-    "max_draw": 3.5,
-    "max_away": 2.52,
-    "avg_home": 2.76,
-    "avg_draw": 3.31,
-    "avg_away": 2.4,
-    "bfe_home": 3.1,
-    "bfe_draw": 3.45,
-    "bfe_away": 2.54
+    "max_home": 2.0,
+    "max_draw": 3.7,
+    "max_away": 3.9,
+    "avg_home": 1.91,
+    "avg_draw": 3.61,
+    "avg_away": 3.56,
+    "bfe_home": 1.99,
+    "bfe_draw": 3.75,
+    "bfe_away": 4.1
   }
 }

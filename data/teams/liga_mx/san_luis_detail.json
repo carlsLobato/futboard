@@ -1,23 +1,23 @@
 {
   "name": "Atl. San Luis",
   "last_match": {
-    "vs": "Juarez",
-    "date": "2025-10-31",
-    "time": "21:00",
-    "home": true,
-    "score": "1 - 2",
+    "vs": "Tigres UANL",
+    "date": "2025-11-08",
+    "time": "17:00",
+    "home": false,
+    "score": "3 - 1",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 264,
+      "games_played": 265,
       "wins": 81,
       "draws": 52,
-      "losses": 131,
-      "goals_for": 325,
-      "goals_against": 419,
-      "goal_difference": -94,
-      "win_rate": 30.68
+      "losses": 132,
+      "goals_for": 326,
+      "goals_against": 422,
+      "goal_difference": -96,
+      "win_rate": 30.57
     },
     "home": {
       "games_played": 131,
@@ -30,20 +30,20 @@
       "win_rate": 34.35
     },
     "away": {
-      "games_played": 133,
+      "games_played": 134,
       "wins": 36,
       "draws": 25,
-      "losses": 72,
-      "goals_for": 156,
-      "goals_against": 224,
-      "goal_difference": -68,
-      "win_rate": 27.07
+      "losses": 73,
+      "goals_for": 157,
+      "goals_against": 227,
+      "goal_difference": -70,
+      "win_rate": 26.87
     }
   },
   "form": [
+    "W",
+    "W",
     "L",
-    "W",
-    "W",
     "L",
     "L"
   ],
@@ -269,20 +269,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2025-11-08",
+      "goals_for": 1,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.3,
-    "max_draw": 3.5,
-    "max_away": 3.25,
-    "avg_home": 2.25,
-    "avg_draw": 3.3,
-    "avg_away": 2.98,
-    "bfe_home": 2.4,
-    "bfe_draw": 3.45,
-    "bfe_away": 3.3
+    "max_home": 1.34,
+    "max_draw": 5.5,
+    "max_away": 9.0,
+    "avg_home": 1.3,
+    "avg_draw": 5.28,
+    "avg_away": 8.25,
+    "bfe_home": 1.36,
+    "bfe_draw": 5.7,
+    "bfe_away": 9.6
   }
 }

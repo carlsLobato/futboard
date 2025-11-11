@@ -1,23 +1,23 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Club Tijuana",
-    "date": "2025-11-02",
-    "time": "12:00",
-    "home": true,
-    "score": "4 - 1",
+    "vs": "Cruz Azul",
+    "date": "2025-11-08",
+    "time": "21:05",
+    "home": false,
+    "score": "2 - 3",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 495,
-      "wins": 170,
+      "games_played": 496,
+      "wins": 171,
       "draws": 141,
       "losses": 184,
-      "goals_for": 643,
-      "goals_against": 661,
-      "goal_difference": -18,
-      "win_rate": 34.34
+      "goals_for": 646,
+      "goals_against": 663,
+      "goal_difference": -17,
+      "win_rate": 34.48
     },
     "home": {
       "games_played": 245,
@@ -30,21 +30,21 @@
       "win_rate": 42.86
     },
     "away": {
-      "games_played": 250,
-      "wins": 65,
+      "games_played": 251,
+      "wins": 66,
       "draws": 68,
       "losses": 117,
-      "goals_for": 273,
-      "goals_against": 388,
-      "goal_difference": -115,
-      "win_rate": 26.0
+      "goals_for": 276,
+      "goals_against": 390,
+      "goal_difference": -114,
+      "win_rate": 26.29
     }
   },
   "form": [
-    "L",
     "D",
     "L",
     "D",
+    "W",
     "W"
   ],
   "match_history": [
@@ -269,20 +269,26 @@
       "goals_for": 4,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2025-11-08",
+      "goals_for": 3,
+      "goals_against": 2,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.58,
-    "max_draw": 4.25,
-    "max_away": 5.75,
-    "avg_home": 1.55,
-    "avg_draw": 4.13,
-    "avg_away": 5.17,
-    "bfe_home": 1.59,
-    "bfe_draw": 4.6,
-    "bfe_away": 6.0
+    "max_home": 1.8,
+    "max_draw": 4.0,
+    "max_away": 4.5,
+    "avg_home": 1.75,
+    "avg_draw": 3.74,
+    "avg_away": 4.11,
+    "bfe_home": 1.85,
+    "bfe_draw": 4.2,
+    "bfe_away": 4.4
   }
 }

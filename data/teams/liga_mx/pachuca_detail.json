@@ -1,23 +1,23 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Guadalajara Chivas",
-    "date": "2025-11-02",
-    "time": "19:00",
-    "home": true,
-    "score": "0 - 1",
+    "vs": "Santos Laguna",
+    "date": "2025-11-09",
+    "time": "17:00",
+    "home": false,
+    "score": "1 - 0",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 502,
+      "games_played": 503,
       "wins": 200,
       "draws": 136,
-      "losses": 166,
+      "losses": 167,
       "goals_for": 730,
-      "goals_against": 639,
-      "goal_difference": 91,
-      "win_rate": 39.84
+      "goals_against": 640,
+      "goal_difference": 90,
+      "win_rate": 39.76
     },
     "home": {
       "games_played": 252,
@@ -30,21 +30,21 @@
       "win_rate": 49.21
     },
     "away": {
-      "games_played": 250,
+      "games_played": 251,
       "wins": 76,
       "draws": 68,
-      "losses": 106,
+      "losses": 107,
       "goals_for": 325,
-      "goals_against": 376,
-      "goal_difference": -51,
-      "win_rate": 30.4
+      "goals_against": 377,
+      "goal_difference": -52,
+      "win_rate": 30.28
     }
   },
   "form": [
-    "W",
     "D",
     "L",
     "D",
+    "L",
     "L"
   ],
   "match_history": [
@@ -263,20 +263,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2025-11-09",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.05,
-    "max_draw": 3.5,
-    "max_away": 2.52,
-    "avg_home": 2.76,
-    "avg_draw": 3.31,
-    "avg_away": 2.4,
-    "bfe_home": 3.1,
-    "bfe_draw": 3.45,
-    "bfe_away": 2.54
+    "max_home": 4.5,
+    "max_draw": 4.5,
+    "max_away": 1.68,
+    "avg_home": 4.26,
+    "avg_draw": 4.14,
+    "avg_away": 1.64,
+    "bfe_home": 4.5,
+    "bfe_draw": 4.4,
+    "bfe_away": 1.77
   }
 }

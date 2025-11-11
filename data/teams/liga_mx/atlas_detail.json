@@ -1,23 +1,23 @@
 {
   "name": "Atlas",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2025-11-01",
-    "time": "17:00",
-    "home": true,
-    "score": "0 - 0",
-    "result": "T"
+    "vs": "Club Tijuana",
+    "date": "2025-11-07",
+    "time": "21:00",
+    "home": false,
+    "score": "2 - 0",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 482,
+      "games_played": 483,
       "wins": 144,
       "draws": 138,
-      "losses": 200,
+      "losses": 201,
       "goals_for": 536,
-      "goals_against": 656,
-      "goal_difference": -120,
-      "win_rate": 29.88
+      "goals_against": 658,
+      "goal_difference": -122,
+      "win_rate": 29.81
     },
     "home": {
       "games_played": 240,
@@ -30,30 +30,24 @@
       "win_rate": 33.75
     },
     "away": {
-      "games_played": 242,
+      "games_played": 243,
       "wins": 63,
       "draws": 70,
-      "losses": 109,
+      "losses": 110,
       "goals_for": 265,
-      "goals_against": 366,
-      "goal_difference": -101,
-      "win_rate": 26.03
+      "goals_against": 368,
+      "goal_difference": -103,
+      "win_rate": 25.93
     }
   },
   "form": [
-    "W",
     "L",
     "W",
     "L",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
-    {
-      "date": "2024-11-10",
-      "goals_for": 0,
-      "goals_against": 0,
-      "result": "T"
-    },
     {
       "date": "2024-11-21",
       "goals_for": 2,
@@ -263,20 +257,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2025-11-07",
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.1,
-    "max_draw": 4.5,
-    "max_away": 1.62,
-    "avg_home": 4.76,
-    "avg_draw": 4.22,
-    "avg_away": 1.57,
-    "bfe_home": 5.2,
-    "bfe_draw": 4.5,
-    "bfe_away": 1.67
+    "max_home": 1.7,
+    "max_draw": 4.2,
+    "max_away": 4.75,
+    "avg_home": 1.66,
+    "avg_draw": 4.04,
+    "avg_away": 4.32,
+    "bfe_home": 1.75,
+    "bfe_draw": 4.4,
+    "bfe_away": 4.8
   }
 }
