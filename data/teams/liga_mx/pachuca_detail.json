@@ -1,33 +1,33 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2025-11-09",
-    "time": "17:00",
-    "home": false,
-    "score": "1 - 0",
-    "result": "L"
+    "vs": "UNAM Pumas",
+    "date": "2025-11-20",
+    "time": "19:00",
+    "home": true,
+    "score": "3 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 503,
-      "wins": 200,
+      "games_played": 504,
+      "wins": 201,
       "draws": 136,
       "losses": 167,
-      "goals_for": 730,
-      "goals_against": 640,
-      "goal_difference": 90,
-      "win_rate": 39.76
+      "goals_for": 733,
+      "goals_against": 641,
+      "goal_difference": 92,
+      "win_rate": 39.88
     },
     "home": {
-      "games_played": 252,
-      "wins": 124,
+      "games_played": 253,
+      "wins": 125,
       "draws": 68,
       "losses": 60,
-      "goals_for": 405,
-      "goals_against": 263,
-      "goal_difference": 142,
-      "win_rate": 49.21
+      "goals_for": 408,
+      "goals_against": 264,
+      "goal_difference": 144,
+      "win_rate": 49.41
     },
     "away": {
       "games_played": 251,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "L",
     "D",
     "L",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -269,20 +269,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2025-11-20",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 4.5,
-    "max_draw": 4.5,
-    "max_away": 1.68,
-    "avg_home": 4.26,
-    "avg_draw": 4.14,
-    "avg_away": 1.64,
-    "bfe_home": 4.5,
-    "bfe_draw": 4.4,
-    "bfe_away": 1.77
+    "max_home": 2.07,
+    "max_draw": 3.6,
+    "max_away": 4.0,
+    "avg_home": 1.99,
+    "avg_draw": 3.34,
+    "avg_away": 3.58,
+    "bfe_home": 2.08,
+    "bfe_draw": 3.5,
+    "bfe_away": 4.1
   }
 }
