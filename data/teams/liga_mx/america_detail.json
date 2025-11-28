@@ -1,23 +1,23 @@
 {
   "name": "América",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2025-11-08",
-    "time": "19:00",
+    "vs": "Monterrey",
+    "date": "2025-11-26",
+    "time": "21:05",
     "home": false,
     "score": "2 - 0",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 560,
+      "games_played": 561,
       "wins": 283,
       "draws": 150,
-      "losses": 127,
+      "losses": 128,
       "goals_for": 919,
-      "goals_against": 586,
-      "goal_difference": 333,
-      "win_rate": 50.54
+      "goals_against": 588,
+      "goal_difference": 331,
+      "win_rate": 50.45
     },
     "home": {
       "games_played": 279,
@@ -30,30 +30,24 @@
       "win_rate": 58.78
     },
     "away": {
-      "games_played": 281,
+      "games_played": 282,
       "wins": 119,
       "draws": 89,
-      "losses": 73,
+      "losses": 74,
       "goals_for": 422,
-      "goals_against": 327,
-      "goal_difference": 95,
-      "win_rate": 42.35
+      "goals_against": 329,
+      "goal_difference": 93,
+      "win_rate": 42.2
     }
   },
   "form": [
-    "L",
     "W",
     "D",
     "W",
+    "L",
     "L"
   ],
   "match_history": [
-    {
-      "date": "2024-11-27",
-      "goals_for": 2,
-      "goals_against": 0,
-      "result": "W"
-    },
     {
       "date": "2024-11-30",
       "goals_for": 2,
@@ -323,20 +317,26 @@
       "goals_for": 0,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2025-11-26",
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.45,
-    "max_draw": 3.7,
-    "max_away": 2.74,
-    "avg_home": 2.39,
-    "avg_draw": 3.5,
-    "avg_away": 2.63,
-    "bfe_home": 2.56,
-    "bfe_draw": 3.7,
-    "bfe_away": 2.86
+    "max_home": 2.76,
+    "max_draw": 3.3,
+    "max_away": 2.71,
+    "avg_home": 2.66,
+    "avg_draw": 3.16,
+    "avg_away": 2.55,
+    "bfe_home": 2.84,
+    "bfe_draw": 3.3,
+    "bfe_away": 2.74
   }
 }
