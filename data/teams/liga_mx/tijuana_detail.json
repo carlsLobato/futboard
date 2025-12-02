@@ -2,22 +2,22 @@
   "name": "Tijuana",
   "last_match": {
     "vs": "Tigres UANL",
-    "date": "2025-11-26",
-    "time": "23:00",
-    "home": true,
-    "score": "3 - 0",
-    "result": "W"
+    "date": "2025-11-29",
+    "time": "21:10",
+    "home": false,
+    "score": "5 - 0",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 479,
+      "games_played": 480,
       "wins": 162,
       "draws": 127,
-      "losses": 190,
+      "losses": 191,
       "goals_for": 598,
-      "goals_against": 687,
-      "goal_difference": -89,
-      "win_rate": 33.82
+      "goals_against": 692,
+      "goal_difference": -94,
+      "win_rate": 33.75
     },
     "home": {
       "games_played": 243,
@@ -30,22 +30,22 @@
       "win_rate": 46.91
     },
     "away": {
-      "games_played": 236,
+      "games_played": 237,
       "wins": 48,
       "draws": 57,
-      "losses": 131,
+      "losses": 132,
       "goals_for": 224,
-      "goals_against": 420,
-      "goal_difference": -196,
-      "win_rate": 20.34
+      "goals_against": 425,
+      "goal_difference": -201,
+      "win_rate": 20.25
     }
   },
   "form": [
     "L",
-    "L",
     "W",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -263,20 +263,26 @@
       "goals_for": 3,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2025-11-29",
+      "goals_for": 0,
+      "goals_against": 5,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.5,
-    "max_draw": 3.45,
-    "max_away": 2.25,
-    "avg_home": 3.25,
-    "avg_draw": 3.26,
-    "avg_away": 2.12,
-    "bfe_home": 3.5,
-    "bfe_draw": 3.4,
-    "bfe_away": 2.28
+    "max_home": 1.33,
+    "max_draw": 5.33,
+    "max_away": 9.0,
+    "avg_home": 1.31,
+    "avg_draw": 5.13,
+    "avg_away": 8.02,
+    "bfe_home": 1.36,
+    "bfe_draw": 5.9,
+    "bfe_away": 9.6
   }
 }

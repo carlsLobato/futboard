@@ -2,22 +2,22 @@
   "name": "Guadalajara",
   "last_match": {
     "vs": "Cruz Azul",
-    "date": "2025-11-27",
-    "time": "20:07",
-    "home": true,
-    "score": "0 - 0",
-    "result": "T"
+    "date": "2025-11-30",
+    "time": "19:00",
+    "home": false,
+    "score": "3 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 494,
+      "games_played": 495,
       "wins": 170,
       "draws": 154,
-      "losses": 170,
-      "goals_for": 581,
-      "goals_against": 580,
-      "goal_difference": 1,
-      "win_rate": 34.41
+      "losses": 171,
+      "goals_for": 583,
+      "goals_against": 583,
+      "goal_difference": 0,
+      "win_rate": 34.34
     },
     "home": {
       "games_played": 248,
@@ -30,22 +30,22 @@
       "win_rate": 38.71
     },
     "away": {
-      "games_played": 246,
+      "games_played": 247,
       "wins": 74,
       "draws": 80,
-      "losses": 92,
-      "goals_for": 274,
-      "goals_against": 304,
-      "goal_difference": -30,
-      "win_rate": 30.08
+      "losses": 93,
+      "goals_for": 276,
+      "goals_against": 307,
+      "goal_difference": -31,
+      "win_rate": 29.96
     }
   },
   "form": [
-    "L",
     "W",
     "W",
     "W",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2025-11-30",
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.23,
+    "max_home": 2.16,
     "max_draw": 3.5,
-    "max_away": 3.35,
-    "avg_home": 2.18,
-    "avg_draw": 3.28,
-    "avg_away": 3.12,
-    "bfe_home": 2.28,
-    "bfe_draw": 3.45,
-    "bfe_away": 3.55
+    "max_away": 3.6,
+    "avg_home": 2.06,
+    "avg_draw": 3.3,
+    "avg_away": 3.39,
+    "bfe_home": 2.24,
+    "bfe_draw": 3.5,
+    "bfe_away": 3.65
   }
 }
