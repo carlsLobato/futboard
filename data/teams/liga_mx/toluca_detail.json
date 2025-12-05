@@ -1,23 +1,23 @@
 {
   "name": "Toluca",
   "last_match": {
-    "vs": "Juarez",
-    "date": "2025-11-29",
-    "time": "19:05",
-    "home": true,
-    "score": "0 - 0",
-    "result": "T"
+    "vs": "Monterrey",
+    "date": "2025-12-03",
+    "time": "21:10",
+    "home": false,
+    "score": "1 - 0",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 515,
+      "games_played": 516,
       "wins": 219,
       "draws": 142,
-      "losses": 154,
+      "losses": 155,
       "goals_for": 796,
-      "goals_against": 649,
-      "goal_difference": 147,
-      "win_rate": 42.52
+      "goals_against": 650,
+      "goal_difference": 146,
+      "win_rate": 42.44
     },
     "home": {
       "games_played": 258,
@@ -30,22 +30,22 @@
       "win_rate": 54.26
     },
     "away": {
-      "games_played": 257,
+      "games_played": 258,
       "wins": 79,
       "draws": 78,
-      "losses": 100,
+      "losses": 101,
       "goals_for": 315,
-      "goals_against": 365,
-      "goal_difference": -50,
-      "win_rate": 30.74
+      "goals_against": 366,
+      "goal_difference": -51,
+      "win_rate": 30.62
     }
   },
   "form": [
     "D",
+    "W",
+    "W",
     "D",
-    "W",
-    "W",
-    "D"
+    "L"
   ],
   "match_history": [
     {
@@ -299,20 +299,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2025-12-03",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.32,
-    "max_draw": 5.66,
-    "max_away": 10.0,
-    "avg_home": 1.3,
-    "avg_draw": 5.27,
-    "avg_away": 8.14,
-    "bfe_home": 1.34,
-    "bfe_draw": 6.0,
-    "bfe_away": 10.0
+    "max_home": 2.68,
+    "max_draw": 3.6,
+    "max_away": 2.6,
+    "avg_home": 2.59,
+    "avg_draw": 3.44,
+    "avg_away": 2.46,
+    "bfe_home": 2.78,
+    "bfe_draw": 3.55,
+    "bfe_away": 2.74
   }
 }
