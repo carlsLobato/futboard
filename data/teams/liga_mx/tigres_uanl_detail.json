@@ -2,32 +2,32 @@
   "name": "Tigres UANL",
   "last_match": {
     "vs": "Cruz Azul",
-    "date": "2025-12-03",
-    "time": "19:00",
-    "home": false,
+    "date": "2025-12-06",
+    "time": "21:10",
+    "home": true,
     "score": "1 - 1",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 542,
+      "games_played": 543,
       "wins": 248,
-      "draws": 167,
+      "draws": 168,
       "losses": 127,
-      "goals_for": 804,
-      "goals_against": 530,
+      "goals_for": 805,
+      "goals_against": 531,
       "goal_difference": 274,
-      "win_rate": 45.76
+      "win_rate": 45.67
     },
     "home": {
-      "games_played": 272,
+      "games_played": 273,
       "wins": 147,
-      "draws": 82,
+      "draws": 83,
       "losses": 43,
-      "goals_for": 478,
-      "goals_against": 246,
+      "goals_for": 479,
+      "goals_against": 247,
       "goal_difference": 232,
-      "win_rate": 54.04
+      "win_rate": 53.85
     },
     "away": {
       "games_played": 270,
@@ -41,10 +41,10 @@
     }
   },
   "form": [
-    "D",
     "W",
     "L",
     "W",
+    "D",
     "D"
   ],
   "match_history": [
@@ -293,20 +293,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2025-12-06",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.3,
-    "max_draw": 3.3,
-    "max_away": 3.5,
-    "avg_home": 2.23,
-    "avg_draw": 3.13,
-    "avg_away": 3.16,
-    "bfe_home": 2.36,
-    "bfe_draw": 3.3,
-    "bfe_away": 3.5
+    "max_home": 1.94,
+    "max_draw": 3.7,
+    "max_away": 4.1,
+    "avg_home": 1.88,
+    "avg_draw": 3.42,
+    "avg_away": 3.84,
+    "bfe_home": 1.92,
+    "bfe_draw": 3.65,
+    "bfe_away": 4.5
   }
 }
