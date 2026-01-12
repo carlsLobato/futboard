@@ -1,33 +1,33 @@
 {
   "name": "Mazatlán",
   "last_match": {
-    "vs": "Necaxa",
-    "date": "2025-11-07",
-    "time": "21:00",
+    "vs": "Juarez",
+    "date": "2026-01-09",
+    "time": "19:00",
     "home": true,
-    "score": "1 - 1",
-    "result": "T"
+    "score": "1 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 189,
+      "games_played": 190,
       "wins": 44,
       "draws": 54,
-      "losses": 91,
-      "goals_for": 212,
-      "goals_against": 307,
-      "goal_difference": -95,
-      "win_rate": 23.28
+      "losses": 92,
+      "goals_for": 213,
+      "goals_against": 309,
+      "goal_difference": -96,
+      "win_rate": 23.16
     },
     "home": {
-      "games_played": 94,
+      "games_played": 95,
       "wins": 32,
       "draws": 31,
-      "losses": 31,
-      "goals_for": 126,
-      "goals_against": 134,
-      "goal_difference": -8,
-      "win_rate": 34.04
+      "losses": 32,
+      "goals_for": 127,
+      "goals_against": 136,
+      "goal_difference": -9,
+      "win_rate": 33.68
     },
     "away": {
       "games_played": 95,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "D",
     "D",
     "L",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-01-09",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.75,
-    "max_draw": 3.8,
-    "max_away": 2.0,
-    "avg_home": 3.36,
-    "avg_draw": 3.7,
-    "avg_away": 1.94,
-    "bfe_home": 3.7,
-    "bfe_draw": 3.95,
-    "bfe_away": 2.08
+    "max_home": 3.05,
+    "max_draw": 3.15,
+    "max_away": 2.6,
+    "avg_home": 2.81,
+    "avg_draw": 3.06,
+    "avg_away": 2.48,
+    "bfe_home": 3.15,
+    "bfe_draw": 3.2,
+    "bfe_away": 2.6
   }
 }

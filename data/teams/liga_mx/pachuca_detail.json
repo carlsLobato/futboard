@@ -1,23 +1,23 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2025-11-20",
-    "time": "19:00",
-    "home": true,
-    "score": "3 - 1",
-    "result": "W"
+    "vs": "Guadalajara Chivas",
+    "date": "2026-01-10",
+    "time": "17:07",
+    "home": false,
+    "score": "2 - 0",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 504,
+      "games_played": 505,
       "wins": 201,
       "draws": 136,
-      "losses": 167,
+      "losses": 168,
       "goals_for": 733,
-      "goals_against": 641,
-      "goal_difference": 92,
-      "win_rate": 39.88
+      "goals_against": 643,
+      "goal_difference": 90,
+      "win_rate": 39.8
     },
     "home": {
       "games_played": 253,
@@ -30,22 +30,22 @@
       "win_rate": 49.41
     },
     "away": {
-      "games_played": 251,
+      "games_played": 252,
       "wins": 76,
       "draws": 68,
-      "losses": 107,
+      "losses": 108,
       "goals_for": 325,
-      "goals_against": 377,
-      "goal_difference": -52,
-      "win_rate": 30.28
+      "goals_against": 379,
+      "goal_difference": -54,
+      "win_rate": 30.16
     }
   },
   "form": [
-    "L",
     "D",
     "L",
     "L",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -275,20 +275,26 @@
       "goals_for": 3,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-01-10",
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.07,
-    "max_draw": 3.6,
-    "max_away": 4.0,
-    "avg_home": 1.99,
-    "avg_draw": 3.34,
-    "avg_away": 3.58,
-    "bfe_home": 2.08,
-    "bfe_draw": 3.5,
-    "bfe_away": 4.1
+    "max_home": 1.71,
+    "max_draw": 4.2,
+    "max_away": 5.25,
+    "avg_home": 1.62,
+    "avg_draw": 3.93,
+    "avg_away": 4.71,
+    "bfe_home": 1.66,
+    "bfe_draw": 4.3,
+    "bfe_away": 5.6
   }
 }

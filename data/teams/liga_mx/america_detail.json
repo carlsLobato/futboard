@@ -1,23 +1,23 @@
 {
   "name": "América",
   "last_match": {
-    "vs": "Monterrey",
-    "date": "2025-11-29",
-    "time": "17:00",
-    "home": true,
-    "score": "2 - 1",
-    "result": "W"
+    "vs": "Club Tijuana",
+    "date": "2026-01-09",
+    "time": "21:00",
+    "home": false,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 562,
+      "games_played": 563,
       "wins": 284,
-      "draws": 150,
+      "draws": 151,
       "losses": 128,
       "goals_for": 921,
       "goals_against": 589,
       "goal_difference": 332,
-      "win_rate": 50.53
+      "win_rate": 50.44
     },
     "home": {
       "games_played": 280,
@@ -30,22 +30,22 @@
       "win_rate": 58.93
     },
     "away": {
-      "games_played": 282,
+      "games_played": 283,
       "wins": 119,
-      "draws": 89,
+      "draws": 90,
       "losses": 74,
       "goals_for": 422,
       "goals_against": 329,
       "goal_difference": 93,
-      "win_rate": 42.2
+      "win_rate": 42.05
     }
   },
   "form": [
-    "D",
     "W",
     "L",
     "L",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -293,20 +293,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-01-09",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.5,
-    "max_draw": 4.8,
-    "max_away": 6.5,
-    "avg_home": 1.45,
-    "avg_draw": 4.46,
-    "avg_away": 5.95,
-    "bfe_home": 1.47,
-    "bfe_draw": 5.1,
-    "bfe_away": 7.2
+    "max_home": 3.6,
+    "max_draw": 3.6,
+    "max_away": 2.15,
+    "avg_home": 3.34,
+    "avg_draw": 3.39,
+    "avg_away": 2.04,
+    "bfe_home": 3.65,
+    "bfe_draw": 3.55,
+    "bfe_away": 2.2
   }
 }

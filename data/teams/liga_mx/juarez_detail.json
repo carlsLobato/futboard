@@ -1,23 +1,23 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2025-11-29",
-    "time": "19:05",
+    "vs": "Mazatlan FC",
+    "date": "2026-01-09",
+    "time": "19:00",
     "home": false,
-    "score": "0 - 0",
-    "result": "T"
+    "score": "1 - 2",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 220,
-      "wins": 57,
+      "games_played": 221,
+      "wins": 58,
       "draws": 56,
       "losses": 107,
-      "goals_for": 235,
-      "goals_against": 343,
-      "goal_difference": -108,
-      "win_rate": 25.91
+      "goals_for": 237,
+      "goals_against": 344,
+      "goal_difference": -107,
+      "win_rate": 26.24
     },
     "home": {
       "games_played": 110,
@@ -30,22 +30,22 @@
       "win_rate": 30.91
     },
     "away": {
-      "games_played": 110,
-      "wins": 23,
+      "games_played": 111,
+      "wins": 24,
       "draws": 22,
       "losses": 65,
-      "goals_for": 100,
-      "goals_against": 193,
-      "goal_difference": -93,
-      "win_rate": 20.91
+      "goals_for": 102,
+      "goals_against": 194,
+      "goal_difference": -92,
+      "win_rate": 21.62
     }
   },
   "form": [
-    "W",
     "L",
     "L",
     "L",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -269,20 +269,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2026-01-09",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.32,
-    "max_draw": 5.66,
-    "max_away": 10.0,
-    "avg_home": 1.3,
-    "avg_draw": 5.27,
-    "avg_away": 8.14,
-    "bfe_home": 1.34,
-    "bfe_draw": 6.0,
-    "bfe_away": 10.0
+    "max_home": 3.05,
+    "max_draw": 3.15,
+    "max_away": 2.6,
+    "avg_home": 2.81,
+    "avg_draw": 3.06,
+    "avg_away": 2.48,
+    "bfe_home": 3.15,
+    "bfe_draw": 3.2,
+    "bfe_away": 2.6
   }
 }

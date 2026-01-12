@@ -1,23 +1,23 @@
 {
   "name": "Necaxa",
   "last_match": {
-    "vs": "Mazatlan FC",
-    "date": "2025-11-07",
-    "time": "21:00",
+    "vs": "Santos Laguna",
+    "date": "2026-01-10",
+    "time": "19:00",
     "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "score": "1 - 3",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 334,
-      "wins": 105,
+      "games_played": 335,
+      "wins": 106,
       "draws": 97,
       "losses": 132,
-      "goals_for": 427,
-      "goals_against": 465,
-      "goal_difference": -38,
-      "win_rate": 31.44
+      "goals_for": 430,
+      "goals_against": 466,
+      "goal_difference": -36,
+      "win_rate": 31.64
     },
     "home": {
       "games_played": 165,
@@ -30,22 +30,22 @@
       "win_rate": 35.76
     },
     "away": {
-      "games_played": 169,
-      "wins": 46,
+      "games_played": 170,
+      "wins": 47,
       "draws": 43,
       "losses": 80,
-      "goals_for": 204,
-      "goals_against": 259,
-      "goal_difference": -55,
-      "win_rate": 27.22
+      "goals_for": 207,
+      "goals_against": 260,
+      "goal_difference": -53,
+      "win_rate": 27.65
     }
   },
   "form": [
-    "L",
     "D",
     "W",
     "W",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -263,20 +263,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-01-10",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.75,
-    "max_draw": 3.8,
-    "max_away": 2.0,
-    "avg_home": 3.36,
-    "avg_draw": 3.7,
-    "avg_away": 1.94,
-    "bfe_home": 3.7,
-    "bfe_draw": 3.95,
-    "bfe_away": 2.08
+    "max_home": 3.45,
+    "max_draw": 3.75,
+    "max_away": 2.2,
+    "avg_home": 3.09,
+    "avg_draw": 3.54,
+    "avg_away": 2.08,
+    "bfe_home": 3.35,
+    "bfe_draw": 3.8,
+    "bfe_away": 2.22
   }
 }
