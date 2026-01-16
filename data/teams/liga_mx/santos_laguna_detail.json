@@ -1,23 +1,23 @@
 {
   "name": "Santos Laguna",
   "last_match": {
-    "vs": "Necaxa",
-    "date": "2026-01-10",
-    "time": "19:00",
-    "home": true,
-    "score": "1 - 3",
+    "vs": "Toluca",
+    "date": "2026-01-14",
+    "time": "21:10",
+    "home": false,
+    "score": "3 - 1",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 504,
+      "games_played": 505,
       "wins": 182,
       "draws": 139,
-      "losses": 183,
-      "goals_for": 721,
-      "goals_against": 720,
-      "goal_difference": 1,
-      "win_rate": 36.11
+      "losses": 184,
+      "goals_for": 722,
+      "goals_against": 723,
+      "goal_difference": -1,
+      "win_rate": 36.04
     },
     "home": {
       "games_played": 254,
@@ -30,21 +30,21 @@
       "win_rate": 50.79
     },
     "away": {
-      "games_played": 250,
+      "games_played": 251,
       "wins": 53,
       "draws": 77,
-      "losses": 120,
-      "goals_for": 295,
-      "goals_against": 414,
-      "goal_difference": -119,
-      "win_rate": 21.2
+      "losses": 121,
+      "goals_for": 296,
+      "goals_against": 417,
+      "goal_difference": -121,
+      "win_rate": 21.12
     }
   },
   "form": [
-    "D",
     "W",
     "L",
     "W",
+    "L",
     "L"
   ],
   "match_history": [
@@ -251,20 +251,26 @@
       "goals_for": 1,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-01-14",
+      "goals_for": 1,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.45,
-    "max_draw": 3.75,
-    "max_away": 2.2,
-    "avg_home": 3.09,
-    "avg_draw": 3.54,
-    "avg_away": 2.08,
-    "bfe_home": 3.35,
-    "bfe_draw": 3.8,
-    "bfe_away": 2.22
+    "max_home": 1.21,
+    "max_draw": 8.0,
+    "max_away": 16.5,
+    "avg_home": 1.17,
+    "avg_draw": 7.07,
+    "avg_away": 11.47,
+    "bfe_home": 1.2,
+    "bfe_draw": 9.4,
+    "bfe_away": 14.5
   }
 }

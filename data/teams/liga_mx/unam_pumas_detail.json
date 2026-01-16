@@ -1,23 +1,23 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2026-01-11",
-    "time": "12:00",
-    "home": true,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Tigres UANL",
+    "date": "2026-01-14",
+    "time": "21:06",
+    "home": false,
+    "score": "0 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 498,
-      "wins": 171,
+      "games_played": 499,
+      "wins": 172,
       "draws": 142,
       "losses": 185,
-      "goals_for": 648,
+      "goals_for": 649,
       "goals_against": 667,
-      "goal_difference": -19,
-      "win_rate": 34.34
+      "goal_difference": -18,
+      "win_rate": 34.47
     },
     "home": {
       "games_played": 246,
@@ -30,22 +30,22 @@
       "win_rate": 42.68
     },
     "away": {
-      "games_played": 252,
-      "wins": 66,
+      "games_played": 253,
+      "wins": 67,
       "draws": 68,
       "losses": 118,
-      "goals_for": 277,
+      "goals_for": 278,
       "goals_against": 393,
-      "goal_difference": -116,
-      "win_rate": 26.19
+      "goal_difference": -115,
+      "win_rate": 26.48
     }
   },
   "form": [
-    "D",
     "W",
     "W",
     "L",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -269,20 +269,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-01-14",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.8,
-    "max_draw": 3.65,
-    "max_away": 5.5,
-    "avg_home": 1.71,
-    "avg_draw": 3.45,
-    "avg_away": 4.74,
-    "bfe_home": 1.85,
-    "bfe_draw": 3.6,
-    "bfe_away": 5.2
+    "max_home": 1.65,
+    "max_draw": 4.0,
+    "max_away": 6.33,
+    "avg_home": 1.58,
+    "avg_draw": 3.74,
+    "avg_away": 5.41,
+    "bfe_home": 1.64,
+    "bfe_draw": 4.2,
+    "bfe_away": 6.2
   }
 }

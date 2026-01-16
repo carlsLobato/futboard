@@ -1,23 +1,23 @@
 {
   "name": "Tijuana",
   "last_match": {
-    "vs": "Club America",
-    "date": "2026-01-09",
-    "time": "21:00",
-    "home": true,
-    "score": "0 - 0",
-    "result": "T"
+    "vs": "Queretaro",
+    "date": "2026-01-14",
+    "time": "19:00",
+    "home": false,
+    "score": "1 - 2",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 481,
-      "wins": 162,
+      "games_played": 482,
+      "wins": 163,
       "draws": 128,
       "losses": 191,
-      "goals_for": 598,
-      "goals_against": 692,
-      "goal_difference": -94,
-      "win_rate": 33.68
+      "goals_for": 600,
+      "goals_against": 693,
+      "goal_difference": -93,
+      "win_rate": 33.82
     },
     "home": {
       "games_played": 244,
@@ -30,22 +30,22 @@
       "win_rate": 46.72
     },
     "away": {
-      "games_played": 237,
-      "wins": 48,
+      "games_played": 238,
+      "wins": 49,
       "draws": 57,
       "losses": 132,
-      "goals_for": 224,
-      "goals_against": 425,
-      "goal_difference": -201,
-      "win_rate": 20.25
+      "goals_for": 226,
+      "goals_against": 426,
+      "goal_difference": -200,
+      "win_rate": 20.59
     }
   },
   "form": [
     "W",
     "W",
-    "W",
     "L",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -269,20 +269,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2026-01-14",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.6,
-    "max_draw": 3.6,
-    "max_away": 2.15,
-    "avg_home": 3.34,
-    "avg_draw": 3.39,
-    "avg_away": 2.04,
-    "bfe_home": 3.65,
-    "bfe_draw": 3.55,
-    "bfe_away": 2.2
+    "max_home": 2.75,
+    "max_draw": 3.25,
+    "max_away": 2.85,
+    "avg_home": 2.58,
+    "avg_draw": 3.15,
+    "avg_away": 2.63,
+    "bfe_home": 2.66,
+    "bfe_draw": 3.35,
+    "bfe_away": 2.96
   }
 }

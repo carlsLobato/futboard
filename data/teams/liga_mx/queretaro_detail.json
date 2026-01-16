@@ -1,33 +1,33 @@
 {
   "name": "Querétaro",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-01-11",
-    "time": "12:00",
-    "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Club Tijuana",
+    "date": "2026-01-14",
+    "time": "19:00",
+    "home": true,
+    "score": "1 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 468,
+      "games_played": 469,
       "wins": 134,
       "draws": 122,
-      "losses": 212,
-      "goals_for": 519,
-      "goals_against": 682,
-      "goal_difference": -163,
-      "win_rate": 28.63
+      "losses": 213,
+      "goals_for": 520,
+      "goals_against": 684,
+      "goal_difference": -164,
+      "win_rate": 28.57
     },
     "home": {
-      "games_played": 231,
+      "games_played": 232,
       "wins": 84,
       "draws": 60,
-      "losses": 87,
-      "goals_for": 280,
-      "goals_against": 284,
-      "goal_difference": -4,
-      "win_rate": 36.36
+      "losses": 88,
+      "goals_for": 281,
+      "goals_against": 286,
+      "goal_difference": -5,
+      "win_rate": 36.21
     },
     "away": {
       "games_played": 237,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "L",
     "W",
     "W",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -251,20 +251,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-01-14",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.8,
-    "max_draw": 3.65,
-    "max_away": 5.5,
-    "avg_home": 1.71,
-    "avg_draw": 3.45,
-    "avg_away": 4.74,
-    "bfe_home": 1.85,
-    "bfe_draw": 3.6,
-    "bfe_away": 5.2
+    "max_home": 2.75,
+    "max_draw": 3.25,
+    "max_away": 2.85,
+    "avg_home": 2.58,
+    "avg_draw": 3.15,
+    "avg_away": 2.63,
+    "bfe_home": 2.66,
+    "bfe_draw": 3.35,
+    "bfe_away": 2.96
   }
 }
