@@ -1,23 +1,23 @@
 {
   "name": "América",
   "last_match": {
-    "vs": "Atl. San Luis",
-    "date": "2026-01-14",
-    "time": "19:05",
-    "home": true,
-    "score": "0 - 2",
-    "result": "L"
+    "vs": "Pachuca",
+    "date": "2026-01-18",
+    "time": "19:06",
+    "home": false,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 564,
+      "games_played": 565,
       "wins": 284,
-      "draws": 151,
+      "draws": 152,
       "losses": 129,
       "goals_for": 921,
       "goals_against": 591,
       "goal_difference": 330,
-      "win_rate": 50.35
+      "win_rate": 50.27
     },
     "home": {
       "games_played": 281,
@@ -30,22 +30,22 @@
       "win_rate": 58.72
     },
     "away": {
-      "games_played": 283,
+      "games_played": 284,
       "wins": 119,
-      "draws": 90,
+      "draws": 91,
       "losses": 74,
       "goals_for": 422,
       "goals_against": 329,
       "goal_difference": 93,
-      "win_rate": 42.05
+      "win_rate": 41.9
     }
   },
   "form": [
     "L",
-    "L",
     "W",
     "D",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -299,20 +299,26 @@
       "goals_for": 0,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-01-18",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.5,
-    "max_draw": 4.7,
-    "max_away": 7.5,
-    "avg_home": 1.44,
-    "avg_draw": 4.29,
-    "avg_away": 6.3,
-    "bfe_home": 1.51,
-    "bfe_draw": 4.5,
-    "bfe_away": 7.6
+    "max_home": 3.3,
+    "max_draw": 3.35,
+    "max_away": 2.5,
+    "avg_home": 3.02,
+    "avg_draw": 3.06,
+    "avg_away": 2.34,
+    "bfe_home": 3.2,
+    "bfe_draw": 3.2,
+    "bfe_away": 2.62
   }
 }

@@ -1,23 +1,23 @@
 {
   "name": "Atl. San Luis",
   "last_match": {
-    "vs": "Club America",
-    "date": "2026-01-14",
-    "time": "19:05",
+    "vs": "Club Tijuana",
+    "date": "2026-01-17",
+    "time": "21:06",
     "home": false,
-    "score": "0 - 2",
-    "result": "W"
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 267,
+      "games_played": 268,
       "wins": 82,
-      "draws": 52,
+      "draws": 53,
       "losses": 133,
-      "goals_for": 329,
-      "goals_against": 424,
+      "goals_for": 330,
+      "goals_against": 425,
       "goal_difference": -95,
-      "win_rate": 30.71
+      "win_rate": 30.6
     },
     "home": {
       "games_played": 132,
@@ -30,22 +30,22 @@
       "win_rate": 34.09
     },
     "away": {
-      "games_played": 135,
+      "games_played": 136,
       "wins": 37,
-      "draws": 25,
+      "draws": 26,
       "losses": 73,
-      "goals_for": 159,
-      "goals_against": 227,
+      "goals_for": 160,
+      "goals_against": 228,
       "goal_difference": -68,
-      "win_rate": 27.41
+      "win_rate": 27.21
     }
   },
   "form": [
     "L",
     "L",
     "L",
-    "L",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -251,20 +251,26 @@
       "goals_for": 2,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-01-17",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.5,
-    "max_draw": 4.7,
-    "max_away": 7.5,
-    "avg_home": 1.44,
-    "avg_draw": 4.29,
-    "avg_away": 6.3,
-    "bfe_home": 1.51,
-    "bfe_draw": 4.5,
-    "bfe_away": 7.6
+    "max_home": 1.98,
+    "max_draw": 3.6,
+    "max_away": 3.8,
+    "avg_home": 1.93,
+    "avg_draw": 3.44,
+    "avg_away": 3.6,
+    "bfe_home": 2.02,
+    "bfe_draw": 3.8,
+    "bfe_away": 4.0
   }
 }

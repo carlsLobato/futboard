@@ -1,23 +1,23 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "Guadalajara Chivas",
-    "date": "2026-01-13",
-    "time": "21:10",
-    "home": true,
-    "score": "0 - 1",
-    "result": "L"
+    "vs": "Santos Laguna",
+    "date": "2026-01-18",
+    "time": "17:00",
+    "home": false,
+    "score": "2 - 2",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 222,
+      "games_played": 223,
       "wins": 58,
-      "draws": 56,
+      "draws": 57,
       "losses": 108,
-      "goals_for": 237,
-      "goals_against": 345,
+      "goals_for": 239,
+      "goals_against": 347,
       "goal_difference": -108,
-      "win_rate": 26.13
+      "win_rate": 26.01
     },
     "home": {
       "games_played": 111,
@@ -30,22 +30,22 @@
       "win_rate": 30.63
     },
     "away": {
-      "games_played": 111,
+      "games_played": 112,
       "wins": 24,
-      "draws": 22,
+      "draws": 23,
       "losses": 65,
-      "goals_for": 102,
-      "goals_against": 194,
+      "goals_for": 104,
+      "goals_against": 196,
       "goal_difference": -92,
-      "win_rate": 21.62
+      "win_rate": 21.43
     }
   },
   "form": [
     "L",
-    "L",
     "D",
     "W",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -275,20 +275,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-01-18",
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.0,
-    "max_draw": 3.5,
-    "max_away": 1.78,
-    "avg_home": 4.62,
-    "avg_draw": 3.42,
-    "avg_away": 1.73,
-    "bfe_home": 5.3,
-    "bfe_draw": 3.7,
-    "bfe_away": 1.8
+    "max_home": 3.2,
+    "max_draw": 3.4,
+    "max_away": 2.38,
+    "avg_home": 3.03,
+    "avg_draw": 3.29,
+    "avg_away": 2.21,
+    "bfe_home": 3.35,
+    "bfe_draw": 3.55,
+    "bfe_away": 2.32
   }
 }

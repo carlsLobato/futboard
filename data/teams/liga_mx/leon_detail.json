@@ -1,23 +1,23 @@
 {
   "name": "León",
   "last_match": {
-    "vs": "Pachuca",
-    "date": "2026-01-13",
-    "time": "19:06",
+    "vs": "UNAM Pumas",
+    "date": "2026-01-18",
+    "time": "12:00",
     "home": false,
-    "score": "2 - 1",
-    "result": "L"
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 512,
+      "games_played": 513,
       "wins": 215,
-      "draws": 121,
+      "draws": 122,
       "losses": 176,
-      "goals_for": 764,
-      "goals_against": 670,
+      "goals_for": 765,
+      "goals_against": 671,
       "goal_difference": 94,
-      "win_rate": 41.99
+      "win_rate": 41.91
     },
     "home": {
       "games_played": 257,
@@ -30,22 +30,22 @@
       "win_rate": 50.58
     },
     "away": {
-      "games_played": 255,
+      "games_played": 256,
       "wins": 85,
-      "draws": 60,
+      "draws": 61,
       "losses": 110,
-      "goals_for": 317,
-      "goals_against": 375,
+      "goals_for": 318,
+      "goals_against": 376,
       "goal_difference": -58,
-      "win_rate": 33.33
+      "win_rate": 33.2
     }
   },
   "form": [
-    "D",
     "L",
     "L",
     "W",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -269,20 +269,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-01-18",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.86,
-    "max_draw": 3.85,
-    "max_away": 4.5,
-    "avg_home": 1.81,
-    "avg_draw": 3.57,
-    "avg_away": 4.01,
-    "bfe_home": 1.9,
-    "bfe_draw": 3.7,
-    "bfe_away": 4.7
+    "max_home": 2.2,
+    "max_draw": 3.6,
+    "max_away": 3.4,
+    "avg_home": 2.09,
+    "avg_draw": 3.36,
+    "avg_away": 3.22,
+    "bfe_home": 2.26,
+    "bfe_draw": 3.55,
+    "bfe_away": 3.5
   }
 }

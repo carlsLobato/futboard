@@ -1,33 +1,33 @@
 {
   "name": "Tigres UANL",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-01-14",
-    "time": "21:06",
+    "vs": "Toluca",
+    "date": "2026-01-17",
+    "time": "19:00",
     "home": true,
-    "score": "0 - 1",
-    "result": "L"
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 547,
+      "games_played": 548,
       "wins": 250,
-      "draws": 168,
+      "draws": 169,
       "losses": 129,
       "goals_for": 809,
       "goals_against": 535,
       "goal_difference": 274,
-      "win_rate": 45.7
+      "win_rate": 45.62
     },
     "home": {
-      "games_played": 275,
+      "games_played": 276,
       "wins": 148,
-      "draws": 83,
+      "draws": 84,
       "losses": 44,
       "goals_for": 480,
       "goals_against": 248,
       "goal_difference": 232,
-      "win_rate": 53.82
+      "win_rate": 53.62
     },
     "away": {
       "games_played": 272,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "W",
     "L",
     "W",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -311,20 +311,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-01-17",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.65,
-    "max_draw": 4.0,
-    "max_away": 6.33,
-    "avg_home": 1.58,
-    "avg_draw": 3.74,
-    "avg_away": 5.41,
-    "bfe_home": 1.64,
-    "bfe_draw": 4.2,
-    "bfe_away": 6.2
+    "max_home": 2.28,
+    "max_draw": 3.5,
+    "max_away": 3.6,
+    "avg_home": 2.11,
+    "avg_draw": 3.32,
+    "avg_away": 3.23,
+    "bfe_home": 2.2,
+    "bfe_draw": 3.6,
+    "bfe_away": 3.6
   }
 }

@@ -1,33 +1,33 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2026-01-13",
+    "vs": "Club America",
+    "date": "2026-01-18",
     "time": "19:06",
     "home": true,
-    "score": "2 - 1",
-    "result": "W"
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 506,
+      "games_played": 507,
       "wins": 202,
-      "draws": 136,
+      "draws": 137,
       "losses": 168,
       "goals_for": 735,
       "goals_against": 644,
       "goal_difference": 91,
-      "win_rate": 39.92
+      "win_rate": 39.84
     },
     "home": {
-      "games_played": 254,
+      "games_played": 255,
       "wins": 126,
-      "draws": 68,
+      "draws": 69,
       "losses": 60,
       "goals_for": 410,
       "goals_against": 265,
       "goal_difference": 145,
-      "win_rate": 49.61
+      "win_rate": 49.41
     },
     "away": {
       "games_played": 252,
@@ -42,10 +42,10 @@
   },
   "form": [
     "L",
-    "L",
     "W",
     "L",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -287,20 +287,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-01-18",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.86,
-    "max_draw": 3.85,
-    "max_away": 4.5,
-    "avg_home": 1.81,
-    "avg_draw": 3.57,
-    "avg_away": 4.01,
-    "bfe_home": 1.9,
-    "bfe_draw": 3.7,
-    "bfe_away": 4.7
+    "max_home": 3.3,
+    "max_draw": 3.35,
+    "max_away": 2.5,
+    "avg_home": 3.02,
+    "avg_draw": 3.06,
+    "avg_away": 2.34,
+    "bfe_home": 3.2,
+    "bfe_draw": 3.2,
+    "bfe_away": 2.62
   }
 }

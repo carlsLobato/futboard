@@ -1,23 +1,23 @@
 {
   "name": "Toluca",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2026-01-14",
-    "time": "21:10",
-    "home": true,
-    "score": "3 - 1",
-    "result": "W"
+    "vs": "Tigres UANL",
+    "date": "2026-01-17",
+    "time": "19:00",
+    "home": false,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 521,
+      "games_played": 522,
       "wins": 223,
-      "draws": 142,
+      "draws": 143,
       "losses": 156,
       "goals_for": 805,
       "goals_against": 655,
       "goal_difference": 150,
-      "win_rate": 42.8
+      "win_rate": 42.72
     },
     "home": {
       "games_played": 261,
@@ -30,22 +30,22 @@
       "win_rate": 54.79
     },
     "away": {
-      "games_played": 260,
+      "games_played": 261,
       "wins": 80,
-      "draws": 78,
+      "draws": 79,
       "losses": 102,
       "goals_for": 316,
       "goals_against": 367,
       "goal_difference": -51,
-      "win_rate": 30.77
+      "win_rate": 30.65
     }
   },
   "form": [
-    "W",
     "L",
     "W",
     "W",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -323,20 +323,26 @@
       "goals_for": 3,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-01-17",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.21,
-    "max_draw": 8.0,
-    "max_away": 16.5,
-    "avg_home": 1.17,
-    "avg_draw": 7.07,
-    "avg_away": 11.47,
-    "bfe_home": 1.2,
-    "bfe_draw": 9.4,
-    "bfe_away": 14.5
+    "max_home": 2.28,
+    "max_draw": 3.5,
+    "max_away": 3.6,
+    "avg_home": 2.11,
+    "avg_draw": 3.32,
+    "avg_away": 3.23,
+    "bfe_home": 2.2,
+    "bfe_draw": 3.6,
+    "bfe_away": 3.6
   }
 }

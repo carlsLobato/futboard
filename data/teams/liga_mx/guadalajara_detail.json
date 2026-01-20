@@ -1,33 +1,33 @@
 {
   "name": "Guadalajara",
   "last_match": {
-    "vs": "Juarez",
-    "date": "2026-01-13",
-    "time": "21:10",
-    "home": false,
-    "score": "0 - 1",
+    "vs": "Queretaro",
+    "date": "2026-01-17",
+    "time": "17:07",
+    "home": true,
+    "score": "2 - 1",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 497,
-      "wins": 172,
+      "games_played": 498,
+      "wins": 173,
       "draws": 154,
       "losses": 171,
-      "goals_for": 586,
-      "goals_against": 583,
-      "goal_difference": 3,
-      "win_rate": 34.61
+      "goals_for": 588,
+      "goals_against": 584,
+      "goal_difference": 4,
+      "win_rate": 34.74
     },
     "home": {
-      "games_played": 249,
-      "wins": 97,
+      "games_played": 250,
+      "wins": 98,
       "draws": 74,
       "losses": 78,
-      "goals_for": 309,
-      "goals_against": 276,
-      "goal_difference": 33,
-      "win_rate": 38.96
+      "goals_for": 311,
+      "goals_against": 277,
+      "goal_difference": 34,
+      "win_rate": 39.2
     },
     "away": {
       "games_played": 248,
@@ -41,9 +41,9 @@
     }
   },
   "form": [
-    "W",
     "D",
     "L",
+    "W",
     "W",
     "W"
   ],
@@ -263,20 +263,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-01-17",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.0,
-    "max_draw": 3.5,
-    "max_away": 1.78,
-    "avg_home": 4.62,
-    "avg_draw": 3.42,
-    "avg_away": 1.73,
-    "bfe_home": 5.3,
-    "bfe_draw": 3.7,
-    "bfe_away": 1.8
+    "max_home": 1.32,
+    "max_draw": 5.5,
+    "max_away": 12.0,
+    "avg_home": 1.27,
+    "avg_draw": 5.14,
+    "avg_away": 9.64,
+    "bfe_home": 1.32,
+    "bfe_draw": 5.8,
+    "bfe_away": 12.5
   }
 }
