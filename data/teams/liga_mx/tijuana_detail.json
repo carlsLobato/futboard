@@ -1,23 +1,23 @@
 {
   "name": "Tijuana",
   "last_match": {
-    "vs": "Atl. San Luis",
-    "date": "2026-01-17",
-    "time": "21:06",
-    "home": true,
-    "score": "1 - 1",
+    "vs": "Monterrey",
+    "date": "2026-01-31",
+    "time": "19:00",
+    "home": false,
+    "score": "2 - 2",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 483,
+      "games_played": 484,
       "wins": 163,
-      "draws": 129,
+      "draws": 130,
       "losses": 191,
-      "goals_for": 601,
-      "goals_against": 694,
+      "goals_for": 603,
+      "goals_against": 696,
       "goal_difference": -93,
-      "win_rate": 33.75
+      "win_rate": 33.68
     },
     "home": {
       "games_played": 245,
@@ -30,21 +30,21 @@
       "win_rate": 46.53
     },
     "away": {
-      "games_played": 238,
+      "games_played": 239,
       "wins": 49,
-      "draws": 57,
+      "draws": 58,
       "losses": 132,
-      "goals_for": 226,
-      "goals_against": 426,
+      "goals_for": 228,
+      "goals_against": 428,
       "goal_difference": -200,
-      "win_rate": 20.59
+      "win_rate": 20.5
     }
   },
   "form": [
-    "W",
     "L",
     "D",
     "W",
+    "D",
     "D"
   ],
   "match_history": [
@@ -257,20 +257,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-01-31",
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.98,
-    "max_draw": 3.6,
-    "max_away": 3.8,
-    "avg_home": 1.93,
-    "avg_draw": 3.44,
-    "avg_away": 3.6,
-    "bfe_home": 2.02,
-    "bfe_draw": 3.8,
-    "bfe_away": 4.0
+    "max_home": 1.7,
+    "max_draw": 4.0,
+    "max_away": 5.1,
+    "avg_home": 1.64,
+    "avg_draw": 3.85,
+    "avg_away": 4.75,
+    "bfe_home": 1.7,
+    "bfe_draw": 4.2,
+    "bfe_away": 5.3
   }
 }

@@ -1,23 +1,23 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Club America",
-    "date": "2026-01-18",
-    "time": "19:06",
-    "home": true,
+    "vs": "Queretaro",
+    "date": "2026-02-01",
+    "time": "17:00",
+    "home": false,
     "score": "0 - 0",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 507,
+      "games_played": 508,
       "wins": 202,
-      "draws": 137,
+      "draws": 138,
       "losses": 168,
       "goals_for": 735,
       "goals_against": 644,
       "goal_difference": 91,
-      "win_rate": 39.84
+      "win_rate": 39.76
     },
     "home": {
       "games_played": 255,
@@ -30,21 +30,21 @@
       "win_rate": 49.41
     },
     "away": {
-      "games_played": 252,
+      "games_played": 253,
       "wins": 76,
-      "draws": 68,
+      "draws": 69,
       "losses": 108,
       "goals_for": 325,
       "goals_against": 379,
       "goal_difference": -54,
-      "win_rate": 30.16
+      "win_rate": 30.04
     }
   },
   "form": [
-    "L",
     "W",
     "L",
     "W",
+    "D",
     "D"
   ],
   "match_history": [
@@ -269,20 +269,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2026-02-01",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.3,
-    "max_draw": 3.35,
-    "max_away": 2.5,
-    "avg_home": 3.02,
-    "avg_draw": 3.06,
-    "avg_away": 2.34,
-    "bfe_home": 3.2,
-    "bfe_draw": 3.2,
-    "bfe_away": 2.62
+    "max_home": 3.5,
+    "max_draw": 3.5,
+    "max_away": 2.2,
+    "avg_home": 3.21,
+    "avg_draw": 3.27,
+    "avg_away": 2.16,
+    "bfe_home": 3.45,
+    "bfe_draw": 3.45,
+    "bfe_away": 2.32
   }
 }

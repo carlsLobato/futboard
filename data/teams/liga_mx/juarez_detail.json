@@ -1,33 +1,33 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2026-01-18",
-    "time": "17:00",
-    "home": false,
-    "score": "2 - 2",
-    "result": "T"
+    "vs": "Cruz Azul",
+    "date": "2026-01-30",
+    "time": "21:06",
+    "home": true,
+    "score": "3 - 4",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 223,
+      "games_played": 224,
       "wins": 58,
       "draws": 57,
-      "losses": 108,
-      "goals_for": 239,
-      "goals_against": 347,
-      "goal_difference": -108,
-      "win_rate": 26.01
+      "losses": 109,
+      "goals_for": 242,
+      "goals_against": 351,
+      "goal_difference": -109,
+      "win_rate": 25.89
     },
     "home": {
-      "games_played": 111,
+      "games_played": 112,
       "wins": 34,
       "draws": 34,
-      "losses": 43,
-      "goals_for": 135,
-      "goals_against": 151,
-      "goal_difference": -16,
-      "win_rate": 30.63
+      "losses": 44,
+      "goals_for": 138,
+      "goals_against": 155,
+      "goal_difference": -17,
+      "win_rate": 30.36
     },
     "away": {
       "games_played": 112,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "D",
     "W",
     "L",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -263,20 +263,26 @@
       "goals_for": 2,
       "goals_against": 2,
       "result": "T"
+    },
+    {
+      "date": "2026-01-30",
+      "goals_for": 3,
+      "goals_against": 4,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.2,
-    "max_draw": 3.4,
-    "max_away": 2.38,
-    "avg_home": 3.03,
-    "avg_draw": 3.29,
-    "avg_away": 2.21,
-    "bfe_home": 3.35,
-    "bfe_draw": 3.55,
-    "bfe_away": 2.32
+    "max_home": 3.75,
+    "max_draw": 3.6,
+    "max_away": 2.08,
+    "avg_home": 3.43,
+    "avg_draw": 3.38,
+    "avg_away": 2.02,
+    "bfe_home": 3.85,
+    "bfe_draw": 3.65,
+    "bfe_away": 2.12
   }
 }

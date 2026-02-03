@@ -1,33 +1,33 @@
 {
   "name": "Monterrey",
   "last_match": {
-    "vs": "Mazatlan FC",
-    "date": "2026-01-16",
-    "time": "21:00",
-    "home": false,
-    "score": "1 - 5",
-    "result": "W"
+    "vs": "Club Tijuana",
+    "date": "2026-01-31",
+    "time": "19:00",
+    "home": true,
+    "score": "2 - 2",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 531,
+      "games_played": 532,
       "wins": 240,
-      "draws": 137,
+      "draws": 138,
       "losses": 154,
-      "goals_for": 826,
-      "goals_against": 626,
+      "goals_for": 828,
+      "goals_against": 628,
       "goal_difference": 200,
-      "win_rate": 45.2
+      "win_rate": 45.11
     },
     "home": {
-      "games_played": 266,
+      "games_played": 267,
       "wins": 147,
-      "draws": 75,
+      "draws": 76,
       "losses": 44,
-      "goals_for": 472,
-      "goals_against": 259,
+      "goals_for": 474,
+      "goals_against": 261,
       "goal_difference": 213,
-      "win_rate": 55.26
+      "win_rate": 55.06
     },
     "away": {
       "games_played": 265,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "L",
     "L",
     "W",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -287,20 +287,26 @@
       "goals_for": 5,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-01-31",
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 6.33,
-    "max_draw": 4.5,
-    "max_away": 1.56,
-    "avg_home": 5.49,
-    "avg_draw": 4.2,
-    "avg_away": 1.5,
-    "bfe_home": 6.6,
-    "bfe_draw": 4.8,
-    "bfe_away": 1.53
+    "max_home": 1.7,
+    "max_draw": 4.0,
+    "max_away": 5.1,
+    "avg_home": 1.64,
+    "avg_draw": 3.85,
+    "avg_away": 4.75,
+    "bfe_home": 1.7,
+    "bfe_draw": 4.2,
+    "bfe_away": 5.3
   }
 }

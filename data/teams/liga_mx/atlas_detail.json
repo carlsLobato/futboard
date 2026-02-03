@@ -1,33 +1,33 @@
 {
   "name": "Atlas",
   "last_match": {
-    "vs": "Necaxa",
-    "date": "2026-01-17",
+    "vs": "Mazatlan FC",
+    "date": "2026-01-31",
     "time": "17:00",
-    "home": false,
-    "score": "0 - 1",
+    "home": true,
+    "score": "1 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 486,
-      "wins": 146,
+      "games_played": 487,
+      "wins": 147,
       "draws": 138,
       "losses": 202,
-      "goals_for": 538,
+      "goals_for": 539,
       "goals_against": 660,
-      "goal_difference": -122,
-      "win_rate": 30.04
+      "goal_difference": -121,
+      "win_rate": 30.18
     },
     "home": {
-      "games_played": 241,
-      "wins": 82,
+      "games_played": 242,
+      "wins": 83,
       "draws": 68,
       "losses": 91,
-      "goals_for": 272,
+      "goals_for": 273,
       "goals_against": 290,
-      "goal_difference": -18,
-      "win_rate": 34.02
+      "goal_difference": -17,
+      "win_rate": 34.3
     },
     "away": {
       "games_played": 245,
@@ -41,10 +41,10 @@
     }
   },
   "form": [
-    "D",
     "L",
     "W",
     "L",
+    "W",
     "W"
   ],
   "match_history": [
@@ -239,20 +239,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-01-31",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.86,
+    "max_home": 1.85,
     "max_draw": 3.75,
-    "max_away": 4.2,
-    "avg_home": 1.81,
-    "avg_draw": 3.59,
-    "avg_away": 3.98,
-    "bfe_home": 1.93,
+    "max_away": 5.0,
+    "avg_home": 1.76,
+    "avg_draw": 3.57,
+    "avg_away": 4.35,
+    "bfe_home": 1.87,
     "bfe_draw": 3.75,
-    "bfe_away": 4.5
+    "bfe_away": 4.7
   }
 }

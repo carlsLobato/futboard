@@ -1,33 +1,33 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2026-01-18",
-    "time": "12:00",
+    "vs": "Santos Laguna",
+    "date": "2026-01-30",
+    "time": "21:00",
     "home": true,
-    "score": "1 - 1",
-    "result": "T"
+    "score": "4 - 0",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 500,
-      "wins": 172,
+      "games_played": 501,
+      "wins": 173,
       "draws": 143,
       "losses": 185,
-      "goals_for": 650,
+      "goals_for": 654,
       "goals_against": 668,
-      "goal_difference": -18,
-      "win_rate": 34.4
+      "goal_difference": -14,
+      "win_rate": 34.53
     },
     "home": {
-      "games_played": 247,
-      "wins": 105,
+      "games_played": 248,
+      "wins": 106,
       "draws": 75,
       "losses": 67,
-      "goals_for": 372,
+      "goals_for": 376,
       "goals_against": 275,
-      "goal_difference": 97,
-      "win_rate": 42.51
+      "goal_difference": 101,
+      "win_rate": 42.74
     },
     "away": {
       "games_played": 253,
@@ -41,19 +41,13 @@
     }
   },
   "form": [
-    "W",
     "L",
     "D",
     "W",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
-    {
-      "date": "2025-02-02",
-      "goals_for": 3,
-      "goals_against": 2,
-      "result": "W"
-    },
     {
       "date": "2025-02-09",
       "goals_for": 1,
@@ -263,20 +257,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-01-30",
+      "goals_for": 4,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.2,
-    "max_draw": 3.6,
-    "max_away": 3.4,
-    "avg_home": 2.09,
-    "avg_draw": 3.36,
-    "avg_away": 3.22,
-    "bfe_home": 2.26,
-    "bfe_draw": 3.55,
-    "bfe_away": 3.5
+    "max_home": 1.56,
+    "max_draw": 4.5,
+    "max_away": 5.8,
+    "avg_home": 1.51,
+    "avg_draw": 4.27,
+    "avg_away": 5.49,
+    "bfe_home": 1.56,
+    "bfe_draw": 4.8,
+    "bfe_away": 6.2
   }
 }
