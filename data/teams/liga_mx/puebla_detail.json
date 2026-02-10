@@ -1,23 +1,23 @@
 {
   "name": "Puebla",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2026-01-30",
-    "time": "19:00",
-    "home": true,
+    "vs": "Club Tijuana",
+    "date": "2026-02-06",
+    "time": "21:06",
+    "home": false,
     "score": "0 - 0",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 478,
+      "games_played": 479,
       "wins": 132,
-      "draws": 136,
+      "draws": 137,
       "losses": 210,
       "goals_for": 551,
       "goals_against": 708,
       "goal_difference": -157,
-      "win_rate": 27.62
+      "win_rate": 27.56
     },
     "home": {
       "games_played": 239,
@@ -30,21 +30,21 @@
       "win_rate": 32.22
     },
     "away": {
-      "games_played": 239,
+      "games_played": 240,
       "wins": 55,
-      "draws": 62,
+      "draws": 63,
       "losses": 122,
       "goals_for": 242,
       "goals_against": 381,
       "goal_difference": -139,
-      "win_rate": 23.01
+      "win_rate": 22.92
     }
   },
   "form": [
-    "W",
     "L",
     "W",
     "L",
+    "D",
     "D"
   ],
   "match_history": [
@@ -239,20 +239,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2026-02-06",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 7.5,
-    "max_draw": 4.5,
-    "max_away": 1.49,
-    "avg_home": 6.67,
-    "avg_draw": 4.29,
-    "avg_away": 1.43,
-    "bfe_home": 7.0,
-    "bfe_draw": 5.0,
-    "bfe_away": 1.52
+    "max_home": 1.7,
+    "max_draw": 4.0,
+    "max_away": 5.2,
+    "avg_home": 1.65,
+    "avg_draw": 3.87,
+    "avg_away": 4.63,
+    "bfe_home": 1.75,
+    "bfe_draw": 4.1,
+    "bfe_away": 5.0
   }
 }

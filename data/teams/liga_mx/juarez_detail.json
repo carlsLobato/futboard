@@ -1,23 +1,23 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "Cruz Azul",
-    "date": "2026-01-30",
-    "time": "21:06",
-    "home": true,
-    "score": "3 - 4",
+    "vs": "Pachuca",
+    "date": "2026-02-07",
+    "time": "19:06",
+    "home": false,
+    "score": "2 - 0",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 224,
+      "games_played": 225,
       "wins": 58,
       "draws": 57,
-      "losses": 109,
+      "losses": 110,
       "goals_for": 242,
-      "goals_against": 351,
-      "goal_difference": -109,
-      "win_rate": 25.89
+      "goals_against": 353,
+      "goal_difference": -111,
+      "win_rate": 25.78
     },
     "home": {
       "games_played": 112,
@@ -30,21 +30,21 @@
       "win_rate": 30.36
     },
     "away": {
-      "games_played": 112,
+      "games_played": 113,
       "wins": 24,
       "draws": 23,
-      "losses": 65,
+      "losses": 66,
       "goals_for": 104,
-      "goals_against": 196,
-      "goal_difference": -92,
-      "win_rate": 21.43
+      "goals_against": 198,
+      "goal_difference": -94,
+      "win_rate": 21.24
     }
   },
   "form": [
-    "D",
     "W",
     "L",
     "D",
+    "L",
     "L"
   ],
   "match_history": [
@@ -263,20 +263,26 @@
       "goals_for": 3,
       "goals_against": 4,
       "result": "L"
+    },
+    {
+      "date": "2026-02-07",
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.75,
-    "max_draw": 3.6,
-    "max_away": 2.08,
-    "avg_home": 3.43,
-    "avg_draw": 3.38,
-    "avg_away": 2.02,
-    "bfe_home": 3.85,
-    "bfe_draw": 3.65,
-    "bfe_away": 2.12
+    "max_home": 2.02,
+    "max_draw": 3.5,
+    "max_away": 4.0,
+    "avg_home": 1.95,
+    "avg_draw": 3.33,
+    "avg_away": 3.7,
+    "bfe_home": 2.1,
+    "bfe_draw": 3.55,
+    "bfe_away": 4.0
   }
 }

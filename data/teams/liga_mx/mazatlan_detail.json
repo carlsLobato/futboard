@@ -1,33 +1,33 @@
 {
   "name": "Mazatlán",
   "last_match": {
-    "vs": "Atlas",
-    "date": "2026-01-31",
-    "time": "17:00",
-    "home": false,
-    "score": "1 - 0",
+    "vs": "Guadalajara Chivas",
+    "date": "2026-02-06",
+    "time": "21:06",
+    "home": true,
+    "score": "1 - 2",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 193,
+      "games_played": 194,
       "wins": 44,
       "draws": 54,
-      "losses": 95,
-      "goals_for": 215,
-      "goals_against": 317,
-      "goal_difference": -102,
-      "win_rate": 22.8
+      "losses": 96,
+      "goals_for": 216,
+      "goals_against": 319,
+      "goal_difference": -103,
+      "win_rate": 22.68
     },
     "home": {
-      "games_played": 96,
+      "games_played": 97,
       "wins": 32,
       "draws": 31,
-      "losses": 33,
-      "goals_for": 128,
-      "goals_against": 141,
-      "goal_difference": -13,
-      "win_rate": 33.33
+      "losses": 34,
+      "goals_for": 129,
+      "goals_against": 143,
+      "goal_difference": -14,
+      "win_rate": 32.99
     },
     "away": {
       "games_played": 97,
@@ -41,19 +41,13 @@
     }
   },
   "form": [
-    "D",
+    "L",
     "L",
     "L",
     "L",
     "L"
   ],
   "match_history": [
-    {
-      "date": "2025-02-09",
-      "goals_for": 0,
-      "goals_against": 1,
-      "result": "L"
-    },
     {
       "date": "2025-02-14",
       "goals_for": 1,
@@ -245,20 +239,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-02-06",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.85,
-    "max_draw": 3.75,
-    "max_away": 5.0,
-    "avg_home": 1.76,
-    "avg_draw": 3.57,
-    "avg_away": 4.35,
-    "bfe_home": 1.87,
-    "bfe_draw": 3.75,
-    "bfe_away": 4.7
+    "max_home": 7.5,
+    "max_draw": 5.0,
+    "max_away": 1.42,
+    "avg_home": 7.1,
+    "avg_draw": 4.6,
+    "avg_away": 1.38,
+    "bfe_home": 8.4,
+    "bfe_draw": 5.4,
+    "bfe_away": 1.42
   }
 }

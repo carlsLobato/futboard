@@ -1,23 +1,23 @@
 {
   "name": "Atl. San Luis",
   "last_match": {
-    "vs": "Guadalajara Chivas",
-    "date": "2026-01-31",
-    "time": "17:00",
-    "home": true,
-    "score": "2 - 3",
+    "vs": "Necaxa",
+    "date": "2026-02-06",
+    "time": "19:00",
+    "home": false,
+    "score": "4 - 1",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 269,
+      "games_played": 270,
       "wins": 82,
       "draws": 53,
-      "losses": 134,
-      "goals_for": 332,
-      "goals_against": 428,
-      "goal_difference": -96,
-      "win_rate": 30.48
+      "losses": 135,
+      "goals_for": 333,
+      "goals_against": 432,
+      "goal_difference": -99,
+      "win_rate": 30.37
     },
     "home": {
       "games_played": 133,
@@ -30,21 +30,21 @@
       "win_rate": 33.83
     },
     "away": {
-      "games_played": 136,
+      "games_played": 137,
       "wins": 37,
       "draws": 26,
-      "losses": 73,
-      "goals_for": 160,
-      "goals_against": 228,
-      "goal_difference": -68,
-      "win_rate": 27.21
+      "losses": 74,
+      "goals_for": 161,
+      "goals_against": 232,
+      "goal_difference": -71,
+      "win_rate": 27.01
     }
   },
   "form": [
     "L",
-    "L",
     "W",
     "D",
+    "L",
     "L"
   ],
   "match_history": [
@@ -239,20 +239,26 @@
       "goals_for": 2,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-02-06",
+      "goals_for": 1,
+      "goals_against": 4,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.0,
-    "max_draw": 3.7,
-    "max_away": 1.83,
-    "avg_home": 4.51,
-    "avg_draw": 3.56,
-    "avg_away": 1.73,
-    "bfe_home": 5.2,
-    "bfe_draw": 3.85,
-    "bfe_away": 1.81
+    "max_home": 2.55,
+    "max_draw": 3.4,
+    "max_away": 2.9,
+    "avg_home": 2.46,
+    "avg_draw": 3.23,
+    "avg_away": 2.75,
+    "bfe_home": 2.66,
+    "bfe_draw": 3.35,
+    "bfe_away": 3.0
   }
 }
