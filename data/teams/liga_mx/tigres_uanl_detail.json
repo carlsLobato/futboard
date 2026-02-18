@@ -1,23 +1,23 @@
 {
   "name": "Tigres UANL",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2026-02-06",
-    "time": "19:00",
-    "home": true,
-    "score": "5 - 1",
-    "result": "W"
+    "vs": "Cruz Azul",
+    "date": "2026-02-15",
+    "time": "16:30",
+    "home": false,
+    "score": "2 - 1",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 550,
+      "games_played": 551,
       "wins": 252,
       "draws": 169,
-      "losses": 129,
-      "goals_for": 816,
-      "goals_against": 537,
-      "goal_difference": 279,
-      "win_rate": 45.82
+      "losses": 130,
+      "goals_for": 817,
+      "goals_against": 539,
+      "goal_difference": 278,
+      "win_rate": 45.74
     },
     "home": {
       "games_played": 277,
@@ -30,22 +30,22 @@
       "win_rate": 53.79
     },
     "away": {
-      "games_played": 273,
+      "games_played": 274,
       "wins": 103,
       "draws": 85,
-      "losses": 85,
-      "goals_for": 331,
-      "goals_against": 288,
-      "goal_difference": 43,
-      "win_rate": 37.73
+      "losses": 86,
+      "goals_for": 332,
+      "goals_against": 290,
+      "goal_difference": 42,
+      "win_rate": 37.59
     }
   },
   "form": [
-    "W",
     "L",
     "D",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -299,20 +299,26 @@
       "goals_for": 5,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-02-15",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.29,
-    "max_draw": 6.25,
-    "max_away": 10.5,
-    "avg_home": 1.26,
-    "avg_draw": 5.73,
-    "avg_away": 9.38,
-    "bfe_home": 1.3,
-    "bfe_draw": 6.8,
-    "bfe_away": 11.0
+    "max_home": 2.3,
+    "max_draw": 3.4,
+    "max_away": 3.25,
+    "avg_home": 2.2,
+    "avg_draw": 3.22,
+    "avg_away": 3.12,
+    "bfe_home": 2.28,
+    "bfe_draw": 3.45,
+    "bfe_away": 3.6
   }
 }

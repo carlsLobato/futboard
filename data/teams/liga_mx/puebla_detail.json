@@ -1,33 +1,33 @@
 {
   "name": "Puebla",
   "last_match": {
-    "vs": "Club Tijuana",
-    "date": "2026-02-06",
-    "time": "21:06",
-    "home": false,
-    "score": "0 - 0",
-    "result": "T"
+    "vs": "UNAM Pumas",
+    "date": "2026-02-13",
+    "time": "19:00",
+    "home": true,
+    "score": "2 - 3",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 479,
+      "games_played": 480,
       "wins": 132,
       "draws": 137,
-      "losses": 210,
-      "goals_for": 551,
-      "goals_against": 708,
-      "goal_difference": -157,
-      "win_rate": 27.56
+      "losses": 211,
+      "goals_for": 553,
+      "goals_against": 711,
+      "goal_difference": -158,
+      "win_rate": 27.5
     },
     "home": {
-      "games_played": 239,
+      "games_played": 240,
       "wins": 77,
       "draws": 74,
-      "losses": 88,
-      "goals_for": 309,
-      "goals_against": 327,
-      "goal_difference": -18,
-      "win_rate": 32.22
+      "losses": 89,
+      "goals_for": 311,
+      "goals_against": 330,
+      "goal_difference": -19,
+      "win_rate": 32.08
     },
     "away": {
       "games_played": 240,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "W",
     "L",
     "D",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2026-02-13",
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.7,
-    "max_draw": 4.0,
-    "max_away": 5.2,
-    "avg_home": 1.65,
-    "avg_draw": 3.87,
-    "avg_away": 4.63,
-    "bfe_home": 1.75,
-    "bfe_draw": 4.1,
-    "bfe_away": 5.0
+    "max_home": 2.65,
+    "max_draw": 3.3,
+    "max_away": 2.75,
+    "avg_home": 2.54,
+    "avg_draw": 3.17,
+    "avg_away": 2.64,
+    "bfe_home": 2.68,
+    "bfe_draw": 3.4,
+    "bfe_away": 2.88
   }
 }

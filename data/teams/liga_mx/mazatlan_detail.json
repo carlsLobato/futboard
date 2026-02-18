@@ -1,23 +1,23 @@
 {
   "name": "Mazatlán",
   "last_match": {
-    "vs": "Guadalajara Chivas",
-    "date": "2026-02-06",
-    "time": "21:06",
-    "home": true,
+    "vs": "Santos Laguna",
+    "date": "2026-02-15",
+    "time": "17:00",
+    "home": false,
     "score": "1 - 2",
-    "result": "L"
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 194,
-      "wins": 44,
+      "games_played": 195,
+      "wins": 45,
       "draws": 54,
       "losses": 96,
-      "goals_for": 216,
-      "goals_against": 319,
-      "goal_difference": -103,
-      "win_rate": 22.68
+      "goals_for": 218,
+      "goals_against": 320,
+      "goal_difference": -102,
+      "win_rate": 23.08
     },
     "home": {
       "games_played": 97,
@@ -30,14 +30,14 @@
       "win_rate": 32.99
     },
     "away": {
-      "games_played": 97,
-      "wins": 12,
+      "games_played": 98,
+      "wins": 13,
       "draws": 23,
       "losses": 62,
-      "goals_for": 87,
-      "goals_against": 176,
-      "goal_difference": -89,
-      "win_rate": 12.37
+      "goals_for": 89,
+      "goals_against": 177,
+      "goal_difference": -88,
+      "win_rate": 13.27
     }
   },
   "form": [
@@ -45,7 +45,7 @@
     "L",
     "L",
     "L",
-    "L"
+    "W"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-02-15",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 7.5,
-    "max_draw": 5.0,
-    "max_away": 1.42,
-    "avg_home": 7.1,
-    "avg_draw": 4.6,
-    "avg_away": 1.38,
-    "bfe_home": 8.4,
-    "bfe_draw": 5.4,
-    "bfe_away": 1.42
+    "max_home": 1.89,
+    "max_draw": 3.8,
+    "max_away": 4.33,
+    "avg_home": 1.81,
+    "avg_draw": 3.67,
+    "avg_away": 3.92,
+    "bfe_home": 1.86,
+    "bfe_draw": 4.0,
+    "bfe_away": 4.4
   }
 }

@@ -1,23 +1,23 @@
 {
   "name": "Querétaro",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2026-02-07",
+    "vs": "Atl. San Luis",
+    "date": "2026-02-14",
     "time": "17:00",
-    "home": true,
-    "score": "2 - 0",
-    "result": "W"
+    "home": false,
+    "score": "3 - 0",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 472,
+      "games_played": 473,
       "wins": 135,
       "draws": 123,
-      "losses": 214,
+      "losses": 215,
       "goals_for": 523,
-      "goals_against": 686,
-      "goal_difference": -163,
-      "win_rate": 28.6
+      "goals_against": 689,
+      "goal_difference": -166,
+      "win_rate": 28.54
     },
     "home": {
       "games_played": 234,
@@ -30,22 +30,22 @@
       "win_rate": 36.32
     },
     "away": {
-      "games_played": 238,
+      "games_played": 239,
       "wins": 50,
       "draws": 62,
-      "losses": 126,
+      "losses": 127,
       "goals_for": 240,
-      "goals_against": 400,
-      "goal_difference": -160,
-      "win_rate": 21.01
+      "goals_against": 403,
+      "goal_difference": -163,
+      "win_rate": 20.92
     }
   },
   "form": [
-    "D",
     "L",
     "L",
     "D",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 2,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-02-14",
+      "goals_for": 0,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.75,
-    "max_draw": 3.3,
-    "max_away": 2.57,
-    "avg_home": 2.7,
-    "avg_draw": 3.19,
-    "avg_away": 2.51,
-    "bfe_home": 2.94,
-    "bfe_draw": 3.35,
-    "bfe_away": 2.7
+    "max_home": 2.0,
+    "max_draw": 3.5,
+    "max_away": 4.0,
+    "avg_home": 1.93,
+    "avg_draw": 3.36,
+    "avg_away": 3.7,
+    "bfe_home": 2.06,
+    "bfe_draw": 3.7,
+    "bfe_away": 3.95
   }
 }

@@ -1,23 +1,23 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Atlas",
-    "date": "2026-02-07",
-    "time": "19:05",
+    "vs": "Puebla",
+    "date": "2026-02-13",
+    "time": "19:00",
     "home": false,
-    "score": "2 - 2",
-    "result": "T"
+    "score": "2 - 3",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 502,
-      "wins": 173,
+      "games_played": 503,
+      "wins": 174,
       "draws": 144,
       "losses": 185,
-      "goals_for": 656,
-      "goals_against": 670,
-      "goal_difference": -14,
-      "win_rate": 34.46
+      "goals_for": 659,
+      "goals_against": 672,
+      "goal_difference": -13,
+      "win_rate": 34.59
     },
     "home": {
       "games_played": 248,
@@ -30,22 +30,22 @@
       "win_rate": 42.74
     },
     "away": {
-      "games_played": 254,
-      "wins": 67,
+      "games_played": 255,
+      "wins": 68,
       "draws": 69,
       "losses": 118,
-      "goals_for": 280,
-      "goals_against": 395,
-      "goal_difference": -115,
-      "win_rate": 26.38
+      "goals_for": 283,
+      "goals_against": 397,
+      "goal_difference": -114,
+      "win_rate": 26.67
     }
   },
   "form": [
-    "D",
     "W",
     "D",
     "W",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 2,
       "goals_against": 2,
       "result": "T"
+    },
+    {
+      "date": "2026-02-13",
+      "goals_for": 3,
+      "goals_against": 2,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.85,
-    "max_draw": 3.13,
-    "max_away": 2.7,
-    "avg_home": 2.73,
-    "avg_draw": 3.05,
-    "avg_away": 2.59,
-    "bfe_home": 2.86,
-    "bfe_draw": 3.35,
-    "bfe_away": 2.82
+    "max_home": 2.65,
+    "max_draw": 3.3,
+    "max_away": 2.75,
+    "avg_home": 2.54,
+    "avg_draw": 3.17,
+    "avg_away": 2.64,
+    "bfe_home": 2.68,
+    "bfe_draw": 3.4,
+    "bfe_away": 2.88
   }
 }

@@ -1,33 +1,33 @@
 {
   "name": "Santos Laguna",
   "last_match": {
-    "vs": "Tigres UANL",
-    "date": "2026-02-06",
-    "time": "19:00",
-    "home": false,
-    "score": "5 - 1",
+    "vs": "Mazatlan FC",
+    "date": "2026-02-15",
+    "time": "17:00",
+    "home": true,
+    "score": "1 - 2",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 508,
+      "games_played": 509,
       "wins": 182,
       "draws": 140,
-      "losses": 186,
-      "goals_for": 725,
-      "goals_against": 734,
-      "goal_difference": -9,
-      "win_rate": 35.83
+      "losses": 187,
+      "goals_for": 726,
+      "goals_against": 736,
+      "goal_difference": -10,
+      "win_rate": 35.76
     },
     "home": {
-      "games_played": 255,
+      "games_played": 256,
       "wins": 129,
       "draws": 63,
-      "losses": 63,
-      "goals_for": 428,
-      "goals_against": 308,
-      "goal_difference": 120,
-      "win_rate": 50.59
+      "losses": 64,
+      "goals_for": 429,
+      "goals_against": 310,
+      "goal_difference": 119,
+      "win_rate": 50.39
     },
     "away": {
       "games_played": 253,
@@ -42,8 +42,8 @@
   },
   "form": [
     "L",
-    "L",
     "D",
+    "L",
     "L",
     "L"
   ],
@@ -239,20 +239,26 @@
       "goals_for": 1,
       "goals_against": 5,
       "result": "L"
+    },
+    {
+      "date": "2026-02-15",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.29,
-    "max_draw": 6.25,
-    "max_away": 10.5,
-    "avg_home": 1.26,
-    "avg_draw": 5.73,
-    "avg_away": 9.38,
-    "bfe_home": 1.3,
-    "bfe_draw": 6.8,
-    "bfe_away": 11.0
+    "max_home": 1.89,
+    "max_draw": 3.8,
+    "max_away": 4.33,
+    "avg_home": 1.81,
+    "avg_draw": 3.67,
+    "avg_away": 3.92,
+    "bfe_home": 1.86,
+    "bfe_draw": 4.0,
+    "bfe_away": 4.4
   }
 }

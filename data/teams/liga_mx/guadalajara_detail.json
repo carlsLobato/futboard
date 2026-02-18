@@ -1,33 +1,33 @@
 {
   "name": "Guadalajara",
   "last_match": {
-    "vs": "Mazatlan FC",
-    "date": "2026-02-06",
-    "time": "21:06",
-    "home": false,
-    "score": "1 - 2",
+    "vs": "Club America",
+    "date": "2026-02-14",
+    "time": "21:07",
+    "home": true,
+    "score": "1 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 500,
-      "wins": 175,
+      "games_played": 501,
+      "wins": 176,
       "draws": 154,
       "losses": 171,
-      "goals_for": 593,
+      "goals_for": 594,
       "goals_against": 587,
-      "goal_difference": 6,
-      "win_rate": 35.0
+      "goal_difference": 7,
+      "win_rate": 35.13
     },
     "home": {
-      "games_played": 250,
-      "wins": 98,
+      "games_played": 251,
+      "wins": 99,
       "draws": 74,
       "losses": 78,
-      "goals_for": 311,
+      "goals_for": 312,
       "goals_against": 277,
-      "goal_difference": 34,
-      "win_rate": 39.2
+      "goal_difference": 35,
+      "win_rate": 39.44
     },
     "away": {
       "games_played": 250,
@@ -251,20 +251,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-02-14",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 7.5,
-    "max_draw": 5.0,
-    "max_away": 1.42,
-    "avg_home": 7.1,
-    "avg_draw": 4.6,
-    "avg_away": 1.38,
-    "bfe_home": 8.4,
-    "bfe_draw": 5.4,
-    "bfe_away": 1.42
+    "max_home": 2.25,
+    "max_draw": 3.5,
+    "max_away": 3.3,
+    "avg_home": 2.19,
+    "avg_draw": 3.21,
+    "avg_away": 3.14,
+    "bfe_home": 2.28,
+    "bfe_draw": 3.6,
+    "bfe_away": 3.3
   }
 }

@@ -1,23 +1,23 @@
 {
   "name": "Necaxa",
   "last_match": {
-    "vs": "Atl. San Luis",
-    "date": "2026-02-06",
-    "time": "19:00",
-    "home": true,
-    "score": "4 - 1",
+    "vs": "Juarez",
+    "date": "2026-02-14",
+    "time": "19:06",
+    "home": false,
+    "score": "1 - 2",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 339,
-      "wins": 107,
+      "games_played": 340,
+      "wins": 108,
       "draws": 97,
       "losses": 135,
-      "goals_for": 434,
-      "goals_against": 472,
-      "goal_difference": -38,
-      "win_rate": 31.56
+      "goals_for": 436,
+      "goals_against": 473,
+      "goal_difference": -37,
+      "win_rate": 31.76
     },
     "home": {
       "games_played": 168,
@@ -30,21 +30,21 @@
       "win_rate": 35.71
     },
     "away": {
-      "games_played": 171,
-      "wins": 47,
+      "games_played": 172,
+      "wins": 48,
       "draws": 43,
       "losses": 81,
-      "goals_for": 207,
-      "goals_against": 262,
-      "goal_difference": -55,
-      "win_rate": 27.49
+      "goals_for": 209,
+      "goals_against": 263,
+      "goal_difference": -54,
+      "win_rate": 27.91
     }
   },
   "form": [
+    "L",
+    "L",
+    "L",
     "W",
-    "L",
-    "L",
-    "L",
     "W"
   ],
   "match_history": [
@@ -251,20 +251,26 @@
       "goals_for": 4,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-02-14",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.55,
+    "max_home": 2.25,
     "max_draw": 3.4,
-    "max_away": 2.9,
-    "avg_home": 2.46,
+    "max_away": 3.7,
+    "avg_home": 2.12,
     "avg_draw": 3.23,
-    "avg_away": 2.75,
-    "bfe_home": 2.66,
-    "bfe_draw": 3.35,
-    "bfe_away": 3.0
+    "avg_away": 3.28,
+    "bfe_home": 2.18,
+    "bfe_draw": 3.6,
+    "bfe_away": 3.75
   }
 }

@@ -1,33 +1,33 @@
 {
   "name": "Monterrey",
   "last_match": {
-    "vs": "Club America",
-    "date": "2026-02-07",
-    "time": "21:10",
-    "home": false,
+    "vs": "Club Leon",
+    "date": "2026-02-14",
+    "time": "19:00",
+    "home": true,
     "score": "1 - 0",
-    "result": "L"
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 533,
-      "wins": 240,
+      "games_played": 534,
+      "wins": 241,
       "draws": 138,
       "losses": 155,
-      "goals_for": 828,
+      "goals_for": 829,
       "goals_against": 629,
-      "goal_difference": 199,
-      "win_rate": 45.03
+      "goal_difference": 200,
+      "win_rate": 45.13
     },
     "home": {
-      "games_played": 267,
-      "wins": 147,
+      "games_played": 268,
+      "wins": 148,
       "draws": 76,
       "losses": 44,
-      "goals_for": 474,
+      "goals_for": 475,
       "goals_against": 261,
-      "goal_difference": 213,
-      "win_rate": 55.06
+      "goal_difference": 214,
+      "win_rate": 55.22
     },
     "away": {
       "games_played": 266,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "W",
     "W",
     "D",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -287,20 +287,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-02-14",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.85,
-    "max_draw": 3.7,
-    "max_away": 4.75,
-    "avg_home": 1.75,
-    "avg_draw": 3.58,
-    "avg_away": 4.36,
-    "bfe_home": 1.83,
-    "bfe_draw": 3.95,
-    "bfe_away": 4.8
+    "max_home": 1.57,
+    "max_draw": 4.3,
+    "max_away": 5.8,
+    "avg_home": 1.53,
+    "avg_draw": 4.13,
+    "avg_away": 5.26,
+    "bfe_home": 1.63,
+    "bfe_draw": 4.5,
+    "bfe_away": 5.8
   }
 }

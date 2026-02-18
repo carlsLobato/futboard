@@ -1,23 +1,23 @@
 {
   "name": "Atlas",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-02-07",
-    "time": "19:05",
-    "home": true,
-    "score": "2 - 2",
-    "result": "T"
+    "vs": "Pachuca",
+    "date": "2026-02-14",
+    "time": "17:00",
+    "home": false,
+    "score": "3 - 1",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 488,
+      "games_played": 489,
       "wins": 147,
       "draws": 139,
-      "losses": 202,
-      "goals_for": 541,
-      "goals_against": 662,
-      "goal_difference": -121,
-      "win_rate": 30.12
+      "losses": 203,
+      "goals_for": 542,
+      "goals_against": 665,
+      "goal_difference": -123,
+      "win_rate": 30.06
     },
     "home": {
       "games_played": 243,
@@ -30,22 +30,22 @@
       "win_rate": 34.16
     },
     "away": {
-      "games_played": 245,
+      "games_played": 246,
       "wins": 64,
       "draws": 70,
-      "losses": 111,
-      "goals_for": 266,
-      "goals_against": 370,
-      "goal_difference": -104,
-      "win_rate": 26.12
+      "losses": 112,
+      "goals_for": 267,
+      "goals_against": 373,
+      "goal_difference": -106,
+      "win_rate": 26.02
     }
   },
   "form": [
-    "W",
     "L",
     "W",
     "W",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 2,
       "goals_against": 2,
       "result": "T"
+    },
+    {
+      "date": "2026-02-14",
+      "goals_for": 1,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.85,
-    "max_draw": 3.13,
-    "max_away": 2.7,
-    "avg_home": 2.73,
-    "avg_draw": 3.05,
-    "avg_away": 2.59,
-    "bfe_home": 2.86,
-    "bfe_draw": 3.35,
-    "bfe_away": 2.82
+    "max_home": 1.78,
+    "max_draw": 3.66,
+    "max_away": 5.2,
+    "avg_home": 1.71,
+    "avg_draw": 3.49,
+    "avg_away": 4.68,
+    "bfe_home": 1.84,
+    "bfe_draw": 3.75,
+    "bfe_away": 5.1
   }
 }
