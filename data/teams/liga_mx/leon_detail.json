@@ -1,33 +1,33 @@
 {
   "name": "León",
   "last_match": {
-    "vs": "Monterrey",
-    "date": "2026-02-14",
+    "vs": "Santos Laguna",
+    "date": "2026-02-21",
     "time": "19:00",
-    "home": false,
-    "score": "1 - 0",
-    "result": "L"
+    "home": true,
+    "score": "2 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 516,
-      "wins": 215,
+      "games_played": 517,
+      "wins": 216,
       "draws": 122,
       "losses": 179,
-      "goals_for": 766,
-      "goals_against": 676,
-      "goal_difference": 90,
-      "win_rate": 41.67
+      "goals_for": 768,
+      "goals_against": 677,
+      "goal_difference": 91,
+      "win_rate": 41.78
     },
     "home": {
-      "games_played": 258,
-      "wins": 130,
+      "games_played": 259,
+      "wins": 131,
       "draws": 61,
       "losses": 67,
-      "goals_for": 448,
-      "goals_against": 297,
-      "goal_difference": 151,
-      "win_rate": 50.39
+      "goals_for": 450,
+      "goals_against": 298,
+      "goal_difference": 152,
+      "win_rate": 50.58
     },
     "away": {
       "games_played": 258,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "D",
     "L",
     "L",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-02-21",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.57,
-    "max_draw": 4.3,
-    "max_away": 5.8,
-    "avg_home": 1.53,
-    "avg_draw": 4.13,
-    "avg_away": 5.26,
-    "bfe_home": 1.63,
+    "max_home": 1.65,
+    "max_draw": 4.2,
+    "max_away": 5.1,
+    "avg_home": 1.6,
+    "avg_draw": 4.1,
+    "avg_away": 4.73,
+    "bfe_home": 1.68,
     "bfe_draw": 4.5,
-    "bfe_away": 5.8
+    "bfe_away": 5.1
   }
 }

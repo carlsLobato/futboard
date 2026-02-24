@@ -1,33 +1,33 @@
 {
   "name": "Tijuana",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2026-02-13",
-    "time": "21:05",
-    "home": false,
-    "score": "1 - 0",
-    "result": "L"
+    "vs": "Mazatlan FC",
+    "date": "2026-02-21",
+    "time": "23:10",
+    "home": true,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 486,
+      "games_played": 487,
       "wins": 163,
-      "draws": 131,
+      "draws": 132,
       "losses": 192,
-      "goals_for": 603,
-      "goals_against": 697,
+      "goals_for": 604,
+      "goals_against": 698,
       "goal_difference": -94,
-      "win_rate": 33.54
+      "win_rate": 33.47
     },
     "home": {
-      "games_played": 246,
+      "games_played": 247,
       "wins": 114,
-      "draws": 73,
+      "draws": 74,
       "losses": 59,
-      "goals_for": 375,
-      "goals_against": 268,
+      "goals_for": 376,
+      "goals_against": 269,
       "goal_difference": 107,
-      "win_rate": 46.34
+      "win_rate": 46.15
     },
     "away": {
       "games_played": 240,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "D",
     "D",
     "D",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-02-21",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.3,
-    "max_draw": 7.0,
-    "max_away": 15.0,
-    "avg_home": 1.21,
-    "avg_draw": 5.95,
-    "avg_away": 10.88,
-    "bfe_home": 1.25,
-    "bfe_draw": 7.6,
-    "bfe_away": 13.0
+    "max_home": 1.53,
+    "max_draw": 4.5,
+    "max_away": 6.5,
+    "avg_home": 1.48,
+    "avg_draw": 4.18,
+    "avg_away": 5.98,
+    "bfe_home": 1.56,
+    "bfe_draw": 4.6,
+    "bfe_away": 6.6
   }
 }

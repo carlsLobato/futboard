@@ -1,23 +1,23 @@
 {
   "name": "América",
   "last_match": {
-    "vs": "Guadalajara Chivas",
-    "date": "2026-02-14",
-    "time": "21:07",
+    "vs": "Puebla",
+    "date": "2026-02-20",
+    "time": "21:06",
     "home": false,
-    "score": "1 - 0",
-    "result": "L"
+    "score": "0 - 4",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 568,
-      "wins": 286,
+      "games_played": 569,
+      "wins": 287,
       "draws": 152,
       "losses": 130,
-      "goals_for": 924,
+      "goals_for": 928,
       "goals_against": 592,
-      "goal_difference": 332,
-      "win_rate": 50.35
+      "goal_difference": 336,
+      "win_rate": 50.44
     },
     "home": {
       "games_played": 283,
@@ -30,22 +30,22 @@
       "win_rate": 59.01
     },
     "away": {
-      "games_played": 285,
-      "wins": 119,
+      "games_played": 286,
+      "wins": 120,
       "draws": 91,
       "losses": 75,
-      "goals_for": 422,
+      "goals_for": 426,
       "goals_against": 330,
-      "goal_difference": 92,
-      "win_rate": 41.75
+      "goal_difference": 96,
+      "win_rate": 41.96
     }
   },
   "form": [
-    "L",
     "D",
     "W",
     "W",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -281,20 +281,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-02-20",
+      "goals_for": 4,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.25,
-    "max_draw": 3.5,
-    "max_away": 3.3,
-    "avg_home": 2.19,
-    "avg_draw": 3.21,
-    "avg_away": 3.14,
-    "bfe_home": 2.28,
-    "bfe_draw": 3.6,
-    "bfe_away": 3.3
+    "max_home": 5.0,
+    "max_draw": 3.6,
+    "max_away": 1.78,
+    "avg_home": 4.7,
+    "avg_draw": 3.49,
+    "avg_away": 1.71,
+    "bfe_home": 4.9,
+    "bfe_draw": 3.85,
+    "bfe_away": 1.83
   }
 }

@@ -1,23 +1,23 @@
 {
   "name": "Guadalajara",
   "last_match": {
-    "vs": "Club America",
-    "date": "2026-02-14",
-    "time": "21:07",
-    "home": true,
-    "score": "1 - 0",
-    "result": "W"
+    "vs": "Cruz Azul",
+    "date": "2026-02-21",
+    "time": "21:05",
+    "home": false,
+    "score": "2 - 1",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 501,
+      "games_played": 502,
       "wins": 176,
       "draws": 154,
-      "losses": 171,
-      "goals_for": 594,
-      "goals_against": 587,
-      "goal_difference": 7,
-      "win_rate": 35.13
+      "losses": 172,
+      "goals_for": 595,
+      "goals_against": 589,
+      "goal_difference": 6,
+      "win_rate": 35.06
     },
     "home": {
       "games_played": 251,
@@ -30,14 +30,14 @@
       "win_rate": 39.44
     },
     "away": {
-      "games_played": 250,
+      "games_played": 251,
       "wins": 77,
       "draws": 80,
-      "losses": 93,
-      "goals_for": 282,
-      "goals_against": 310,
-      "goal_difference": -28,
-      "win_rate": 30.8
+      "losses": 94,
+      "goals_for": 283,
+      "goals_against": 312,
+      "goal_difference": -29,
+      "win_rate": 30.68
     }
   },
   "form": [
@@ -45,7 +45,7 @@
     "W",
     "W",
     "W",
-    "W"
+    "L"
   ],
   "match_history": [
     {
@@ -251,20 +251,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-02-21",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.25,
+    "max_home": 2.4,
     "max_draw": 3.5,
-    "max_away": 3.3,
-    "avg_home": 2.19,
-    "avg_draw": 3.21,
-    "avg_away": 3.14,
-    "bfe_home": 2.28,
-    "bfe_draw": 3.6,
-    "bfe_away": 3.3
+    "max_away": 3.1,
+    "avg_home": 2.26,
+    "avg_draw": 3.4,
+    "avg_away": 2.91,
+    "bfe_home": 2.32,
+    "bfe_draw": 3.9,
+    "bfe_away": 3.1
   }
 }
