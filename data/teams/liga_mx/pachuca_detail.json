@@ -1,23 +1,23 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Tigres UANL",
-    "date": "2026-02-20",
+    "vs": "Mazatlan FC",
+    "date": "2026-02-27",
     "time": "19:00",
     "home": false,
-    "score": "1 - 2",
-    "result": "W"
+    "score": "1 - 0",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 511,
+      "games_played": 512,
       "wins": 205,
       "draws": 138,
-      "losses": 168,
+      "losses": 169,
       "goals_for": 742,
-      "goals_against": 646,
-      "goal_difference": 96,
-      "win_rate": 40.12
+      "goals_against": 647,
+      "goal_difference": 95,
+      "win_rate": 40.04
     },
     "home": {
       "games_played": 257,
@@ -30,22 +30,22 @@
       "win_rate": 49.81
     },
     "away": {
-      "games_played": 254,
+      "games_played": 255,
       "wins": 77,
       "draws": 69,
-      "losses": 108,
+      "losses": 109,
       "goals_for": 327,
-      "goals_against": 380,
-      "goal_difference": -53,
-      "win_rate": 30.31
+      "goals_against": 381,
+      "goal_difference": -54,
+      "win_rate": 30.2
     }
   },
   "form": [
     "D",
-    "D",
     "W",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-02-27",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.53,
-    "max_draw": 4.4,
-    "max_away": 6.5,
-    "avg_home": 1.5,
-    "avg_draw": 4.21,
-    "avg_away": 5.78,
-    "bfe_home": 1.57,
-    "bfe_draw": 4.7,
-    "bfe_away": 6.4
+    "max_home": 3.66,
+    "max_draw": 3.55,
+    "max_away": 2.15,
+    "avg_home": 3.41,
+    "avg_draw": 3.32,
+    "avg_away": 2.02,
+    "bfe_home": 3.55,
+    "bfe_draw": 3.55,
+    "bfe_away": 2.26
   }
 }

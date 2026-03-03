@@ -1,33 +1,33 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "Necaxa",
-    "date": "2026-02-14",
-    "time": "19:06",
+    "vs": "Atlas",
+    "date": "2026-02-27",
+    "time": "21:00",
     "home": true,
-    "score": "1 - 2",
-    "result": "L"
+    "score": "3 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 226,
-      "wins": 58,
+      "games_played": 227,
+      "wins": 59,
       "draws": 57,
       "losses": 111,
-      "goals_for": 243,
-      "goals_against": 355,
-      "goal_difference": -112,
-      "win_rate": 25.66
+      "goals_for": 246,
+      "goals_against": 356,
+      "goal_difference": -110,
+      "win_rate": 25.99
     },
     "home": {
-      "games_played": 113,
-      "wins": 34,
+      "games_played": 114,
+      "wins": 35,
       "draws": 34,
       "losses": 45,
-      "goals_for": 139,
-      "goals_against": 157,
-      "goal_difference": -18,
-      "win_rate": 30.09
+      "goals_for": 142,
+      "goals_against": 158,
+      "goal_difference": -16,
+      "win_rate": 30.7
     },
     "away": {
       "games_played": 113,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "D",
     "L",
     "L",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -251,20 +251,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-02-27",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.25,
+    "max_home": 2.05,
     "max_draw": 3.4,
-    "max_away": 3.7,
-    "avg_home": 2.12,
-    "avg_draw": 3.23,
-    "avg_away": 3.28,
-    "bfe_home": 2.18,
-    "bfe_draw": 3.6,
-    "bfe_away": 3.75
+    "max_away": 4.0,
+    "avg_home": 1.98,
+    "avg_draw": 3.24,
+    "avg_away": 3.61,
+    "bfe_home": 2.12,
+    "bfe_draw": 3.5,
+    "bfe_away": 4.0
   }
 }

@@ -1,33 +1,33 @@
 {
   "name": "Mazatlán",
   "last_match": {
-    "vs": "Club Tijuana",
-    "date": "2026-02-21",
-    "time": "23:10",
-    "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Pachuca",
+    "date": "2026-02-27",
+    "time": "19:00",
+    "home": true,
+    "score": "1 - 0",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 196,
-      "wins": 45,
+      "games_played": 197,
+      "wins": 46,
       "draws": 55,
       "losses": 96,
-      "goals_for": 219,
+      "goals_for": 220,
       "goals_against": 321,
-      "goal_difference": -102,
-      "win_rate": 22.96
+      "goal_difference": -101,
+      "win_rate": 23.35
     },
     "home": {
-      "games_played": 97,
-      "wins": 32,
+      "games_played": 98,
+      "wins": 33,
       "draws": 31,
       "losses": 34,
-      "goals_for": 129,
+      "goals_for": 130,
       "goals_against": 143,
-      "goal_difference": -14,
-      "win_rate": 32.99
+      "goal_difference": -13,
+      "win_rate": 33.67
     },
     "away": {
       "games_played": 99,
@@ -43,9 +43,9 @@
   "form": [
     "L",
     "L",
-    "L",
     "W",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -233,20 +233,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-02-27",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.53,
-    "max_draw": 4.5,
-    "max_away": 6.5,
-    "avg_home": 1.48,
-    "avg_draw": 4.18,
-    "avg_away": 5.98,
-    "bfe_home": 1.56,
-    "bfe_draw": 4.6,
-    "bfe_away": 6.6
+    "max_home": 3.66,
+    "max_draw": 3.55,
+    "max_away": 2.15,
+    "avg_home": 3.41,
+    "avg_draw": 3.32,
+    "avg_away": 2.02,
+    "bfe_home": 3.55,
+    "bfe_draw": 3.55,
+    "bfe_away": 2.26
   }
 }
