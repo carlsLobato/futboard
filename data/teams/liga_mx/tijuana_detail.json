@@ -1,23 +1,23 @@
 {
   "name": "Tijuana",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-02-27",
-    "time": "21:06",
-    "home": true,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Atlas",
+    "date": "2026-03-04",
+    "time": "21:00",
+    "home": false,
+    "score": "2 - 1",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 488,
+      "games_played": 489,
       "wins": 163,
       "draws": 133,
-      "losses": 192,
-      "goals_for": 605,
-      "goals_against": 699,
-      "goal_difference": -94,
-      "win_rate": 33.4
+      "losses": 193,
+      "goals_for": 606,
+      "goals_against": 701,
+      "goal_difference": -95,
+      "win_rate": 33.33
     },
     "home": {
       "games_played": 248,
@@ -30,22 +30,22 @@
       "win_rate": 45.97
     },
     "away": {
-      "games_played": 240,
+      "games_played": 241,
       "wins": 49,
       "draws": 58,
-      "losses": 133,
-      "goals_for": 228,
-      "goals_against": 429,
-      "goal_difference": -201,
-      "win_rate": 20.42
+      "losses": 134,
+      "goals_for": 229,
+      "goals_against": 431,
+      "goal_difference": -202,
+      "win_rate": 20.33
     }
   },
   "form": [
     "D",
-    "D",
     "L",
     "D",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-03-04",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.2,
-    "max_draw": 3.75,
-    "max_away": 3.25,
-    "avg_home": 2.13,
-    "avg_draw": 3.41,
-    "avg_away": 3.04,
-    "bfe_home": 2.26,
-    "bfe_draw": 3.8,
-    "bfe_away": 3.25
+    "max_home": 2.14,
+    "max_draw": 3.4,
+    "max_away": 3.7,
+    "avg_home": 2.05,
+    "avg_draw": 3.34,
+    "avg_away": 3.38,
+    "bfe_home": 2.14,
+    "bfe_draw": 3.5,
+    "bfe_away": 3.95
   }
 }

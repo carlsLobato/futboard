@@ -1,23 +1,23 @@
 {
   "name": "Necaxa",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2026-02-28",
-    "time": "19:06",
+    "vs": "Pachuca",
+    "date": "2026-03-03",
+    "time": "19:00",
     "home": false,
     "score": "2 - 1",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 342,
+      "games_played": 343,
       "wins": 108,
       "draws": 97,
-      "losses": 137,
-      "goals_for": 437,
-      "goals_against": 478,
-      "goal_difference": -41,
-      "win_rate": 31.58
+      "losses": 138,
+      "goals_for": 438,
+      "goals_against": 480,
+      "goal_difference": -42,
+      "win_rate": 31.49
     },
     "home": {
       "games_played": 169,
@@ -30,20 +30,20 @@
       "win_rate": 35.5
     },
     "away": {
-      "games_played": 173,
+      "games_played": 174,
       "wins": 48,
       "draws": 43,
-      "losses": 82,
-      "goals_for": 210,
-      "goals_against": 265,
-      "goal_difference": -55,
-      "win_rate": 27.75
+      "losses": 83,
+      "goals_for": 211,
+      "goals_against": 267,
+      "goal_difference": -56,
+      "win_rate": 27.59
     }
   },
   "form": [
+    "W",
+    "W",
     "L",
-    "W",
-    "W",
     "L",
     "L"
   ],
@@ -251,20 +251,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-03-03",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.12,
-    "max_draw": 3.6,
-    "max_away": 3.4,
-    "avg_home": 2.06,
-    "avg_draw": 3.41,
-    "avg_away": 3.2,
-    "bfe_home": 2.14,
-    "bfe_draw": 3.75,
-    "bfe_away": 3.6
+    "max_home": 1.73,
+    "max_draw": 4.0,
+    "max_away": 4.5,
+    "avg_home": 1.7,
+    "avg_draw": 3.8,
+    "avg_away": 4.32,
+    "bfe_home": 1.76,
+    "bfe_draw": 4.2,
+    "bfe_away": 5.0
   }
 }

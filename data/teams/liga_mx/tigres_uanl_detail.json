@@ -1,23 +1,23 @@
 {
   "name": "Tigres UANL",
   "last_match": {
-    "vs": "Club America",
-    "date": "2026-02-28",
-    "time": "21:10",
+    "vs": "Puebla",
+    "date": "2026-03-04",
+    "time": "19:00",
     "home": false,
-    "score": "1 - 4",
-    "result": "W"
+    "score": "3 - 1",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 553,
+      "games_played": 554,
       "wins": 253,
       "draws": 169,
-      "losses": 131,
-      "goals_for": 822,
-      "goals_against": 542,
-      "goal_difference": 280,
-      "win_rate": 45.75
+      "losses": 132,
+      "goals_for": 823,
+      "goals_against": 545,
+      "goal_difference": 278,
+      "win_rate": 45.67
     },
     "home": {
       "games_played": 278,
@@ -30,22 +30,22 @@
       "win_rate": 53.6
     },
     "away": {
-      "games_played": 275,
+      "games_played": 276,
       "wins": 104,
       "draws": 85,
-      "losses": 86,
-      "goals_for": 336,
-      "goals_against": 291,
-      "goal_difference": 45,
-      "win_rate": 37.82
+      "losses": 87,
+      "goals_for": 337,
+      "goals_against": 294,
+      "goal_difference": 43,
+      "win_rate": 37.68
     }
   },
   "form": [
     "W",
+    "L",
+    "L",
     "W",
-    "L",
-    "L",
-    "W"
+    "L"
   ],
   "match_history": [
     {
@@ -299,20 +299,26 @@
       "goals_for": 4,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-03-04",
+      "goals_for": 1,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.22,
-    "max_draw": 3.3,
-    "max_away": 3.65,
-    "avg_home": 2.13,
-    "avg_draw": 3.12,
-    "avg_away": 3.32,
-    "bfe_home": 2.3,
-    "bfe_draw": 3.35,
-    "bfe_away": 3.65
+    "max_home": 4.2,
+    "max_draw": 3.45,
+    "max_away": 1.97,
+    "avg_home": 3.84,
+    "avg_draw": 3.37,
+    "avg_away": 1.9,
+    "bfe_home": 4.2,
+    "bfe_draw": 3.55,
+    "bfe_away": 2.04
   }
 }

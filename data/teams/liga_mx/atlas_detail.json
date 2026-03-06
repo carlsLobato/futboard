@@ -1,33 +1,33 @@
 {
   "name": "Atlas",
   "last_match": {
-    "vs": "Juarez",
-    "date": "2026-02-27",
+    "vs": "Club Tijuana",
+    "date": "2026-03-04",
     "time": "21:00",
-    "home": false,
-    "score": "3 - 1",
-    "result": "L"
+    "home": true,
+    "score": "2 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 491,
-      "wins": 148,
+      "games_played": 492,
+      "wins": 149,
       "draws": 139,
       "losses": 204,
-      "goals_for": 546,
-      "goals_against": 670,
-      "goal_difference": -124,
-      "win_rate": 30.14
+      "goals_for": 548,
+      "goals_against": 671,
+      "goal_difference": -123,
+      "win_rate": 30.28
     },
     "home": {
-      "games_played": 244,
-      "wins": 84,
+      "games_played": 245,
+      "wins": 85,
       "draws": 69,
       "losses": 91,
-      "goals_for": 278,
-      "goals_against": 294,
-      "goal_difference": -16,
-      "win_rate": 34.43
+      "goals_for": 280,
+      "goals_against": 295,
+      "goal_difference": -15,
+      "win_rate": 34.69
     },
     "away": {
       "games_played": 247,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "D",
     "L",
     "W",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 1,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-03-04",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.05,
+    "max_home": 2.14,
     "max_draw": 3.4,
-    "max_away": 4.0,
-    "avg_home": 1.98,
-    "avg_draw": 3.24,
-    "avg_away": 3.61,
-    "bfe_home": 2.12,
+    "max_away": 3.7,
+    "avg_home": 2.05,
+    "avg_draw": 3.34,
+    "avg_away": 3.38,
+    "bfe_home": 2.14,
     "bfe_draw": 3.5,
-    "bfe_away": 4.0
+    "bfe_away": 3.95
   }
 }

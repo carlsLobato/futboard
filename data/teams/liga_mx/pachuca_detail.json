@@ -1,33 +1,33 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Mazatlan FC",
-    "date": "2026-02-27",
+    "vs": "Necaxa",
+    "date": "2026-03-03",
     "time": "19:00",
-    "home": false,
-    "score": "1 - 0",
-    "result": "L"
+    "home": true,
+    "score": "2 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 512,
-      "wins": 205,
+      "games_played": 513,
+      "wins": 206,
       "draws": 138,
       "losses": 169,
-      "goals_for": 742,
-      "goals_against": 647,
-      "goal_difference": 95,
-      "win_rate": 40.04
+      "goals_for": 744,
+      "goals_against": 648,
+      "goal_difference": 96,
+      "win_rate": 40.16
     },
     "home": {
-      "games_played": 257,
-      "wins": 128,
+      "games_played": 258,
+      "wins": 129,
       "draws": 69,
       "losses": 60,
-      "goals_for": 415,
-      "goals_against": 266,
-      "goal_difference": 149,
-      "win_rate": 49.81
+      "goals_for": 417,
+      "goals_against": 267,
+      "goal_difference": 150,
+      "win_rate": 50.0
     },
     "away": {
       "games_played": 255,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "W",
     "W",
     "W",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -263,20 +263,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-03-03",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.66,
-    "max_draw": 3.55,
-    "max_away": 2.15,
-    "avg_home": 3.41,
-    "avg_draw": 3.32,
-    "avg_away": 2.02,
-    "bfe_home": 3.55,
-    "bfe_draw": 3.55,
-    "bfe_away": 2.26
+    "max_home": 1.73,
+    "max_draw": 4.0,
+    "max_away": 4.5,
+    "avg_home": 1.7,
+    "avg_draw": 3.8,
+    "avg_away": 4.32,
+    "bfe_home": 1.76,
+    "bfe_draw": 4.2,
+    "bfe_away": 5.0
   }
 }

@@ -1,23 +1,23 @@
 {
   "name": "Cruz Azul",
   "last_match": {
-    "vs": "Monterrey",
-    "date": "2026-02-28",
-    "time": "19:05",
+    "vs": "Santos Laguna",
+    "date": "2026-03-03",
+    "time": "19:00",
     "home": false,
-    "score": "0 - 2",
+    "score": "1 - 2",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 519,
-      "wins": 230,
+      "games_played": 520,
+      "wins": 231,
       "draws": 146,
       "losses": 143,
-      "goals_for": 728,
-      "goals_against": 580,
-      "goal_difference": 148,
-      "win_rate": 44.32
+      "goals_for": 730,
+      "goals_against": 581,
+      "goal_difference": 149,
+      "win_rate": 44.42
     },
     "home": {
       "games_played": 262,
@@ -30,19 +30,19 @@
       "win_rate": 52.67
     },
     "away": {
-      "games_played": 257,
-      "wins": 92,
+      "games_played": 258,
+      "wins": 93,
       "draws": 84,
       "losses": 81,
-      "goals_for": 325,
-      "goals_against": 322,
-      "goal_difference": 3,
-      "win_rate": 35.8
+      "goals_for": 327,
+      "goals_against": 323,
+      "goal_difference": 4,
+      "win_rate": 36.05
     }
   },
   "form": [
-    "W",
     "D",
+    "W",
     "W",
     "W",
     "W"
@@ -287,20 +287,26 @@
       "goals_for": 2,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-03-03",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.75,
-    "max_draw": 3.5,
-    "max_away": 2.6,
-    "avg_home": 2.6,
-    "avg_draw": 3.39,
-    "avg_away": 2.43,
-    "bfe_home": 2.86,
-    "bfe_draw": 3.7,
-    "bfe_away": 2.58
+    "max_home": 8.0,
+    "max_draw": 5.0,
+    "max_away": 1.4,
+    "avg_home": 7.17,
+    "avg_draw": 4.78,
+    "avg_away": 1.36,
+    "bfe_home": 8.6,
+    "bfe_draw": 5.6,
+    "bfe_away": 1.41
   }
 }
