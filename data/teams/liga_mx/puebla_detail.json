@@ -1,23 +1,23 @@
 {
   "name": "Puebla",
   "last_match": {
-    "vs": "Tigres UANL",
-    "date": "2026-03-04",
-    "time": "19:00",
-    "home": true,
-    "score": "3 - 1",
-    "result": "W"
+    "vs": "Pachuca",
+    "date": "2026-03-07",
+    "time": "19:06",
+    "home": false,
+    "score": "2 - 1",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 483,
+      "games_played": 484,
       "wins": 134,
       "draws": 137,
-      "losses": 212,
-      "goals_for": 557,
-      "goals_against": 716,
-      "goal_difference": -159,
-      "win_rate": 27.74
+      "losses": 213,
+      "goals_for": 558,
+      "goals_against": 718,
+      "goal_difference": -160,
+      "win_rate": 27.69
     },
     "home": {
       "games_played": 242,
@@ -30,22 +30,22 @@
       "win_rate": 32.23
     },
     "away": {
-      "games_played": 241,
+      "games_played": 242,
       "wins": 56,
       "draws": 63,
-      "losses": 122,
-      "goals_for": 243,
-      "goals_against": 381,
-      "goal_difference": -138,
-      "win_rate": 23.24
+      "losses": 123,
+      "goals_for": 244,
+      "goals_against": 383,
+      "goal_difference": -139,
+      "win_rate": 23.14
     }
   },
   "form": [
-    "D",
     "L",
     "L",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 3,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-03-07",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 4.2,
-    "max_draw": 3.45,
-    "max_away": 1.97,
-    "avg_home": 3.84,
-    "avg_draw": 3.37,
-    "avg_away": 1.9,
-    "bfe_home": 4.2,
-    "bfe_draw": 3.55,
-    "bfe_away": 2.04
+    "max_home": 1.84,
+    "max_draw": 3.75,
+    "max_away": 4.5,
+    "avg_home": 1.75,
+    "avg_draw": 3.56,
+    "avg_away": 4.21,
+    "bfe_home": 1.84,
+    "bfe_draw": 3.9,
+    "bfe_away": 4.8
   }
 }

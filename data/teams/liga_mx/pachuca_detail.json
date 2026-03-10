@@ -1,33 +1,33 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Necaxa",
-    "date": "2026-03-03",
-    "time": "19:00",
+    "vs": "Puebla",
+    "date": "2026-03-07",
+    "time": "19:06",
     "home": true,
     "score": "2 - 1",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 513,
-      "wins": 206,
+      "games_played": 514,
+      "wins": 207,
       "draws": 138,
       "losses": 169,
-      "goals_for": 744,
-      "goals_against": 648,
-      "goal_difference": 96,
-      "win_rate": 40.16
+      "goals_for": 746,
+      "goals_against": 649,
+      "goal_difference": 97,
+      "win_rate": 40.27
     },
     "home": {
-      "games_played": 258,
-      "wins": 129,
+      "games_played": 259,
+      "wins": 130,
       "draws": 69,
       "losses": 60,
-      "goals_for": 417,
-      "goals_against": 267,
-      "goal_difference": 150,
-      "win_rate": 50.0
+      "goals_for": 419,
+      "goals_against": 268,
+      "goal_difference": 151,
+      "win_rate": 50.19
     },
     "away": {
       "games_played": 255,
@@ -43,8 +43,8 @@
   "form": [
     "W",
     "W",
-    "W",
     "L",
+    "W",
     "W"
   ],
   "match_history": [
@@ -263,20 +263,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-03-07",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.73,
-    "max_draw": 4.0,
+    "max_home": 1.84,
+    "max_draw": 3.75,
     "max_away": 4.5,
-    "avg_home": 1.7,
-    "avg_draw": 3.8,
-    "avg_away": 4.32,
-    "bfe_home": 1.76,
-    "bfe_draw": 4.2,
-    "bfe_away": 5.0
+    "avg_home": 1.75,
+    "avg_draw": 3.56,
+    "avg_away": 4.21,
+    "bfe_home": 1.84,
+    "bfe_draw": 3.9,
+    "bfe_away": 4.8
   }
 }

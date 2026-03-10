@@ -1,33 +1,33 @@
 {
   "name": "Tigres UANL",
   "last_match": {
-    "vs": "Puebla",
-    "date": "2026-03-04",
-    "time": "19:00",
-    "home": false,
-    "score": "3 - 1",
-    "result": "L"
+    "vs": "Monterrey",
+    "date": "2026-03-07",
+    "time": "21:00",
+    "home": true,
+    "score": "1 - 0",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 554,
-      "wins": 253,
+      "games_played": 555,
+      "wins": 254,
       "draws": 169,
       "losses": 132,
-      "goals_for": 823,
+      "goals_for": 824,
       "goals_against": 545,
-      "goal_difference": 278,
-      "win_rate": 45.67
+      "goal_difference": 279,
+      "win_rate": 45.77
     },
     "home": {
-      "games_played": 278,
-      "wins": 149,
+      "games_played": 279,
+      "wins": 150,
       "draws": 84,
       "losses": 45,
-      "goals_for": 486,
+      "goals_for": 487,
       "goals_against": 251,
-      "goal_difference": 235,
-      "win_rate": 53.6
+      "goal_difference": 236,
+      "win_rate": 53.76
     },
     "away": {
       "games_played": 276,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "L",
     "L",
     "W",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -299,20 +299,26 @@
       "goals_for": 1,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-03-07",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 4.2,
-    "max_draw": 3.45,
-    "max_away": 1.97,
-    "avg_home": 3.84,
-    "avg_draw": 3.37,
-    "avg_away": 1.9,
-    "bfe_home": 4.2,
-    "bfe_draw": 3.55,
-    "bfe_away": 2.04
+    "max_home": 1.93,
+    "max_draw": 3.6,
+    "max_away": 4.2,
+    "avg_home": 1.83,
+    "avg_draw": 3.51,
+    "avg_away": 3.84,
+    "bfe_home": 1.92,
+    "bfe_draw": 3.9,
+    "bfe_away": 4.3
   }
 }

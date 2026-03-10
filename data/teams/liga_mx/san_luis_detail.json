@@ -1,23 +1,23 @@
 {
   "name": "Atl. San Luis",
   "last_match": {
-    "vs": "Mazatlan FC",
-    "date": "2026-03-03",
-    "time": "21:00",
-    "home": true,
-    "score": "4 - 1",
-    "result": "W"
+    "vs": "Cruz Azul",
+    "date": "2026-03-07",
+    "time": "17:00",
+    "home": false,
+    "score": "3 - 0",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 274,
+      "games_played": 275,
       "wins": 84,
       "draws": 53,
-      "losses": 137,
+      "losses": 138,
       "goals_for": 342,
-      "goals_against": 437,
-      "goal_difference": -95,
-      "win_rate": 30.66
+      "goals_against": 440,
+      "goal_difference": -98,
+      "win_rate": 30.55
     },
     "home": {
       "games_played": 136,
@@ -30,22 +30,22 @@
       "win_rate": 34.56
     },
     "away": {
-      "games_played": 138,
+      "games_played": 139,
       "wins": 37,
       "draws": 26,
-      "losses": 75,
+      "losses": 76,
       "goals_for": 163,
-      "goals_against": 235,
-      "goal_difference": -72,
-      "win_rate": 26.81
+      "goals_against": 238,
+      "goal_difference": -75,
+      "win_rate": 26.62
     }
   },
   "form": [
-    "L",
     "W",
     "L",
     "L",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 4,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-03-07",
+      "goals_for": 0,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.62,
-    "max_draw": 4.0,
-    "max_away": 5.8,
-    "avg_home": 1.58,
-    "avg_draw": 3.9,
-    "avg_away": 5.19,
-    "bfe_home": 1.66,
-    "bfe_draw": 4.3,
-    "bfe_away": 5.7
+    "max_home": 1.44,
+    "max_draw": 4.75,
+    "max_away": 7.2,
+    "avg_home": 1.4,
+    "avg_draw": 4.51,
+    "avg_away": 6.53,
+    "bfe_home": 1.45,
+    "bfe_draw": 5.1,
+    "bfe_away": 8.4
   }
 }

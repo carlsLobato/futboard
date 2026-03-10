@@ -1,23 +1,23 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2026-03-03",
-    "time": "21:10",
-    "home": true,
-    "score": "2 - 3",
-    "result": "L"
+    "vs": "Necaxa",
+    "date": "2026-03-06",
+    "time": "21:00",
+    "home": false,
+    "score": "0 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 506,
-      "wins": 175,
+      "games_played": 507,
+      "wins": 176,
       "draws": 145,
       "losses": 186,
-      "goals_for": 664,
+      "goals_for": 665,
       "goals_against": 676,
-      "goal_difference": -12,
-      "win_rate": 34.58
+      "goal_difference": -11,
+      "win_rate": 34.71
     },
     "home": {
       "games_played": 250,
@@ -30,22 +30,22 @@
       "win_rate": 42.8
     },
     "away": {
-      "games_played": 256,
-      "wins": 68,
+      "games_played": 257,
+      "wins": 69,
       "draws": 70,
       "losses": 118,
-      "goals_for": 284,
+      "goals_for": 285,
       "goals_against": 398,
-      "goal_difference": -114,
-      "win_rate": 26.56
+      "goal_difference": -113,
+      "win_rate": 26.85
     }
   },
   "form": [
-    "D",
     "W",
     "W",
     "D",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 2,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-03-06",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.9,
-    "max_draw": 3.7,
-    "max_away": 1.95,
-    "avg_home": 3.69,
-    "avg_draw": 3.54,
-    "avg_away": 1.88,
-    "bfe_home": 3.9,
-    "bfe_draw": 3.85,
-    "bfe_away": 2.0
+    "max_home": 3.0,
+    "max_draw": 3.6,
+    "max_away": 2.3,
+    "avg_home": 2.83,
+    "avg_draw": 3.45,
+    "avg_away": 2.23,
+    "bfe_home": 3.05,
+    "bfe_draw": 3.75,
+    "bfe_away": 2.42
   }
 }

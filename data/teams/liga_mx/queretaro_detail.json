@@ -1,33 +1,33 @@
 {
   "name": "Querétaro",
   "last_match": {
-    "vs": "Monterrey",
-    "date": "2026-03-04",
-    "time": "19:00",
-    "home": false,
-    "score": "4 - 0",
+    "vs": "Club America",
+    "date": "2026-03-07",
+    "time": "17:00",
+    "home": true,
+    "score": "1 - 2",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 475,
+      "games_played": 476,
       "wins": 135,
       "draws": 124,
-      "losses": 216,
-      "goals_for": 525,
-      "goals_against": 695,
-      "goal_difference": -170,
-      "win_rate": 28.42
+      "losses": 217,
+      "goals_for": 526,
+      "goals_against": 697,
+      "goal_difference": -171,
+      "win_rate": 28.36
     },
     "home": {
-      "games_played": 235,
+      "games_played": 236,
       "wins": 85,
       "draws": 62,
-      "losses": 88,
-      "goals_for": 285,
-      "goals_against": 288,
-      "goal_difference": -3,
-      "win_rate": 36.17
+      "losses": 89,
+      "goals_for": 286,
+      "goals_against": 290,
+      "goal_difference": -4,
+      "win_rate": 36.02
     },
     "away": {
       "games_played": 240,
@@ -41,10 +41,10 @@
     }
   },
   "form": [
-    "D",
     "W",
     "L",
     "D",
+    "L",
     "L"
   ],
   "match_history": [
@@ -233,20 +233,26 @@
       "goals_for": 0,
       "goals_against": 4,
       "result": "L"
+    },
+    {
+      "date": "2026-03-07",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.55,
-    "max_draw": 4.35,
-    "max_away": 6.75,
-    "avg_home": 1.51,
-    "avg_draw": 4.08,
-    "avg_away": 5.67,
-    "bfe_home": 1.64,
-    "bfe_draw": 4.2,
-    "bfe_away": 6.4
+    "max_home": 5.0,
+    "max_draw": 3.6,
+    "max_away": 1.83,
+    "avg_home": 4.46,
+    "avg_draw": 3.39,
+    "avg_away": 1.75,
+    "bfe_home": 4.9,
+    "bfe_draw": 3.7,
+    "bfe_away": 1.87
   }
 }
