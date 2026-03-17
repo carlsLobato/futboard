@@ -1,33 +1,33 @@
 {
   "name": "América",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2026-03-07",
-    "time": "17:00",
-    "home": false,
-    "score": "1 - 2",
+    "vs": "Mazatlan FC",
+    "date": "2026-03-15",
+    "time": "19:00",
+    "home": true,
+    "score": "2 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 572,
-      "wins": 288,
+      "games_played": 573,
+      "wins": 289,
       "draws": 152,
       "losses": 132,
-      "goals_for": 932,
+      "goals_for": 934,
       "goals_against": 599,
-      "goal_difference": 333,
-      "win_rate": 50.35
+      "goal_difference": 335,
+      "win_rate": 50.44
     },
     "home": {
-      "games_played": 285,
-      "wins": 167,
+      "games_played": 286,
+      "wins": 168,
       "draws": 61,
       "losses": 57,
-      "goals_for": 504,
+      "goals_for": 506,
       "goals_against": 268,
-      "goal_difference": 236,
-      "win_rate": 58.6
+      "goal_difference": 238,
+      "win_rate": 58.74
     },
     "away": {
       "games_played": 287,
@@ -41,10 +41,10 @@
     }
   },
   "form": [
-    "L",
     "W",
     "L",
     "L",
+    "W",
     "W"
   ],
   "match_history": [
@@ -287,20 +287,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-03-15",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.0,
-    "max_draw": 3.6,
-    "max_away": 1.83,
-    "avg_home": 4.46,
-    "avg_draw": 3.39,
-    "avg_away": 1.75,
-    "bfe_home": 4.9,
-    "bfe_draw": 3.7,
-    "bfe_away": 1.87
+    "max_home": 1.23,
+    "max_draw": 6.5,
+    "max_away": 13.0,
+    "avg_home": 1.21,
+    "avg_draw": 6.01,
+    "avg_away": 11.46,
+    "bfe_home": 1.26,
+    "bfe_draw": 6.8,
+    "bfe_away": 13.5
   }
 }

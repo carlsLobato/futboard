@@ -1,23 +1,23 @@
 {
   "name": "Querétaro",
   "last_match": {
-    "vs": "Club America",
-    "date": "2026-03-07",
+    "vs": "Tigres UANL",
+    "date": "2026-03-15",
     "time": "17:00",
-    "home": true,
-    "score": "1 - 2",
-    "result": "L"
+    "home": false,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 476,
+      "games_played": 477,
       "wins": 135,
-      "draws": 124,
+      "draws": 125,
       "losses": 217,
       "goals_for": 526,
       "goals_against": 697,
       "goal_difference": -171,
-      "win_rate": 28.36
+      "win_rate": 28.3
     },
     "home": {
       "games_played": 236,
@@ -30,22 +30,22 @@
       "win_rate": 36.02
     },
     "away": {
-      "games_played": 240,
+      "games_played": 241,
       "wins": 50,
-      "draws": 62,
+      "draws": 63,
       "losses": 128,
       "goals_for": 240,
       "goals_against": 407,
       "goal_difference": -167,
-      "win_rate": 20.83
+      "win_rate": 20.75
     }
   },
   "form": [
-    "W",
     "L",
     "D",
     "L",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -233,20 +233,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-03-15",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.0,
-    "max_draw": 3.6,
-    "max_away": 1.83,
-    "avg_home": 4.46,
-    "avg_draw": 3.39,
-    "avg_away": 1.75,
-    "bfe_home": 4.9,
-    "bfe_draw": 3.7,
-    "bfe_away": 1.87
+    "max_home": 1.48,
+    "max_draw": 4.75,
+    "max_away": 7.5,
+    "avg_home": 1.41,
+    "avg_draw": 4.45,
+    "avg_away": 6.72,
+    "bfe_home": 1.47,
+    "bfe_draw": 4.9,
+    "bfe_away": 7.4
   }
 }

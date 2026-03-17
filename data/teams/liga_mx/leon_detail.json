@@ -1,33 +1,33 @@
 {
   "name": "León",
   "last_match": {
-    "vs": "Mazatlan FC",
-    "date": "2026-03-06",
+    "vs": "Club Tijuana",
+    "date": "2026-03-14",
     "time": "19:00",
-    "home": false,
-    "score": "4 - 2",
+    "home": true,
+    "score": "0 - 3",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 519,
+      "games_played": 520,
       "wins": 217,
       "draws": 122,
-      "losses": 180,
+      "losses": 181,
       "goals_for": 772,
-      "goals_against": 682,
-      "goal_difference": 90,
-      "win_rate": 41.81
+      "goals_against": 685,
+      "goal_difference": 87,
+      "win_rate": 41.73
     },
     "home": {
-      "games_played": 260,
+      "games_played": 261,
       "wins": 132,
       "draws": 61,
-      "losses": 67,
+      "losses": 68,
       "goals_for": 452,
-      "goals_against": 299,
-      "goal_difference": 153,
-      "win_rate": 50.77
+      "goals_against": 302,
+      "goal_difference": 150,
+      "win_rate": 50.57
     },
     "away": {
       "games_played": 259,
@@ -42,9 +42,9 @@
   },
   "form": [
     "L",
+    "W",
+    "W",
     "L",
-    "W",
-    "W",
     "L"
   ],
   "match_history": [
@@ -245,20 +245,26 @@
       "goals_for": 2,
       "goals_against": 4,
       "result": "L"
+    },
+    {
+      "date": "2026-03-14",
+      "goals_for": 0,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.2,
-    "max_draw": 3.55,
-    "max_away": 2.25,
-    "avg_home": 3.02,
-    "avg_draw": 3.43,
-    "avg_away": 2.13,
-    "bfe_home": 3.35,
-    "bfe_draw": 3.65,
-    "bfe_away": 2.28
+    "max_home": 1.85,
+    "max_draw": 4.0,
+    "max_away": 4.33,
+    "avg_home": 1.75,
+    "avg_draw": 3.85,
+    "avg_away": 3.95,
+    "bfe_home": 1.83,
+    "bfe_draw": 4.2,
+    "bfe_away": 4.4
   }
 }

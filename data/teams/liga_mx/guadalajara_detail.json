@@ -1,33 +1,33 @@
 {
   "name": "Guadalajara",
   "last_match": {
-    "vs": "Atlas",
-    "date": "2026-03-07",
-    "time": "19:05",
-    "home": false,
-    "score": "1 - 2",
+    "vs": "Santos Laguna",
+    "date": "2026-03-14",
+    "time": "17:07",
+    "home": true,
+    "score": "3 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 504,
-      "wins": 177,
+      "games_played": 505,
+      "wins": 178,
       "draws": 154,
       "losses": 173,
-      "goals_for": 597,
+      "goals_for": 600,
       "goals_against": 592,
-      "goal_difference": 5,
-      "win_rate": 35.12
+      "goal_difference": 8,
+      "win_rate": 35.25
     },
     "home": {
-      "games_played": 251,
-      "wins": 99,
+      "games_played": 252,
+      "wins": 100,
       "draws": 74,
       "losses": 78,
-      "goals_for": 312,
+      "goals_for": 315,
       "goals_against": 277,
-      "goal_difference": 35,
-      "win_rate": 39.44
+      "goal_difference": 38,
+      "win_rate": 39.68
     },
     "away": {
       "games_played": 253,
@@ -42,9 +42,9 @@
   },
   "form": [
     "W",
+    "L",
+    "L",
     "W",
-    "L",
-    "L",
     "W"
   ],
   "match_history": [
@@ -245,20 +245,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-03-14",
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.33,
-    "max_draw": 3.75,
-    "max_away": 1.67,
-    "avg_home": 4.96,
-    "avg_draw": 3.63,
-    "avg_away": 1.63,
-    "bfe_home": 5.7,
-    "bfe_draw": 4.1,
-    "bfe_away": 1.7
+    "max_home": 1.29,
+    "max_draw": 6.25,
+    "max_away": 11.0,
+    "avg_home": 1.25,
+    "avg_draw": 5.83,
+    "avg_away": 9.05,
+    "bfe_home": 1.3,
+    "bfe_draw": 6.8,
+    "bfe_away": 10.5
   }
 }
