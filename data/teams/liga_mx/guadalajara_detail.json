@@ -1,23 +1,23 @@
 {
   "name": "Guadalajara",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2026-03-18",
-    "time": "20:07",
-    "home": true,
-    "score": "5 - 0",
+    "vs": "Monterrey",
+    "date": "2026-03-21",
+    "time": "19:05",
+    "home": false,
+    "score": "2 - 3",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 506,
-      "wins": 179,
+      "games_played": 507,
+      "wins": 180,
       "draws": 154,
       "losses": 173,
-      "goals_for": 605,
-      "goals_against": 592,
-      "goal_difference": 13,
-      "win_rate": 35.38
+      "goals_for": 608,
+      "goals_against": 594,
+      "goal_difference": 14,
+      "win_rate": 35.5
     },
     "home": {
       "games_played": 253,
@@ -30,19 +30,19 @@
       "win_rate": 39.92
     },
     "away": {
-      "games_played": 253,
-      "wins": 78,
+      "games_played": 254,
+      "wins": 79,
       "draws": 80,
       "losses": 95,
-      "goals_for": 285,
-      "goals_against": 315,
-      "goal_difference": -30,
-      "win_rate": 30.83
+      "goals_for": 288,
+      "goals_against": 317,
+      "goal_difference": -29,
+      "win_rate": 31.1
     }
   },
   "form": [
     "L",
-    "L",
+    "W",
     "W",
     "W",
     "W"
@@ -257,20 +257,26 @@
       "goals_for": 5,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-03-21",
+      "goals_for": 3,
+      "goals_against": 2,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.41,
-    "max_draw": 5.0,
-    "max_away": 7.5,
-    "avg_home": 1.37,
-    "avg_draw": 4.68,
-    "avg_away": 7.08,
-    "bfe_home": 1.44,
-    "bfe_draw": 5.3,
-    "bfe_away": 7.6
+    "max_home": 3.8,
+    "max_draw": 3.75,
+    "max_away": 2.06,
+    "avg_home": 3.42,
+    "avg_draw": 3.59,
+    "avg_away": 1.95,
+    "bfe_home": 3.8,
+    "bfe_draw": 3.9,
+    "bfe_away": 2.06
   }
 }

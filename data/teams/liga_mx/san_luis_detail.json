@@ -1,33 +1,33 @@
 {
   "name": "Atl. San Luis",
   "last_match": {
-    "vs": "Pachuca",
-    "date": "2026-03-14",
-    "time": "17:00",
+    "vs": "Club Leon",
+    "date": "2026-03-21",
+    "time": "19:00",
     "home": true,
-    "score": "1 - 1",
-    "result": "T"
+    "score": "1 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 276,
+      "games_played": 277,
       "wins": 84,
       "draws": 54,
-      "losses": 138,
-      "goals_for": 343,
-      "goals_against": 441,
-      "goal_difference": -98,
-      "win_rate": 30.43
+      "losses": 139,
+      "goals_for": 344,
+      "goals_against": 443,
+      "goal_difference": -99,
+      "win_rate": 30.32
     },
     "home": {
-      "games_played": 137,
+      "games_played": 138,
       "wins": 47,
       "draws": 28,
-      "losses": 62,
-      "goals_for": 180,
-      "goals_against": 203,
-      "goal_difference": -23,
-      "win_rate": 34.31
+      "losses": 63,
+      "goals_for": 181,
+      "goals_against": 205,
+      "goal_difference": -24,
+      "win_rate": 34.06
     },
     "away": {
       "games_played": 139,
@@ -42,10 +42,10 @@
   },
   "form": [
     "L",
-    "L",
     "W",
     "L",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-03-21",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.1,
-    "max_draw": 3.5,
-    "max_away": 2.43,
-    "avg_home": 2.88,
-    "avg_draw": 3.36,
-    "avg_away": 2.29,
-    "bfe_home": 3.2,
-    "bfe_draw": 3.6,
-    "bfe_away": 2.38
+    "max_home": 2.2,
+    "max_draw": 3.7,
+    "max_away": 3.25,
+    "avg_home": 2.14,
+    "avg_draw": 3.53,
+    "avg_away": 3.01,
+    "bfe_home": 2.28,
+    "bfe_draw": 3.75,
+    "bfe_away": 3.25
   }
 }

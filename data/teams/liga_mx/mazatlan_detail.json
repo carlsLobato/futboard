@@ -1,33 +1,33 @@
 {
   "name": "Mazatlán",
   "last_match": {
-    "vs": "Club America",
-    "date": "2026-03-15",
-    "time": "19:00",
-    "home": false,
-    "score": "2 - 0",
-    "result": "L"
+    "vs": "Cruz Azul",
+    "date": "2026-03-20",
+    "time": "21:06",
+    "home": true,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 200,
+      "games_played": 201,
       "wins": 47,
-      "draws": 55,
+      "draws": 56,
       "losses": 98,
-      "goals_for": 225,
-      "goals_against": 329,
+      "goals_for": 226,
+      "goals_against": 330,
       "goal_difference": -104,
-      "win_rate": 23.5
+      "win_rate": 23.38
     },
     "home": {
-      "games_played": 99,
+      "games_played": 100,
       "wins": 34,
-      "draws": 31,
+      "draws": 32,
       "losses": 34,
-      "goals_for": 134,
-      "goals_against": 145,
+      "goals_for": 135,
+      "goals_against": 146,
       "goal_difference": -11,
-      "win_rate": 34.34
+      "win_rate": 34.0
     },
     "away": {
       "games_played": 101,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "W",
     "L",
     "W",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 0,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-03-20",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.23,
-    "max_draw": 6.5,
-    "max_away": 13.0,
-    "avg_home": 1.21,
-    "avg_draw": 6.01,
-    "avg_away": 11.46,
-    "bfe_home": 1.26,
-    "bfe_draw": 6.8,
-    "bfe_away": 13.5
+    "max_home": 5.25,
+    "max_draw": 4.5,
+    "max_away": 1.6,
+    "avg_home": 4.89,
+    "avg_draw": 4.2,
+    "avg_away": 1.56,
+    "bfe_home": 5.3,
+    "bfe_draw": 4.6,
+    "bfe_away": 1.65
   }
 }

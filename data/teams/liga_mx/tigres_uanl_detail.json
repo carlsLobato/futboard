@@ -1,23 +1,23 @@
 {
   "name": "Tigres UANL",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2026-03-15",
-    "time": "17:00",
-    "home": true,
-    "score": "0 - 0",
-    "result": "T"
+    "vs": "Juarez",
+    "date": "2026-03-22",
+    "time": "19:06",
+    "home": false,
+    "score": "2 - 1",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 556,
+      "games_played": 557,
       "wins": 254,
       "draws": 170,
-      "losses": 132,
-      "goals_for": 824,
-      "goals_against": 545,
-      "goal_difference": 279,
-      "win_rate": 45.68
+      "losses": 133,
+      "goals_for": 825,
+      "goals_against": 547,
+      "goal_difference": 278,
+      "win_rate": 45.6
     },
     "home": {
       "games_played": 280,
@@ -30,22 +30,22 @@
       "win_rate": 53.57
     },
     "away": {
-      "games_played": 276,
+      "games_played": 277,
       "wins": 104,
       "draws": 85,
-      "losses": 87,
-      "goals_for": 337,
-      "goals_against": 294,
-      "goal_difference": 43,
-      "win_rate": 37.68
+      "losses": 88,
+      "goals_for": 338,
+      "goals_against": 296,
+      "goal_difference": 42,
+      "win_rate": 37.55
     }
   },
   "form": [
-    "L",
     "W",
     "L",
     "W",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -305,20 +305,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2026-03-22",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.48,
-    "max_draw": 4.75,
-    "max_away": 7.5,
-    "avg_home": 1.41,
-    "avg_draw": 4.45,
-    "avg_away": 6.72,
-    "bfe_home": 1.47,
-    "bfe_draw": 4.9,
-    "bfe_away": 7.4
+    "max_home": 3.5,
+    "max_draw": 3.5,
+    "max_away": 2.15,
+    "avg_home": 3.31,
+    "avg_draw": 3.34,
+    "avg_away": 2.08,
+    "bfe_home": 3.6,
+    "bfe_draw": 3.6,
+    "bfe_away": 2.22
   }
 }

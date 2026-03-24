@@ -1,23 +1,23 @@
 {
   "name": "Tijuana",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2026-03-14",
+    "vs": "Necaxa",
+    "date": "2026-03-20",
     "time": "19:00",
     "home": false,
-    "score": "0 - 3",
-    "result": "W"
+    "score": "3 - 0",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 491,
+      "games_played": 492,
       "wins": 164,
       "draws": 133,
-      "losses": 194,
+      "losses": 195,
       "goals_for": 610,
-      "goals_against": 703,
-      "goal_difference": -93,
-      "win_rate": 33.4
+      "goals_against": 706,
+      "goal_difference": -96,
+      "win_rate": 33.33
     },
     "home": {
       "games_played": 249,
@@ -30,22 +30,22 @@
       "win_rate": 45.78
     },
     "away": {
-      "games_played": 242,
+      "games_played": 243,
       "wins": 50,
       "draws": 58,
-      "losses": 134,
+      "losses": 135,
       "goals_for": 232,
-      "goals_against": 431,
-      "goal_difference": -199,
-      "win_rate": 20.66
+      "goals_against": 434,
+      "goal_difference": -202,
+      "win_rate": 20.58
     }
   },
   "form": [
     "D",
-    "D",
     "L",
     "L",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -263,20 +263,26 @@
       "goals_for": 3,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-03-20",
+      "goals_for": 0,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.85,
-    "max_draw": 4.0,
-    "max_away": 4.33,
-    "avg_home": 1.75,
-    "avg_draw": 3.85,
-    "avg_away": 3.95,
-    "bfe_home": 1.83,
-    "bfe_draw": 4.2,
-    "bfe_away": 4.4
+    "max_home": 2.23,
+    "max_draw": 3.55,
+    "max_away": 3.4,
+    "avg_home": 2.12,
+    "avg_draw": 3.43,
+    "avg_away": 3.12,
+    "bfe_home": 2.2,
+    "bfe_draw": 3.65,
+    "bfe_away": 3.5
   }
 }

@@ -1,23 +1,23 @@
 {
   "name": "León",
   "last_match": {
-    "vs": "Guadalajara Chivas",
-    "date": "2026-03-18",
-    "time": "20:07",
+    "vs": "Atl. San Luis",
+    "date": "2026-03-21",
+    "time": "19:00",
     "home": false,
-    "score": "5 - 0",
-    "result": "L"
+    "score": "1 - 2",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 521,
-      "wins": 217,
+      "games_played": 522,
+      "wins": 218,
       "draws": 122,
       "losses": 182,
-      "goals_for": 772,
-      "goals_against": 690,
-      "goal_difference": 82,
-      "win_rate": 41.65
+      "goals_for": 774,
+      "goals_against": 691,
+      "goal_difference": 83,
+      "win_rate": 41.76
     },
     "home": {
       "games_played": 261,
@@ -30,22 +30,22 @@
       "win_rate": 50.57
     },
     "away": {
-      "games_played": 260,
-      "wins": 85,
+      "games_played": 261,
+      "wins": 86,
       "draws": 61,
       "losses": 114,
-      "goals_for": 320,
-      "goals_against": 388,
-      "goal_difference": -68,
-      "win_rate": 32.69
+      "goals_for": 322,
+      "goals_against": 389,
+      "goal_difference": -67,
+      "win_rate": 32.95
     }
   },
   "form": [
     "W",
-    "W",
     "L",
     "L",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 0,
       "goals_against": 5,
       "result": "L"
+    },
+    {
+      "date": "2026-03-21",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.41,
-    "max_draw": 5.0,
-    "max_away": 7.5,
-    "avg_home": 1.37,
-    "avg_draw": 4.68,
-    "avg_away": 7.08,
-    "bfe_home": 1.44,
-    "bfe_draw": 5.3,
-    "bfe_away": 7.6
+    "max_home": 2.2,
+    "max_draw": 3.7,
+    "max_away": 3.25,
+    "avg_home": 2.14,
+    "avg_draw": 3.53,
+    "avg_away": 3.01,
+    "bfe_home": 2.28,
+    "bfe_draw": 3.75,
+    "bfe_away": 3.25
   }
 }
