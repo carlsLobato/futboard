@@ -1,23 +1,23 @@
 {
   "name": "Toluca",
   "last_match": {
-    "vs": "Pachuca",
-    "date": "2026-03-22",
-    "time": "17:00",
+    "vs": "Queretaro",
+    "date": "2026-04-04",
+    "time": "18:00",
     "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "score": "1 - 0",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 531,
+      "games_played": 532,
       "wins": 228,
       "draws": 147,
-      "losses": 156,
+      "losses": 157,
       "goals_for": 820,
-      "goals_against": 661,
-      "goal_difference": 159,
-      "win_rate": 42.94
+      "goals_against": 662,
+      "goal_difference": 158,
+      "win_rate": 42.86
     },
     "home": {
       "games_played": 266,
@@ -30,22 +30,22 @@
       "win_rate": 54.89
     },
     "away": {
-      "games_played": 265,
+      "games_played": 266,
       "wins": 82,
       "draws": 81,
-      "losses": 102,
+      "losses": 103,
       "goals_for": 323,
-      "goals_against": 370,
-      "goal_difference": -47,
-      "win_rate": 30.94
+      "goals_against": 371,
+      "goal_difference": -48,
+      "win_rate": 30.83
     }
   },
   "form": [
     "W",
     "W",
-    "W",
     "D",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -311,20 +311,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-04-04",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.9,
-    "max_draw": 3.8,
-    "max_away": 1.91,
-    "avg_home": 3.6,
-    "avg_draw": 3.68,
-    "avg_away": 1.87,
-    "bfe_home": 4.0,
-    "bfe_draw": 3.95,
-    "bfe_away": 1.98
+    "max_home": 6.0,
+    "max_draw": 4.4,
+    "max_away": 1.57,
+    "avg_home": 5.35,
+    "avg_draw": 4.13,
+    "avg_away": 1.51,
+    "bfe_home": 6.0,
+    "bfe_draw": 4.5,
+    "bfe_away": 1.6
   }
 }

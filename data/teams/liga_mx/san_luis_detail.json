@@ -1,23 +1,23 @@
 {
   "name": "Atl. San Luis",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2026-03-21",
-    "time": "19:00",
-    "home": true,
+    "vs": "Monterrey",
+    "date": "2026-04-04",
+    "time": "18:00",
+    "home": false,
     "score": "1 - 2",
-    "result": "L"
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 277,
-      "wins": 84,
+      "games_played": 278,
+      "wins": 85,
       "draws": 54,
       "losses": 139,
-      "goals_for": 344,
-      "goals_against": 443,
-      "goal_difference": -99,
-      "win_rate": 30.32
+      "goals_for": 346,
+      "goals_against": 444,
+      "goal_difference": -98,
+      "win_rate": 30.58
     },
     "home": {
       "games_played": 138,
@@ -30,22 +30,22 @@
       "win_rate": 34.06
     },
     "away": {
-      "games_played": 139,
-      "wins": 37,
+      "games_played": 140,
+      "wins": 38,
       "draws": 26,
       "losses": 76,
-      "goals_for": 163,
-      "goals_against": 238,
-      "goal_difference": -75,
-      "win_rate": 26.62
+      "goals_for": 165,
+      "goals_against": 239,
+      "goal_difference": -74,
+      "win_rate": 27.14
     }
   },
   "form": [
-    "L",
     "W",
     "L",
     "D",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-04-04",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.2,
-    "max_draw": 3.7,
-    "max_away": 3.25,
-    "avg_home": 2.14,
-    "avg_draw": 3.53,
-    "avg_away": 3.01,
-    "bfe_home": 2.28,
-    "bfe_draw": 3.75,
-    "bfe_away": 3.25
+    "max_home": 1.54,
+    "max_draw": 4.4,
+    "max_away": 6.0,
+    "avg_home": 1.5,
+    "avg_draw": 4.22,
+    "avg_away": 5.35,
+    "bfe_home": 1.57,
+    "bfe_draw": 4.8,
+    "bfe_away": 6.0
   }
 }

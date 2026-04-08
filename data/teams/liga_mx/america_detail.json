@@ -1,23 +1,23 @@
 {
   "name": "América",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-03-21",
-    "time": "21:10",
+    "vs": "Santos Laguna",
+    "date": "2026-04-04",
+    "time": "22:10",
     "home": false,
-    "score": "1 - 0",
-    "result": "L"
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 574,
+      "games_played": 575,
       "wins": 289,
-      "draws": 152,
+      "draws": 153,
       "losses": 133,
-      "goals_for": 934,
-      "goals_against": 600,
+      "goals_for": 935,
+      "goals_against": 601,
       "goal_difference": 334,
-      "win_rate": 50.35
+      "win_rate": 50.26
     },
     "home": {
       "games_played": 286,
@@ -30,22 +30,22 @@
       "win_rate": 58.74
     },
     "away": {
-      "games_played": 288,
+      "games_played": 289,
       "wins": 121,
-      "draws": 91,
+      "draws": 92,
       "losses": 76,
-      "goals_for": 428,
-      "goals_against": 332,
+      "goals_for": 429,
+      "goals_against": 333,
       "goal_difference": 96,
-      "win_rate": 42.01
+      "win_rate": 41.87
     }
   },
   "form": [
     "L",
+    "W",
+    "W",
     "L",
-    "W",
-    "W",
-    "L"
+    "D"
   ],
   "match_history": [
     {
@@ -287,20 +287,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-04-04",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.95,
-    "max_draw": 3.45,
-    "max_away": 2.55,
-    "avg_home": 2.71,
-    "avg_draw": 3.34,
-    "avg_away": 2.41,
-    "bfe_home": 2.86,
-    "bfe_draw": 3.6,
-    "bfe_away": 2.62
+    "max_home": 5.1,
+    "max_draw": 4.1,
+    "max_away": 1.7,
+    "avg_home": 4.62,
+    "avg_draw": 3.88,
+    "avg_away": 1.62,
+    "bfe_home": 5.2,
+    "bfe_draw": 4.3,
+    "bfe_away": 1.7
   }
 }

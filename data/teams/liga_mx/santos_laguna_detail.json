@@ -1,33 +1,33 @@
 {
   "name": "Santos Laguna",
   "last_match": {
-    "vs": "Puebla",
-    "date": "2026-03-22",
-    "time": "17:00",
+    "vs": "Club America",
+    "date": "2026-04-04",
+    "time": "22:10",
     "home": true,
-    "score": "2 - 1",
-    "result": "W"
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 515,
+      "games_played": 516,
       "wins": 184,
-      "draws": 141,
+      "draws": 142,
       "losses": 190,
-      "goals_for": 734,
-      "goals_against": 747,
+      "goals_for": 735,
+      "goals_against": 748,
       "goal_difference": -13,
-      "win_rate": 35.73
+      "win_rate": 35.66
     },
     "home": {
-      "games_played": 258,
+      "games_played": 259,
       "wins": 130,
-      "draws": 63,
+      "draws": 64,
       "losses": 65,
-      "goals_for": 432,
-      "goals_against": 313,
+      "goals_for": 433,
+      "goals_against": 314,
       "goal_difference": 119,
-      "win_rate": 50.39
+      "win_rate": 50.19
     },
     "away": {
       "games_played": 257,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "L",
     "W",
     "L",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-04-04",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.55,
-    "max_draw": 3.5,
-    "max_away": 2.75,
-    "avg_home": 2.46,
-    "avg_draw": 3.41,
-    "avg_away": 2.6,
-    "bfe_home": 2.62,
-    "bfe_draw": 3.65,
-    "bfe_away": 2.84
+    "max_home": 5.1,
+    "max_draw": 4.1,
+    "max_away": 1.7,
+    "avg_home": 4.62,
+    "avg_draw": 3.88,
+    "avg_away": 1.62,
+    "bfe_home": 5.2,
+    "bfe_draw": 4.3,
+    "bfe_away": 1.7
   }
 }

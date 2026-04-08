@@ -1,33 +1,33 @@
 {
   "name": "Cruz Azul",
   "last_match": {
-    "vs": "Mazatlan FC",
-    "date": "2026-03-20",
-    "time": "21:06",
-    "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Pachuca",
+    "date": "2026-04-04",
+    "time": "20:05",
+    "home": true,
+    "score": "1 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 523,
+      "games_played": 524,
       "wins": 232,
       "draws": 148,
-      "losses": 143,
-      "goals_for": 736,
-      "goals_against": 584,
-      "goal_difference": 152,
-      "win_rate": 44.36
+      "losses": 144,
+      "goals_for": 737,
+      "goals_against": 586,
+      "goal_difference": 151,
+      "win_rate": 44.27
     },
     "home": {
-      "games_played": 263,
+      "games_played": 264,
       "wins": 139,
       "draws": 62,
-      "losses": 62,
-      "goals_for": 406,
-      "goals_against": 258,
-      "goal_difference": 148,
-      "win_rate": 52.85
+      "losses": 63,
+      "goals_for": 407,
+      "goals_against": 260,
+      "goal_difference": 147,
+      "win_rate": 52.65
     },
     "away": {
       "games_played": 260,
@@ -43,9 +43,9 @@
   "form": [
     "W",
     "W",
-    "W",
     "D",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -287,20 +287,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-04-04",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.25,
-    "max_draw": 4.5,
-    "max_away": 1.6,
-    "avg_home": 4.89,
-    "avg_draw": 4.2,
-    "avg_away": 1.56,
-    "bfe_home": 5.3,
-    "bfe_draw": 4.6,
-    "bfe_away": 1.65
+    "max_home": 2.25,
+    "max_draw": 3.75,
+    "max_away": 3.2,
+    "avg_home": 2.16,
+    "avg_draw": 3.43,
+    "avg_away": 2.97,
+    "bfe_home": 2.32,
+    "bfe_draw": 3.6,
+    "bfe_away": 3.3
   }
 }

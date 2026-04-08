@@ -1,23 +1,23 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2026-03-22",
-    "time": "17:00",
-    "home": true,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Cruz Azul",
+    "date": "2026-04-04",
+    "time": "20:05",
+    "home": false,
+    "score": "1 - 2",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 516,
-      "wins": 207,
+      "games_played": 517,
+      "wins": 208,
       "draws": 140,
       "losses": 169,
-      "goals_for": 748,
-      "goals_against": 651,
-      "goal_difference": 97,
-      "win_rate": 40.12
+      "goals_for": 750,
+      "goals_against": 652,
+      "goal_difference": 98,
+      "win_rate": 40.23
     },
     "home": {
       "games_played": 260,
@@ -30,22 +30,22 @@
       "win_rate": 50.0
     },
     "away": {
-      "games_played": 256,
-      "wins": 77,
+      "games_played": 257,
+      "wins": 78,
       "draws": 70,
       "losses": 109,
-      "goals_for": 328,
-      "goals_against": 382,
-      "goal_difference": -54,
-      "win_rate": 30.08
+      "goals_for": 330,
+      "goals_against": 383,
+      "goal_difference": -53,
+      "win_rate": 30.35
     }
   },
   "form": [
-    "L",
     "W",
     "W",
     "D",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -263,20 +263,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-04-04",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.9,
-    "max_draw": 3.8,
-    "max_away": 1.91,
-    "avg_home": 3.6,
-    "avg_draw": 3.68,
-    "avg_away": 1.87,
-    "bfe_home": 4.0,
-    "bfe_draw": 3.95,
-    "bfe_away": 1.98
+    "max_home": 2.25,
+    "max_draw": 3.75,
+    "max_away": 3.2,
+    "avg_home": 2.16,
+    "avg_draw": 3.43,
+    "avg_away": 2.97,
+    "bfe_home": 2.32,
+    "bfe_draw": 3.6,
+    "bfe_away": 3.3
   }
 }

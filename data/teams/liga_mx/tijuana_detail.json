@@ -1,33 +1,33 @@
 {
   "name": "Tijuana",
   "last_match": {
-    "vs": "Necaxa",
-    "date": "2026-03-20",
-    "time": "19:00",
-    "home": false,
-    "score": "3 - 0",
-    "result": "L"
+    "vs": "Tigres UANL",
+    "date": "2026-04-03",
+    "time": "22:06",
+    "home": true,
+    "score": "1 - 0",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 492,
-      "wins": 164,
+      "games_played": 493,
+      "wins": 165,
       "draws": 133,
       "losses": 195,
-      "goals_for": 610,
+      "goals_for": 611,
       "goals_against": 706,
-      "goal_difference": -96,
-      "win_rate": 33.33
+      "goal_difference": -95,
+      "win_rate": 33.47
     },
     "home": {
-      "games_played": 249,
-      "wins": 114,
+      "games_played": 250,
+      "wins": 115,
       "draws": 75,
       "losses": 60,
-      "goals_for": 378,
+      "goals_for": 379,
       "goals_against": 272,
-      "goal_difference": 106,
-      "win_rate": 45.78
+      "goal_difference": 107,
+      "win_rate": 46.0
     },
     "away": {
       "games_played": 243,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "L",
     "L",
     "W",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 0,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-04-03",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.23,
-    "max_draw": 3.55,
-    "max_away": 3.4,
-    "avg_home": 2.12,
-    "avg_draw": 3.43,
-    "avg_away": 3.12,
-    "bfe_home": 2.2,
-    "bfe_draw": 3.65,
-    "bfe_away": 3.5
+    "max_home": 4.5,
+    "max_draw": 3.75,
+    "max_away": 1.84,
+    "avg_home": 4.06,
+    "avg_draw": 3.52,
+    "avg_away": 1.78,
+    "bfe_home": 4.7,
+    "bfe_draw": 3.75,
+    "bfe_away": 1.88
   }
 }
