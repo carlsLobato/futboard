@@ -1,33 +1,33 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Guadalajara Chivas",
-    "date": "2026-04-05",
-    "time": "21:07",
-    "home": false,
-    "score": "2 - 2",
-    "result": "T"
+    "vs": "Mazatlan FC",
+    "date": "2026-04-12",
+    "time": "13:00",
+    "home": true,
+    "score": "3 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 510,
-      "wins": 177,
+      "games_played": 511,
+      "wins": 178,
       "draws": 147,
       "losses": 186,
-      "goals_for": 670,
-      "goals_against": 680,
-      "goal_difference": -10,
-      "win_rate": 34.71
+      "goals_for": 673,
+      "goals_against": 681,
+      "goal_difference": -8,
+      "win_rate": 34.83
     },
     "home": {
-      "games_played": 252,
-      "wins": 108,
+      "games_played": 253,
+      "wins": 109,
       "draws": 76,
       "losses": 68,
-      "goals_for": 383,
-      "goals_against": 280,
-      "goal_difference": 103,
-      "win_rate": 42.86
+      "goals_for": 386,
+      "goals_against": 281,
+      "goal_difference": 105,
+      "win_rate": 43.08
     },
     "away": {
       "games_played": 258,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "W",
     "D",
     "W",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 2,
       "goals_against": 2,
       "result": "T"
+    },
+    {
+      "date": "2026-04-12",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.52,
-    "max_draw": 4.5,
-    "max_away": 6.25,
-    "avg_home": 1.47,
-    "avg_draw": 4.32,
-    "avg_away": 5.53,
-    "bfe_home": 1.54,
-    "bfe_draw": 4.9,
-    "bfe_away": 6.4
+    "max_home": 1.4,
+    "max_draw": 6.5,
+    "max_away": 10.75,
+    "avg_home": 1.25,
+    "avg_draw": 5.79,
+    "avg_away": 8.88,
+    "bfe_home": 1.31,
+    "bfe_draw": 6.6,
+    "bfe_away": 11.0
   }
 }

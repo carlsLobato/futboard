@@ -1,23 +1,23 @@
 {
   "name": "Necaxa",
   "last_match": {
-    "vs": "Mazatlan FC",
-    "date": "2026-04-03",
-    "time": "22:00",
-    "home": true,
-    "score": "2 - 1",
-    "result": "W"
+    "vs": "Queretaro",
+    "date": "2026-04-11",
+    "time": "18:00",
+    "home": false,
+    "score": "3 - 1",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 347,
+      "games_played": 348,
       "wins": 110,
       "draws": 98,
-      "losses": 139,
-      "goals_for": 443,
-      "goals_against": 482,
-      "goal_difference": -39,
-      "win_rate": 31.7
+      "losses": 140,
+      "goals_for": 444,
+      "goals_against": 485,
+      "goal_difference": -41,
+      "win_rate": 31.61
     },
     "home": {
       "games_played": 172,
@@ -30,22 +30,22 @@
       "win_rate": 36.05
     },
     "away": {
-      "games_played": 175,
+      "games_played": 176,
       "wins": 48,
       "draws": 44,
-      "losses": 83,
-      "goals_for": 211,
-      "goals_against": 267,
-      "goal_difference": -56,
-      "win_rate": 27.43
+      "losses": 84,
+      "goals_for": 212,
+      "goals_against": 270,
+      "goal_difference": -58,
+      "win_rate": 27.27
     }
   },
   "form": [
     "L",
-    "L",
     "D",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -251,20 +251,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-04-11",
+      "goals_for": 1,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.58,
-    "max_draw": 4.5,
-    "max_away": 5.5,
-    "avg_home": 1.54,
-    "avg_draw": 4.1,
-    "avg_away": 5.05,
-    "bfe_home": 1.58,
-    "bfe_draw": 4.7,
-    "bfe_away": 5.9
+    "max_home": 2.45,
+    "max_draw": 3.5,
+    "max_away": 2.95,
+    "avg_home": 2.34,
+    "avg_draw": 3.32,
+    "avg_away": 2.75,
+    "bfe_home": 2.56,
+    "bfe_draw": 3.5,
+    "bfe_away": 2.96
   }
 }

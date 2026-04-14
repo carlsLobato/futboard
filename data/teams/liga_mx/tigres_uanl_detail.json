@@ -1,33 +1,33 @@
 {
   "name": "Tigres UANL",
   "last_match": {
-    "vs": "Club Tijuana",
-    "date": "2026-04-03",
-    "time": "22:06",
-    "home": false,
-    "score": "1 - 0",
-    "result": "L"
+    "vs": "Guadalajara Chivas",
+    "date": "2026-04-11",
+    "time": "18:00",
+    "home": true,
+    "score": "4 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 558,
-      "wins": 254,
+      "games_played": 559,
+      "wins": 255,
       "draws": 170,
       "losses": 134,
-      "goals_for": 825,
-      "goals_against": 548,
-      "goal_difference": 277,
-      "win_rate": 45.52
+      "goals_for": 829,
+      "goals_against": 549,
+      "goal_difference": 280,
+      "win_rate": 45.62
     },
     "home": {
-      "games_played": 280,
-      "wins": 150,
+      "games_played": 281,
+      "wins": 151,
       "draws": 85,
       "losses": 45,
-      "goals_for": 487,
-      "goals_against": 251,
-      "goal_difference": 236,
-      "win_rate": 53.57
+      "goals_for": 491,
+      "goals_against": 252,
+      "goal_difference": 239,
+      "win_rate": 53.74
     },
     "away": {
       "games_played": 278,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "W",
     "D",
     "L",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -299,20 +299,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-04-11",
+      "goals_for": 4,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 4.5,
-    "max_draw": 3.75,
-    "max_away": 1.84,
-    "avg_home": 4.06,
-    "avg_draw": 3.52,
-    "avg_away": 1.78,
-    "bfe_home": 4.7,
-    "bfe_draw": 3.75,
-    "bfe_away": 1.88
+    "max_home": 2.54,
+    "max_draw": 3.4,
+    "max_away": 2.82,
+    "avg_home": 2.42,
+    "avg_draw": 3.29,
+    "avg_away": 2.68,
+    "bfe_home": 2.58,
+    "bfe_draw": 3.5,
+    "bfe_away": 2.98
   }
 }

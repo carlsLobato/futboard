@@ -1,23 +1,23 @@
 {
   "name": "Monterrey",
   "last_match": {
-    "vs": "Atl. San Luis",
-    "date": "2026-04-04",
-    "time": "18:00",
-    "home": true,
-    "score": "1 - 2",
-    "result": "L"
+    "vs": "Atlas",
+    "date": "2026-04-11",
+    "time": "20:00",
+    "home": false,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 541,
+      "games_played": 542,
       "wins": 242,
-      "draws": 139,
+      "draws": 140,
       "losses": 160,
       "goals_for": 838,
       "goals_against": 641,
       "goal_difference": 197,
-      "win_rate": 44.73
+      "win_rate": 44.65
     },
     "home": {
       "games_played": 272,
@@ -30,22 +30,22 @@
       "win_rate": 54.78
     },
     "away": {
-      "games_played": 269,
+      "games_played": 270,
       "wins": 93,
-      "draws": 63,
+      "draws": 64,
       "losses": 113,
       "goals_for": 356,
       "goals_against": 373,
       "goal_difference": -17,
-      "win_rate": 34.57
+      "win_rate": 34.44
     }
   },
   "form": [
-    "W",
     "L",
     "D",
     "L",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -287,20 +287,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-04-11",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.54,
-    "max_draw": 4.4,
-    "max_away": 6.0,
-    "avg_home": 1.5,
-    "avg_draw": 4.22,
-    "avg_away": 5.35,
-    "bfe_home": 1.57,
-    "bfe_draw": 4.8,
-    "bfe_away": 6.0
+    "max_home": 3.1,
+    "max_draw": 3.5,
+    "max_away": 2.44,
+    "avg_home": 2.77,
+    "avg_draw": 3.37,
+    "avg_away": 2.31,
+    "bfe_home": 2.9,
+    "bfe_draw": 3.6,
+    "bfe_away": 2.58
   }
 }

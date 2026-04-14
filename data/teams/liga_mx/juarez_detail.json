@@ -1,33 +1,33 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2026-04-07",
-    "time": "19:00",
-    "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Club Tijuana",
+    "date": "2026-04-10",
+    "time": "22:06",
+    "home": true,
+    "score": "1 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 233,
+      "games_played": 234,
       "wins": 61,
       "draws": 60,
-      "losses": 112,
-      "goals_for": 255,
-      "goals_against": 365,
-      "goal_difference": -110,
-      "win_rate": 26.18
+      "losses": 113,
+      "goals_for": 256,
+      "goals_against": 367,
+      "goal_difference": -111,
+      "win_rate": 26.07
     },
     "home": {
-      "games_played": 116,
+      "games_played": 117,
       "wins": 36,
       "draws": 35,
-      "losses": 45,
-      "goals_for": 146,
-      "goals_against": 161,
-      "goal_difference": -15,
-      "win_rate": 31.03
+      "losses": 46,
+      "goals_for": 147,
+      "goals_against": 163,
+      "goal_difference": -16,
+      "win_rate": 30.77
     },
     "away": {
       "games_played": 117,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "D",
     "W",
     "D",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -263,20 +263,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-04-10",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.85,
-    "max_draw": 3.4,
-    "max_away": 2.54,
-    "avg_home": 2.69,
-    "avg_draw": 3.26,
-    "avg_away": 2.41,
-    "bfe_home": 2.92,
-    "bfe_draw": 3.45,
-    "bfe_away": 2.62
+    "max_home": 1.85,
+    "max_draw": 4.2,
+    "max_away": 5.0,
+    "avg_home": 1.65,
+    "avg_draw": 3.83,
+    "avg_away": 4.47,
+    "bfe_home": 1.71,
+    "bfe_draw": 4.3,
+    "bfe_away": 5.1
   }
 }

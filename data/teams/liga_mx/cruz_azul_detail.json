@@ -1,23 +1,23 @@
 {
   "name": "Cruz Azul",
   "last_match": {
-    "vs": "Pachuca",
-    "date": "2026-04-04",
-    "time": "20:05",
-    "home": true,
-    "score": "1 - 2",
-    "result": "L"
+    "vs": "Club America",
+    "date": "2026-04-11",
+    "time": "22:05",
+    "home": false,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 524,
+      "games_played": 525,
       "wins": 232,
-      "draws": 148,
+      "draws": 149,
       "losses": 144,
-      "goals_for": 737,
-      "goals_against": 586,
+      "goals_for": 738,
+      "goals_against": 587,
       "goal_difference": 151,
-      "win_rate": 44.27
+      "win_rate": 44.19
     },
     "home": {
       "games_played": 264,
@@ -30,22 +30,22 @@
       "win_rate": 52.65
     },
     "away": {
-      "games_played": 260,
+      "games_played": 261,
       "wins": 93,
-      "draws": 86,
+      "draws": 87,
       "losses": 81,
-      "goals_for": 330,
-      "goals_against": 326,
+      "goals_for": 331,
+      "goals_against": 327,
       "goal_difference": 4,
-      "win_rate": 35.77
+      "win_rate": 35.63
     }
   },
   "form": [
     "W",
-    "W",
     "D",
     "D",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -287,20 +287,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-04-11",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.25,
-    "max_draw": 3.75,
-    "max_away": 3.2,
-    "avg_home": 2.16,
-    "avg_draw": 3.43,
-    "avg_away": 2.97,
-    "bfe_home": 2.32,
-    "bfe_draw": 3.6,
-    "bfe_away": 3.3
+    "max_home": 3.0,
+    "max_draw": 3.3,
+    "max_away": 2.75,
+    "avg_home": 2.78,
+    "avg_draw": 3.08,
+    "avg_away": 2.47,
+    "bfe_home": 3.2,
+    "bfe_draw": 3.2,
+    "bfe_away": 2.54
   }
 }

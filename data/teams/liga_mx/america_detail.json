@@ -1,33 +1,33 @@
 {
   "name": "América",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2026-04-04",
-    "time": "22:10",
-    "home": false,
+    "vs": "Cruz Azul",
+    "date": "2026-04-11",
+    "time": "22:05",
+    "home": true,
     "score": "1 - 1",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 575,
+      "games_played": 576,
       "wins": 289,
-      "draws": 153,
+      "draws": 154,
       "losses": 133,
-      "goals_for": 935,
-      "goals_against": 601,
+      "goals_for": 936,
+      "goals_against": 602,
       "goal_difference": 334,
-      "win_rate": 50.26
+      "win_rate": 50.17
     },
     "home": {
-      "games_played": 286,
+      "games_played": 287,
       "wins": 168,
-      "draws": 61,
+      "draws": 62,
       "losses": 57,
-      "goals_for": 506,
-      "goals_against": 268,
+      "goals_for": 507,
+      "goals_against": 269,
       "goal_difference": 238,
-      "win_rate": 58.74
+      "win_rate": 58.54
     },
     "away": {
       "games_played": 289,
@@ -41,10 +41,10 @@
     }
   },
   "form": [
-    "L",
     "W",
     "W",
     "L",
+    "D",
     "D"
   ],
   "match_history": [
@@ -287,20 +287,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-04-11",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.1,
-    "max_draw": 4.1,
-    "max_away": 1.7,
-    "avg_home": 4.62,
-    "avg_draw": 3.88,
-    "avg_away": 1.62,
-    "bfe_home": 5.2,
-    "bfe_draw": 4.3,
-    "bfe_away": 1.7
+    "max_home": 3.0,
+    "max_draw": 3.3,
+    "max_away": 2.75,
+    "avg_home": 2.78,
+    "avg_draw": 3.08,
+    "avg_away": 2.47,
+    "bfe_home": 3.2,
+    "bfe_draw": 3.2,
+    "bfe_away": 2.54
   }
 }
