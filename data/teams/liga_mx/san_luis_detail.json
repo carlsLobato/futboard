@@ -1,33 +1,33 @@
 {
   "name": "Atl. San Luis",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2026-04-12",
+    "vs": "UNAM Pumas",
+    "date": "2026-04-17",
     "time": "20:00",
-    "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "home": true,
+    "score": "0 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 279,
+      "games_played": 280,
       "wins": 85,
       "draws": 55,
-      "losses": 139,
+      "losses": 140,
       "goals_for": 347,
-      "goals_against": 445,
-      "goal_difference": -98,
-      "win_rate": 30.47
+      "goals_against": 447,
+      "goal_difference": -100,
+      "win_rate": 30.36
     },
     "home": {
-      "games_played": 138,
+      "games_played": 139,
       "wins": 47,
       "draws": 28,
-      "losses": 63,
+      "losses": 64,
       "goals_for": 181,
-      "goals_against": 205,
-      "goal_difference": -24,
-      "win_rate": 34.06
+      "goals_against": 207,
+      "goal_difference": -26,
+      "win_rate": 33.81
     },
     "away": {
       "games_played": 141,
@@ -41,19 +41,13 @@
     }
   },
   "form": [
-    "L",
     "D",
     "L",
     "W",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
-    {
-      "date": "2025-04-20",
-      "goals_for": 2,
-      "goals_against": 1,
-      "result": "W"
-    },
     {
       "date": "2025-07-13",
       "goals_for": 1,
@@ -239,20 +233,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-04-17",
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.57,
-    "max_draw": 4.75,
-    "max_away": 7.5,
-    "avg_home": 1.52,
-    "avg_draw": 4.13,
-    "avg_away": 5.27,
-    "bfe_home": 1.6,
-    "bfe_draw": 4.6,
-    "bfe_away": 6.0
+    "max_home": 3.1,
+    "max_draw": 3.7,
+    "max_away": 2.3,
+    "avg_home": 2.88,
+    "avg_draw": 3.52,
+    "avg_away": 2.16,
+    "bfe_home": NaN,
+    "bfe_draw": NaN,
+    "bfe_away": NaN
   }
 }

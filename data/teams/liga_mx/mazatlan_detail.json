@@ -1,33 +1,33 @@
 {
   "name": "Mazatlán",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-04-12",
-    "time": "13:00",
-    "home": false,
-    "score": "3 - 1",
-    "result": "L"
+    "vs": "Queretaro",
+    "date": "2026-04-17",
+    "time": "20:00",
+    "home": true,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 203,
+      "games_played": 204,
       "wins": 47,
-      "draws": 56,
+      "draws": 57,
       "losses": 100,
-      "goals_for": 228,
-      "goals_against": 335,
+      "goals_for": 229,
+      "goals_against": 336,
       "goal_difference": -107,
-      "win_rate": 23.15
+      "win_rate": 23.04
     },
     "home": {
-      "games_played": 100,
+      "games_played": 101,
       "wins": 34,
-      "draws": 32,
+      "draws": 33,
       "losses": 34,
-      "goals_for": 135,
-      "goals_against": 146,
+      "goals_for": 136,
+      "goals_against": 147,
       "goal_difference": -11,
-      "win_rate": 34.0
+      "win_rate": 33.66
     },
     "away": {
       "games_played": 103,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "L",
     "D",
     "L",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -233,20 +233,26 @@
       "goals_for": 1,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-04-17",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.4,
-    "max_draw": 6.5,
-    "max_away": 10.75,
-    "avg_home": 1.25,
-    "avg_draw": 5.79,
-    "avg_away": 8.88,
-    "bfe_home": 1.31,
-    "bfe_draw": 6.6,
-    "bfe_away": 11.0
+    "max_home": 2.9,
+    "max_draw": 3.5,
+    "max_away": 3.0,
+    "avg_home": 2.75,
+    "avg_draw": 3.37,
+    "avg_away": 2.34,
+    "bfe_home": NaN,
+    "bfe_draw": NaN,
+    "bfe_away": NaN
   }
 }

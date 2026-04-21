@@ -1,23 +1,23 @@
 {
   "name": "Puebla",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2026-04-10",
-    "time": "20:00",
-    "home": true,
-    "score": "0 - 1",
+    "vs": "Guadalajara Chivas",
+    "date": "2026-04-18",
+    "time": "20:07",
+    "home": false,
+    "score": "5 - 0",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 488,
+      "games_played": 489,
       "wins": 134,
       "draws": 139,
-      "losses": 215,
+      "losses": 216,
       "goals_for": 560,
-      "goals_against": 722,
-      "goal_difference": -162,
-      "win_rate": 27.46
+      "goals_against": 727,
+      "goal_difference": -167,
+      "win_rate": 27.4
     },
     "home": {
       "games_played": 245,
@@ -30,21 +30,21 @@
       "win_rate": 31.84
     },
     "away": {
-      "games_played": 243,
+      "games_played": 244,
       "wins": 56,
       "draws": 63,
-      "losses": 124,
+      "losses": 125,
       "goals_for": 245,
-      "goals_against": 385,
-      "goal_difference": -140,
-      "win_rate": 23.05
+      "goals_against": 390,
+      "goal_difference": -145,
+      "win_rate": 22.95
     }
   },
   "form": [
-    "L",
     "D",
     "L",
     "D",
+    "L",
     "L"
   ],
   "match_history": [
@@ -233,20 +233,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-04-18",
+      "goals_for": 0,
+      "goals_against": 5,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.75,
-    "max_draw": 3.5,
-    "max_away": 2.7,
-    "avg_home": 2.59,
-    "avg_draw": 3.42,
-    "avg_away": 2.43,
-    "bfe_home": 2.84,
-    "bfe_draw": 3.65,
-    "bfe_away": 2.6
+    "max_home": 1.27,
+    "max_draw": 6.5,
+    "max_away": 13.0,
+    "avg_home": 1.22,
+    "avg_draw": 5.8,
+    "avg_away": 10.3,
+    "bfe_home": NaN,
+    "bfe_draw": NaN,
+    "bfe_away": NaN
   }
 }

@@ -1,23 +1,23 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2026-04-11",
-    "time": "20:00",
-    "home": true,
-    "score": "4 - 2",
+    "vs": "Monterrey",
+    "date": "2026-04-18",
+    "time": "20:05",
+    "home": false,
+    "score": "1 - 3",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 518,
-      "wins": 209,
+      "games_played": 519,
+      "wins": 210,
       "draws": 140,
       "losses": 169,
-      "goals_for": 754,
-      "goals_against": 654,
-      "goal_difference": 100,
-      "win_rate": 40.35
+      "goals_for": 757,
+      "goals_against": 655,
+      "goal_difference": 102,
+      "win_rate": 40.46
     },
     "home": {
       "games_played": 261,
@@ -30,30 +30,24 @@
       "win_rate": 50.19
     },
     "away": {
-      "games_played": 257,
-      "wins": 78,
+      "games_played": 258,
+      "wins": 79,
       "draws": 70,
       "losses": 109,
-      "goals_for": 330,
-      "goals_against": 383,
-      "goal_difference": -53,
-      "win_rate": 30.35
+      "goals_for": 333,
+      "goals_against": 384,
+      "goal_difference": -51,
+      "win_rate": 30.62
     }
   },
   "form": [
+    "D",
+    "D",
     "W",
-    "D",
-    "D",
     "W",
     "W"
   ],
   "match_history": [
-    {
-      "date": "2025-04-20",
-      "goals_for": 1,
-      "goals_against": 2,
-      "result": "L"
-    },
     {
       "date": "2025-04-27",
       "goals_for": 2,
@@ -263,20 +257,26 @@
       "goals_for": 4,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2026-04-18",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.4,
-    "max_draw": 5.25,
-    "max_away": 8.2,
-    "avg_home": 1.35,
-    "avg_draw": 4.92,
-    "avg_away": 6.83,
-    "bfe_home": 1.39,
-    "bfe_draw": 5.7,
-    "bfe_away": 8.4
+    "max_home": 2.4,
+    "max_draw": 3.65,
+    "max_away": 2.8,
+    "avg_home": 2.32,
+    "avg_draw": 3.47,
+    "avg_away": 2.7,
+    "bfe_home": NaN,
+    "bfe_draw": NaN,
+    "bfe_away": NaN
   }
 }
