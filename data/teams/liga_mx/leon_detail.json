@@ -1,33 +1,33 @@
 {
   "name": "León",
   "last_match": {
-    "vs": "Juarez",
-    "date": "2026-04-18",
+    "vs": "Club America",
+    "date": "2026-04-21",
     "time": "22:06",
     "home": true,
-    "score": "3 - 1",
-    "result": "W"
+    "score": "2 - 3",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 525,
+      "games_played": 526,
       "wins": 221,
       "draws": 122,
-      "losses": 182,
-      "goals_for": 780,
-      "goals_against": 692,
-      "goal_difference": 88,
-      "win_rate": 42.1
+      "losses": 183,
+      "goals_for": 782,
+      "goals_against": 695,
+      "goal_difference": 87,
+      "win_rate": 42.02
     },
     "home": {
-      "games_played": 263,
+      "games_played": 264,
       "wins": 134,
       "draws": 61,
-      "losses": 68,
-      "goals_for": 457,
-      "goals_against": 303,
-      "goal_difference": 154,
-      "win_rate": 50.95
+      "losses": 69,
+      "goals_for": 459,
+      "goals_against": 306,
+      "goal_difference": 153,
+      "win_rate": 50.76
     },
     "away": {
       "games_played": 262,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "W",
     "W",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -251,18 +251,24 @@
       "goals_for": 3,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-04-21",
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.25,
-    "max_draw": 3.7,
-    "max_away": 3.1,
-    "avg_home": 2.14,
-    "avg_draw": 3.49,
-    "avg_away": 2.96,
+    "max_home": 3.6,
+    "max_draw": 3.5,
+    "max_away": 2.15,
+    "avg_home": 3.32,
+    "avg_draw": 3.28,
+    "avg_away": 2.06,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

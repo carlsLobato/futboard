@@ -1,33 +1,33 @@
 {
   "name": "Mazatlán",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2026-04-17",
+    "vs": "Toluca",
+    "date": "2026-04-22",
     "time": "20:00",
     "home": true,
-    "score": "1 - 1",
-    "result": "T"
+    "score": "4 - 3",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 204,
-      "wins": 47,
+      "games_played": 205,
+      "wins": 48,
       "draws": 57,
       "losses": 100,
-      "goals_for": 229,
-      "goals_against": 336,
-      "goal_difference": -107,
-      "win_rate": 23.04
+      "goals_for": 233,
+      "goals_against": 339,
+      "goal_difference": -106,
+      "win_rate": 23.41
     },
     "home": {
-      "games_played": 101,
-      "wins": 34,
+      "games_played": 102,
+      "wins": 35,
       "draws": 33,
       "losses": 34,
-      "goals_for": 136,
-      "goals_against": 147,
-      "goal_difference": -11,
-      "win_rate": 33.66
+      "goals_for": 140,
+      "goals_against": 150,
+      "goal_difference": -10,
+      "win_rate": 34.31
     },
     "away": {
       "games_played": 103,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "D",
     "L",
     "L",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -239,18 +239,24 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-04-22",
+      "goals_for": 4,
+      "goals_against": 3,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.9,
-    "max_draw": 3.5,
-    "max_away": 3.0,
-    "avg_home": 2.75,
-    "avg_draw": 3.37,
-    "avg_away": 2.34,
+    "max_home": 6.5,
+    "max_draw": 4.6,
+    "max_away": 1.63,
+    "avg_home": 4.82,
+    "avg_draw": 4.16,
+    "avg_away": 1.56,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

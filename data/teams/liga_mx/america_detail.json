@@ -1,23 +1,23 @@
 {
   "name": "América",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2026-04-18",
-    "time": "22:10",
-    "home": true,
-    "score": "2 - 1",
+    "vs": "Club Leon",
+    "date": "2026-04-21",
+    "time": "22:06",
+    "home": false,
+    "score": "2 - 3",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 577,
-      "wins": 290,
+      "games_played": 578,
+      "wins": 291,
       "draws": 154,
       "losses": 133,
-      "goals_for": 938,
-      "goals_against": 603,
-      "goal_difference": 335,
-      "win_rate": 50.26
+      "goals_for": 941,
+      "goals_against": 605,
+      "goal_difference": 336,
+      "win_rate": 50.35
     },
     "home": {
       "games_played": 288,
@@ -30,21 +30,21 @@
       "win_rate": 58.68
     },
     "away": {
-      "games_played": 289,
-      "wins": 121,
+      "games_played": 290,
+      "wins": 122,
       "draws": 92,
       "losses": 76,
-      "goals_for": 429,
-      "goals_against": 333,
-      "goal_difference": 96,
-      "win_rate": 41.87
+      "goals_for": 432,
+      "goals_against": 335,
+      "goal_difference": 97,
+      "win_rate": 42.07
     }
   },
   "form": [
-    "W",
     "L",
     "D",
     "D",
+    "W",
     "W"
   ],
   "match_history": [
@@ -287,18 +287,24 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-04-21",
+      "goals_for": 3,
+      "goals_against": 2,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.0,
-    "max_draw": 3.4,
-    "max_away": 2.7,
-    "avg_home": 2.76,
-    "avg_draw": 3.25,
-    "avg_away": 2.38,
+    "max_home": 3.6,
+    "max_draw": 3.5,
+    "max_away": 2.15,
+    "avg_home": 3.32,
+    "avg_draw": 3.28,
+    "avg_away": 2.06,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

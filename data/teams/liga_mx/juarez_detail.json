@@ -1,23 +1,23 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2026-04-18",
-    "time": "22:06",
+    "vs": "UNAM Pumas",
+    "date": "2026-04-21",
+    "time": "20:00",
     "home": false,
-    "score": "3 - 1",
+    "score": "4 - 2",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 235,
+      "games_played": 236,
       "wins": 61,
       "draws": 60,
-      "losses": 114,
-      "goals_for": 257,
-      "goals_against": 370,
-      "goal_difference": -113,
-      "win_rate": 25.96
+      "losses": 115,
+      "goals_for": 259,
+      "goals_against": 374,
+      "goal_difference": -115,
+      "win_rate": 25.85
     },
     "home": {
       "games_played": 117,
@@ -30,20 +30,20 @@
       "win_rate": 30.77
     },
     "away": {
-      "games_played": 118,
+      "games_played": 119,
       "wins": 25,
       "draws": 25,
-      "losses": 68,
-      "goals_for": 110,
-      "goals_against": 207,
-      "goal_difference": -97,
-      "win_rate": 21.19
+      "losses": 69,
+      "goals_for": 112,
+      "goals_against": 211,
+      "goal_difference": -99,
+      "win_rate": 21.01
     }
   },
   "form": [
-    "W",
     "D",
     "D",
+    "L",
     "L",
     "L"
   ],
@@ -263,18 +263,24 @@
       "goals_for": 1,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-04-21",
+      "goals_for": 2,
+      "goals_against": 4,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.25,
-    "max_draw": 3.7,
-    "max_away": 3.1,
-    "avg_home": 2.14,
-    "avg_draw": 3.49,
-    "avg_away": 2.96,
+    "max_home": 1.91,
+    "max_draw": 4.33,
+    "max_away": 5.0,
+    "avg_home": 1.65,
+    "avg_draw": 4.02,
+    "avg_away": 4.31,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

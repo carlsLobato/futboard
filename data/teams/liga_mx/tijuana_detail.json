@@ -1,33 +1,33 @@
 {
   "name": "Tijuana",
   "last_match": {
-    "vs": "Cruz Azul",
-    "date": "2026-04-18",
-    "time": "18:00",
-    "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Pachuca",
+    "date": "2026-04-22",
+    "time": "22:06",
+    "home": true,
+    "score": "3 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 495,
-      "wins": 166,
+      "games_played": 496,
+      "wins": 167,
       "draws": 134,
       "losses": 195,
-      "goals_for": 614,
-      "goals_against": 708,
-      "goal_difference": -94,
-      "win_rate": 33.54
+      "goals_for": 617,
+      "goals_against": 709,
+      "goal_difference": -92,
+      "win_rate": 33.67
     },
     "home": {
-      "games_played": 250,
-      "wins": 115,
+      "games_played": 251,
+      "wins": 116,
       "draws": 75,
       "losses": 60,
-      "goals_for": 379,
-      "goals_against": 272,
-      "goal_difference": 107,
-      "win_rate": 46.0
+      "goals_for": 382,
+      "goals_against": 273,
+      "goal_difference": 109,
+      "win_rate": 46.22
     },
     "away": {
       "games_played": 245,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "L",
     "W",
     "W",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -257,18 +257,24 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-04-22",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.44,
-    "max_draw": 6.0,
-    "max_away": 10.0,
-    "avg_home": 1.27,
-    "avg_draw": 5.5,
-    "avg_away": 8.68,
+    "max_home": 2.45,
+    "max_draw": 3.6,
+    "max_away": 22.0,
+    "avg_home": 2.33,
+    "avg_draw": 3.35,
+    "avg_away": 6.63,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

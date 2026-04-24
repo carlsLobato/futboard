@@ -1,33 +1,33 @@
 {
   "name": "Necaxa",
   "last_match": {
-    "vs": "Tigres UANL",
-    "date": "2026-04-18",
-    "time": "18:00",
+    "vs": "Guadalajara Chivas",
+    "date": "2026-04-22",
+    "time": "22:10",
     "home": true,
-    "score": "1 - 1",
+    "score": "0 - 0",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 349,
+      "games_played": 350,
       "wins": 110,
-      "draws": 99,
+      "draws": 100,
       "losses": 140,
       "goals_for": 445,
       "goals_against": 486,
       "goal_difference": -41,
-      "win_rate": 31.52
+      "win_rate": 31.43
     },
     "home": {
-      "games_played": 173,
+      "games_played": 174,
       "wins": 62,
-      "draws": 55,
+      "draws": 56,
       "losses": 56,
       "goals_for": 233,
       "goals_against": 216,
       "goal_difference": 17,
-      "win_rate": 35.84
+      "win_rate": 35.63
     },
     "away": {
       "games_played": 176,
@@ -41,10 +41,10 @@
     }
   },
   "form": [
-    "D",
     "W",
     "W",
     "L",
+    "D",
     "D"
   ],
   "match_history": [
@@ -251,18 +251,24 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-04-22",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.9,
-    "max_draw": 3.5,
-    "max_away": 2.05,
-    "avg_home": 3.51,
-    "avg_draw": 3.41,
-    "avg_away": 1.95,
+    "max_home": 5.5,
+    "max_draw": 4.5,
+    "max_away": 22.0,
+    "avg_home": 5.14,
+    "avg_draw": 4.36,
+    "avg_away": 5.62,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

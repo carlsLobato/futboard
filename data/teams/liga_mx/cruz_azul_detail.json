@@ -1,23 +1,23 @@
 {
   "name": "Cruz Azul",
   "last_match": {
-    "vs": "Club Tijuana",
-    "date": "2026-04-18",
-    "time": "18:00",
-    "home": true,
+    "vs": "Queretaro",
+    "date": "2026-04-21",
+    "time": "20:00",
+    "home": false,
     "score": "1 - 1",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 526,
+      "games_played": 527,
       "wins": 232,
-      "draws": 150,
+      "draws": 151,
       "losses": 144,
-      "goals_for": 739,
-      "goals_against": 588,
+      "goals_for": 740,
+      "goals_against": 589,
       "goal_difference": 151,
-      "win_rate": 44.11
+      "win_rate": 44.02
     },
     "home": {
       "games_played": 265,
@@ -30,20 +30,20 @@
       "win_rate": 52.45
     },
     "away": {
-      "games_played": 261,
+      "games_played": 262,
       "wins": 93,
-      "draws": 87,
+      "draws": 88,
       "losses": 81,
-      "goals_for": 331,
-      "goals_against": 327,
+      "goals_for": 332,
+      "goals_against": 328,
       "goal_difference": 4,
-      "win_rate": 35.63
+      "win_rate": 35.5
     }
   },
   "form": [
     "D",
-    "D",
     "L",
+    "D",
     "D",
     "D"
   ],
@@ -287,18 +287,24 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-04-21",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.44,
-    "max_draw": 6.0,
-    "max_away": 10.0,
-    "avg_home": 1.27,
-    "avg_draw": 5.5,
-    "avg_away": 8.68,
+    "max_home": 5.5,
+    "max_draw": 4.33,
+    "max_away": 1.75,
+    "avg_home": 4.81,
+    "avg_draw": 4.1,
+    "avg_away": 1.56,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN
