@@ -1,33 +1,33 @@
 {
   "name": "Tigres UANL",
   "last_match": {
-    "vs": "Atlas",
-    "date": "2026-04-22",
-    "time": "20:00",
-    "home": false,
-    "score": "0 - 0",
-    "result": "T"
+    "vs": "Mazatlan FC",
+    "date": "2026-04-25",
+    "time": "18:00",
+    "home": true,
+    "score": "5 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 561,
-      "wins": 255,
+      "games_played": 562,
+      "wins": 256,
       "draws": 172,
       "losses": 134,
-      "goals_for": 830,
-      "goals_against": 550,
-      "goal_difference": 280,
-      "win_rate": 45.45
+      "goals_for": 835,
+      "goals_against": 551,
+      "goal_difference": 284,
+      "win_rate": 45.55
     },
     "home": {
-      "games_played": 281,
-      "wins": 151,
+      "games_played": 282,
+      "wins": 152,
       "draws": 85,
       "losses": 45,
-      "goals_for": 491,
-      "goals_against": 252,
-      "goal_difference": 239,
-      "win_rate": 53.74
+      "goals_for": 496,
+      "goals_against": 253,
+      "goal_difference": 243,
+      "win_rate": 53.9
     },
     "away": {
       "games_played": 280,
@@ -42,10 +42,10 @@
   },
   "form": [
     "L",
-    "L",
     "W",
     "D",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -305,18 +305,24 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2026-04-25",
+      "goals_for": 5,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.5,
-    "max_draw": 3.75,
-    "max_away": 1.91,
-    "avg_home": 4.77,
-    "avg_draw": 3.5,
-    "avg_away": 1.69,
+    "max_home": 1.23,
+    "max_draw": 7.0,
+    "max_away": 15.0,
+    "avg_home": 1.18,
+    "avg_draw": 6.38,
+    "avg_away": 11.41,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

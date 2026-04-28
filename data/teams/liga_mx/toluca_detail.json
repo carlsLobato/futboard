@@ -1,33 +1,33 @@
 {
   "name": "Toluca",
   "last_match": {
-    "vs": "Mazatlan FC",
-    "date": "2026-04-22",
-    "time": "20:00",
-    "home": false,
-    "score": "4 - 3",
-    "result": "L"
+    "vs": "Club Leon",
+    "date": "2026-04-25",
+    "time": "20:05",
+    "home": true,
+    "score": "4 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 535,
-      "wins": 228,
+      "games_played": 536,
+      "wins": 229,
       "draws": 148,
       "losses": 159,
-      "goals_for": 825,
-      "goals_against": 669,
-      "goal_difference": 156,
-      "win_rate": 42.62
+      "goals_for": 829,
+      "goals_against": 670,
+      "goal_difference": 159,
+      "win_rate": 42.72
     },
     "home": {
-      "games_played": 267,
-      "wins": 146,
+      "games_played": 268,
+      "wins": 147,
       "draws": 67,
       "losses": 54,
-      "goals_for": 498,
-      "goals_against": 292,
-      "goal_difference": 206,
-      "win_rate": 54.68
+      "goals_for": 502,
+      "goals_against": 293,
+      "goal_difference": 209,
+      "win_rate": 54.85
     },
     "away": {
       "games_played": 268,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "L",
     "D",
     "L",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -317,18 +317,24 @@
       "goals_for": 3,
       "goals_against": 4,
       "result": "L"
+    },
+    {
+      "date": "2026-04-25",
+      "goals_for": 4,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 6.5,
-    "max_draw": 4.6,
-    "max_away": 1.63,
-    "avg_home": 4.82,
-    "avg_draw": 4.16,
-    "avg_away": 1.56,
+    "max_home": 1.85,
+    "max_draw": 4.0,
+    "max_away": 3.9,
+    "avg_home": 1.79,
+    "avg_draw": 3.82,
+    "avg_away": 3.65,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

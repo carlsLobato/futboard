@@ -1,23 +1,23 @@
 {
   "name": "Atlas",
   "last_match": {
-    "vs": "Tigres UANL",
-    "date": "2026-04-22",
-    "time": "20:00",
-    "home": true,
-    "score": "0 - 0",
-    "result": "T"
+    "vs": "Club America",
+    "date": "2026-04-25",
+    "time": "22:10",
+    "home": false,
+    "score": "0 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 499,
-      "wins": 150,
+      "games_played": 500,
+      "wins": 151,
       "draws": 143,
       "losses": 206,
-      "goals_for": 551,
+      "goals_for": 552,
       "goals_against": 676,
-      "goal_difference": -125,
-      "win_rate": 30.06
+      "goal_difference": -124,
+      "win_rate": 30.2
     },
     "home": {
       "games_played": 249,
@@ -30,22 +30,22 @@
       "win_rate": 34.14
     },
     "away": {
-      "games_played": 250,
-      "wins": 65,
+      "games_played": 251,
+      "wins": 66,
       "draws": 71,
       "losses": 114,
-      "goals_for": 270,
+      "goals_for": 271,
       "goals_against": 379,
-      "goal_difference": -109,
-      "win_rate": 26.0
+      "goal_difference": -108,
+      "win_rate": 26.29
     }
   },
   "form": [
-    "D",
     "L",
     "D",
     "W",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -245,18 +245,24 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2026-04-25",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.5,
-    "max_draw": 3.75,
-    "max_away": 1.91,
-    "avg_home": 4.77,
-    "avg_draw": 3.5,
-    "avg_away": 1.69,
+    "max_home": 1.56,
+    "max_draw": 4.1,
+    "max_away": 7.0,
+    "avg_home": 1.49,
+    "avg_draw": 3.82,
+    "avg_away": 6.31,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

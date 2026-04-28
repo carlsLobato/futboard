@@ -1,23 +1,23 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Juarez",
-    "date": "2026-04-21",
-    "time": "20:00",
-    "home": true,
-    "score": "4 - 2",
+    "vs": "Pachuca",
+    "date": "2026-04-25",
+    "time": "18:00",
+    "home": false,
+    "score": "0 - 2",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 513,
-      "wins": 180,
+      "games_played": 514,
+      "wins": 181,
       "draws": 147,
       "losses": 186,
-      "goals_for": 679,
+      "goals_for": 681,
       "goals_against": 683,
-      "goal_difference": -4,
-      "win_rate": 35.09
+      "goal_difference": -2,
+      "win_rate": 35.21
     },
     "home": {
       "games_played": 254,
@@ -30,30 +30,24 @@
       "win_rate": 43.31
     },
     "away": {
-      "games_played": 259,
-      "wins": 70,
+      "games_played": 260,
+      "wins": 71,
       "draws": 71,
       "losses": 118,
-      "goals_for": 289,
+      "goals_for": 291,
       "goals_against": 400,
-      "goal_difference": -111,
-      "win_rate": 27.03
+      "goal_difference": -109,
+      "win_rate": 27.31
     }
   },
   "form": [
-    "W",
     "D",
+    "W",
     "W",
     "W",
     "W"
   ],
   "match_history": [
-    {
-      "date": "2025-04-27",
-      "goals_for": 1,
-      "goals_against": 1,
-      "result": "T"
-    },
     {
       "date": "2025-05-04",
       "goals_for": 0,
@@ -263,18 +257,24 @@
       "goals_for": 4,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2026-04-25",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.91,
-    "max_draw": 4.33,
-    "max_away": 5.0,
-    "avg_home": 1.65,
-    "avg_draw": 4.02,
-    "avg_away": 4.31,
+    "max_home": 1.98,
+    "max_draw": 3.75,
+    "max_away": 3.75,
+    "avg_home": 1.92,
+    "avg_draw": 3.56,
+    "avg_away": 3.42,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

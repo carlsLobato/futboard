@@ -1,33 +1,33 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-04-21",
-    "time": "20:00",
-    "home": false,
-    "score": "4 - 2",
-    "result": "L"
+    "vs": "Atl. San Luis",
+    "date": "2026-04-25",
+    "time": "22:00",
+    "home": true,
+    "score": "2 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 236,
-      "wins": 61,
+      "games_played": 237,
+      "wins": 62,
       "draws": 60,
       "losses": 115,
-      "goals_for": 259,
-      "goals_against": 374,
-      "goal_difference": -115,
-      "win_rate": 25.85
+      "goals_for": 261,
+      "goals_against": 375,
+      "goal_difference": -114,
+      "win_rate": 26.16
     },
     "home": {
-      "games_played": 117,
-      "wins": 36,
+      "games_played": 118,
+      "wins": 37,
       "draws": 35,
       "losses": 46,
-      "goals_for": 147,
-      "goals_against": 163,
-      "goal_difference": -16,
-      "win_rate": 30.77
+      "goals_for": 149,
+      "goals_against": 164,
+      "goal_difference": -15,
+      "win_rate": 31.36
     },
     "away": {
       "games_played": 119,
@@ -42,18 +42,12 @@
   },
   "form": [
     "D",
-    "D",
     "L",
     "L",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
-    {
-      "date": "2025-04-27",
-      "goals_for": 1,
-      "goals_against": 1,
-      "result": "T"
-    },
     {
       "date": "2025-07-11",
       "goals_for": 1,
@@ -269,18 +263,24 @@
       "goals_for": 2,
       "goals_against": 4,
       "result": "L"
+    },
+    {
+      "date": "2026-04-25",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.91,
-    "max_draw": 4.33,
-    "max_away": 5.0,
-    "avg_home": 1.65,
-    "avg_draw": 4.02,
-    "avg_away": 4.31,
+    "max_home": 2.02,
+    "max_draw": 3.75,
+    "max_away": 3.75,
+    "avg_home": 1.94,
+    "avg_draw": 3.57,
+    "avg_away": 3.36,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

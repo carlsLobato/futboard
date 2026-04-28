@@ -1,33 +1,33 @@
 {
   "name": "Guadalajara",
   "last_match": {
-    "vs": "Necaxa",
-    "date": "2026-04-22",
-    "time": "22:10",
-    "home": false,
+    "vs": "Club Tijuana",
+    "date": "2026-04-25",
+    "time": "20:07",
+    "home": true,
     "score": "0 - 0",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 511,
+      "games_played": 512,
       "wins": 181,
-      "draws": 156,
+      "draws": 157,
       "losses": 174,
       "goals_for": 616,
       "goals_against": 600,
       "goal_difference": 16,
-      "win_rate": 35.42
+      "win_rate": 35.35
     },
     "home": {
-      "games_played": 255,
+      "games_played": 256,
       "wins": 102,
-      "draws": 75,
+      "draws": 76,
       "losses": 78,
       "goals_for": 327,
       "goals_against": 279,
       "goal_difference": 48,
-      "win_rate": 40.0
+      "win_rate": 39.84
     },
     "away": {
       "games_played": 256,
@@ -41,10 +41,10 @@
     }
   },
   "form": [
-    "W",
     "D",
     "L",
     "W",
+    "D",
     "D"
   ],
   "match_history": [
@@ -257,18 +257,24 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2026-04-25",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.5,
-    "max_draw": 4.5,
-    "max_away": 22.0,
-    "avg_home": 5.14,
-    "avg_draw": 4.36,
-    "avg_away": 5.62,
+    "max_home": 1.41,
+    "max_draw": 5.33,
+    "max_away": 8.0,
+    "avg_home": 1.35,
+    "avg_draw": 4.83,
+    "avg_away": 6.89,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

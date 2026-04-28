@@ -1,23 +1,23 @@
 {
   "name": "Atl. San Luis",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2026-04-22",
-    "time": "20:00",
-    "home": true,
-    "score": "2 - 0",
-    "result": "W"
+    "vs": "Juarez",
+    "date": "2026-04-25",
+    "time": "22:00",
+    "home": false,
+    "score": "2 - 1",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 281,
+      "games_played": 282,
       "wins": 86,
       "draws": 55,
-      "losses": 140,
-      "goals_for": 349,
-      "goals_against": 447,
-      "goal_difference": -98,
-      "win_rate": 30.6
+      "losses": 141,
+      "goals_for": 350,
+      "goals_against": 449,
+      "goal_difference": -99,
+      "win_rate": 30.5
     },
     "home": {
       "games_played": 140,
@@ -30,22 +30,22 @@
       "win_rate": 34.29
     },
     "away": {
-      "games_played": 141,
+      "games_played": 142,
       "wins": 38,
       "draws": 27,
-      "losses": 76,
-      "goals_for": 166,
-      "goals_against": 240,
-      "goal_difference": -74,
-      "win_rate": 26.95
+      "losses": 77,
+      "goals_for": 167,
+      "goals_against": 242,
+      "goal_difference": -75,
+      "win_rate": 26.76
     }
   },
   "form": [
-    "L",
     "W",
     "D",
     "L",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -245,18 +245,24 @@
       "goals_for": 2,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-04-25",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.88,
-    "max_draw": 4.0,
-    "max_away": 3.9,
-    "avg_home": 1.8,
-    "avg_draw": 3.78,
-    "avg_away": 3.68,
+    "max_home": 2.02,
+    "max_draw": 3.75,
+    "max_away": 3.75,
+    "avg_home": 1.94,
+    "avg_draw": 3.57,
+    "avg_away": 3.36,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

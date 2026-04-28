@@ -1,23 +1,23 @@
 {
   "name": "Querétaro",
   "last_match": {
-    "vs": "Cruz Azul",
-    "date": "2026-04-21",
-    "time": "20:00",
-    "home": true,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Puebla",
+    "date": "2026-04-24",
+    "time": "22:00",
+    "home": false,
+    "score": "1 - 2",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 483,
-      "wins": 137,
+      "games_played": 484,
+      "wins": 138,
       "draws": 129,
       "losses": 217,
-      "goals_for": 533,
-      "goals_against": 701,
-      "goal_difference": -168,
-      "win_rate": 28.36
+      "goals_for": 535,
+      "goals_against": 702,
+      "goal_difference": -167,
+      "win_rate": 28.51
     },
     "home": {
       "games_played": 240,
@@ -30,22 +30,22 @@
       "win_rate": 36.25
     },
     "away": {
-      "games_played": 243,
-      "wins": 50,
+      "games_played": 244,
+      "wins": 51,
       "draws": 65,
       "losses": 128,
-      "goals_for": 241,
-      "goals_against": 408,
-      "goal_difference": -167,
-      "win_rate": 20.58
+      "goals_for": 243,
+      "goals_against": 409,
+      "goal_difference": -166,
+      "win_rate": 20.9
     }
   },
   "form": [
-    "W",
     "D",
     "W",
     "D",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -245,18 +245,24 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-04-24",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 5.5,
-    "max_draw": 4.33,
-    "max_away": 1.75,
-    "avg_home": 4.81,
-    "avg_draw": 4.1,
-    "avg_away": 1.56,
+    "max_home": 2.7,
+    "max_draw": 3.5,
+    "max_away": 2.75,
+    "avg_home": 2.55,
+    "avg_draw": 3.29,
+    "avg_away": 2.52,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN
