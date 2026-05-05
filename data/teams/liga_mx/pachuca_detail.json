@@ -1,23 +1,23 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-04-25",
-    "time": "18:00",
-    "home": true,
-    "score": "0 - 2",
-    "result": "L"
+    "vs": "Toluca",
+    "date": "2026-05-03",
+    "time": "20:15",
+    "home": false,
+    "score": "0 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 521,
-      "wins": 210,
+      "games_played": 522,
+      "wins": 211,
       "draws": 140,
       "losses": 171,
-      "goals_for": 758,
+      "goals_for": 759,
       "goals_against": 660,
-      "goal_difference": 98,
-      "win_rate": 40.31
+      "goal_difference": 99,
+      "win_rate": 40.42
     },
     "home": {
       "games_played": 262,
@@ -30,22 +30,22 @@
       "win_rate": 50.0
     },
     "away": {
-      "games_played": 259,
-      "wins": 79,
+      "games_played": 260,
+      "wins": 80,
       "draws": 70,
       "losses": 110,
-      "goals_for": 334,
+      "goals_for": 335,
       "goals_against": 387,
-      "goal_difference": -53,
-      "win_rate": 30.5
+      "goal_difference": -52,
+      "win_rate": 30.77
     }
   },
   "form": [
     "W",
     "W",
-    "W",
     "L",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -269,18 +269,24 @@
       "goals_for": 0,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-05-03",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.98,
-    "max_draw": 3.75,
-    "max_away": 3.75,
-    "avg_home": 1.92,
-    "avg_draw": 3.56,
-    "avg_away": 3.42,
+    "max_home": 1.96,
+    "max_draw": 3.9,
+    "max_away": 4.1,
+    "avg_home": 1.84,
+    "avg_draw": 3.59,
+    "avg_away": 3.69,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN

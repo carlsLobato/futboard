@@ -1,23 +1,23 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Pachuca",
-    "date": "2026-04-25",
+    "vs": "Club America",
+    "date": "2026-05-03",
     "time": "18:00",
     "home": false,
-    "score": "0 - 2",
-    "result": "W"
+    "score": "3 - 3",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 514,
+      "games_played": 515,
       "wins": 181,
-      "draws": 147,
+      "draws": 148,
       "losses": 186,
-      "goals_for": 681,
-      "goals_against": 683,
+      "goals_for": 684,
+      "goals_against": 686,
       "goal_difference": -2,
-      "win_rate": 35.21
+      "win_rate": 35.15
     },
     "home": {
       "games_played": 254,
@@ -30,30 +30,24 @@
       "win_rate": 43.31
     },
     "away": {
-      "games_played": 260,
+      "games_played": 261,
       "wins": 71,
-      "draws": 71,
+      "draws": 72,
       "losses": 118,
-      "goals_for": 291,
-      "goals_against": 400,
+      "goals_for": 294,
+      "goals_against": 403,
       "goal_difference": -109,
-      "win_rate": 27.31
+      "win_rate": 27.2
     }
   },
   "form": [
-    "D",
     "W",
     "W",
     "W",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
-    {
-      "date": "2025-05-04",
-      "goals_for": 0,
-      "goals_against": 2,
-      "result": "L"
-    },
     {
       "date": "2025-07-12",
       "goals_for": 0,
@@ -263,18 +257,24 @@
       "goals_for": 2,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-05-03",
+      "goals_for": 3,
+      "goals_against": 3,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.98,
-    "max_draw": 3.75,
-    "max_away": 3.75,
-    "avg_home": 1.92,
-    "avg_draw": 3.56,
-    "avg_away": 3.42,
+    "max_home": 2.2,
+    "max_draw": 3.3,
+    "max_away": 22.0,
+    "avg_home": 2.17,
+    "avg_draw": 3.21,
+    "avg_away": 6.36,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN
