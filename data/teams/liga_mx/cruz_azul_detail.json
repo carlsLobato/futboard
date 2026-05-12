@@ -2,32 +2,32 @@
   "name": "Cruz Azul",
   "last_match": {
     "vs": "Atlas",
-    "date": "2026-05-02",
+    "date": "2026-05-09",
     "time": "22:15",
-    "home": false,
-    "score": "2 - 3",
+    "home": true,
+    "score": "1 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 529,
-      "wins": 234,
+      "games_played": 530,
+      "wins": 235,
       "draws": 151,
       "losses": 144,
-      "goals_for": 747,
+      "goals_for": 748,
       "goals_against": 592,
-      "goal_difference": 155,
-      "win_rate": 44.23
+      "goal_difference": 156,
+      "win_rate": 44.34
     },
     "home": {
-      "games_played": 266,
-      "wins": 140,
+      "games_played": 267,
+      "wins": 141,
       "draws": 63,
       "losses": 63,
-      "goals_for": 412,
+      "goals_for": 413,
       "goals_against": 262,
-      "goal_difference": 150,
-      "win_rate": 52.63
+      "goal_difference": 151,
+      "win_rate": 52.81
     },
     "away": {
       "games_played": 263,
@@ -43,17 +43,11 @@
   "form": [
     "D",
     "D",
-    "D",
+    "W",
     "W",
     "W"
   ],
   "match_history": [
-    {
-      "date": "2025-05-11",
-      "goals_for": 2,
-      "goals_against": 1,
-      "result": "W"
-    },
     {
       "date": "2025-05-15",
       "goals_for": 1,
@@ -299,20 +293,26 @@
       "goals_for": 3,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2026-05-09",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 4.5,
-    "max_draw": 3.33,
-    "max_away": 1.93,
-    "avg_home": 4.12,
-    "avg_draw": 3.19,
-    "avg_away": 1.86,
-    "bfe_home": NaN,
-    "bfe_draw": NaN,
-    "bfe_away": NaN
+    "max_home": 1.53,
+    "max_draw": 4.33,
+    "max_away": 6.5,
+    "avg_home": 1.49,
+    "avg_draw": 4.09,
+    "avg_away": 5.7,
+    "bfe_home": 1.53,
+    "bfe_draw": 4.7,
+    "bfe_away": 7.2
   }
 }

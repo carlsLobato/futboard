@@ -2,22 +2,22 @@
   "name": "Atlas",
   "last_match": {
     "vs": "Cruz Azul",
-    "date": "2026-05-02",
+    "date": "2026-05-09",
     "time": "22:15",
-    "home": true,
-    "score": "2 - 3",
+    "home": false,
+    "score": "1 - 0",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 501,
+      "games_played": 502,
       "wins": 151,
       "draws": 143,
-      "losses": 207,
+      "losses": 208,
       "goals_for": 554,
-      "goals_against": 679,
-      "goal_difference": -125,
-      "win_rate": 30.14
+      "goals_against": 680,
+      "goal_difference": -126,
+      "win_rate": 30.08
     },
     "home": {
       "games_played": 250,
@@ -30,21 +30,21 @@
       "win_rate": 34.0
     },
     "away": {
-      "games_played": 251,
+      "games_played": 252,
       "wins": 66,
       "draws": 71,
-      "losses": 114,
+      "losses": 115,
       "goals_for": 271,
-      "goals_against": 379,
-      "goal_difference": -108,
-      "win_rate": 26.29
+      "goals_against": 380,
+      "goal_difference": -109,
+      "win_rate": 26.19
     }
   },
   "form": [
-    "D",
     "W",
     "D",
     "W",
+    "L",
     "L"
   ],
   "match_history": [
@@ -257,20 +257,26 @@
       "goals_for": 2,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-05-09",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 4.5,
-    "max_draw": 3.33,
-    "max_away": 1.93,
-    "avg_home": 4.12,
-    "avg_draw": 3.19,
-    "avg_away": 1.86,
-    "bfe_home": NaN,
-    "bfe_draw": NaN,
-    "bfe_away": NaN
+    "max_home": 1.53,
+    "max_draw": 4.33,
+    "max_away": 6.5,
+    "avg_home": 1.49,
+    "avg_draw": 4.09,
+    "avg_away": 5.7,
+    "bfe_home": 1.53,
+    "bfe_draw": 4.7,
+    "bfe_away": 7.2
   }
 }

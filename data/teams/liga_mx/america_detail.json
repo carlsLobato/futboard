@@ -2,22 +2,22 @@
   "name": "América",
   "last_match": {
     "vs": "UNAM Pumas",
-    "date": "2026-05-03",
-    "time": "18:00",
-    "home": true,
+    "date": "2026-05-10",
+    "time": "20:15",
+    "home": false,
     "score": "3 - 3",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 580,
+      "games_played": 581,
       "wins": 291,
-      "draws": 155,
+      "draws": 156,
       "losses": 134,
-      "goals_for": 944,
-      "goals_against": 609,
+      "goals_for": 947,
+      "goals_against": 612,
       "goal_difference": 335,
-      "win_rate": 50.17
+      "win_rate": 50.09
     },
     "home": {
       "games_played": 290,
@@ -30,21 +30,21 @@
       "win_rate": 58.28
     },
     "away": {
-      "games_played": 290,
+      "games_played": 291,
       "wins": 122,
-      "draws": 92,
+      "draws": 93,
       "losses": 76,
-      "goals_for": 432,
-      "goals_against": 335,
+      "goals_for": 435,
+      "goals_against": 338,
       "goal_difference": 97,
-      "win_rate": 42.07
+      "win_rate": 41.92
     }
   },
   "form": [
-    "D",
     "W",
     "W",
     "L",
+    "D",
     "D"
   ],
   "match_history": [
@@ -293,18 +293,24 @@
       "goals_for": 3,
       "goals_against": 3,
       "result": "T"
+    },
+    {
+      "date": "2026-05-10",
+      "goals_for": 3,
+      "goals_against": 3,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.2,
-    "max_draw": 3.3,
-    "max_away": 22.0,
-    "avg_home": 2.17,
-    "avg_draw": 3.21,
-    "avg_away": 6.36,
+    "max_home": 2.6,
+    "max_draw": 3.5,
+    "max_away": 2.8,
+    "avg_home": 2.48,
+    "avg_draw": 3.37,
+    "avg_away": 2.64,
     "bfe_home": NaN,
     "bfe_draw": NaN,
     "bfe_away": NaN
