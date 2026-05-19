@@ -2,32 +2,32 @@
   "name": "Guadalajara",
   "last_match": {
     "vs": "Cruz Azul",
-    "date": "2026-05-13",
-    "time": "21:00",
-    "home": false,
-    "score": "2 - 2",
-    "result": "T"
+    "date": "2026-05-16",
+    "time": "20:07",
+    "home": true,
+    "score": "1 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 515,
+      "games_played": 516,
       "wins": 182,
       "draws": 158,
-      "losses": 175,
-      "goals_for": 621,
-      "goals_against": 605,
-      "goal_difference": 16,
-      "win_rate": 35.34
+      "losses": 176,
+      "goals_for": 622,
+      "goals_against": 607,
+      "goal_difference": 15,
+      "win_rate": 35.27
     },
     "home": {
-      "games_played": 257,
+      "games_played": 258,
       "wins": 103,
       "draws": 76,
-      "losses": 78,
-      "goals_for": 329,
-      "goals_against": 279,
-      "goal_difference": 50,
-      "win_rate": 40.08
+      "losses": 79,
+      "goals_for": 330,
+      "goals_against": 281,
+      "goal_difference": 49,
+      "win_rate": 39.92
     },
     "away": {
       "games_played": 258,
@@ -42,10 +42,10 @@
   },
   "form": [
     "D",
-    "D",
     "L",
     "W",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -281,20 +281,26 @@
       "goals_for": 2,
       "goals_against": 2,
       "result": "T"
+    },
+    {
+      "date": "2026-05-16",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.2,
+    "max_home": 2.3,
     "max_draw": 3.4,
-    "max_away": 3.4,
-    "avg_home": 2.11,
-    "avg_draw": 3.25,
-    "avg_away": 3.18,
-    "bfe_home": 2.28,
-    "bfe_draw": 3.5,
-    "bfe_away": 3.55
+    "max_away": 3.25,
+    "avg_home": 2.2,
+    "avg_draw": 3.28,
+    "avg_away": 3.01,
+    "bfe_home": 2.34,
+    "bfe_draw": 3.55,
+    "bfe_away": 3.25
   }
 }

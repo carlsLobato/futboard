@@ -2,22 +2,22 @@
   "name": "Cruz Azul",
   "last_match": {
     "vs": "Guadalajara Chivas",
-    "date": "2026-05-13",
-    "time": "21:00",
-    "home": true,
-    "score": "2 - 2",
-    "result": "T"
+    "date": "2026-05-16",
+    "time": "20:07",
+    "home": false,
+    "score": "1 - 2",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 531,
-      "wins": 235,
+      "games_played": 532,
+      "wins": 236,
       "draws": 152,
       "losses": 144,
-      "goals_for": 750,
-      "goals_against": 594,
-      "goal_difference": 156,
-      "win_rate": 44.26
+      "goals_for": 752,
+      "goals_against": 595,
+      "goal_difference": 157,
+      "win_rate": 44.36
     },
     "home": {
       "games_played": 268,
@@ -30,30 +30,24 @@
       "win_rate": 52.61
     },
     "away": {
-      "games_played": 263,
-      "wins": 94,
+      "games_played": 264,
+      "wins": 95,
       "draws": 88,
       "losses": 81,
-      "goals_for": 335,
-      "goals_against": 330,
-      "goal_difference": 5,
-      "win_rate": 35.74
+      "goals_for": 337,
+      "goals_against": 331,
+      "goal_difference": 6,
+      "win_rate": 35.98
     }
   },
   "form": [
+    "W",
+    "W",
+    "W",
     "D",
-    "W",
-    "W",
-    "W",
-    "D"
+    "W"
   ],
   "match_history": [
-    {
-      "date": "2025-05-18",
-      "goals_for": 1,
-      "goals_against": 2,
-      "result": "L"
-    },
     {
       "date": "2025-07-12",
       "goals_for": 0,
@@ -299,20 +293,26 @@
       "goals_for": 2,
       "goals_against": 2,
       "result": "T"
+    },
+    {
+      "date": "2026-05-16",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.2,
+    "max_home": 2.3,
     "max_draw": 3.4,
-    "max_away": 3.4,
-    "avg_home": 2.11,
-    "avg_draw": 3.25,
-    "avg_away": 3.18,
-    "bfe_home": 2.28,
-    "bfe_draw": 3.5,
-    "bfe_away": 3.55
+    "max_away": 3.25,
+    "avg_home": 2.2,
+    "avg_draw": 3.28,
+    "avg_away": 3.01,
+    "bfe_home": 2.34,
+    "bfe_draw": 3.55,
+    "bfe_away": 3.25
   }
 }

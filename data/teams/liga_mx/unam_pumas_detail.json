@@ -1,51 +1,51 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Club America",
-    "date": "2026-05-10",
-    "time": "20:15",
+    "vs": "Pachuca",
+    "date": "2026-05-17",
+    "time": "20:00",
     "home": true,
-    "score": "3 - 3",
-    "result": "T"
+    "score": "1 - 0",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 516,
-      "wins": 181,
+      "games_played": 518,
+      "wins": 182,
       "draws": 149,
-      "losses": 186,
-      "goals_for": 687,
-      "goals_against": 689,
+      "losses": 187,
+      "goals_for": 688,
+      "goals_against": 690,
       "goal_difference": -2,
-      "win_rate": 35.08
+      "win_rate": 35.14
     },
     "home": {
-      "games_played": 255,
-      "wins": 110,
+      "games_played": 256,
+      "wins": 111,
       "draws": 77,
       "losses": 68,
-      "goals_for": 393,
+      "goals_for": 394,
       "goals_against": 286,
-      "goal_difference": 107,
-      "win_rate": 43.14
+      "goal_difference": 108,
+      "win_rate": 43.36
     },
     "away": {
-      "games_played": 261,
+      "games_played": 262,
       "wins": 71,
       "draws": 72,
-      "losses": 118,
+      "losses": 119,
       "goals_for": 294,
-      "goals_against": 403,
-      "goal_difference": -109,
-      "win_rate": 27.2
+      "goals_against": 404,
+      "goal_difference": -110,
+      "win_rate": 27.1
     }
   },
   "form": [
     "W",
-    "W",
-    "W",
     "D",
-    "D"
+    "D",
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -269,20 +269,32 @@
       "goals_for": 3,
       "goals_against": 3,
       "result": "T"
+    },
+    {
+      "date": "2026-05-14",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
+    },
+    {
+      "date": "2026-05-17",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.6,
-    "max_draw": 3.5,
-    "max_away": 2.8,
-    "avg_home": 2.48,
-    "avg_draw": 3.37,
-    "avg_away": 2.64,
-    "bfe_home": NaN,
-    "bfe_draw": NaN,
-    "bfe_away": NaN
+    "max_home": 2.38,
+    "max_draw": 3.75,
+    "max_away": 3.0,
+    "avg_home": 2.28,
+    "avg_draw": 3.56,
+    "avg_away": 2.69,
+    "bfe_home": 2.52,
+    "bfe_draw": 3.85,
+    "bfe_away": 2.82
   }
 }
