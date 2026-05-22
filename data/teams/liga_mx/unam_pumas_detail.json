@@ -1,23 +1,23 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Pachuca",
-    "date": "2026-05-17",
-    "time": "20:00",
-    "home": true,
-    "score": "1 - 0",
-    "result": "W"
+    "vs": "Cruz Azul",
+    "date": "2026-05-21",
+    "time": "21:00",
+    "home": false,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 518,
+      "games_played": 519,
       "wins": 182,
-      "draws": 149,
+      "draws": 150,
       "losses": 187,
       "goals_for": 688,
       "goals_against": 690,
       "goal_difference": -2,
-      "win_rate": 35.14
+      "win_rate": 35.07
     },
     "home": {
       "games_played": 256,
@@ -30,22 +30,22 @@
       "win_rate": 43.36
     },
     "away": {
-      "games_played": 262,
+      "games_played": 263,
       "wins": 71,
-      "draws": 72,
+      "draws": 73,
       "losses": 119,
       "goals_for": 294,
       "goals_against": 404,
       "goal_difference": -110,
-      "win_rate": 27.1
+      "win_rate": 27.0
     }
   },
   "form": [
-    "W",
     "D",
     "D",
     "L",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -281,20 +281,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-05-21",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.38,
-    "max_draw": 3.75,
-    "max_away": 3.0,
-    "avg_home": 2.28,
-    "avg_draw": 3.56,
-    "avg_away": 2.69,
-    "bfe_home": 2.52,
-    "bfe_draw": 3.85,
-    "bfe_away": 2.82
+    "max_home": 1.71,
+    "max_draw": 4.0,
+    "max_away": 5.0,
+    "avg_home": 1.65,
+    "avg_draw": 3.72,
+    "avg_away": 4.59,
+    "bfe_home": 1.75,
+    "bfe_draw": 4.1,
+    "bfe_away": 5.1
   }
 }
