@@ -1,23 +1,23 @@
 {
   "name": "Atlante",
   "last_match": {
-    "vs": "Chiapas",
-    "date": "2014-04-26",
-    "time": "22:00",
+    "vs": "Necaxa",
+    "date": "2026-07-16",
+    "time": "20:00",
     "home": false,
-    "score": "5 - 2",
+    "score": "2 - 1",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 68,
+      "games_played": 69,
       "wins": 17,
       "draws": 12,
-      "losses": 39,
-      "goals_for": 78,
-      "goals_against": 130,
-      "goal_difference": -52,
-      "win_rate": 25.0
+      "losses": 40,
+      "goals_for": 79,
+      "goals_against": 132,
+      "goal_difference": -53,
+      "win_rate": 24.64
     },
     "home": {
       "games_played": 34,
@@ -30,14 +30,14 @@
       "win_rate": 29.41
     },
     "away": {
-      "games_played": 34,
+      "games_played": 35,
       "wins": 7,
       "draws": 2,
-      "losses": 25,
-      "goals_for": 30,
-      "goals_against": 73,
-      "goal_difference": -43,
-      "win_rate": 20.59
+      "losses": 26,
+      "goals_for": 31,
+      "goals_against": 75,
+      "goal_difference": -44,
+      "win_rate": 20.0
     }
   },
   "form": [
@@ -47,19 +47,26 @@
     "L",
     "L"
   ],
-  "match_history": [],
+  "match_history": [
+    {
+      "date": "2026-07-16",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
+    }
+  ],
   "last_match_betting": {
-    "prob_home": 55.39713298268546,
-    "prob_draw": 25.06399847031527,
-    "prob_away": 19.53886854699928,
-    "max_home": 1.85,
-    "max_draw": 3.89,
-    "max_away": 4.99,
-    "avg_home": 1.75,
-    "avg_draw": 3.59,
-    "avg_away": 4.39,
-    "bfe_home": NaN,
-    "bfe_draw": NaN,
-    "bfe_away": NaN
+    "prob_home": NaN,
+    "prob_draw": NaN,
+    "prob_away": NaN,
+    "max_home": 1.9,
+    "max_draw": 3.7,
+    "max_away": 4.0,
+    "avg_home": 1.85,
+    "avg_draw": 3.54,
+    "avg_away": 3.7,
+    "bfe_home": 1.96,
+    "bfe_draw": 3.85,
+    "bfe_away": 4.0
   }
 }

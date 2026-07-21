@@ -1,33 +1,33 @@
 {
   "name": "León",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2026-04-25",
-    "time": "20:05",
-    "home": false,
-    "score": "4 - 1",
+    "vs": "Atlas",
+    "date": "2026-07-17",
+    "time": "20:00",
+    "home": true,
+    "score": "2 - 3",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 527,
+      "games_played": 528,
       "wins": 221,
       "draws": 122,
-      "losses": 184,
-      "goals_for": 783,
-      "goals_against": 699,
-      "goal_difference": 84,
-      "win_rate": 41.94
+      "losses": 185,
+      "goals_for": 785,
+      "goals_against": 702,
+      "goal_difference": 83,
+      "win_rate": 41.86
     },
     "home": {
-      "games_played": 264,
+      "games_played": 265,
       "wins": 134,
       "draws": 61,
-      "losses": 69,
-      "goals_for": 459,
-      "goals_against": 306,
-      "goal_difference": 153,
-      "win_rate": 50.76
+      "losses": 70,
+      "goals_for": 461,
+      "goals_against": 309,
+      "goal_difference": 152,
+      "win_rate": 50.57
     },
     "away": {
       "games_played": 263,
@@ -43,7 +43,7 @@
   "form": [
     "W",
     "W",
-    "W",
+    "L",
     "L",
     "L"
   ],
@@ -239,20 +239,26 @@
       "goals_for": 1,
       "goals_against": 4,
       "result": "L"
+    },
+    {
+      "date": "2026-07-17",
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.85,
-    "max_draw": 4.0,
-    "max_away": 3.9,
-    "avg_home": 1.79,
-    "avg_draw": 3.82,
-    "avg_away": 3.65,
-    "bfe_home": NaN,
-    "bfe_draw": NaN,
-    "bfe_away": NaN
+    "max_home": 2.2,
+    "max_draw": 3.45,
+    "max_away": 3.4,
+    "avg_home": 2.09,
+    "avg_draw": 3.31,
+    "avg_away": 3.14,
+    "bfe_home": 2.26,
+    "bfe_draw": 3.6,
+    "bfe_away": 3.45
   }
 }

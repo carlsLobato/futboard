@@ -1,33 +1,33 @@
 {
   "name": "Necaxa",
   "last_match": {
-    "vs": "Cruz Azul",
-    "date": "2026-04-26",
-    "time": "20:05",
-    "home": false,
-    "score": "4 - 1",
-    "result": "L"
+    "vs": "Atlante",
+    "date": "2026-07-16",
+    "time": "20:00",
+    "home": true,
+    "score": "2 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 351,
-      "wins": 110,
+      "games_played": 352,
+      "wins": 111,
       "draws": 100,
       "losses": 141,
-      "goals_for": 446,
-      "goals_against": 490,
-      "goal_difference": -44,
-      "win_rate": 31.34
+      "goals_for": 448,
+      "goals_against": 491,
+      "goal_difference": -43,
+      "win_rate": 31.53
     },
     "home": {
-      "games_played": 174,
-      "wins": 62,
+      "games_played": 175,
+      "wins": 63,
       "draws": 56,
       "losses": 56,
-      "goals_for": 233,
-      "goals_against": 216,
-      "goal_difference": 17,
-      "win_rate": 35.63
+      "goals_for": 235,
+      "goals_against": 217,
+      "goal_difference": 18,
+      "win_rate": 36.0
     },
     "away": {
       "games_played": 177,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "L",
     "D",
     "D",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 1,
       "goals_against": 4,
       "result": "L"
+    },
+    {
+      "date": "2026-07-16",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.28,
-    "max_draw": 6.25,
-    "max_away": 11.0,
-    "avg_home": 1.24,
-    "avg_draw": 5.73,
-    "avg_away": 9.29,
-    "bfe_home": NaN,
-    "bfe_draw": NaN,
-    "bfe_away": NaN
+    "max_home": 1.9,
+    "max_draw": 3.7,
+    "max_away": 4.0,
+    "avg_home": 1.85,
+    "avg_draw": 3.54,
+    "avg_away": 3.7,
+    "bfe_home": 1.96,
+    "bfe_draw": 3.85,
+    "bfe_away": 4.0
   }
 }

@@ -1,33 +1,33 @@
 {
   "name": "Tijuana",
   "last_match": {
-    "vs": "Guadalajara Chivas",
-    "date": "2026-04-25",
-    "time": "20:07",
-    "home": false,
-    "score": "0 - 0",
-    "result": "T"
+    "vs": "Tigres UANL",
+    "date": "2026-07-16",
+    "time": "22:10",
+    "home": true,
+    "score": "3 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 497,
-      "wins": 167,
+      "games_played": 498,
+      "wins": 168,
       "draws": 135,
       "losses": 195,
-      "goals_for": 617,
-      "goals_against": 709,
-      "goal_difference": -92,
-      "win_rate": 33.6
+      "goals_for": 620,
+      "goals_against": 710,
+      "goal_difference": -90,
+      "win_rate": 33.73
     },
     "home": {
-      "games_played": 251,
-      "wins": 116,
+      "games_played": 252,
+      "wins": 117,
       "draws": 75,
       "losses": 60,
-      "goals_for": 382,
-      "goals_against": 273,
-      "goal_difference": 109,
-      "win_rate": 46.22
+      "goals_for": 385,
+      "goals_against": 274,
+      "goal_difference": 111,
+      "win_rate": 46.43
     },
     "away": {
       "games_played": 246,
@@ -42,10 +42,10 @@
   },
   "form": [
     "W",
-    "W",
     "D",
     "W",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2026-07-16",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.41,
-    "max_draw": 5.33,
-    "max_away": 8.0,
-    "avg_home": 1.35,
-    "avg_draw": 4.83,
-    "avg_away": 6.89,
-    "bfe_home": NaN,
-    "bfe_draw": NaN,
-    "bfe_away": NaN
+    "max_home": 3.65,
+    "max_draw": 3.4,
+    "max_away": 2.1,
+    "avg_home": 3.37,
+    "avg_draw": 3.32,
+    "avg_away": 2.01,
+    "bfe_home": 3.75,
+    "bfe_draw": 3.65,
+    "bfe_away": 2.12
   }
 }
