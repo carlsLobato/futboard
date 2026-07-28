@@ -1,33 +1,33 @@
 {
   "name": "Necaxa",
   "last_match": {
-    "vs": "Atlante",
-    "date": "2026-07-16",
-    "time": "20:00",
+    "vs": "Monterrey",
+    "date": "2026-07-26",
+    "time": "18:00",
     "home": true,
     "score": "2 - 1",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 352,
-      "wins": 111,
+      "games_played": 353,
+      "wins": 112,
       "draws": 100,
       "losses": 141,
-      "goals_for": 448,
-      "goals_against": 491,
-      "goal_difference": -43,
-      "win_rate": 31.53
+      "goals_for": 450,
+      "goals_against": 492,
+      "goal_difference": -42,
+      "win_rate": 31.73
     },
     "home": {
-      "games_played": 175,
-      "wins": 63,
+      "games_played": 176,
+      "wins": 64,
       "draws": 56,
       "losses": 56,
-      "goals_for": 235,
-      "goals_against": 217,
-      "goal_difference": 18,
-      "win_rate": 36.0
+      "goals_for": 237,
+      "goals_against": 218,
+      "goal_difference": 19,
+      "win_rate": 36.36
     },
     "away": {
       "games_played": 177,
@@ -41,10 +41,10 @@
     }
   },
   "form": [
-    "L",
     "D",
     "D",
     "L",
+    "W",
     "W"
   ],
   "match_history": [
@@ -239,20 +239,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-07-26",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.9,
-    "max_draw": 3.7,
-    "max_away": 4.0,
-    "avg_home": 1.85,
-    "avg_draw": 3.54,
-    "avg_away": 3.7,
-    "bfe_home": 1.96,
-    "bfe_draw": 3.85,
-    "bfe_away": 4.0
+    "max_home": 3.8,
+    "max_draw": 3.8,
+    "max_away": 2.07,
+    "avg_home": 3.31,
+    "avg_draw": 3.57,
+    "avg_away": 1.95,
+    "bfe_home": 3.7,
+    "bfe_draw": 4.0,
+    "bfe_away": 2.02
   }
 }
