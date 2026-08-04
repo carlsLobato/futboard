@@ -1,23 +1,23 @@
 {
   "name": "Atlante",
   "last_match": {
-    "vs": "Club America",
-    "date": "2026-07-24",
-    "time": "22:00",
-    "home": true,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Cruz Azul",
+    "date": "2026-08-01",
+    "time": "22:05",
+    "home": false,
+    "score": "2 - 3",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 70,
-      "wins": 17,
+      "games_played": 71,
+      "wins": 18,
       "draws": 13,
       "losses": 40,
-      "goals_for": 80,
-      "goals_against": 133,
-      "goal_difference": -53,
-      "win_rate": 24.29
+      "goals_for": 83,
+      "goals_against": 135,
+      "goal_difference": -52,
+      "win_rate": 25.35
     },
     "home": {
       "games_played": 35,
@@ -30,22 +30,22 @@
       "win_rate": 28.57
     },
     "away": {
-      "games_played": 35,
-      "wins": 7,
+      "games_played": 36,
+      "wins": 8,
       "draws": 2,
       "losses": 26,
-      "goals_for": 31,
-      "goals_against": 75,
-      "goal_difference": -44,
-      "win_rate": 20.0
+      "goals_for": 34,
+      "goals_against": 77,
+      "goal_difference": -43,
+      "win_rate": 22.22
     }
   },
   "form": [
     "L",
     "L",
     "L",
-    "L",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -59,20 +59,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-08-01",
+      "goals_for": 3,
+      "goals_against": 2,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 6.1,
-    "max_draw": 4.33,
-    "max_away": 1.55,
-    "avg_home": 5.63,
-    "avg_draw": 4.01,
-    "avg_away": 1.49,
-    "bfe_home": 6.4,
-    "bfe_draw": 4.5,
-    "bfe_away": 1.59
+    "max_home": 1.42,
+    "max_draw": 5.1,
+    "max_away": 9.0,
+    "avg_home": 1.35,
+    "avg_draw": 4.62,
+    "avg_away": 7.52,
+    "bfe_home": 1.42,
+    "bfe_draw": 5.4,
+    "bfe_away": 8.2
   }
 }

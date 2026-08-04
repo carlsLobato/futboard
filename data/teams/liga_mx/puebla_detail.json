@@ -1,33 +1,33 @@
 {
   "name": "Puebla",
   "last_match": {
-    "vs": "Cruz Azul",
-    "date": "2026-07-21",
+    "vs": "Guadalajara Chivas",
+    "date": "2026-07-31",
     "time": "20:00",
-    "home": false,
-    "score": "2 - 1",
-    "result": "L"
+    "home": true,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 493,
+      "games_played": 494,
       "wins": 135,
-      "draws": 139,
+      "draws": 140,
       "losses": 219,
-      "goals_for": 564,
-      "goals_against": 733,
+      "goals_for": 565,
+      "goals_against": 734,
       "goal_difference": -169,
-      "win_rate": 27.38
+      "win_rate": 27.33
     },
     "home": {
-      "games_played": 246,
+      "games_played": 247,
       "wins": 78,
-      "draws": 76,
+      "draws": 77,
       "losses": 92,
-      "goals_for": 316,
-      "goals_against": 339,
+      "goals_for": 317,
+      "goals_against": 340,
       "goal_difference": -23,
-      "win_rate": 31.71
+      "win_rate": 31.58
     },
     "away": {
       "games_played": 247,
@@ -43,9 +43,9 @@
   "form": [
     "L",
     "L",
-    "L",
     "W",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-07-31",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.36,
-    "max_draw": 5.5,
-    "max_away": 8.5,
-    "avg_home": 1.31,
-    "avg_draw": 4.99,
-    "avg_away": 7.74,
-    "bfe_home": 1.36,
-    "bfe_draw": 6.0,
-    "bfe_away": 9.0
+    "max_home": 6.0,
+    "max_draw": 4.75,
+    "max_away": 1.52,
+    "avg_home": 5.61,
+    "avg_draw": 4.28,
+    "avg_away": 1.47,
+    "bfe_home": 6.4,
+    "bfe_draw": 4.9,
+    "bfe_away": 1.52
   }
 }

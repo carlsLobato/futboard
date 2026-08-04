@@ -1,23 +1,23 @@
 {
   "name": "Necaxa",
   "last_match": {
-    "vs": "Monterrey",
-    "date": "2026-07-26",
-    "time": "18:00",
-    "home": true,
-    "score": "2 - 1",
-    "result": "W"
+    "vs": "Toluca",
+    "date": "2026-08-02",
+    "time": "20:10",
+    "home": false,
+    "score": "3 - 1",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 353,
+      "games_played": 354,
       "wins": 112,
       "draws": 100,
-      "losses": 141,
-      "goals_for": 450,
-      "goals_against": 492,
-      "goal_difference": -42,
-      "win_rate": 31.73
+      "losses": 142,
+      "goals_for": 451,
+      "goals_against": 495,
+      "goal_difference": -44,
+      "win_rate": 31.64
     },
     "home": {
       "games_played": 176,
@@ -30,22 +30,22 @@
       "win_rate": 36.36
     },
     "away": {
-      "games_played": 177,
+      "games_played": 178,
       "wins": 48,
       "draws": 44,
-      "losses": 85,
-      "goals_for": 213,
-      "goals_against": 274,
-      "goal_difference": -61,
-      "win_rate": 27.12
+      "losses": 86,
+      "goals_for": 214,
+      "goals_against": 277,
+      "goal_difference": -63,
+      "win_rate": 26.97
     }
   },
   "form": [
     "D",
-    "D",
     "L",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-08-02",
+      "goals_for": 1,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.8,
-    "max_draw": 3.8,
-    "max_away": 2.07,
-    "avg_home": 3.31,
-    "avg_draw": 3.57,
-    "avg_away": 1.95,
-    "bfe_home": 3.7,
-    "bfe_draw": 4.0,
-    "bfe_away": 2.02
+    "max_home": 1.49,
+    "max_draw": 4.75,
+    "max_away": 6.25,
+    "avg_home": 1.44,
+    "avg_draw": 4.43,
+    "avg_away": 5.73,
+    "bfe_home": 1.52,
+    "bfe_draw": 4.8,
+    "bfe_away": 6.4
   }
 }

@@ -1,23 +1,23 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2026-07-26",
-    "time": "20:06",
-    "home": true,
-    "score": "1 - 2",
+    "vs": "Club Leon",
+    "date": "2026-08-01",
+    "time": "20:00",
+    "home": false,
+    "score": "1 - 0",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 527,
+      "games_played": 528,
       "wins": 214,
       "draws": 140,
-      "losses": 173,
+      "losses": 174,
       "goals_for": 766,
-      "goals_against": 663,
-      "goal_difference": 103,
-      "win_rate": 40.61
+      "goals_against": 664,
+      "goal_difference": 102,
+      "win_rate": 40.53
     },
     "home": {
       "games_played": 265,
@@ -30,21 +30,21 @@
       "win_rate": 50.19
     },
     "away": {
-      "games_played": 262,
+      "games_played": 263,
       "wins": 81,
       "draws": 70,
-      "losses": 111,
+      "losses": 112,
       "goals_for": 338,
-      "goals_against": 388,
-      "goal_difference": -50,
-      "win_rate": 30.92
+      "goals_against": 389,
+      "goal_difference": -51,
+      "win_rate": 30.8
     }
   },
   "form": [
     "W",
-    "W",
     "L",
     "W",
+    "L",
     "L"
   ],
   "match_history": [
@@ -275,20 +275,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-08-01",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.68,
-    "max_draw": 3.9,
-    "max_away": 5.33,
-    "avg_home": 1.62,
-    "avg_draw": 3.74,
-    "avg_away": 4.8,
-    "bfe_home": 1.73,
-    "bfe_draw": 4.0,
-    "bfe_away": 5.4
+    "max_home": 3.0,
+    "max_draw": 3.45,
+    "max_away": 2.35,
+    "avg_home": 2.87,
+    "avg_draw": 3.26,
+    "avg_away": 2.26,
+    "bfe_home": 3.1,
+    "bfe_draw": 3.45,
+    "bfe_away": 2.5
   }
 }

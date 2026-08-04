@@ -1,33 +1,33 @@
 {
   "name": "Atlas",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2026-07-25",
-    "time": "22:00",
-    "home": false,
-    "score": "0 - 1",
-    "result": "W"
+    "vs": "Monterrey",
+    "date": "2026-08-01",
+    "time": "20:05",
+    "home": true,
+    "score": "0 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 504,
+      "games_played": 505,
       "wins": 153,
       "draws": 143,
-      "losses": 208,
+      "losses": 209,
       "goals_for": 558,
-      "goals_against": 682,
-      "goal_difference": -124,
-      "win_rate": 30.36
+      "goals_against": 684,
+      "goal_difference": -126,
+      "win_rate": 30.3
     },
     "home": {
-      "games_played": 250,
+      "games_played": 251,
       "wins": 85,
       "draws": 72,
-      "losses": 93,
+      "losses": 94,
       "goals_for": 283,
-      "goals_against": 300,
-      "goal_difference": -17,
-      "win_rate": 34.0
+      "goals_against": 302,
+      "goal_difference": -19,
+      "win_rate": 33.86
     },
     "away": {
       "games_played": 254,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "L",
     "L",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-08-01",
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.85,
-    "max_draw": 3.3,
+    "max_home": 2.65,
+    "max_draw": 3.45,
     "max_away": 2.65,
-    "avg_home": 2.67,
-    "avg_draw": 3.2,
-    "avg_away": 2.44,
-    "bfe_home": 3.0,
-    "bfe_draw": 3.45,
-    "bfe_away": 2.58
+    "avg_home": 2.53,
+    "avg_draw": 3.28,
+    "avg_away": 2.55,
+    "bfe_home": 2.66,
+    "bfe_draw": 3.55,
+    "bfe_away": 2.78
   }
 }

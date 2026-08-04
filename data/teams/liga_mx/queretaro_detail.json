@@ -1,33 +1,33 @@
 {
   "name": "Querétaro",
   "last_match": {
-    "vs": "Pachuca",
-    "date": "2026-07-26",
-    "time": "20:06",
-    "home": false,
-    "score": "1 - 2",
+    "vs": "Tigres UANL",
+    "date": "2026-08-01",
+    "time": "18:00",
+    "home": true,
+    "score": "3 - 2",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 486,
-      "wins": 139,
+      "games_played": 487,
+      "wins": 140,
       "draws": 129,
       "losses": 218,
-      "goals_for": 537,
-      "goals_against": 704,
-      "goal_difference": -167,
-      "win_rate": 28.6
+      "goals_for": 540,
+      "goals_against": 706,
+      "goal_difference": -166,
+      "win_rate": 28.75
     },
     "home": {
-      "games_played": 241,
-      "wins": 87,
+      "games_played": 242,
+      "wins": 88,
       "draws": 64,
       "losses": 90,
-      "goals_for": 292,
-      "goals_against": 294,
-      "goal_difference": -2,
-      "win_rate": 36.1
+      "goals_for": 295,
+      "goals_against": 296,
+      "goal_difference": -1,
+      "win_rate": 36.36
     },
     "away": {
       "games_played": 245,
@@ -42,9 +42,9 @@
   },
   "form": [
     "D",
-    "D",
     "W",
     "L",
+    "W",
     "W"
   ],
   "match_history": [
@@ -245,20 +245,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-08-01",
+      "goals_for": 3,
+      "goals_against": 2,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.68,
-    "max_draw": 3.9,
-    "max_away": 5.33,
-    "avg_home": 1.62,
-    "avg_draw": 3.74,
-    "avg_away": 4.8,
-    "bfe_home": 1.73,
-    "bfe_draw": 4.0,
-    "bfe_away": 5.4
+    "max_home": 3.2,
+    "max_draw": 3.5,
+    "max_away": 2.25,
+    "avg_home": 3.0,
+    "avg_draw": 3.32,
+    "avg_away": 2.18,
+    "bfe_home": 3.2,
+    "bfe_draw": 3.6,
+    "bfe_away": 2.4
   }
 }

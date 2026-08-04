@@ -1,33 +1,33 @@
 {
   "name": "Atl. San Luis",
   "last_match": {
-    "vs": "Tigres UANL",
-    "date": "2026-07-25",
+    "vs": "Club Tijuana",
+    "date": "2026-07-31",
     "time": "22:00",
-    "home": false,
-    "score": "2 - 2",
+    "home": true,
+    "score": "0 - 0",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 284,
+      "games_played": 285,
       "wins": 86,
-      "draws": 56,
+      "draws": 57,
       "losses": 142,
       "goals_for": 354,
       "goals_against": 454,
       "goal_difference": -100,
-      "win_rate": 30.28
+      "win_rate": 30.18
     },
     "home": {
-      "games_played": 141,
+      "games_played": 142,
       "wins": 48,
-      "draws": 28,
+      "draws": 29,
       "losses": 65,
       "goals_for": 185,
       "goals_against": 210,
       "goal_difference": -25,
-      "win_rate": 34.04
+      "win_rate": 33.8
     },
     "away": {
       "games_played": 143,
@@ -41,10 +41,10 @@
     }
   },
   "form": [
-    "L",
     "W",
     "L",
     "L",
+    "D",
     "D"
   ],
   "match_history": [
@@ -245,20 +245,26 @@
       "goals_for": 2,
       "goals_against": 2,
       "result": "T"
+    },
+    {
+      "date": "2026-07-31",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.51,
-    "max_draw": 4.5,
-    "max_away": 6.75,
-    "avg_home": 1.45,
-    "avg_draw": 4.22,
-    "avg_away": 6.0,
-    "bfe_home": 1.52,
-    "bfe_draw": 4.9,
-    "bfe_away": 6.8
+    "max_home": 2.25,
+    "max_draw": 3.5,
+    "max_away": 3.1,
+    "avg_home": 2.2,
+    "avg_draw": 3.3,
+    "avg_away": 2.97,
+    "bfe_home": 2.36,
+    "bfe_draw": 3.65,
+    "bfe_away": 3.2
   }
 }

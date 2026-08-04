@@ -1,23 +1,23 @@
 {
   "name": "Tigres UANL",
   "last_match": {
-    "vs": "Atl. San Luis",
-    "date": "2026-07-25",
-    "time": "22:00",
-    "home": true,
-    "score": "2 - 2",
-    "result": "T"
+    "vs": "Queretaro",
+    "date": "2026-08-01",
+    "time": "18:00",
+    "home": false,
+    "score": "3 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 566,
+      "games_played": 567,
       "wins": 257,
       "draws": 173,
-      "losses": 136,
-      "goals_for": 841,
-      "goals_against": 559,
-      "goal_difference": 282,
-      "win_rate": 45.41
+      "losses": 137,
+      "goals_for": 843,
+      "goals_against": 562,
+      "goal_difference": 281,
+      "win_rate": 45.33
     },
     "home": {
       "games_played": 284,
@@ -30,22 +30,22 @@
       "win_rate": 53.87
     },
     "away": {
-      "games_played": 282,
+      "games_played": 283,
       "wins": 104,
       "draws": 87,
-      "losses": 91,
-      "goals_for": 340,
-      "goals_against": 303,
-      "goal_difference": 37,
-      "win_rate": 36.88
+      "losses": 92,
+      "goals_for": 342,
+      "goals_against": 306,
+      "goal_difference": 36,
+      "win_rate": 36.75
     }
   },
   "form": [
     "W",
-    "W",
     "L",
     "L",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -299,20 +299,26 @@
       "goals_for": 2,
       "goals_against": 2,
       "result": "T"
+    },
+    {
+      "date": "2026-08-01",
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.51,
-    "max_draw": 4.5,
-    "max_away": 6.75,
-    "avg_home": 1.45,
-    "avg_draw": 4.22,
-    "avg_away": 6.0,
-    "bfe_home": 1.52,
-    "bfe_draw": 4.9,
-    "bfe_away": 6.8
+    "max_home": 3.2,
+    "max_draw": 3.5,
+    "max_away": 2.25,
+    "avg_home": 3.0,
+    "avg_draw": 3.32,
+    "avg_away": 2.18,
+    "bfe_home": 3.2,
+    "bfe_draw": 3.6,
+    "bfe_away": 2.4
   }
 }

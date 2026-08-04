@@ -1,23 +1,23 @@
 {
   "name": "Monterrey",
   "last_match": {
-    "vs": "Necaxa",
-    "date": "2026-07-26",
-    "time": "18:00",
+    "vs": "Atlas",
+    "date": "2026-08-01",
+    "time": "20:05",
     "home": false,
-    "score": "2 - 1",
-    "result": "L"
+    "score": "0 - 2",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 547,
-      "wins": 244,
+      "games_played": 548,
+      "wins": 245,
       "draws": 140,
       "losses": 163,
-      "goals_for": 845,
+      "goals_for": 847,
       "goals_against": 652,
-      "goal_difference": 193,
-      "win_rate": 44.61
+      "goal_difference": 195,
+      "win_rate": 44.71
     },
     "home": {
       "games_played": 275,
@@ -30,22 +30,22 @@
       "win_rate": 54.91
     },
     "away": {
-      "games_played": 272,
-      "wins": 93,
+      "games_played": 273,
+      "wins": 94,
       "draws": 64,
       "losses": 115,
-      "goals_for": 357,
+      "goals_for": 359,
       "goals_against": 378,
-      "goal_difference": -21,
-      "win_rate": 34.19
+      "goal_difference": -19,
+      "win_rate": 34.43
     }
   },
   "form": [
-    "L",
     "W",
     "L",
     "W",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -269,20 +269,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-08-01",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.8,
-    "max_draw": 3.8,
-    "max_away": 2.07,
-    "avg_home": 3.31,
-    "avg_draw": 3.57,
-    "avg_away": 1.95,
-    "bfe_home": 3.7,
-    "bfe_draw": 4.0,
-    "bfe_away": 2.02
+    "max_home": 2.65,
+    "max_draw": 3.45,
+    "max_away": 2.65,
+    "avg_home": 2.53,
+    "avg_draw": 3.28,
+    "avg_away": 2.55,
+    "bfe_home": 2.66,
+    "bfe_draw": 3.55,
+    "bfe_away": 2.78
   }
 }
