@@ -1,33 +1,33 @@
 {
   "name": "Atlante",
   "last_match": {
-    "vs": "Cruz Azul",
-    "date": "2026-08-01",
-    "time": "22:05",
-    "home": false,
-    "score": "2 - 3",
-    "result": "W"
+    "vs": "Toluca",
+    "date": "2026-08-15",
+    "time": "18:00",
+    "home": true,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 71,
+      "games_played": 72,
       "wins": 18,
-      "draws": 13,
+      "draws": 14,
       "losses": 40,
       "goals_for": 83,
       "goals_against": 135,
       "goal_difference": -52,
-      "win_rate": 25.35
+      "win_rate": 25.0
     },
     "home": {
-      "games_played": 35,
+      "games_played": 36,
       "wins": 10,
-      "draws": 11,
+      "draws": 12,
       "losses": 14,
       "goals_for": 49,
       "goals_against": 58,
       "goal_difference": -9,
-      "win_rate": 28.57
+      "win_rate": 27.78
     },
     "away": {
       "games_played": 36,
@@ -43,9 +43,9 @@
   "form": [
     "L",
     "L",
-    "L",
     "D",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -65,20 +65,26 @@
       "goals_for": 3,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2026-08-15",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.42,
-    "max_draw": 5.1,
-    "max_away": 9.0,
-    "avg_home": 1.35,
-    "avg_draw": 4.62,
-    "avg_away": 7.52,
-    "bfe_home": 1.42,
-    "bfe_draw": 5.4,
-    "bfe_away": 8.2
+    "max_home": 5.5,
+    "max_draw": 4.1,
+    "max_away": 1.62,
+    "avg_home": 5.01,
+    "avg_draw": 3.94,
+    "avg_away": 1.57,
+    "bfe_home": 5.6,
+    "bfe_draw": 4.3,
+    "bfe_away": 1.66
   }
 }

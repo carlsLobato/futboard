@@ -1,23 +1,23 @@
 {
   "name": "Tigres UANL",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2026-08-01",
-    "time": "18:00",
+    "vs": "Atlas",
+    "date": "2026-08-15",
+    "time": "22:10",
     "home": false,
-    "score": "3 - 2",
+    "score": "2 - 1",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 567,
+      "games_played": 568,
       "wins": 257,
       "draws": 173,
-      "losses": 137,
-      "goals_for": 843,
-      "goals_against": 562,
-      "goal_difference": 281,
-      "win_rate": 45.33
+      "losses": 138,
+      "goals_for": 844,
+      "goals_against": 564,
+      "goal_difference": 280,
+      "win_rate": 45.25
     },
     "home": {
       "games_played": 284,
@@ -30,21 +30,21 @@
       "win_rate": 53.87
     },
     "away": {
-      "games_played": 283,
+      "games_played": 284,
       "wins": 104,
       "draws": 87,
-      "losses": 92,
-      "goals_for": 342,
-      "goals_against": 306,
-      "goal_difference": 36,
-      "win_rate": 36.75
+      "losses": 93,
+      "goals_for": 343,
+      "goals_against": 308,
+      "goal_difference": 35,
+      "win_rate": 36.62
     }
   },
   "form": [
-    "W",
     "L",
     "L",
     "D",
+    "L",
     "L"
   ],
   "match_history": [
@@ -293,20 +293,26 @@
       "goals_for": 2,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-08-15",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.2,
-    "max_draw": 3.5,
-    "max_away": 2.25,
-    "avg_home": 3.0,
-    "avg_draw": 3.32,
-    "avg_away": 2.18,
-    "bfe_home": 3.2,
-    "bfe_draw": 3.6,
-    "bfe_away": 2.4
+    "max_home": 3.3,
+    "max_draw": 3.2,
+    "max_away": 2.3,
+    "avg_home": 3.09,
+    "avg_draw": 3.12,
+    "avg_away": 2.25,
+    "bfe_home": 3.4,
+    "bfe_draw": 3.3,
+    "bfe_away": 2.44
   }
 }

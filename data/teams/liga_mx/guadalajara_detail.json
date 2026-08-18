@@ -1,23 +1,23 @@
 {
   "name": "Guadalajara",
   "last_match": {
-    "vs": "Puebla",
-    "date": "2026-07-31",
-    "time": "20:00",
+    "vs": "Santos Laguna",
+    "date": "2026-08-16",
+    "time": "20:10",
     "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "score": "0 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 519,
-      "wins": 183,
+      "games_played": 520,
+      "wins": 184,
       "draws": 159,
       "losses": 177,
-      "goals_for": 624,
+      "goals_for": 625,
       "goals_against": 610,
-      "goal_difference": 14,
-      "win_rate": 35.26
+      "goal_difference": 15,
+      "win_rate": 35.38
     },
     "home": {
       "games_played": 260,
@@ -30,22 +30,22 @@
       "win_rate": 40.0
     },
     "away": {
-      "games_played": 259,
-      "wins": 79,
+      "games_played": 260,
+      "wins": 80,
       "draws": 83,
       "losses": 97,
-      "goals_for": 293,
+      "goals_for": 294,
       "goals_against": 327,
-      "goal_difference": -34,
-      "win_rate": 30.5
+      "goal_difference": -33,
+      "win_rate": 30.77
     }
   },
   "form": [
-    "D",
     "L",
     "L",
     "W",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -281,20 +281,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-08-16",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 6.0,
-    "max_draw": 4.75,
-    "max_away": 1.52,
-    "avg_home": 5.61,
-    "avg_draw": 4.28,
-    "avg_away": 1.47,
-    "bfe_home": 6.4,
-    "bfe_draw": 4.9,
-    "bfe_away": 1.52
+    "max_home": 5.5,
+    "max_draw": 4.5,
+    "max_away": 1.55,
+    "avg_home": 5.1,
+    "avg_draw": 4.3,
+    "avg_away": 1.52,
+    "bfe_home": 5.5,
+    "bfe_draw": 4.7,
+    "bfe_away": 1.62
   }
 }

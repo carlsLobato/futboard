@@ -1,8 +1,8 @@
 {
   "name": "América",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2026-08-02",
+    "vs": "Atl. San Luis",
+    "date": "2026-08-16",
     "time": "18:00",
     "home": true,
     "score": "3 - 0",
@@ -10,24 +10,24 @@
   },
   "record": {
     "total": {
-      "games_played": 584,
-      "wins": 293,
+      "games_played": 585,
+      "wins": 294,
       "draws": 157,
       "losses": 134,
-      "goals_for": 952,
+      "goals_for": 955,
       "goals_against": 613,
-      "goal_difference": 339,
-      "win_rate": 50.17
+      "goal_difference": 342,
+      "win_rate": 50.26
     },
     "home": {
-      "games_played": 291,
-      "wins": 170,
+      "games_played": 292,
+      "wins": 171,
       "draws": 63,
       "losses": 58,
-      "goals_for": 515,
+      "goals_for": 518,
       "goals_against": 274,
-      "goal_difference": 241,
-      "win_rate": 58.42
+      "goal_difference": 244,
+      "win_rate": 58.56
     },
     "away": {
       "games_played": 293,
@@ -42,9 +42,9 @@
   },
   "form": [
     "D",
-    "D",
     "W",
     "D",
+    "W",
     "W"
   ],
   "match_history": [
@@ -263,20 +263,26 @@
       "goals_for": 3,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-08-16",
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.39,
-    "max_draw": 5.33,
-    "max_away": 8.0,
-    "avg_home": 1.34,
-    "avg_draw": 4.86,
-    "avg_away": 6.99,
-    "bfe_home": 1.42,
-    "bfe_draw": 5.6,
-    "bfe_away": 8.2
+    "max_home": 1.93,
+    "max_draw": 3.6,
+    "max_away": 4.2,
+    "avg_home": 1.89,
+    "avg_draw": 3.45,
+    "avg_away": 3.74,
+    "bfe_home": 1.98,
+    "bfe_draw": 3.7,
+    "bfe_away": 4.3
   }
 }

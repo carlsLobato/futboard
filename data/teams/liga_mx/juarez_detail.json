@@ -1,23 +1,23 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-07-31",
-    "time": "22:00",
-    "home": true,
-    "score": "1 - 5",
+    "vs": "Monterrey",
+    "date": "2026-08-15",
+    "time": "20:10",
+    "home": false,
+    "score": "6 - 1",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 240,
+      "games_played": 241,
       "wins": 62,
       "draws": 60,
-      "losses": 118,
-      "goals_for": 262,
-      "goals_against": 382,
-      "goal_difference": -120,
-      "win_rate": 25.83
+      "losses": 119,
+      "goals_for": 263,
+      "goals_against": 388,
+      "goal_difference": -125,
+      "win_rate": 25.73
     },
     "home": {
       "games_played": 120,
@@ -30,19 +30,19 @@
       "win_rate": 30.83
     },
     "away": {
-      "games_played": 120,
+      "games_played": 121,
       "wins": 25,
       "draws": 25,
-      "losses": 70,
-      "goals_for": 112,
-      "goals_against": 212,
-      "goal_difference": -100,
-      "win_rate": 20.83
+      "losses": 71,
+      "goals_for": 113,
+      "goals_against": 218,
+      "goal_difference": -105,
+      "win_rate": 20.66
     }
   },
   "form": [
-    "L",
     "W",
+    "L",
     "L",
     "L",
     "L"
@@ -257,20 +257,26 @@
       "goals_for": 1,
       "goals_against": 5,
       "result": "L"
+    },
+    {
+      "date": "2026-08-15",
+      "goals_for": 1,
+      "goals_against": 6,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.66,
-    "max_draw": 3.5,
-    "max_away": 2.6,
-    "avg_home": 2.54,
-    "avg_draw": 3.35,
-    "avg_away": 2.49,
-    "bfe_home": 2.74,
-    "bfe_draw": 3.65,
-    "bfe_away": 2.72
+    "max_home": 1.5,
+    "max_draw": 4.75,
+    "max_away": 6.25,
+    "avg_home": 1.45,
+    "avg_draw": 4.49,
+    "avg_away": 5.64,
+    "bfe_home": 1.53,
+    "bfe_draw": 4.9,
+    "bfe_away": 6.2
   }
 }

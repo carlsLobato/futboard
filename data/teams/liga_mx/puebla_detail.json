@@ -1,23 +1,23 @@
 {
   "name": "Puebla",
   "last_match": {
-    "vs": "Guadalajara Chivas",
-    "date": "2026-07-31",
-    "time": "20:00",
-    "home": true,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Pachuca",
+    "date": "2026-08-17",
+    "time": "22:06",
+    "home": false,
+    "score": "2 - 3",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 494,
-      "wins": 135,
+      "games_played": 495,
+      "wins": 136,
       "draws": 140,
       "losses": 219,
-      "goals_for": 565,
-      "goals_against": 734,
-      "goal_difference": -169,
-      "win_rate": 27.33
+      "goals_for": 568,
+      "goals_against": 736,
+      "goal_difference": -168,
+      "win_rate": 27.47
     },
     "home": {
       "games_played": 247,
@@ -30,22 +30,22 @@
       "win_rate": 31.58
     },
     "away": {
-      "games_played": 247,
-      "wins": 57,
+      "games_played": 248,
+      "wins": 58,
       "draws": 63,
       "losses": 127,
-      "goals_for": 248,
-      "goals_against": 394,
-      "goal_difference": -146,
-      "win_rate": 23.08
+      "goals_for": 251,
+      "goals_against": 396,
+      "goal_difference": -145,
+      "win_rate": 23.39
     }
   },
   "form": [
     "L",
-    "L",
     "W",
     "L",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-08-17",
+      "goals_for": 3,
+      "goals_against": 2,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 6.0,
-    "max_draw": 4.75,
-    "max_away": 1.52,
-    "avg_home": 5.61,
-    "avg_draw": 4.28,
-    "avg_away": 1.47,
-    "bfe_home": 6.4,
-    "bfe_draw": 4.9,
-    "bfe_away": 1.52
+    "max_home": 1.65,
+    "max_draw": 4.1,
+    "max_away": 5.5,
+    "avg_home": 1.59,
+    "avg_draw": 3.88,
+    "avg_away": 5.0,
+    "bfe_home": 1.7,
+    "bfe_draw": 4.1,
+    "bfe_away": 5.6
   }
 }
