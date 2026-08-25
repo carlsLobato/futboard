@@ -1,33 +1,33 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2026-08-16",
-    "time": "13:00",
+    "vs": "Necaxa",
+    "date": "2026-08-23",
+    "time": "20:00",
     "home": true,
-    "score": "0 - 0",
+    "score": "1 - 1",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 524,
+      "games_played": 525,
       "wins": 184,
-      "draws": 151,
+      "draws": 152,
       "losses": 189,
-      "goals_for": 696,
-      "goals_against": 697,
+      "goals_for": 697,
+      "goals_against": 698,
       "goal_difference": -1,
-      "win_rate": 35.11
+      "win_rate": 35.05
     },
     "home": {
-      "games_played": 259,
+      "games_played": 260,
       "wins": 111,
-      "draws": 78,
+      "draws": 79,
       "losses": 70,
-      "goals_for": 395,
-      "goals_against": 291,
+      "goals_for": 396,
+      "goals_against": 292,
       "goal_difference": 104,
-      "win_rate": 42.86
+      "win_rate": 42.69
     },
     "away": {
       "games_played": 265,
@@ -42,18 +42,12 @@
   },
   "form": [
     "L",
-    "L",
     "W",
     "W",
+    "D",
     "D"
   ],
   "match_history": [
-    {
-      "date": "2025-08-24",
-      "goals_for": 0,
-      "goals_against": 0,
-      "result": "T"
-    },
     {
       "date": "2025-08-31",
       "goals_for": 1,
@@ -287,20 +281,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2026-08-23",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.91,
+    "max_home": 1.93,
     "max_draw": 3.75,
-    "max_away": 4.2,
-    "avg_home": 1.86,
-    "avg_draw": 3.54,
-    "avg_away": 3.73,
-    "bfe_home": 2.0,
-    "bfe_draw": 3.8,
-    "bfe_away": 4.2
+    "max_away": 3.8,
+    "avg_home": 1.88,
+    "avg_draw": 3.59,
+    "avg_away": 3.65,
+    "bfe_home": 1.97,
+    "bfe_draw": 3.9,
+    "bfe_away": 4.0
   }
 }

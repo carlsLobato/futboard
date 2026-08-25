@@ -1,23 +1,23 @@
 {
   "name": "Tijuana",
   "last_match": {
-    "vs": "Cruz Azul",
-    "date": "2026-08-16",
-    "time": "22:00",
-    "home": true,
-    "score": "2 - 1",
-    "result": "W"
+    "vs": "Guadalajara Chivas",
+    "date": "2026-08-22",
+    "time": "18:07",
+    "home": false,
+    "score": "5 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 501,
+      "games_played": 502,
       "wins": 170,
       "draws": 136,
-      "losses": 195,
-      "goals_for": 623,
-      "goals_against": 711,
-      "goal_difference": -88,
-      "win_rate": 33.93
+      "losses": 196,
+      "goals_for": 625,
+      "goals_against": 716,
+      "goal_difference": -91,
+      "win_rate": 33.86
     },
     "home": {
       "games_played": 254,
@@ -30,22 +30,22 @@
       "win_rate": 46.85
     },
     "away": {
-      "games_played": 247,
+      "games_played": 248,
       "wins": 51,
       "draws": 61,
-      "losses": 135,
-      "goals_for": 235,
-      "goals_against": 436,
-      "goal_difference": -201,
-      "win_rate": 20.65
+      "losses": 136,
+      "goals_for": 237,
+      "goals_against": 441,
+      "goal_difference": -204,
+      "win_rate": 20.56
     }
   },
   "form": [
-    "D",
     "W",
     "W",
     "D",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-08-22",
+      "goals_for": 2,
+      "goals_against": 5,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.85,
-    "max_draw": 3.4,
-    "max_away": 2.55,
-    "avg_home": 2.73,
-    "avg_draw": 3.28,
-    "avg_away": 2.39,
-    "bfe_home": 2.98,
-    "bfe_draw": 3.5,
-    "bfe_away": 2.56
+    "max_home": 1.47,
+    "max_draw": 4.75,
+    "max_away": 7.0,
+    "avg_home": 1.42,
+    "avg_draw": 4.51,
+    "avg_away": 6.19,
+    "bfe_home": 1.48,
+    "bfe_draw": 5.3,
+    "bfe_away": 6.8
   }
 }

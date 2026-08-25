@@ -1,33 +1,33 @@
 {
   "name": "Querétaro",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-08-16",
-    "time": "13:00",
-    "home": false,
-    "score": "0 - 0",
-    "result": "T"
+    "vs": "Toluca",
+    "date": "2026-08-21",
+    "time": "22:10",
+    "home": true,
+    "score": "1 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 488,
+      "games_played": 489,
       "wins": 140,
       "draws": 130,
-      "losses": 218,
-      "goals_for": 540,
-      "goals_against": 706,
-      "goal_difference": -166,
-      "win_rate": 28.69
+      "losses": 219,
+      "goals_for": 541,
+      "goals_against": 708,
+      "goal_difference": -167,
+      "win_rate": 28.63
     },
     "home": {
-      "games_played": 242,
+      "games_played": 243,
       "wins": 88,
       "draws": 64,
-      "losses": 90,
-      "goals_for": 295,
-      "goals_against": 296,
-      "goal_difference": -1,
-      "win_rate": 36.36
+      "losses": 91,
+      "goals_for": 296,
+      "goals_against": 298,
+      "goal_difference": -2,
+      "win_rate": 36.21
     },
     "away": {
       "games_played": 246,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "L",
     "W",
     "W",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 0,
       "goals_against": 0,
       "result": "T"
+    },
+    {
+      "date": "2026-08-21",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.91,
+    "max_home": 3.75,
     "max_draw": 3.75,
-    "max_away": 4.2,
-    "avg_home": 1.86,
-    "avg_draw": 3.54,
-    "avg_away": 3.73,
-    "bfe_home": 2.0,
-    "bfe_draw": 3.8,
-    "bfe_away": 4.2
+    "max_away": 1.93,
+    "avg_home": 3.58,
+    "avg_draw": 3.63,
+    "avg_away": 1.89,
+    "bfe_home": 4.0,
+    "bfe_draw": 3.95,
+    "bfe_away": 1.96
   }
 }

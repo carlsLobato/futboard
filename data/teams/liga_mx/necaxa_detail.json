@@ -1,23 +1,23 @@
 {
   "name": "Necaxa",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2026-08-17",
+    "vs": "UNAM Pumas",
+    "date": "2026-08-23",
     "time": "20:00",
-    "home": true,
-    "score": "1 - 2",
-    "result": "L"
+    "home": false,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 355,
+      "games_played": 356,
       "wins": 112,
-      "draws": 100,
+      "draws": 101,
       "losses": 143,
-      "goals_for": 452,
-      "goals_against": 497,
+      "goals_for": 453,
+      "goals_against": 498,
       "goal_difference": -45,
-      "win_rate": 31.55
+      "win_rate": 31.46
     },
     "home": {
       "games_played": 177,
@@ -30,22 +30,22 @@
       "win_rate": 36.16
     },
     "away": {
-      "games_played": 178,
+      "games_played": 179,
       "wins": 48,
-      "draws": 44,
+      "draws": 45,
       "losses": 86,
-      "goals_for": 214,
-      "goals_against": 277,
+      "goals_for": 215,
+      "goals_against": 278,
       "goal_difference": -63,
-      "win_rate": 26.97
+      "win_rate": 26.82
     }
   },
   "form": [
-    "L",
     "W",
     "W",
     "L",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-08-23",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.8,
-    "max_draw": 3.4,
-    "max_away": 2.5,
-    "avg_home": 2.68,
-    "avg_draw": 3.3,
-    "avg_away": 2.42,
-    "bfe_home": 2.86,
-    "bfe_draw": 3.65,
-    "bfe_away": 2.6
+    "max_home": 1.93,
+    "max_draw": 3.75,
+    "max_away": 3.8,
+    "avg_home": 1.88,
+    "avg_draw": 3.59,
+    "avg_away": 3.65,
+    "bfe_home": 1.97,
+    "bfe_draw": 3.9,
+    "bfe_away": 4.0
   }
 }

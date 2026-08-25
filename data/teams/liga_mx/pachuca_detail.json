@@ -1,23 +1,23 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Puebla",
-    "date": "2026-08-17",
-    "time": "22:06",
-    "home": true,
-    "score": "2 - 3",
-    "result": "L"
+    "vs": "Atl. San Luis",
+    "date": "2026-08-23",
+    "time": "18:00",
+    "home": false,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 529,
+      "games_played": 530,
       "wins": 214,
-      "draws": 140,
+      "draws": 141,
       "losses": 175,
-      "goals_for": 768,
-      "goals_against": 667,
+      "goals_for": 769,
+      "goals_against": 668,
       "goal_difference": 101,
-      "win_rate": 40.45
+      "win_rate": 40.38
     },
     "home": {
       "games_played": 266,
@@ -30,22 +30,22 @@
       "win_rate": 50.0
     },
     "away": {
-      "games_played": 263,
+      "games_played": 264,
       "wins": 81,
-      "draws": 70,
+      "draws": 71,
       "losses": 112,
-      "goals_for": 338,
-      "goals_against": 389,
+      "goals_for": 339,
+      "goals_against": 390,
       "goal_difference": -51,
-      "win_rate": 30.8
+      "win_rate": 30.68
     }
   },
   "form": [
-    "L",
     "W",
     "L",
     "L",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -269,20 +269,26 @@
       "goals_for": 2,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-08-23",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.65,
-    "max_draw": 4.1,
-    "max_away": 5.5,
-    "avg_home": 1.59,
-    "avg_draw": 3.88,
-    "avg_away": 5.0,
-    "bfe_home": 1.7,
-    "bfe_draw": 4.1,
-    "bfe_away": 5.6
+    "max_home": 3.3,
+    "max_draw": 3.6,
+    "max_away": 2.2,
+    "avg_home": 3.09,
+    "avg_draw": 3.48,
+    "avg_away": 2.12,
+    "bfe_home": 3.4,
+    "bfe_draw": 3.6,
+    "bfe_away": 2.28
   }
 }
