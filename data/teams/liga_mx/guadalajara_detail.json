@@ -1,23 +1,23 @@
 {
   "name": "Guadalajara",
   "last_match": {
-    "vs": "Club Tijuana",
-    "date": "2026-08-22",
-    "time": "18:07",
-    "home": true,
-    "score": "5 - 2",
-    "result": "W"
+    "vs": "Pachuca",
+    "date": "2026-08-29",
+    "time": "18:00",
+    "home": false,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 521,
+      "games_played": 522,
       "wins": 185,
-      "draws": 159,
+      "draws": 160,
       "losses": 177,
-      "goals_for": 630,
-      "goals_against": 612,
+      "goals_for": 631,
+      "goals_against": 613,
       "goal_difference": 18,
-      "win_rate": 35.51
+      "win_rate": 35.44
     },
     "home": {
       "games_played": 261,
@@ -30,22 +30,22 @@
       "win_rate": 40.23
     },
     "away": {
-      "games_played": 260,
+      "games_played": 261,
       "wins": 80,
-      "draws": 83,
+      "draws": 84,
       "losses": 97,
-      "goals_for": 294,
-      "goals_against": 327,
+      "goals_for": 295,
+      "goals_against": 328,
       "goal_difference": -33,
-      "win_rate": 30.77
+      "win_rate": 30.65
     }
   },
   "form": [
-    "L",
     "W",
     "D",
     "W",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -281,20 +281,26 @@
       "goals_for": 5,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2026-08-29",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.47,
-    "max_draw": 4.75,
-    "max_away": 7.0,
-    "avg_home": 1.42,
-    "avg_draw": 4.51,
-    "avg_away": 6.19,
-    "bfe_home": 1.48,
-    "bfe_draw": 5.3,
-    "bfe_away": 6.8
+    "max_home": 3.2,
+    "max_draw": 3.6,
+    "max_away": 2.2,
+    "avg_home": 3.03,
+    "avg_draw": 3.53,
+    "avg_away": 2.13,
+    "bfe_home": 3.3,
+    "bfe_draw": 3.75,
+    "bfe_away": 2.24
   }
 }

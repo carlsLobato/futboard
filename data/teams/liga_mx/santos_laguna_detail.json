@@ -1,33 +1,33 @@
 {
   "name": "Santos Laguna",
   "last_match": {
-    "vs": "Puebla",
-    "date": "2026-08-22",
-    "time": "20:00",
-    "home": false,
-    "score": "3 - 2",
-    "result": "L"
+    "vs": "Tigres UANL",
+    "date": "2026-08-29",
+    "time": "22:10",
+    "home": true,
+    "score": "0 - 0",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 525,
+      "games_played": 526,
       "wins": 185,
-      "draws": 142,
+      "draws": 143,
       "losses": 198,
       "goals_for": 744,
       "goals_against": 766,
       "goal_difference": -22,
-      "win_rate": 35.24
+      "win_rate": 35.17
     },
     "home": {
-      "games_played": 263,
+      "games_played": 264,
       "wins": 131,
-      "draws": 64,
+      "draws": 65,
       "losses": 68,
       "goals_for": 436,
       "goals_against": 317,
       "goal_difference": 119,
-      "win_rate": 49.81
+      "win_rate": 49.62
     },
     "away": {
       "games_played": 262,
@@ -45,7 +45,7 @@
     "L",
     "L",
     "L",
-    "L"
+    "D"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 2,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-08-29",
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.15,
-    "max_draw": 3.6,
-    "max_away": 3.25,
-    "avg_home": 2.08,
-    "avg_draw": 3.53,
-    "avg_away": 3.12,
-    "bfe_home": 2.18,
-    "bfe_draw": 3.8,
-    "bfe_away": 3.4
+    "max_home": 4.55,
+    "max_draw": 4.0,
+    "max_away": 1.76,
+    "avg_home": 4.18,
+    "avg_draw": 3.77,
+    "avg_away": 1.72,
+    "bfe_home": 4.6,
+    "bfe_draw": 4.1,
+    "bfe_away": 1.81
   }
 }

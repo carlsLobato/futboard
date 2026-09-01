@@ -1,33 +1,33 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Atl. San Luis",
-    "date": "2026-08-23",
+    "vs": "Guadalajara Chivas",
+    "date": "2026-08-29",
     "time": "18:00",
-    "home": false,
+    "home": true,
     "score": "1 - 1",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 530,
+      "games_played": 531,
       "wins": 214,
-      "draws": 141,
+      "draws": 142,
       "losses": 175,
-      "goals_for": 769,
-      "goals_against": 668,
+      "goals_for": 770,
+      "goals_against": 669,
       "goal_difference": 101,
-      "win_rate": 40.38
+      "win_rate": 40.3
     },
     "home": {
-      "games_played": 266,
+      "games_played": 267,
       "wins": 133,
-      "draws": 70,
+      "draws": 71,
       "losses": 63,
-      "goals_for": 430,
-      "goals_against": 278,
+      "goals_for": 431,
+      "goals_against": 279,
       "goal_difference": 152,
-      "win_rate": 50.0
+      "win_rate": 49.81
     },
     "away": {
       "games_played": 264,
@@ -41,10 +41,10 @@
     }
   },
   "form": [
-    "W",
     "L",
     "L",
     "L",
+    "D",
     "D"
   ],
   "match_history": [
@@ -269,20 +269,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-08-29",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.3,
+    "max_home": 3.2,
     "max_draw": 3.6,
     "max_away": 2.2,
-    "avg_home": 3.09,
-    "avg_draw": 3.48,
-    "avg_away": 2.12,
-    "bfe_home": 3.4,
-    "bfe_draw": 3.6,
-    "bfe_away": 2.28
+    "avg_home": 3.03,
+    "avg_draw": 3.53,
+    "avg_away": 2.13,
+    "bfe_home": 3.3,
+    "bfe_draw": 3.75,
+    "bfe_away": 2.24
   }
 }

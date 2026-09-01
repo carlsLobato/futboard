@@ -1,33 +1,33 @@
 {
   "name": "Atlante",
   "last_match": {
-    "vs": "Tigres UANL",
-    "date": "2026-08-21",
+    "vs": "Club Leon",
+    "date": "2026-08-28",
     "time": "20:00",
-    "home": false,
-    "score": "2 - 0",
-    "result": "L"
+    "home": true,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 73,
+      "games_played": 74,
       "wins": 18,
-      "draws": 14,
+      "draws": 15,
       "losses": 41,
-      "goals_for": 83,
-      "goals_against": 137,
+      "goals_for": 84,
+      "goals_against": 138,
       "goal_difference": -54,
-      "win_rate": 24.66
+      "win_rate": 24.32
     },
     "home": {
-      "games_played": 36,
+      "games_played": 37,
       "wins": 10,
-      "draws": 12,
+      "draws": 13,
       "losses": 14,
-      "goals_for": 49,
-      "goals_against": 58,
+      "goals_for": 50,
+      "goals_against": 59,
       "goal_difference": -9,
-      "win_rate": 27.78
+      "win_rate": 27.03
     },
     "away": {
       "games_played": 37,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "D",
     "W",
     "D",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -77,20 +77,26 @@
       "goals_for": 0,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-08-28",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.55,
-    "max_draw": 4.5,
-    "max_away": 5.5,
-    "avg_home": 1.53,
-    "avg_draw": 4.17,
-    "avg_away": 5.22,
-    "bfe_home": 1.6,
-    "bfe_draw": 4.7,
-    "bfe_away": 5.8
+    "max_home": 2.57,
+    "max_draw": 3.66,
+    "max_away": 2.55,
+    "avg_home": 2.51,
+    "avg_draw": 3.52,
+    "avg_away": 2.49,
+    "bfe_home": 2.72,
+    "bfe_draw": 3.8,
+    "bfe_away": 2.64
   }
 }
