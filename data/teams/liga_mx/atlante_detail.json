@@ -1,23 +1,23 @@
 {
   "name": "Atlante",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2026-08-28",
-    "time": "20:00",
-    "home": true,
+    "vs": "Atlas",
+    "date": "2026-09-05",
+    "time": "22:00",
+    "home": false,
     "score": "1 - 1",
     "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 74,
+      "games_played": 75,
       "wins": 18,
-      "draws": 15,
+      "draws": 16,
       "losses": 41,
-      "goals_for": 84,
-      "goals_against": 138,
+      "goals_for": 85,
+      "goals_against": 139,
       "goal_difference": -54,
-      "win_rate": 24.32
+      "win_rate": 24.0
     },
     "home": {
       "games_played": 37,
@@ -30,21 +30,21 @@
       "win_rate": 27.03
     },
     "away": {
-      "games_played": 37,
+      "games_played": 38,
       "wins": 8,
-      "draws": 2,
+      "draws": 3,
       "losses": 27,
-      "goals_for": 34,
-      "goals_against": 79,
+      "goals_for": 35,
+      "goals_against": 80,
       "goal_difference": -45,
-      "win_rate": 21.62
+      "win_rate": 21.05
     }
   },
   "form": [
-    "D",
     "W",
     "D",
     "L",
+    "D",
     "D"
   ],
   "match_history": [
@@ -83,20 +83,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-09-05",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.57,
-    "max_draw": 3.66,
-    "max_away": 2.55,
-    "avg_home": 2.51,
-    "avg_draw": 3.52,
-    "avg_away": 2.49,
-    "bfe_home": 2.72,
-    "bfe_draw": 3.8,
-    "bfe_away": 2.64
+    "max_home": 1.9,
+    "max_draw": 3.55,
+    "max_away": 4.25,
+    "avg_home": 1.84,
+    "avg_draw": 3.42,
+    "avg_away": 3.99,
+    "bfe_home": 1.94,
+    "bfe_draw": 3.7,
+    "bfe_away": 4.5
   }
 }

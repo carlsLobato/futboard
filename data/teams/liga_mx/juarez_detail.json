@@ -1,33 +1,33 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2026-08-30",
-    "time": "19:00",
-    "home": false,
-    "score": "4 - 0",
+    "vs": "Pachuca",
+    "date": "2026-09-04",
+    "time": "22:00",
+    "home": true,
+    "score": "0 - 2",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 243,
+      "games_played": 244,
       "wins": 62,
       "draws": 60,
-      "losses": 121,
+      "losses": 122,
       "goals_for": 264,
-      "goals_against": 394,
-      "goal_difference": -130,
-      "win_rate": 25.51
+      "goals_against": 396,
+      "goal_difference": -132,
+      "win_rate": 25.41
     },
     "home": {
-      "games_played": 121,
+      "games_played": 122,
       "wins": 37,
       "draws": 35,
-      "losses": 49,
+      "losses": 50,
       "goals_for": 151,
-      "goals_against": 172,
-      "goal_difference": -21,
-      "win_rate": 30.58
+      "goals_against": 174,
+      "goal_difference": -23,
+      "win_rate": 30.33
     },
     "away": {
       "games_played": 122,
@@ -263,20 +263,26 @@
       "goals_for": 0,
       "goals_against": 4,
       "result": "L"
+    },
+    {
+      "date": "2026-09-04",
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.37,
-    "max_draw": 5.5,
-    "max_away": 8.5,
-    "avg_home": 1.33,
-    "avg_draw": 5.03,
-    "avg_away": 7.64,
-    "bfe_home": 1.38,
-    "bfe_draw": 5.8,
-    "bfe_away": 9.0
+    "max_home": 3.5,
+    "max_draw": 3.5,
+    "max_away": 2.1,
+    "avg_home": 3.33,
+    "avg_draw": 3.36,
+    "avg_away": 2.06,
+    "bfe_home": 3.65,
+    "bfe_draw": 3.55,
+    "bfe_away": 2.16
   }
 }
