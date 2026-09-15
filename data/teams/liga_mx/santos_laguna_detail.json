@@ -1,33 +1,33 @@
 {
   "name": "Santos Laguna",
   "last_match": {
-    "vs": "Cruz Azul",
-    "date": "2026-09-06",
-    "time": "18:00",
-    "home": false,
-    "score": "1 - 0",
-    "result": "L"
+    "vs": "Juarez",
+    "date": "2026-09-13",
+    "time": "20:00",
+    "home": true,
+    "score": "2 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 527,
-      "wins": 185,
+      "games_played": 528,
+      "wins": 186,
       "draws": 143,
       "losses": 199,
-      "goals_for": 744,
-      "goals_against": 767,
-      "goal_difference": -23,
-      "win_rate": 35.1
+      "goals_for": 746,
+      "goals_against": 768,
+      "goal_difference": -22,
+      "win_rate": 35.23
     },
     "home": {
-      "games_played": 264,
-      "wins": 131,
+      "games_played": 265,
+      "wins": 132,
       "draws": 65,
       "losses": 68,
-      "goals_for": 436,
-      "goals_against": 317,
-      "goal_difference": 119,
-      "win_rate": 49.62
+      "goals_for": 438,
+      "goals_against": 318,
+      "goal_difference": 120,
+      "win_rate": 49.81
     },
     "away": {
       "games_played": 263,
@@ -43,9 +43,9 @@
   "form": [
     "L",
     "L",
-    "L",
     "D",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-09-13",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.39,
-    "max_draw": 5.3,
-    "max_away": 8.0,
-    "avg_home": 1.34,
-    "avg_draw": 5.11,
-    "avg_away": 6.96,
-    "bfe_home": 1.39,
-    "bfe_draw": 5.7,
-    "bfe_away": 8.6
+    "max_home": 2.05,
+    "max_draw": 3.65,
+    "max_away": 3.6,
+    "avg_home": 1.98,
+    "avg_draw": 3.49,
+    "avg_away": 3.37,
+    "bfe_home": 2.06,
+    "bfe_draw": 3.75,
+    "bfe_away": 3.7
   }
 }

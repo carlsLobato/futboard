@@ -1,50 +1,50 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Club Tijuana",
-    "date": "2026-08-28",
-    "time": "22:10",
+    "vs": "Guadalajara Chivas",
+    "date": "2026-09-13",
+    "time": "20:07",
     "home": false,
-    "score": "2 - 0",
+    "score": "3 - 0",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 526,
-      "wins": 184,
+      "games_played": 528,
+      "wins": 185,
       "draws": 152,
-      "losses": 190,
-      "goals_for": 697,
-      "goals_against": 700,
-      "goal_difference": -3,
-      "win_rate": 34.98
+      "losses": 191,
+      "goals_for": 700,
+      "goals_against": 704,
+      "goal_difference": -4,
+      "win_rate": 35.04
     },
     "home": {
-      "games_played": 260,
-      "wins": 111,
+      "games_played": 261,
+      "wins": 112,
       "draws": 79,
       "losses": 70,
-      "goals_for": 396,
-      "goals_against": 292,
-      "goal_difference": 104,
-      "win_rate": 42.69
+      "goals_for": 399,
+      "goals_against": 293,
+      "goal_difference": 106,
+      "win_rate": 42.91
     },
     "away": {
-      "games_played": 266,
+      "games_played": 267,
       "wins": 73,
       "draws": 73,
-      "losses": 120,
+      "losses": 121,
       "goals_for": 301,
-      "goals_against": 408,
-      "goal_difference": -107,
-      "win_rate": 27.44
+      "goals_against": 411,
+      "goal_difference": -110,
+      "win_rate": 27.34
     }
   },
   "form": [
-    "W",
-    "W",
     "D",
     "D",
+    "L",
+    "W",
     "L"
   ],
   "match_history": [
@@ -281,20 +281,32 @@
       "goals_for": 0,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-09-10",
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W"
+    },
+    {
+      "date": "2026-09-13",
+      "goals_for": 0,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.06,
-    "max_draw": 3.6,
-    "max_away": 3.8,
-    "avg_home": 1.98,
-    "avg_draw": 3.42,
-    "avg_away": 3.47,
-    "bfe_home": 2.08,
-    "bfe_draw": 3.65,
-    "bfe_away": 3.85
+    "max_home": 1.53,
+    "max_draw": 4.5,
+    "max_away": 6.0,
+    "avg_home": 1.5,
+    "avg_draw": 4.26,
+    "avg_away": 5.41,
+    "bfe_home": 1.56,
+    "bfe_draw": 4.8,
+    "bfe_away": 6.2
   }
 }

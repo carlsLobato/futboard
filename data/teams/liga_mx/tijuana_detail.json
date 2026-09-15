@@ -1,33 +1,33 @@
 {
   "name": "Tijuana",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-08-28",
+    "vs": "Queretaro",
+    "date": "2026-09-11",
     "time": "22:10",
     "home": true,
-    "score": "2 - 0",
-    "result": "W"
+    "score": "0 - 1",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 503,
+      "games_played": 504,
       "wins": 171,
       "draws": 136,
-      "losses": 196,
+      "losses": 197,
       "goals_for": 627,
-      "goals_against": 716,
-      "goal_difference": -89,
-      "win_rate": 34.0
+      "goals_against": 717,
+      "goal_difference": -90,
+      "win_rate": 33.93
     },
     "home": {
-      "games_played": 255,
+      "games_played": 256,
       "wins": 120,
       "draws": 75,
-      "losses": 60,
+      "losses": 61,
       "goals_for": 390,
-      "goals_against": 275,
-      "goal_difference": 115,
-      "win_rate": 47.06
+      "goals_against": 276,
+      "goal_difference": 114,
+      "win_rate": 46.88
     },
     "away": {
       "games_played": 248,
@@ -41,19 +41,13 @@
     }
   },
   "form": [
-    "W",
     "D",
     "W",
     "L",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
-    {
-      "date": "2025-09-14",
-      "goals_for": 1,
-      "goals_against": 1,
-      "result": "T"
-    },
     {
       "date": "2025-09-19",
       "goals_for": 5,
@@ -263,20 +257,26 @@
       "goals_for": 2,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-09-11",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.06,
-    "max_draw": 3.6,
-    "max_away": 3.8,
-    "avg_home": 1.98,
-    "avg_draw": 3.42,
-    "avg_away": 3.47,
-    "bfe_home": 2.08,
-    "bfe_draw": 3.65,
-    "bfe_away": 3.85
+    "max_home": 2.0,
+    "max_draw": 3.5,
+    "max_away": 4.0,
+    "avg_home": 1.93,
+    "avg_draw": 3.4,
+    "avg_away": 3.69,
+    "bfe_home": 2.0,
+    "bfe_draw": 3.6,
+    "bfe_away": 4.2
   }
 }
