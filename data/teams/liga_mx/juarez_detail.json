@@ -1,33 +1,33 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2026-09-13",
-    "time": "20:00",
-    "home": false,
-    "score": "2 - 1",
-    "result": "L"
+    "vs": "Tigres UANL",
+    "date": "2026-09-18",
+    "time": "22:00",
+    "home": true,
+    "score": "2 - 0",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 245,
-      "wins": 62,
+      "games_played": 246,
+      "wins": 63,
       "draws": 60,
       "losses": 123,
-      "goals_for": 265,
+      "goals_for": 267,
       "goals_against": 398,
-      "goal_difference": -133,
-      "win_rate": 25.31
+      "goal_difference": -131,
+      "win_rate": 25.61
     },
     "home": {
-      "games_played": 122,
-      "wins": 37,
+      "games_played": 123,
+      "wins": 38,
       "draws": 35,
       "losses": 50,
-      "goals_for": 151,
+      "goals_for": 153,
       "goals_against": 174,
-      "goal_difference": -23,
-      "win_rate": 30.33
+      "goal_difference": -21,
+      "win_rate": 30.89
     },
     "away": {
       "games_played": 123,
@@ -45,7 +45,7 @@
     "L",
     "L",
     "L",
-    "L"
+    "W"
   ],
   "match_history": [
     {
@@ -263,20 +263,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-09-18",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.05,
-    "max_draw": 3.65,
-    "max_away": 3.6,
-    "avg_home": 1.98,
-    "avg_draw": 3.49,
-    "avg_away": 3.37,
-    "bfe_home": 2.06,
-    "bfe_draw": 3.75,
-    "bfe_away": 3.7
+    "max_home": 4.75,
+    "max_draw": 3.7,
+    "max_away": 1.85,
+    "avg_home": 4.15,
+    "avg_draw": 3.55,
+    "avg_away": 1.78,
+    "bfe_home": 4.5,
+    "bfe_draw": 3.8,
+    "bfe_away": 1.91
   }
 }

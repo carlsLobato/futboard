@@ -1,23 +1,23 @@
 {
   "name": "Atlante",
   "last_match": {
-    "vs": "Pachuca",
-    "date": "2026-09-11",
-    "time": "22:00",
-    "home": true,
-    "score": "0 - 3",
-    "result": "L"
+    "vs": "Puebla",
+    "date": "2026-09-18",
+    "time": "20:00",
+    "home": false,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 76,
+      "games_played": 77,
       "wins": 18,
-      "draws": 16,
+      "draws": 17,
       "losses": 42,
-      "goals_for": 85,
-      "goals_against": 142,
+      "goals_for": 86,
+      "goals_against": 143,
       "goal_difference": -57,
-      "win_rate": 23.68
+      "win_rate": 23.38
     },
     "home": {
       "games_played": 38,
@@ -30,22 +30,22 @@
       "win_rate": 26.32
     },
     "away": {
-      "games_played": 38,
+      "games_played": 39,
       "wins": 8,
-      "draws": 3,
+      "draws": 4,
       "losses": 27,
-      "goals_for": 35,
-      "goals_against": 80,
+      "goals_for": 36,
+      "goals_against": 81,
       "goal_difference": -45,
-      "win_rate": 21.05
+      "win_rate": 20.51
     }
   },
   "form": [
-    "D",
     "L",
     "D",
     "D",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -95,20 +95,26 @@
       "goals_for": 0,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-09-18",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.0,
+    "max_home": 2.45,
     "max_draw": 3.4,
-    "max_away": 2.38,
-    "avg_home": 2.87,
-    "avg_draw": 3.24,
-    "avg_away": 2.3,
-    "bfe_home": 3.1,
-    "bfe_draw": 3.45,
-    "bfe_away": 2.48
+    "max_away": 2.9,
+    "avg_home": 2.38,
+    "avg_draw": 3.27,
+    "avg_away": 2.8,
+    "bfe_home": 2.54,
+    "bfe_draw": 3.5,
+    "bfe_away": 3.05
   }
 }

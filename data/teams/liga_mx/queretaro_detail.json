@@ -1,33 +1,33 @@
 {
   "name": "Querétaro",
   "last_match": {
-    "vs": "Club Tijuana",
-    "date": "2026-09-11",
-    "time": "22:10",
-    "home": false,
-    "score": "0 - 1",
-    "result": "W"
+    "vs": "Club Leon",
+    "date": "2026-09-20",
+    "time": "21:10",
+    "home": true,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 491,
+      "games_played": 492,
       "wins": 142,
-      "draws": 130,
+      "draws": 131,
       "losses": 219,
-      "goals_for": 545,
-      "goals_against": 709,
+      "goals_for": 546,
+      "goals_against": 710,
       "goal_difference": -164,
-      "win_rate": 28.92
+      "win_rate": 28.86
     },
     "home": {
-      "games_played": 243,
+      "games_played": 244,
       "wins": 88,
-      "draws": 64,
+      "draws": 65,
       "losses": 91,
-      "goals_for": 296,
-      "goals_against": 298,
+      "goals_for": 297,
+      "goals_against": 299,
       "goal_difference": -2,
-      "win_rate": 36.21
+      "win_rate": 36.07
     },
     "away": {
       "games_played": 248,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "D",
     "L",
     "W",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-09-20",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.0,
-    "max_draw": 3.5,
-    "max_away": 4.0,
-    "avg_home": 1.93,
-    "avg_draw": 3.4,
-    "avg_away": 3.69,
-    "bfe_home": 2.0,
+    "max_home": 2.9,
+    "max_draw": 3.45,
+    "max_away": 2.44,
+    "avg_home": 2.76,
+    "avg_draw": 3.37,
+    "avg_away": 2.37,
+    "bfe_home": 2.98,
     "bfe_draw": 3.6,
-    "bfe_away": 4.2
+    "bfe_away": 2.52
   }
 }

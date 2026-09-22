@@ -1,23 +1,23 @@
 {
   "name": "Guadalajara",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-09-13",
-    "time": "20:07",
-    "home": true,
-    "score": "3 - 0",
-    "result": "W"
+    "vs": "Club America",
+    "date": "2026-09-19",
+    "time": "22:15",
+    "home": false,
+    "score": "2 - 2",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 524,
+      "games_played": 525,
       "wins": 187,
-      "draws": 160,
+      "draws": 161,
       "losses": 177,
-      "goals_for": 637,
-      "goals_against": 613,
+      "goals_for": 639,
+      "goals_against": 615,
       "goal_difference": 24,
-      "win_rate": 35.69
+      "win_rate": 35.62
     },
     "home": {
       "games_played": 262,
@@ -30,22 +30,22 @@
       "win_rate": 40.46
     },
     "away": {
-      "games_played": 262,
+      "games_played": 263,
       "wins": 81,
-      "draws": 84,
+      "draws": 85,
       "losses": 97,
-      "goals_for": 298,
-      "goals_against": 328,
+      "goals_for": 300,
+      "goals_against": 330,
       "goal_difference": -30,
-      "win_rate": 30.92
+      "win_rate": 30.8
     }
   },
   "form": [
     "W",
-    "W",
     "D",
     "W",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -281,20 +281,26 @@
       "goals_for": 3,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-09-19",
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.53,
-    "max_draw": 4.5,
-    "max_away": 6.0,
-    "avg_home": 1.5,
-    "avg_draw": 4.26,
-    "avg_away": 5.41,
-    "bfe_home": 1.56,
-    "bfe_draw": 4.8,
-    "bfe_away": 6.2
+    "max_home": 2.7,
+    "max_draw": 3.6,
+    "max_away": 2.5,
+    "avg_home": 2.62,
+    "avg_draw": 3.45,
+    "avg_away": 2.42,
+    "bfe_home": 2.72,
+    "bfe_draw": 4.0,
+    "bfe_away": 2.52
   }
 }

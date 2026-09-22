@@ -1,23 +1,23 @@
 {
   "name": "Necaxa",
   "last_match": {
-    "vs": "Puebla",
-    "date": "2026-09-11",
-    "time": "20:00",
-    "home": true,
-    "score": "0 - 1",
+    "vs": "Atl. San Luis",
+    "date": "2026-09-19",
+    "time": "18:00",
+    "home": false,
+    "score": "3 - 1",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 359,
+      "games_played": 360,
       "wins": 112,
       "draws": 102,
-      "losses": 145,
-      "goals_for": 455,
-      "goals_against": 503,
-      "goal_difference": -48,
-      "win_rate": 31.2
+      "losses": 146,
+      "goals_for": 456,
+      "goals_against": 506,
+      "goal_difference": -50,
+      "win_rate": 31.11
     },
     "home": {
       "games_played": 179,
@@ -30,21 +30,21 @@
       "win_rate": 35.75
     },
     "away": {
-      "games_played": 180,
+      "games_played": 181,
       "wins": 48,
       "draws": 46,
-      "losses": 86,
-      "goals_for": 216,
-      "goals_against": 279,
-      "goal_difference": -63,
-      "win_rate": 26.67
+      "losses": 87,
+      "goals_for": 217,
+      "goals_against": 282,
+      "goal_difference": -65,
+      "win_rate": 26.52
     }
   },
   "form": [
-    "L",
     "D",
     "L",
     "D",
+    "L",
     "L"
   ],
   "match_history": [
@@ -245,20 +245,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-09-19",
+      "goals_for": 1,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.05,
-    "max_draw": 3.8,
-    "max_away": 3.5,
-    "avg_home": 1.95,
-    "avg_draw": 3.6,
-    "avg_away": 3.33,
-    "bfe_home": 2.08,
-    "bfe_draw": 3.85,
-    "bfe_away": 3.6
+    "max_home": 2.25,
+    "max_draw": 3.6,
+    "max_away": 3.14,
+    "avg_home": 2.2,
+    "avg_draw": 3.49,
+    "avg_away": 2.92,
+    "bfe_home": 2.34,
+    "bfe_draw": 3.7,
+    "bfe_away": 3.15
   }
 }

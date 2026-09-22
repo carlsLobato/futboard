@@ -1,33 +1,33 @@
 {
   "name": "Toluca",
   "last_match": {
-    "vs": "Puebla",
-    "date": "2026-09-15",
-    "time": "20:00",
-    "home": false,
-    "score": "0 - 1",
-    "result": "W"
+    "vs": "Santos Laguna",
+    "date": "2026-09-20",
+    "time": "19:00",
+    "home": true,
+    "score": "2 - 3",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 546,
+      "games_played": 547,
       "wins": 235,
       "draws": 149,
-      "losses": 162,
-      "goals_for": 847,
-      "goals_against": 679,
-      "goal_difference": 168,
-      "win_rate": 43.04
+      "losses": 163,
+      "goals_for": 849,
+      "goals_against": 682,
+      "goal_difference": 167,
+      "win_rate": 42.96
     },
     "home": {
-      "games_played": 273,
+      "games_played": 274,
       "wins": 150,
       "draws": 67,
-      "losses": 56,
-      "goals_for": 515,
-      "goals_against": 299,
-      "goal_difference": 216,
-      "win_rate": 54.95
+      "losses": 57,
+      "goals_for": 517,
+      "goals_against": 302,
+      "goal_difference": 215,
+      "win_rate": 54.74
     },
     "away": {
       "games_played": 273,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "W",
     "W",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -293,20 +293,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-09-20",
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 6.5,
-    "max_draw": 4.75,
-    "max_away": 1.5,
-    "avg_home": 5.71,
-    "avg_draw": 4.48,
-    "avg_away": 1.46,
-    "bfe_home": 6.6,
-    "bfe_draw": 4.8,
-    "bfe_away": 1.54
+    "max_home": 1.22,
+    "max_draw": 7.0,
+    "max_away": 12.0,
+    "avg_home": 1.19,
+    "avg_draw": 6.74,
+    "avg_away": 10.69,
+    "bfe_home": 1.23,
+    "bfe_draw": 8.2,
+    "bfe_away": 12.5
   }
 }
