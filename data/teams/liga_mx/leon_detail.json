@@ -1,33 +1,33 @@
 {
   "name": "León",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2026-09-20",
-    "time": "21:10",
-    "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Juarez",
+    "date": "2026-09-27",
+    "time": "20:00",
+    "home": true,
+    "score": "2 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 536,
-      "wins": 225,
+      "games_played": 537,
+      "wins": 226,
       "draws": 124,
       "losses": 187,
-      "goals_for": 795,
-      "goals_against": 709,
-      "goal_difference": 86,
-      "win_rate": 41.98
+      "goals_for": 797,
+      "goals_against": 710,
+      "goal_difference": 87,
+      "win_rate": 42.09
     },
     "home": {
-      "games_played": 268,
-      "wins": 137,
+      "games_played": 269,
+      "wins": 138,
       "draws": 61,
       "losses": 70,
-      "goals_for": 466,
-      "goals_against": 309,
-      "goal_difference": 157,
-      "win_rate": 51.12
+      "goals_for": 468,
+      "goals_against": 310,
+      "goal_difference": 158,
+      "win_rate": 51.3
     },
     "away": {
       "games_played": 268,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "D",
     "L",
     "W",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-09-27",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.9,
-    "max_draw": 3.45,
-    "max_away": 2.44,
-    "avg_home": 2.76,
-    "avg_draw": 3.37,
-    "avg_away": 2.37,
-    "bfe_home": 2.98,
-    "bfe_draw": 3.6,
-    "bfe_away": 2.52
+    "max_home": 1.49,
+    "max_draw": 4.1,
+    "max_away": 6.5,
+    "avg_home": 1.52,
+    "avg_draw": 4.35,
+    "avg_away": 6.5,
+    "bfe_home": 1.49,
+    "bfe_draw": 4.11,
+    "bfe_away": 5.77
   }
 }
