@@ -1,33 +1,33 @@
 {
   "name": "UNAM Pumas",
   "last_match": {
-    "vs": "Atl. San Luis",
-    "date": "2026-09-27",
-    "time": "13:00",
+    "vs": "Cruz Azul",
+    "date": "2026-10-11",
+    "time": "20:15",
     "home": true,
-    "score": "2 - 3",
-    "result": "L"
+    "score": "3 - 3",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 530,
+      "games_played": 531,
       "wins": 185,
-      "draws": 153,
+      "draws": 154,
       "losses": 192,
-      "goals_for": 703,
-      "goals_against": 708,
+      "goals_for": 706,
+      "goals_against": 711,
       "goal_difference": -5,
-      "win_rate": 34.91
+      "win_rate": 34.84
     },
     "home": {
-      "games_played": 262,
+      "games_played": 263,
       "wins": 112,
-      "draws": 79,
+      "draws": 80,
       "losses": 71,
-      "goals_for": 401,
-      "goals_against": 296,
+      "goals_for": 404,
+      "goals_against": 299,
       "goal_difference": 105,
-      "win_rate": 42.75
+      "win_rate": 42.59
     },
     "away": {
       "games_played": 268,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "W",
     "L",
     "D",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -281,20 +281,26 @@
       "goals_for": 2,
       "goals_against": 3,
       "result": "L"
+    },
+    {
+      "date": "2026-10-11",
+      "goals_for": 3,
+      "goals_against": 3,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.05,
-    "max_draw": 3.4,
-    "max_away": 3.5,
-    "avg_home": 2.1,
-    "avg_draw": 3.6,
-    "avg_away": 3.5,
-    "bfe_home": 2.04,
-    "bfe_draw": 3.48,
-    "bfe_away": 3.24
+    "max_home": 3.0,
+    "max_draw": 3.6,
+    "max_away": 2.3,
+    "avg_home": 2.87,
+    "avg_draw": 3.47,
+    "avg_away": 2.21,
+    "bfe_home": 3.1,
+    "bfe_draw": 3.7,
+    "bfe_away": 2.38
   }
 }

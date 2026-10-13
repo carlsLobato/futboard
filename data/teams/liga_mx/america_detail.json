@@ -1,33 +1,33 @@
 {
   "name": "América",
   "last_match": {
-    "vs": "Necaxa",
-    "date": "2026-09-27",
+    "vs": "Monterrey",
+    "date": "2026-10-10",
     "time": "22:10",
-    "home": false,
-    "score": "2 - 4",
-    "result": "W"
+    "home": true,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 590,
+      "games_played": 591,
       "wins": 297,
-      "draws": 158,
+      "draws": 159,
       "losses": 135,
-      "goals_for": 968,
-      "goals_against": 622,
+      "goals_for": 969,
+      "goals_against": 623,
       "goal_difference": 346,
-      "win_rate": 50.34
+      "win_rate": 50.25
     },
     "home": {
-      "games_played": 294,
+      "games_played": 295,
       "wins": 172,
-      "draws": 64,
+      "draws": 65,
       "losses": 58,
-      "goals_for": 522,
-      "goals_against": 276,
+      "goals_for": 523,
+      "goals_against": 277,
       "goal_difference": 246,
-      "win_rate": 58.5
+      "win_rate": 58.31
     },
     "away": {
       "games_played": 296,
@@ -42,10 +42,10 @@
   },
   "form": [
     "W",
-    "W",
     "L",
     "D",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 4,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2026-10-10",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 4.5,
-    "max_draw": 3.7,
-    "max_away": 1.76,
-    "avg_home": 4.5,
-    "avg_draw": 3.9,
-    "avg_away": 1.83,
-    "bfe_home": 3.99,
-    "bfe_draw": 3.67,
-    "bfe_away": 1.77
+    "max_home": 1.84,
+    "max_draw": 3.9,
+    "max_away": 4.2,
+    "avg_home": 1.79,
+    "avg_draw": 3.68,
+    "avg_away": 3.88,
+    "bfe_home": 1.87,
+    "bfe_draw": 4.0,
+    "bfe_away": 4.3
   }
 }

@@ -1,23 +1,23 @@
 {
   "name": "Toluca",
   "last_match": {
-    "vs": "Cruz Azul",
-    "date": "2026-09-26",
-    "time": "17:50",
+    "vs": "Tigres UANL",
+    "date": "2026-10-09",
+    "time": "22:00",
     "home": false,
-    "score": "3 - 3",
-    "result": "T"
+    "score": "3 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 548,
+      "games_played": 549,
       "wins": 235,
       "draws": 150,
-      "losses": 163,
-      "goals_for": 852,
-      "goals_against": 685,
-      "goal_difference": 167,
-      "win_rate": 42.88
+      "losses": 164,
+      "goals_for": 854,
+      "goals_against": 688,
+      "goal_difference": 166,
+      "win_rate": 42.81
     },
     "home": {
       "games_played": 274,
@@ -30,22 +30,22 @@
       "win_rate": 54.74
     },
     "away": {
-      "games_played": 274,
+      "games_played": 275,
       "wins": 85,
       "draws": 83,
-      "losses": 106,
-      "goals_for": 335,
-      "goals_against": 383,
-      "goal_difference": -48,
-      "win_rate": 31.02
+      "losses": 107,
+      "goals_for": 337,
+      "goals_against": 386,
+      "goal_difference": -49,
+      "win_rate": 30.91
     }
   },
   "form": [
     "W",
     "W",
-    "W",
     "L",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -287,20 +287,26 @@
       "goals_for": 3,
       "goals_against": 3,
       "result": "T"
+    },
+    {
+      "date": "2026-10-09",
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.5,
-    "max_draw": 3.5,
-    "max_away": 2.57,
-    "avg_home": 2.6,
-    "avg_draw": 3.6,
-    "avg_away": 2.6,
-    "bfe_home": 2.5,
-    "bfe_draw": 3.41,
-    "bfe_away": 2.51
+    "max_home": 3.0,
+    "max_draw": 3.6,
+    "max_away": 2.3,
+    "avg_home": 2.86,
+    "avg_draw": 3.45,
+    "avg_away": 2.21,
+    "bfe_home": 3.15,
+    "bfe_draw": 3.7,
+    "bfe_away": 2.36
   }
 }

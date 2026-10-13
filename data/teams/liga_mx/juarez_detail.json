@@ -1,33 +1,33 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "Club Leon",
-    "date": "2026-09-27",
-    "time": "20:00",
-    "home": false,
-    "score": "2 - 1",
-    "result": "L"
+    "vs": "Club Tijuana",
+    "date": "2026-10-10",
+    "time": "18:00",
+    "home": true,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 247,
+      "games_played": 248,
       "wins": 63,
-      "draws": 60,
+      "draws": 61,
       "losses": 124,
-      "goals_for": 268,
-      "goals_against": 400,
+      "goals_for": 269,
+      "goals_against": 401,
       "goal_difference": -132,
-      "win_rate": 25.51
+      "win_rate": 25.4
     },
     "home": {
-      "games_played": 123,
+      "games_played": 124,
       "wins": 38,
-      "draws": 35,
+      "draws": 36,
       "losses": 50,
-      "goals_for": 153,
-      "goals_against": 174,
+      "goals_for": 154,
+      "goals_against": 175,
       "goal_difference": -21,
-      "win_rate": 30.89
+      "win_rate": 30.65
     },
     "away": {
       "games_played": 124,
@@ -43,9 +43,9 @@
   "form": [
     "L",
     "L",
-    "L",
     "W",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-10-10",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.49,
-    "max_draw": 4.1,
-    "max_away": 6.5,
-    "avg_home": 1.52,
-    "avg_draw": 4.35,
-    "avg_away": 6.5,
-    "bfe_home": 1.49,
-    "bfe_draw": 4.11,
-    "bfe_away": 5.77
+    "max_home": 2.85,
+    "max_draw": 3.35,
+    "max_away": 2.46,
+    "avg_home": 2.76,
+    "avg_draw": 3.26,
+    "avg_away": 2.38,
+    "bfe_home": 2.98,
+    "bfe_draw": 3.5,
+    "bfe_away": 2.56
   }
 }

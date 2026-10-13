@@ -1,33 +1,33 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2026-09-26",
-    "time": "22:05",
-    "home": false,
-    "score": "1 - 0",
-    "result": "L"
+    "vs": "Necaxa",
+    "date": "2026-10-11",
+    "time": "18:10",
+    "home": true,
+    "score": "3 - 3",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 535,
+      "games_played": 536,
       "wins": 216,
-      "draws": 143,
+      "draws": 144,
       "losses": 176,
-      "goals_for": 777,
-      "goals_against": 672,
+      "goals_for": 780,
+      "goals_against": 675,
       "goal_difference": 105,
-      "win_rate": 40.37
+      "win_rate": 40.3
     },
     "home": {
-      "games_played": 268,
+      "games_played": 269,
       "wins": 133,
-      "draws": 72,
+      "draws": 73,
       "losses": 63,
-      "goals_for": 433,
-      "goals_against": 281,
+      "goals_for": 436,
+      "goals_against": 284,
       "goal_difference": 152,
-      "win_rate": 49.63
+      "win_rate": 49.44
     },
     "away": {
       "games_played": 267,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "W",
     "W",
     "D",
-    "L"
+    "L",
+    "D"
   ],
   "match_history": [
     {
@@ -269,20 +269,26 @@
       "goals_for": 0,
       "goals_against": 1,
       "result": "L"
+    },
+    {
+      "date": "2026-10-11",
+      "goals_for": 3,
+      "goals_against": 3,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.32,
-    "max_draw": 3.3,
-    "max_away": 3.0,
-    "avg_home": 2.45,
-    "avg_draw": 3.5,
-    "avg_away": 3.0,
-    "bfe_home": 2.36,
-    "bfe_draw": 3.35,
-    "bfe_away": 2.73
+    "max_home": 1.71,
+    "max_draw": 4.0,
+    "max_away": 5.0,
+    "avg_home": 1.67,
+    "avg_draw": 3.83,
+    "avg_away": 4.39,
+    "bfe_home": 1.76,
+    "bfe_draw": 4.4,
+    "bfe_away": 4.8
   }
 }
