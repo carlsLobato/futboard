@@ -1,23 +1,23 @@
 {
   "name": "Atlas",
   "last_match": {
-    "vs": "Guadalajara Chivas",
-    "date": "2026-10-10",
+    "vs": "Necaxa",
+    "date": "2026-10-16",
     "time": "20:00",
-    "home": true,
-    "score": "1 - 1",
-    "result": "T"
+    "home": false,
+    "score": "0 - 2",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 513,
-      "wins": 156,
+      "games_played": 514,
+      "wins": 157,
       "draws": 146,
       "losses": 211,
-      "goals_for": 571,
+      "goals_for": 573,
       "goals_against": 698,
-      "goal_difference": -127,
-      "win_rate": 30.41
+      "goal_difference": -125,
+      "win_rate": 30.54
     },
     "home": {
       "games_played": 256,
@@ -30,22 +30,22 @@
       "win_rate": 33.59
     },
     "away": {
-      "games_played": 257,
-      "wins": 70,
+      "games_played": 258,
+      "wins": 71,
       "draws": 71,
       "losses": 116,
-      "goals_for": 282,
+      "goals_for": 284,
       "goals_against": 389,
-      "goal_difference": -107,
-      "win_rate": 27.24
+      "goal_difference": -105,
+      "win_rate": 27.52
     }
   },
   "form": [
-    "D",
     "L",
     "D",
     "W",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -251,20 +251,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-10-16",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.5,
-    "max_draw": 3.5,
-    "max_away": 2.12,
-    "avg_home": 3.23,
-    "avg_draw": 3.4,
-    "avg_away": 2.05,
-    "bfe_home": 3.6,
-    "bfe_draw": 3.6,
-    "bfe_away": 2.2
+    "max_home": 3.8,
+    "max_draw": 3.7,
+    "max_away": 2.2,
+    "avg_home": 3.28,
+    "avg_draw": 3.54,
+    "avg_away": 1.99,
+    "bfe_home": 3.8,
+    "bfe_draw": 3.85,
+    "bfe_away": 2.04
   }
 }

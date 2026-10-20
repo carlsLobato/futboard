@@ -1,23 +1,23 @@
 {
   "name": "Querétaro",
   "last_match": {
-    "vs": "Atlante",
-    "date": "2026-10-10",
+    "vs": "Santos Laguna",
+    "date": "2026-10-17",
     "time": "18:00",
-    "home": true,
-    "score": "2 - 0",
-    "result": "W"
+    "home": false,
+    "score": "5 - 0",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 494,
+      "games_played": 495,
       "wins": 144,
       "draws": 131,
-      "losses": 219,
+      "losses": 220,
       "goals_for": 550,
-      "goals_against": 710,
-      "goal_difference": -160,
-      "win_rate": 29.15
+      "goals_against": 715,
+      "goal_difference": -165,
+      "win_rate": 29.09
     },
     "home": {
       "games_played": 245,
@@ -30,22 +30,22 @@
       "win_rate": 36.33
     },
     "away": {
-      "games_played": 249,
+      "games_played": 250,
       "wins": 55,
       "draws": 66,
-      "losses": 128,
+      "losses": 129,
       "goals_for": 251,
-      "goals_against": 411,
-      "goal_difference": -160,
-      "win_rate": 22.09
+      "goals_against": 416,
+      "goal_difference": -165,
+      "win_rate": 22.0
     }
   },
   "form": [
     "W",
-    "W",
     "D",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -233,20 +233,26 @@
       "goals_for": 2,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-10-17",
+      "goals_for": 0,
+      "goals_against": 5,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.15,
+    "max_home": 2.2,
     "max_draw": 3.6,
-    "max_away": 3.4,
-    "avg_home": 2.08,
-    "avg_draw": 3.36,
-    "avg_away": 3.21,
-    "bfe_home": 2.22,
-    "bfe_draw": 3.45,
-    "bfe_away": 3.75
+    "max_away": 3.0,
+    "avg_home": 2.15,
+    "avg_draw": 3.49,
+    "avg_away": 2.93,
+    "bfe_home": 2.28,
+    "bfe_draw": 3.8,
+    "bfe_away": 3.25
   }
 }

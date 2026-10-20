@@ -1,33 +1,33 @@
 {
   "name": "Monterrey",
   "last_match": {
-    "vs": "Club America",
-    "date": "2026-10-10",
-    "time": "22:10",
-    "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Pachuca",
+    "date": "2026-10-18",
+    "time": "20:00",
+    "home": true,
+    "score": "2 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 555,
-      "wins": 247,
+      "games_played": 556,
+      "wins": 248,
       "draws": 142,
       "losses": 166,
-      "goals_for": 858,
-      "goals_against": 663,
-      "goal_difference": 195,
-      "win_rate": 44.5
+      "goals_for": 860,
+      "goals_against": 664,
+      "goal_difference": 196,
+      "win_rate": 44.6
     },
     "home": {
-      "games_played": 279,
-      "wins": 153,
+      "games_played": 280,
+      "wins": 154,
       "draws": 77,
       "losses": 49,
-      "goals_for": 496,
-      "goals_against": 278,
-      "goal_difference": 218,
-      "win_rate": 54.84
+      "goals_for": 498,
+      "goals_against": 279,
+      "goal_difference": 219,
+      "win_rate": 55.0
     },
     "away": {
       "games_played": 276,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "D",
     "W",
     "L",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-10-18",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.84,
-    "max_draw": 3.9,
-    "max_away": 4.2,
-    "avg_home": 1.79,
-    "avg_draw": 3.68,
-    "avg_away": 3.88,
-    "bfe_home": 1.87,
-    "bfe_draw": 4.0,
-    "bfe_away": 4.3
+    "max_home": 1.58,
+    "max_draw": 4.35,
+    "max_away": 5.33,
+    "avg_home": 1.54,
+    "avg_draw": 4.13,
+    "avg_away": 4.95,
+    "bfe_home": 1.61,
+    "bfe_draw": 4.6,
+    "bfe_away": 5.7
   }
 }

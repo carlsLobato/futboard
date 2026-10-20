@@ -1,33 +1,33 @@
 {
   "name": "Necaxa",
   "last_match": {
-    "vs": "Pachuca",
-    "date": "2026-10-11",
-    "time": "18:10",
-    "home": false,
-    "score": "3 - 3",
-    "result": "T"
+    "vs": "Atlas",
+    "date": "2026-10-16",
+    "time": "20:00",
+    "home": true,
+    "score": "0 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 362,
+      "games_played": 363,
       "wins": 112,
       "draws": 103,
-      "losses": 147,
+      "losses": 148,
       "goals_for": 461,
-      "goals_against": 513,
-      "goal_difference": -52,
-      "win_rate": 30.94
+      "goals_against": 515,
+      "goal_difference": -54,
+      "win_rate": 30.85
     },
     "home": {
-      "games_played": 180,
+      "games_played": 181,
       "wins": 64,
       "draws": 56,
-      "losses": 60,
+      "losses": 61,
       "goals_for": 241,
-      "goals_against": 228,
-      "goal_difference": 13,
-      "win_rate": 35.56
+      "goals_against": 230,
+      "goal_difference": 11,
+      "win_rate": 35.36
     },
     "away": {
       "games_played": 182,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
+    "L",
+    "L",
+    "L",
     "D",
-    "L",
-    "L",
-    "L",
-    "D"
+    "L"
   ],
   "match_history": [
     {
@@ -239,20 +239,26 @@
       "goals_for": 3,
       "goals_against": 3,
       "result": "T"
+    },
+    {
+      "date": "2026-10-16",
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.71,
-    "max_draw": 4.0,
-    "max_away": 5.0,
-    "avg_home": 1.67,
-    "avg_draw": 3.83,
-    "avg_away": 4.39,
-    "bfe_home": 1.76,
-    "bfe_draw": 4.4,
-    "bfe_away": 4.8
+    "max_home": 3.8,
+    "max_draw": 3.7,
+    "max_away": 2.2,
+    "avg_home": 3.28,
+    "avg_draw": 3.54,
+    "avg_away": 1.99,
+    "bfe_home": 3.8,
+    "bfe_draw": 3.85,
+    "bfe_away": 2.04
   }
 }
