@@ -1,33 +1,33 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Monterrey",
-    "date": "2026-10-18",
-    "time": "20:00",
-    "home": false,
-    "score": "2 - 1",
+    "vs": "Cruz Azul",
+    "date": "2026-10-21",
+    "time": "22:10",
+    "home": true,
+    "score": "1 - 2",
     "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 537,
+      "games_played": 538,
       "wins": 216,
       "draws": 144,
-      "losses": 177,
-      "goals_for": 781,
-      "goals_against": 677,
-      "goal_difference": 104,
-      "win_rate": 40.22
+      "losses": 178,
+      "goals_for": 782,
+      "goals_against": 679,
+      "goal_difference": 103,
+      "win_rate": 40.15
     },
     "home": {
-      "games_played": 269,
+      "games_played": 270,
       "wins": 133,
       "draws": 73,
-      "losses": 63,
-      "goals_for": 436,
-      "goals_against": 284,
-      "goal_difference": 152,
-      "win_rate": 49.44
+      "losses": 64,
+      "goals_for": 437,
+      "goals_against": 286,
+      "goal_difference": 151,
+      "win_rate": 49.26
     },
     "away": {
       "games_played": 268,
@@ -41,10 +41,10 @@
     }
   },
   "form": [
-    "W",
     "D",
     "L",
     "D",
+    "L",
     "L"
   ],
   "match_history": [
@@ -275,20 +275,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-10-21",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.58,
-    "max_draw": 4.35,
-    "max_away": 5.33,
-    "avg_home": 1.54,
-    "avg_draw": 4.13,
-    "avg_away": 4.95,
-    "bfe_home": 1.61,
-    "bfe_draw": 4.6,
-    "bfe_away": 5.7
+    "max_home": 3.2,
+    "max_draw": 3.75,
+    "max_away": 2.15,
+    "avg_home": 3.04,
+    "avg_draw": 3.57,
+    "avg_away": 2.08,
+    "bfe_home": 3.35,
+    "bfe_draw": 3.85,
+    "bfe_away": 2.22
   }
 }

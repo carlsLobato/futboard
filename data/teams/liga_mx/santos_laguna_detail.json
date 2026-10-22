@@ -1,33 +1,33 @@
 {
   "name": "Santos Laguna",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2026-10-17",
-    "time": "18:00",
+    "vs": "UNAM Pumas",
+    "date": "2026-10-21",
+    "time": "22:10",
     "home": true,
-    "score": "5 - 0",
+    "score": "2 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 532,
-      "wins": 190,
+      "games_played": 533,
+      "wins": 191,
       "draws": 143,
       "losses": 199,
-      "goals_for": 757,
+      "goals_for": 759,
       "goals_against": 771,
-      "goal_difference": -14,
-      "win_rate": 35.71
+      "goal_difference": -12,
+      "win_rate": 35.83
     },
     "home": {
-      "games_played": 267,
-      "wins": 134,
+      "games_played": 268,
+      "wins": 135,
       "draws": 65,
       "losses": 68,
-      "goals_for": 444,
+      "goals_for": 446,
       "goals_against": 318,
-      "goal_difference": 126,
-      "win_rate": 50.19
+      "goal_difference": 128,
+      "win_rate": 50.37
     },
     "away": {
       "games_played": 265,
@@ -48,12 +48,6 @@
     "W"
   ],
   "match_history": [
-    {
-      "date": "2025-10-21",
-      "goals_for": 2,
-      "goals_against": 2,
-      "result": "T"
-    },
     {
       "date": "2025-10-26",
       "goals_for": 3,
@@ -245,20 +239,26 @@
       "goals_for": 5,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-10-21",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.2,
-    "max_draw": 3.6,
-    "max_away": 3.0,
-    "avg_home": 2.15,
-    "avg_draw": 3.49,
-    "avg_away": 2.93,
-    "bfe_home": 2.28,
+    "max_home": 2.45,
+    "max_draw": 3.7,
+    "max_away": 2.71,
+    "avg_home": 2.37,
+    "avg_draw": 3.53,
+    "avg_away": 2.6,
+    "bfe_home": 2.56,
     "bfe_draw": 3.8,
-    "bfe_away": 3.25
+    "bfe_away": 2.8
   }
 }

@@ -1,23 +1,23 @@
 {
   "name": "Atlante",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-10-16",
-    "time": "22:00",
-    "home": true,
-    "score": "1 - 2",
-    "result": "L"
+    "vs": "Juarez",
+    "date": "2026-10-20",
+    "time": "20:00",
+    "home": false,
+    "score": "0 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 80,
-      "wins": 19,
+      "games_played": 81,
+      "wins": 20,
       "draws": 17,
       "losses": 44,
-      "goals_for": 91,
+      "goals_for": 92,
       "goals_against": 149,
-      "goal_difference": -58,
-      "win_rate": 23.75
+      "goal_difference": -57,
+      "win_rate": 24.69
     },
     "home": {
       "games_played": 40,
@@ -30,22 +30,22 @@
       "win_rate": 27.5
     },
     "away": {
-      "games_played": 40,
-      "wins": 8,
+      "games_played": 41,
+      "wins": 9,
       "draws": 4,
       "losses": 28,
-      "goals_for": 36,
+      "goals_for": 37,
       "goals_against": 83,
-      "goal_difference": -47,
-      "win_rate": 20.0
+      "goal_difference": -46,
+      "win_rate": 21.95
     }
   },
   "form": [
-    "L",
     "D",
     "W",
     "L",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -119,20 +119,26 @@
       "goals_for": 1,
       "goals_against": 2,
       "result": "L"
+    },
+    {
+      "date": "2026-10-20",
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.71,
-    "max_draw": 3.5,
-    "max_away": 2.57,
-    "avg_home": 2.54,
-    "avg_draw": 3.38,
-    "avg_away": 2.48,
-    "bfe_home": 2.68,
-    "bfe_draw": 3.6,
-    "bfe_away": 2.78
+    "max_home": 3.4,
+    "max_draw": 3.55,
+    "max_away": 2.1,
+    "avg_home": 3.15,
+    "avg_draw": 3.43,
+    "avg_away": 2.07,
+    "bfe_home": 3.45,
+    "bfe_draw": 3.7,
+    "bfe_away": 2.22
   }
 }

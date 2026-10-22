@@ -1,33 +1,33 @@
 {
   "name": "Atl. San Luis",
   "last_match": {
-    "vs": "Toluca",
-    "date": "2026-10-17",
+    "vs": "Queretaro",
+    "date": "2026-10-20",
     "time": "20:00",
-    "home": false,
-    "score": "1 - 1",
-    "result": "T"
+    "home": true,
+    "score": "2 - 1",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 294,
-      "wins": 89,
+      "games_played": 295,
+      "wins": 90,
       "draws": 59,
       "losses": 146,
-      "goals_for": 366,
-      "goals_against": 470,
-      "goal_difference": -104,
-      "win_rate": 30.27
+      "goals_for": 368,
+      "goals_against": 471,
+      "goal_difference": -103,
+      "win_rate": 30.51
     },
     "home": {
-      "games_played": 146,
-      "wins": 49,
+      "games_played": 147,
+      "wins": 50,
       "draws": 30,
       "losses": 67,
-      "goals_for": 190,
-      "goals_against": 217,
-      "goal_difference": -27,
-      "win_rate": 33.56
+      "goals_for": 192,
+      "goals_against": 218,
+      "goal_difference": -26,
+      "win_rate": 34.01
     },
     "away": {
       "games_played": 148,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "L",
     "W",
     "W",
     "L",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-10-20",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.3,
-    "max_draw": 6.0,
-    "max_away": 9.5,
-    "avg_home": 1.26,
-    "avg_draw": 5.62,
-    "avg_away": 8.33,
-    "bfe_home": 1.31,
-    "bfe_draw": 6.6,
-    "bfe_away": 10.5
+    "max_home": 2.4,
+    "max_draw": 3.7,
+    "max_away": 2.85,
+    "avg_home": 2.32,
+    "avg_draw": 3.42,
+    "avg_away": 2.73,
+    "bfe_home": 2.48,
+    "bfe_draw": 3.6,
+    "bfe_away": 3.05
   }
 }
