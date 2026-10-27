@@ -1,33 +1,33 @@
 {
   "name": "Atlas",
   "last_match": {
-    "vs": "Club America",
-    "date": "2026-10-21",
-    "time": "20:00",
+    "vs": "Puebla",
+    "date": "2026-10-25",
+    "time": "17:00",
     "home": true,
-    "score": "2 - 5",
-    "result": "L"
+    "score": "4 - 3",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 515,
-      "wins": 157,
+      "games_played": 516,
+      "wins": 158,
       "draws": 146,
       "losses": 212,
-      "goals_for": 575,
-      "goals_against": 703,
-      "goal_difference": -128,
-      "win_rate": 30.49
+      "goals_for": 579,
+      "goals_against": 706,
+      "goal_difference": -127,
+      "win_rate": 30.62
     },
     "home": {
-      "games_played": 257,
-      "wins": 86,
+      "games_played": 258,
+      "wins": 87,
       "draws": 75,
       "losses": 96,
-      "goals_for": 291,
-      "goals_against": 314,
-      "goal_difference": -23,
-      "win_rate": 33.46
+      "goals_for": 295,
+      "goals_against": 317,
+      "goal_difference": -22,
+      "win_rate": 33.72
     },
     "away": {
       "games_played": 258,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "W",
     "D",
     "W",
-    "L"
+    "L",
+    "W"
   ],
   "match_history": [
     {
@@ -251,20 +251,26 @@
       "goals_for": 2,
       "goals_against": 5,
       "result": "L"
+    },
+    {
+      "date": "2026-10-25",
+      "goals_for": 4,
+      "goals_against": 3,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.25,
-    "max_draw": 3.75,
-    "max_away": 2.2,
-    "avg_home": 3.08,
-    "avg_draw": 3.56,
-    "avg_away": 2.08,
-    "bfe_home": 3.45,
-    "bfe_draw": 3.85,
-    "bfe_away": 2.14
+    "max_home": 1.62,
+    "max_draw": 4.2,
+    "max_away": 5.5,
+    "avg_home": 1.55,
+    "avg_draw": 4.0,
+    "avg_away": 5.14,
+    "bfe_home": 1.61,
+    "bfe_draw": 4.4,
+    "bfe_away": 5.9
   }
 }

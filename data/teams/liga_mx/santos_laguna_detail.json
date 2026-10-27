@@ -1,23 +1,23 @@
 {
   "name": "Santos Laguna",
   "last_match": {
-    "vs": "UNAM Pumas",
-    "date": "2026-10-21",
-    "time": "22:10",
-    "home": true,
-    "score": "2 - 0",
-    "result": "W"
+    "vs": "Club Tijuana",
+    "date": "2026-10-25",
+    "time": "21:00",
+    "home": false,
+    "score": "4 - 1",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 533,
+      "games_played": 534,
       "wins": 191,
       "draws": 143,
-      "losses": 199,
-      "goals_for": 759,
-      "goals_against": 771,
-      "goal_difference": -12,
-      "win_rate": 35.83
+      "losses": 200,
+      "goals_for": 760,
+      "goals_against": 775,
+      "goal_difference": -15,
+      "win_rate": 35.77
     },
     "home": {
       "games_played": 268,
@@ -30,14 +30,14 @@
       "win_rate": 50.37
     },
     "away": {
-      "games_played": 265,
+      "games_played": 266,
       "wins": 56,
       "draws": 78,
-      "losses": 131,
-      "goals_for": 313,
-      "goals_against": 453,
-      "goal_difference": -140,
-      "win_rate": 21.13
+      "losses": 132,
+      "goals_for": 314,
+      "goals_against": 457,
+      "goal_difference": -143,
+      "win_rate": 21.05
     }
   },
   "form": [
@@ -45,15 +45,9 @@
     "W",
     "W",
     "W",
-    "W"
+    "L"
   ],
   "match_history": [
-    {
-      "date": "2025-10-26",
-      "goals_for": 3,
-      "goals_against": 1,
-      "result": "W"
-    },
     {
       "date": "2025-10-31",
       "goals_for": 1,
@@ -245,20 +239,26 @@
       "goals_for": 2,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-10-25",
+      "goals_for": 1,
+      "goals_against": 4,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.45,
-    "max_draw": 3.7,
-    "max_away": 2.71,
-    "avg_home": 2.37,
-    "avg_draw": 3.53,
-    "avg_away": 2.6,
-    "bfe_home": 2.56,
+    "max_home": 2.15,
+    "max_draw": 3.75,
+    "max_away": 3.3,
+    "avg_home": 2.06,
+    "avg_draw": 3.57,
+    "avg_away": 3.09,
+    "bfe_home": 2.18,
     "bfe_draw": 3.8,
-    "bfe_away": 2.8
+    "bfe_away": 3.35
   }
 }

@@ -1,33 +1,33 @@
 {
   "name": "Monterrey",
   "last_match": {
-    "vs": "Puebla",
-    "date": "2026-10-21",
-    "time": "20:00",
-    "home": false,
-    "score": "1 - 4",
-    "result": "W"
+    "vs": "Guadalajara Chivas",
+    "date": "2026-10-24",
+    "time": "19:00",
+    "home": true,
+    "score": "0 - 1",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 557,
+      "games_played": 558,
       "wins": 249,
       "draws": 142,
-      "losses": 166,
+      "losses": 167,
       "goals_for": 864,
-      "goals_against": 665,
-      "goal_difference": 199,
-      "win_rate": 44.7
+      "goals_against": 666,
+      "goal_difference": 198,
+      "win_rate": 44.62
     },
     "home": {
-      "games_played": 280,
+      "games_played": 281,
       "wins": 154,
       "draws": 77,
-      "losses": 49,
+      "losses": 50,
       "goals_for": 498,
-      "goals_against": 279,
-      "goal_difference": 219,
-      "win_rate": 55.0
+      "goals_against": 280,
+      "goal_difference": 218,
+      "win_rate": 54.8
     },
     "away": {
       "games_played": 277,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "L",
     "D",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 4,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-10-24",
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 4.0,
-    "max_draw": 3.8,
-    "max_away": 1.93,
-    "avg_home": 3.7,
-    "avg_draw": 3.56,
-    "avg_away": 1.86,
-    "bfe_home": 4.0,
-    "bfe_draw": 3.85,
-    "bfe_away": 2.02
+    "max_home": 2.45,
+    "max_draw": 3.75,
+    "max_away": 3.0,
+    "avg_home": 2.3,
+    "avg_draw": 3.33,
+    "avg_away": 2.8,
+    "bfe_home": 2.44,
+    "bfe_draw": 3.45,
+    "bfe_away": 3.25
   }
 }
