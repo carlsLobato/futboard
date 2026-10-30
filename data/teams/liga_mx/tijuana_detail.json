@@ -1,23 +1,23 @@
 {
   "name": "Tijuana",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2026-10-25",
+    "vs": "Club America",
+    "date": "2026-10-28",
     "time": "21:00",
-    "home": true,
-    "score": "4 - 1",
-    "result": "W"
+    "home": false,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 510,
+      "games_played": 511,
       "wins": 172,
-      "draws": 140,
+      "draws": 141,
       "losses": 198,
-      "goals_for": 638,
-      "goals_against": 726,
+      "goals_for": 639,
+      "goals_against": 727,
       "goal_difference": -88,
-      "win_rate": 33.73
+      "win_rate": 33.66
     },
     "home": {
       "games_played": 259,
@@ -30,22 +30,22 @@
       "win_rate": 46.72
     },
     "away": {
-      "games_played": 251,
+      "games_played": 252,
       "wins": 51,
-      "draws": 64,
+      "draws": 65,
       "losses": 136,
-      "goals_for": 242,
-      "goals_against": 446,
+      "goals_for": 243,
+      "goals_against": 447,
       "goal_difference": -204,
-      "win_rate": 20.32
+      "win_rate": 20.24
     }
   },
   "form": [
-    "L",
     "D",
     "D",
     "D",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 4,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-10-28",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.15,
-    "max_draw": 3.75,
-    "max_away": 3.3,
-    "avg_home": 2.06,
-    "avg_draw": 3.57,
-    "avg_away": 3.09,
-    "bfe_home": 2.18,
-    "bfe_draw": 3.8,
-    "bfe_away": 3.35
+    "max_home": 1.55,
+    "max_draw": 4.5,
+    "max_away": 5.75,
+    "avg_home": 1.51,
+    "avg_draw": 4.26,
+    "avg_away": 5.27,
+    "bfe_home": 1.58,
+    "bfe_draw": 4.6,
+    "bfe_away": 6.2
   }
 }
