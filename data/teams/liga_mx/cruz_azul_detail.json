@@ -1,33 +1,33 @@
 {
   "name": "Cruz Azul",
   "last_match": {
-    "vs": "Queretaro",
-    "date": "2026-10-25",
-    "time": "19:00",
-    "home": false,
-    "score": "1 - 3",
+    "vs": "Club Leon",
+    "date": "2026-11-01",
+    "time": "19:10",
+    "home": true,
+    "score": "2 - 1",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 548,
-      "wins": 245,
+      "games_played": 549,
+      "wins": 246,
       "draws": 155,
       "losses": 148,
-      "goals_for": 786,
-      "goals_against": 619,
-      "goal_difference": 167,
-      "win_rate": 44.71
+      "goals_for": 788,
+      "goals_against": 620,
+      "goal_difference": 168,
+      "win_rate": 44.81
     },
     "home": {
-      "games_played": 276,
-      "wins": 145,
+      "games_played": 277,
+      "wins": 146,
       "draws": 66,
       "losses": 65,
-      "goals_for": 432,
-      "goals_against": 276,
-      "goal_difference": 156,
-      "win_rate": 52.54
+      "goals_for": 434,
+      "goals_against": 277,
+      "goal_difference": 157,
+      "win_rate": 52.71
     },
     "away": {
       "games_played": 272,
@@ -42,7 +42,7 @@
   },
   "form": [
     "D",
-    "D",
+    "W",
     "W",
     "W",
     "W"
@@ -299,20 +299,26 @@
       "goals_for": 3,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-11-01",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 3.6,
-    "max_draw": 3.8,
-    "max_away": 1.95,
-    "avg_home": 3.49,
-    "avg_draw": 3.62,
-    "avg_away": 1.9,
-    "bfe_home": 3.85,
-    "bfe_draw": 3.9,
-    "bfe_away": 2.04
+    "max_home": 1.7,
+    "max_draw": 4.2,
+    "max_away": 5.0,
+    "avg_home": 1.65,
+    "avg_draw": 3.86,
+    "avg_away": 4.5,
+    "bfe_home": 1.73,
+    "bfe_draw": 4.2,
+    "bfe_away": 5.0
   }
 }

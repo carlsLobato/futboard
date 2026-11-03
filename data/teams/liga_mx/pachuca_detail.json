@@ -1,33 +1,33 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Club America",
-    "date": "2026-10-25",
-    "time": "19:05",
-    "home": false,
-    "score": "1 - 2",
+    "vs": "Tigres UANL",
+    "date": "2026-10-31",
+    "time": "17:00",
+    "home": true,
+    "score": "3 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 539,
-      "wins": 217,
+      "games_played": 540,
+      "wins": 218,
       "draws": 144,
       "losses": 178,
-      "goals_for": 784,
+      "goals_for": 787,
       "goals_against": 680,
-      "goal_difference": 104,
-      "win_rate": 40.26
+      "goal_difference": 107,
+      "win_rate": 40.37
     },
     "home": {
-      "games_played": 270,
-      "wins": 133,
+      "games_played": 271,
+      "wins": 134,
       "draws": 73,
       "losses": 64,
-      "goals_for": 437,
+      "goals_for": 440,
       "goals_against": 286,
-      "goal_difference": 151,
-      "win_rate": 49.26
+      "goal_difference": 154,
+      "win_rate": 49.45
     },
     "away": {
       "games_played": 269,
@@ -41,19 +41,13 @@
     }
   },
   "form": [
-    "L",
     "D",
     "L",
     "L",
+    "W",
     "W"
   ],
   "match_history": [
-    {
-      "date": "2025-11-02",
-      "goals_for": 0,
-      "goals_against": 1,
-      "result": "L"
-    },
     {
       "date": "2025-11-09",
       "goals_for": 0,
@@ -275,20 +269,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-10-31",
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.67,
-    "max_draw": 4.1,
-    "max_away": 5.25,
-    "avg_home": 1.62,
-    "avg_draw": 3.92,
-    "avg_away": 4.58,
-    "bfe_home": 1.72,
-    "bfe_draw": 4.3,
-    "bfe_away": 5.0
+    "max_home": 2.2,
+    "max_draw": 3.75,
+    "max_away": 3.75,
+    "avg_home": 1.91,
+    "avg_draw": 3.57,
+    "avg_away": 3.52,
+    "bfe_home": 2.02,
+    "bfe_draw": 3.9,
+    "bfe_away": 3.95
   }
 }
