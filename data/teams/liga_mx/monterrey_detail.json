@@ -1,23 +1,23 @@
 {
   "name": "Monterrey",
   "last_match": {
-    "vs": "Club Tijuana",
-    "date": "2026-10-31",
-    "time": "19:05",
-    "home": true,
-    "score": "3 - 3",
-    "result": "T"
+    "vs": "Toluca",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "home": false,
+    "score": "4 - 0",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 559,
+      "games_played": 560,
       "wins": 249,
       "draws": 143,
-      "losses": 167,
+      "losses": 168,
       "goals_for": 867,
-      "goals_against": 669,
-      "goal_difference": 198,
-      "win_rate": 44.54
+      "goals_against": 673,
+      "goal_difference": 194,
+      "win_rate": 44.46
     },
     "home": {
       "games_played": 282,
@@ -30,22 +30,22 @@
       "win_rate": 54.61
     },
     "away": {
-      "games_played": 277,
+      "games_played": 278,
       "wins": 95,
       "draws": 65,
-      "losses": 117,
+      "losses": 118,
       "goals_for": 366,
-      "goals_against": 386,
-      "goal_difference": -20,
-      "win_rate": 34.3
+      "goals_against": 390,
+      "goal_difference": -24,
+      "win_rate": 34.17
     }
   },
   "form": [
-    "D",
     "W",
     "W",
     "L",
-    "D"
+    "D",
+    "L"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 3,
       "goals_against": 3,
       "result": "T"
+    },
+    {
+      "date": "2026-11-07",
+      "goals_for": 0,
+      "goals_against": 4,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.58,
-    "max_draw": 4.4,
-    "max_away": 5.5,
-    "avg_home": 1.55,
-    "avg_draw": 4.07,
-    "avg_away": 5.06,
-    "bfe_home": 1.61,
+    "max_home": 1.68,
+    "max_draw": 4.3,
+    "max_away": 4.5,
+    "avg_home": 1.65,
+    "avg_draw": 4.05,
+    "avg_away": 4.22,
+    "bfe_home": 1.73,
     "bfe_draw": 4.5,
-    "bfe_away": 6.0
+    "bfe_away": 4.8
   }
 }

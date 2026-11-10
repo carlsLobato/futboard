@@ -1,23 +1,23 @@
 {
   "name": "Guadalajara",
   "last_match": {
-    "vs": "Atlante",
-    "date": "2026-10-31",
-    "time": "19:07",
-    "home": true,
-    "score": "4 - 2",
-    "result": "W"
+    "vs": "Club Leon",
+    "date": "2026-11-08",
+    "time": "20:10",
+    "home": false,
+    "score": "1 - 1",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 531,
+      "games_played": 532,
       "wins": 190,
-      "draws": 163,
+      "draws": 164,
       "losses": 178,
-      "goals_for": 647,
-      "goals_against": 621,
+      "goals_for": 648,
+      "goals_against": 622,
       "goal_difference": 26,
-      "win_rate": 35.78
+      "win_rate": 35.71
     },
     "home": {
       "games_played": 266,
@@ -30,22 +30,22 @@
       "win_rate": 40.6
     },
     "away": {
-      "games_played": 265,
+      "games_played": 266,
       "wins": 82,
-      "draws": 86,
+      "draws": 87,
       "losses": 97,
-      "goals_for": 302,
-      "goals_against": 331,
+      "goals_for": 303,
+      "goals_against": 332,
       "goal_difference": -29,
-      "win_rate": 30.94
+      "win_rate": 30.83
     }
   },
   "form": [
     "D",
-    "D",
     "W",
     "W",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -275,20 +275,26 @@
       "goals_for": 4,
       "goals_against": 2,
       "result": "W"
+    },
+    {
+      "date": "2026-11-08",
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.49,
-    "max_draw": 5.0,
-    "max_away": 7.5,
-    "avg_home": 1.38,
-    "avg_draw": 4.7,
-    "avg_away": 6.68,
-    "bfe_home": 1.42,
-    "bfe_draw": 5.5,
-    "bfe_away": 8.0
+    "max_home": 4.0,
+    "max_draw": 3.8,
+    "max_away": 1.9,
+    "avg_home": 3.67,
+    "avg_draw": 3.63,
+    "avg_away": 1.84,
+    "bfe_home": 4.1,
+    "bfe_draw": 4.0,
+    "bfe_away": 1.94
   }
 }

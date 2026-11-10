@@ -1,33 +1,33 @@
 {
   "name": "Atlas",
   "last_match": {
-    "vs": "Atl. San Luis",
-    "date": "2026-10-30",
-    "time": "19:00",
-    "home": false,
-    "score": "0 - 1",
-    "result": "W"
+    "vs": "Pachuca",
+    "date": "2026-11-07",
+    "time": "17:00",
+    "home": true,
+    "score": "1 - 4",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 517,
+      "games_played": 518,
       "wins": 159,
       "draws": 146,
-      "losses": 212,
-      "goals_for": 580,
-      "goals_against": 706,
-      "goal_difference": -126,
-      "win_rate": 30.75
+      "losses": 213,
+      "goals_for": 581,
+      "goals_against": 710,
+      "goal_difference": -129,
+      "win_rate": 30.69
     },
     "home": {
-      "games_played": 258,
+      "games_played": 259,
       "wins": 87,
       "draws": 75,
-      "losses": 96,
-      "goals_for": 295,
-      "goals_against": 317,
-      "goal_difference": -22,
-      "win_rate": 33.72
+      "losses": 97,
+      "goals_for": 296,
+      "goals_against": 321,
+      "goal_difference": -25,
+      "win_rate": 33.59
     },
     "away": {
       "games_played": 259,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "D",
     "W",
     "L",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -251,20 +251,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-11-07",
+      "goals_for": 1,
+      "goals_against": 4,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.55,
-    "max_draw": 3.7,
-    "max_away": 2.9,
-    "avg_home": 2.24,
-    "avg_draw": 3.52,
-    "avg_away": 2.79,
-    "bfe_home": 2.38,
+    "max_home": 2.57,
+    "max_draw": 3.6,
+    "max_away": 2.62,
+    "avg_home": 2.47,
+    "avg_draw": 3.46,
+    "avg_away": 2.52,
+    "bfe_home": 2.62,
     "bfe_draw": 3.75,
-    "bfe_away": 3.05
+    "bfe_away": 2.76
   }
 }
