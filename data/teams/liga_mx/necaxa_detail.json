@@ -1,23 +1,23 @@
 {
   "name": "Necaxa",
   "last_match": {
-    "vs": "Club Tijuana",
-    "date": "2026-11-06",
-    "time": "19:00",
-    "home": true,
-    "score": "1 - 0",
-    "result": "W"
+    "vs": "Queretaro",
+    "date": "2026-11-22",
+    "time": "19:10",
+    "home": false,
+    "score": "2 - 2",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 367,
+      "games_played": 368,
       "wins": 113,
-      "draws": 104,
+      "draws": 105,
       "losses": 150,
-      "goals_for": 463,
-      "goals_against": 518,
+      "goals_for": 465,
+      "goals_against": 520,
       "goal_difference": -55,
-      "win_rate": 30.79
+      "win_rate": 30.71
     },
     "home": {
       "games_played": 183,
@@ -30,22 +30,22 @@
       "win_rate": 35.52
     },
     "away": {
-      "games_played": 184,
+      "games_played": 185,
       "wins": 48,
-      "draws": 47,
+      "draws": 48,
       "losses": 89,
-      "goals_for": 220,
-      "goals_against": 287,
+      "goals_for": 222,
+      "goals_against": 289,
       "goal_difference": -67,
-      "win_rate": 26.09
+      "win_rate": 25.95
     }
   },
   "form": [
     "L",
-    "L",
     "D",
     "L",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-11-22",
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.55,
-    "max_draw": 3.5,
-    "max_away": 2.65,
-    "avg_home": 2.47,
-    "avg_draw": 3.37,
-    "avg_away": 2.57,
-    "bfe_home": 2.64,
-    "bfe_draw": 3.7,
-    "bfe_away": 2.76
+    "max_home": 2.33,
+    "max_draw": 3.8,
+    "max_away": 2.88,
+    "avg_home": 2.24,
+    "avg_draw": 3.52,
+    "avg_away": 2.77,
+    "bfe_home": 2.48,
+    "bfe_draw": 3.75,
+    "bfe_away": 2.92
   }
 }

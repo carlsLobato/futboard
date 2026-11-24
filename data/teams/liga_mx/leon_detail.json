@@ -1,23 +1,23 @@
 {
   "name": "León",
   "last_match": {
-    "vs": "Guadalajara Chivas",
-    "date": "2026-11-08",
-    "time": "20:10",
-    "home": true,
-    "score": "1 - 1",
-    "result": "T"
+    "vs": "Santos Laguna",
+    "date": "2026-11-21",
+    "time": "17:00",
+    "home": false,
+    "score": "1 - 2",
+    "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 543,
-      "wins": 227,
+      "games_played": 544,
+      "wins": 228,
       "draws": 127,
       "losses": 189,
-      "goals_for": 806,
-      "goals_against": 720,
-      "goal_difference": 86,
-      "win_rate": 41.8
+      "goals_for": 808,
+      "goals_against": 721,
+      "goal_difference": 87,
+      "win_rate": 41.91
     },
     "home": {
       "games_played": 272,
@@ -30,22 +30,22 @@
       "win_rate": 50.74
     },
     "away": {
-      "games_played": 271,
-      "wins": 89,
+      "games_played": 272,
+      "wins": 90,
       "draws": 64,
       "losses": 118,
-      "goals_for": 333,
-      "goals_against": 403,
-      "goal_difference": -70,
-      "win_rate": 32.84
+      "goals_for": 335,
+      "goals_against": 404,
+      "goal_difference": -69,
+      "win_rate": 33.09
     }
   },
   "form": [
-    "L",
     "W",
     "D",
     "L",
-    "D"
+    "D",
+    "W"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 1,
       "goals_against": 1,
       "result": "T"
+    },
+    {
+      "date": "2026-11-21",
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 4.0,
-    "max_draw": 3.8,
-    "max_away": 1.9,
-    "avg_home": 3.67,
-    "avg_draw": 3.63,
-    "avg_away": 1.84,
-    "bfe_home": 4.1,
-    "bfe_draw": 4.0,
-    "bfe_away": 1.94
+    "max_home": 2.3,
+    "max_draw": 3.6,
+    "max_away": 3.0,
+    "avg_home": 2.2,
+    "avg_draw": 3.45,
+    "avg_away": 2.87,
+    "bfe_home": 2.3,
+    "bfe_draw": 3.75,
+    "bfe_away": 3.2
   }
 }

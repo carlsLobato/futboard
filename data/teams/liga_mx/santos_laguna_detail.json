@@ -1,33 +1,33 @@
 {
   "name": "Santos Laguna",
   "last_match": {
-    "vs": "Atlante",
-    "date": "2026-11-06",
-    "time": "21:00",
-    "home": false,
-    "score": "0 - 2",
-    "result": "W"
+    "vs": "Club Leon",
+    "date": "2026-11-21",
+    "time": "17:00",
+    "home": true,
+    "score": "1 - 2",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 536,
+      "games_played": 537,
       "wins": 193,
       "draws": 143,
-      "losses": 200,
-      "goals_for": 763,
-      "goals_against": 775,
-      "goal_difference": -12,
-      "win_rate": 36.01
+      "losses": 201,
+      "goals_for": 764,
+      "goals_against": 777,
+      "goal_difference": -13,
+      "win_rate": 35.94
     },
     "home": {
-      "games_played": 269,
+      "games_played": 270,
       "wins": 136,
       "draws": 65,
-      "losses": 68,
-      "goals_for": 447,
-      "goals_against": 318,
-      "goal_difference": 129,
-      "win_rate": 50.56
+      "losses": 69,
+      "goals_for": 448,
+      "goals_against": 320,
+      "goal_difference": 128,
+      "win_rate": 50.37
     },
     "away": {
       "games_played": 267,
@@ -42,10 +42,10 @@
   },
   "form": [
     "W",
-    "W",
     "L",
     "W",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -245,20 +245,26 @@
       "goals_for": 2,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-11-21",
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.2,
-    "max_draw": 3.75,
-    "max_away": 3.25,
-    "avg_home": 2.1,
-    "avg_draw": 3.58,
-    "avg_away": 3.0,
-    "bfe_home": 2.24,
-    "bfe_draw": 3.95,
-    "bfe_away": 3.25
+    "max_home": 2.3,
+    "max_draw": 3.6,
+    "max_away": 3.0,
+    "avg_home": 2.2,
+    "avg_draw": 3.45,
+    "avg_away": 2.87,
+    "bfe_home": 2.3,
+    "bfe_draw": 3.75,
+    "bfe_away": 3.2
   }
 }

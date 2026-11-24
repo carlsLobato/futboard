@@ -1,33 +1,33 @@
 {
   "name": "Juarez",
   "last_match": {
-    "vs": "Atl. San Luis",
-    "date": "2026-11-06",
-    "time": "19:00",
-    "home": false,
-    "score": "0 - 1",
-    "result": "W"
+    "vs": "Atlas",
+    "date": "2026-11-20",
+    "time": "21:00",
+    "home": true,
+    "score": "3 - 3",
+    "result": "T"
   },
   "record": {
     "total": {
-      "games_played": 253,
+      "games_played": 254,
       "wins": 65,
-      "draws": 62,
+      "draws": 63,
       "losses": 126,
-      "goals_for": 274,
-      "goals_against": 409,
+      "goals_for": 277,
+      "goals_against": 412,
       "goal_difference": -135,
-      "win_rate": 25.69
+      "win_rate": 25.59
     },
     "home": {
-      "games_played": 126,
+      "games_played": 127,
       "wins": 39,
-      "draws": 36,
+      "draws": 37,
       "losses": 51,
-      "goals_for": 157,
-      "goals_against": 177,
+      "goals_for": 160,
+      "goals_against": 180,
       "goal_difference": -20,
-      "win_rate": 30.95
+      "win_rate": 30.71
     },
     "away": {
       "games_played": 127,
@@ -42,10 +42,10 @@
   },
   "form": [
     "L",
-    "L",
     "D",
     "W",
-    "W"
+    "W",
+    "D"
   ],
   "match_history": [
     {
@@ -257,20 +257,26 @@
       "goals_for": 1,
       "goals_against": 0,
       "result": "W"
+    },
+    {
+      "date": "2026-11-20",
+      "goals_for": 3,
+      "goals_against": 3,
+      "result": "T"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 1.6,
-    "max_draw": 4.33,
-    "max_away": 5.25,
-    "avg_home": 1.56,
-    "avg_draw": 4.04,
-    "avg_away": 4.98,
-    "bfe_home": 1.65,
-    "bfe_draw": 4.5,
-    "bfe_away": 5.6
+    "max_home": 3.7,
+    "max_draw": 3.7,
+    "max_away": 1.95,
+    "avg_home": 3.49,
+    "avg_draw": 3.56,
+    "avg_away": 1.91,
+    "bfe_home": 3.75,
+    "bfe_draw": 3.9,
+    "bfe_away": 2.06
   }
 }

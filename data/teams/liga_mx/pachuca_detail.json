@@ -1,33 +1,33 @@
 {
   "name": "Pachuca",
   "last_match": {
-    "vs": "Atlas",
-    "date": "2026-11-07",
-    "time": "17:00",
-    "home": false,
-    "score": "1 - 4",
+    "vs": "Toluca",
+    "date": "2026-11-21",
+    "time": "16:50",
+    "home": true,
+    "score": "2 - 0",
     "result": "W"
   },
   "record": {
     "total": {
-      "games_played": 541,
-      "wins": 219,
+      "games_played": 542,
+      "wins": 220,
       "draws": 144,
       "losses": 178,
-      "goals_for": 791,
+      "goals_for": 793,
       "goals_against": 681,
-      "goal_difference": 110,
-      "win_rate": 40.48
+      "goal_difference": 112,
+      "win_rate": 40.59
     },
     "home": {
-      "games_played": 271,
-      "wins": 134,
+      "games_played": 272,
+      "wins": 135,
       "draws": 73,
       "losses": 64,
-      "goals_for": 440,
+      "goals_for": 442,
       "goals_against": 286,
-      "goal_difference": 154,
-      "win_rate": 49.45
+      "goal_difference": 156,
+      "win_rate": 49.63
     },
     "away": {
       "games_played": 270,
@@ -42,7 +42,7 @@
   },
   "form": [
     "L",
-    "L",
+    "W",
     "W",
     "W",
     "W"
@@ -269,20 +269,26 @@
       "goals_for": 4,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-11-21",
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.57,
-    "max_draw": 3.6,
-    "max_away": 2.62,
-    "avg_home": 2.47,
-    "avg_draw": 3.46,
-    "avg_away": 2.52,
-    "bfe_home": 2.62,
-    "bfe_draw": 3.75,
-    "bfe_away": 2.76
+    "max_home": 2.6,
+    "max_draw": 4.0,
+    "max_away": 2.42,
+    "avg_home": 2.54,
+    "avg_draw": 3.72,
+    "avg_away": 2.33,
+    "bfe_home": 2.7,
+    "bfe_draw": 4.1,
+    "bfe_away": 2.48
   }
 }
