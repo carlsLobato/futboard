@@ -1,33 +1,33 @@
 {
   "name": "León",
   "last_match": {
-    "vs": "Santos Laguna",
-    "date": "2026-11-21",
-    "time": "17:00",
-    "home": false,
-    "score": "1 - 2",
-    "result": "W"
+    "vs": "Cruz Azul",
+    "date": "2026-11-26",
+    "time": "21:10",
+    "home": true,
+    "score": "0 - 4",
+    "result": "L"
   },
   "record": {
     "total": {
-      "games_played": 544,
+      "games_played": 545,
       "wins": 228,
       "draws": 127,
-      "losses": 189,
+      "losses": 190,
       "goals_for": 808,
-      "goals_against": 721,
-      "goal_difference": 87,
-      "win_rate": 41.91
+      "goals_against": 725,
+      "goal_difference": 83,
+      "win_rate": 41.83
     },
     "home": {
-      "games_played": 272,
+      "games_played": 273,
       "wins": 138,
       "draws": 63,
-      "losses": 71,
+      "losses": 72,
       "goals_for": 473,
-      "goals_against": 317,
-      "goal_difference": 156,
-      "win_rate": 50.74
+      "goals_against": 321,
+      "goal_difference": 152,
+      "win_rate": 50.55
     },
     "away": {
       "games_played": 272,
@@ -41,11 +41,11 @@
     }
   },
   "form": [
-    "W",
     "D",
     "L",
     "D",
-    "W"
+    "W",
+    "L"
   ],
   "match_history": [
     {
@@ -251,20 +251,26 @@
       "goals_for": 2,
       "goals_against": 1,
       "result": "W"
+    },
+    {
+      "date": "2026-11-26",
+      "goals_for": 0,
+      "goals_against": 4,
+      "result": "L"
     }
   ],
   "last_match_betting": {
     "prob_home": NaN,
     "prob_draw": NaN,
     "prob_away": NaN,
-    "max_home": 2.3,
-    "max_draw": 3.6,
-    "max_away": 3.0,
-    "avg_home": 2.2,
-    "avg_draw": 3.45,
-    "avg_away": 2.87,
-    "bfe_home": 2.3,
-    "bfe_draw": 3.75,
-    "bfe_away": 3.2
+    "max_home": 3.4,
+    "max_draw": 3.5,
+    "max_away": 2.15,
+    "avg_home": 3.22,
+    "avg_draw": 3.37,
+    "avg_away": 2.07,
+    "bfe_home": 3.5,
+    "bfe_draw": 3.7,
+    "bfe_away": 2.2
   }
 }
